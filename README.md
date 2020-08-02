@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="50" src="https://i.ytimg.com/vi/4ta9Q5R1ni8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvSMyf8AYKWdeoAPnRcueLQ)
+[<img align="left" height="45" src="https://i.ytimg.com/vi/rR3UoWBtGsk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-구루타밍 - 旨味成分が ベノム 歌ってみた-ぐるラップ添え-【ぐるたみん】  
-Last updated at 08/02/2020 13:20
+DIVELA - 未来最終戦争  
+Last updated at 08/02/2020 13:24
 
 ## Blog
 
