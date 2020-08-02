@@ -1,26 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJwH9bAOzGllus4somsulk7m8rNd0JZhZURR9QBXSw=s88-c-k-c0xffffffff-no-rj-mo">](https://www.youtube.com/user/tlsehdgus0212)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**
-    
-    
-      
-        NeuroWhAI
-      
-      
-
-    
-      
-        NeuroWhAI
-      
-    
-
-    
-    
-    
-   - **  
-Last updated at 08/02/2020 18:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor - Geoxor - Twilight**  
+Last updated at 08/02/2020 19:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
