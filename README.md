@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="50" src="https://i.ytimg.com/vi/FD5SzIzS2QE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnBE8jzjUi5sTGRNa9o5Oew)
+[<img align="left" height="50" src="https://i.ytimg.com/vi/P9y-KEkdwfg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvSMyf8AYKWdeoAPnRcueLQ)
 
-알파큥. - テオ  
-Last updated at 08/02/2020 13:08
+구루타밍 - 【そんなふいんきで歌ってみた】だれかの心臓になれたなら【ぐるたみん】  
+Last updated at 08/02/2020 13:12
 
 ## Blog
 
