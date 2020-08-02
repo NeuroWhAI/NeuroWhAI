@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="45" src="https://lh3.googleusercontent.com/IJ5pvZ8l0mPjVzbDW7LXfVwWwZmIRFQgYBWvw4M53ketQjsHsloIWxUaioZNJ7cUTiG5uwfvVMGqE0g">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="45" src="https://lh3.googleusercontent.com/K5KIsYTnOeqF51buOfktlC9JoyiB8yPkuX7HmHq5VRUSZ_OIjzFToJOUBVpGeIsb7E-okeGZJlBasI0">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Geoxor 및 Panda Eyes - Lucid Dream**  
-Last updated at 08/02/2020 13:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor - You & I**  
+Last updated at 08/02/2020 13:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
