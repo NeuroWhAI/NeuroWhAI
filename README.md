@@ -1,9 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJxKlXG9CC2Qh3h-s59OFwmmHreI4yt1NaKfQq-O=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCehYwE7MZlu1Yn1WkL-uROw)
 
-**Geoxor - Abandoned**  
-Last updated at 08/02/2020 19:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**IU - Love poem (Love poem)**  
+Last updated at 08/02/2020 19:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
