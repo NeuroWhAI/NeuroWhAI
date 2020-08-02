@@ -1,9 +1,26 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJwH9bAOzGllus4somsulk7m8rNd0JZhZURR9QBXSw=s88-c-k-c0xffffffff-no-rj-mo">](https://www.youtube.com/user/tlsehdgus0212)
 
-**Geoxor - Geoxor @ Virtual Arcadia 2020 MIX**  
-Last updated at 08/02/2020 18:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**
+    
+    
+      
+        NeuroWhAI
+      
+      
+
+    
+      
+        NeuroWhAI
+      
+    
+
+    
+    
+    
+   - **  
+Last updated at 08/02/2020 18:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
