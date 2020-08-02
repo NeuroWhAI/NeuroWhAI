@@ -1,9 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJzk1hXNYzHEltyd1MmQOojziu2yO_wGRhHKg9b4=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCgbTJ0Qb1OpA0GEocaJ7qrw)
 
-**Geoxor - Geoxor & Canonblade - Sakura**  
-Last updated at 08/02/2020 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**はるまきごはん / Harumaki Gohan Official - 드림레스・드림즈 - Dreamless Dreams / 하루마키고항 feat.하츠네 미쿠**  
+Last updated at 08/02/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
