@@ -1,17 +1,11 @@
-### NeuroWhAI
-= **Neuro** + **Wh**at + **AI**
+## Currently Playing on YTMusic
 
-### Language
+[<img align="left" width="50" src="https://i.ytimg.com/vi/FD5SzIzS2QE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnBE8jzjUi5sTGRNa9o5Oew)
 
-- *Korean*
-- **C++**
-- **C#**
-- **Rust**
-- Python
-- JavaScript
-- Kotlin
+알파큥. - テオ  
+Last updated at 08/02/2020 13:08
 
-### Blog
+## Blog
 
 - [Naver](http://blog.naver.com/neurowhai)
 - [Tistory](http://neurowhai.tistory.com/)
