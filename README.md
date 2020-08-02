@@ -2,8 +2,8 @@
 
 [<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**Geoxor - Geoxor - Twilight**  
-Last updated at 08/02/2020 19:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor - Abandoned**  
+Last updated at 08/02/2020 19:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
