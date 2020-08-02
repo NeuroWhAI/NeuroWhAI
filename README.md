@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="45" src="https://lh3.googleusercontent.com/VMgMBYsZlJkcEwy-nDRVpVSOyq0blvkHVAaWTo64_cAwIXUfQN35Us9mfxbIwZnCsZbNxeQ6uPRCZGHGfQ">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="60" src="https://lh3.googleusercontent.com/RDmkYHbIFjP4AWarj9jGUSwleto1H4Z394UM1TToqu6uKDa0kSQpD8EKJ3MSHBom2-P2D3eT5mAY94f1">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-Geoxor - Virtual  
-Last updated at 08/02/2020 13:31
+**Geoxor - Stardust**  
+Last updated at 08/02/2020 13:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
