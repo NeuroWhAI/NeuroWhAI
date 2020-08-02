@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="50" src="https://i.ytimg.com/vi/9ZzrC8Cekrc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCU5VN9gYBPr8aW31mOdxVmw)
+[<img align="left" height="50" src="https://i.ytimg.com/vi/4ta9Q5R1ni8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvSMyf8AYKWdeoAPnRcueLQ)
 
-SymaG - IMAGINARY LIKE THE JUSTICE  
-Last updated at 08/02/2020 13:15
+구루타밍 - 旨味成分が ベノム 歌ってみた-ぐるラップ添え-【ぐるたみん】  
+Last updated at 08/02/2020 13:20
 
 ## Blog
 
