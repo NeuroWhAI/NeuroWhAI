@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="60" src="https://lh3.googleusercontent.com/RDmkYHbIFjP4AWarj9jGUSwleto1H4Z394UM1TToqu6uKDa0kSQpD8EKJ3MSHBom2-P2D3eT5mAY94f1">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="45" src="https://lh3.googleusercontent.com/IJ5pvZ8l0mPjVzbDW7LXfVwWwZmIRFQgYBWvw4M53ketQjsHsloIWxUaioZNJ7cUTiG5uwfvVMGqE0g">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Geoxor - Stardust**  
-Last updated at 08/02/2020 13:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor 및 Panda Eyes - Lucid Dream**  
+Last updated at 08/02/2020 13:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
