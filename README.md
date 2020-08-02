@@ -2,8 +2,8 @@
 
 [<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**DIVELA / Official - 그곳에 생명은 있나요? / DIVELA feat.하츠네 미쿠**  
-Last updated at 08/02/2020 17:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**DIVELA / Official - METEOR ／ DIVELA feat. 하츠네 미쿠**  
+Last updated at 08/02/2020 17:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
