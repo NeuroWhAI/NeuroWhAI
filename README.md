@@ -1,9 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJz8oN0nP9jQYax0bKd3F5Or8D-YPgIEqDzLBPFc=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCsFCD8G80_achmqcPEidGAw)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**LamazeP - Swimsuit-初音ミク for LamazeP**  
-Last updated at 08/02/2020 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor - Geoxor & Canonblade - Sakura**  
+Last updated at 08/02/2020 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
