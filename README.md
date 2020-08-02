@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="45" src="https://i.ytimg.com/vi/rR3UoWBtGsk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="45" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-DIVELA - 未来最終戦争  
-Last updated at 08/02/2020 13:24
+피노키오P - All I Need Are Things I Like  
+Last updated at 08/02/2020 13:27
 
 ## Blog
 
