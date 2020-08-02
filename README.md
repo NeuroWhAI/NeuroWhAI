@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="50" src="https://i.ytimg.com/vi/P9y-KEkdwfg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvSMyf8AYKWdeoAPnRcueLQ)
+[<img align="left" height="50" src="https://i.ytimg.com/vi/9ZzrC8Cekrc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCU5VN9gYBPr8aW31mOdxVmw)
 
-구루타밍 - 【そんなふいんきで歌ってみた】だれかの心臓になれたなら【ぐるたみん】  
-Last updated at 08/02/2020 13:12
+SymaG - IMAGINARY LIKE THE JUSTICE  
+Last updated at 08/02/2020 13:15
 
 ## Blog
 
