@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="85" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="80" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - Nobody Makes Sense / 피노키오P - 우리들은 모두 의미불명**  
+**PinocchioP - Motivation is Dead / ピノキオピー - モチベーションが死んでる**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 08/02/2020 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/02/2020 21:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
