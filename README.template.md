@@ -1,6 +1,6 @@
 ## Currently Playing on {CURRENT_PLAYING_SOURCE}
 
-[<img align="left" height="60" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
+[<img align="left" height="45" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
 
 **{CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}**  
 Last updated at {CURRENT_PLAYING_LAST_UPDATED} with [20chan/github-now](https://github.com/20chan/github-now)
