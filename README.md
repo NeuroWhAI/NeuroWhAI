@@ -1,9 +1,9 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://lh3.googleusercontent.com/rqCFIhvTP9fXHDde-uvAassld_UZhi-4Xl_TYyflbX-9WEIZXErMK-tjeaHIFH-rJ0imuo7cklhsNO7b">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**PASSEPIED - Last Dance**  
-Last updated at 08/02/2020 14:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**DIVELA / Official - 그곳에 생명은 있나요? / DIVELA feat.하츠네 미쿠**  
+Last updated at 08/02/2020 17:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
