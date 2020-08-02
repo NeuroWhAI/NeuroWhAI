@@ -1,10 +1,10 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzk1hXNYzHEltyd1MmQOojziu2yO_wGRhHKg9b4=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCgbTJ0Qb1OpA0GEocaJ7qrw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SlPhMPnQ58k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-**재회 / 하루마키고한 Vocal ver. 애니메이션 MV**  
-はるまきごはん / Harumaki Gohan Official  
-Last updated at 08/02/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**Memories**  
+Maroon 5(마룬 파이브)  
+Last updated at 08/02/2020 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
