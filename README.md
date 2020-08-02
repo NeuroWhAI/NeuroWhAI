@@ -1,9 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJz8nFEtgbreiXRrTX2HRFeYL63vor0mASRlExBJ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCOlwKMvGABA-C9wB3dlAxaQ)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**PASSEPIED Official Channel - Last Dance**  
-Last updated at 08/02/2020 20:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**DIVELA / Official - 망설이는 선율 / DIVELA feat. 하츠네 미쿠**  
+Last updated at 08/02/2020 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
