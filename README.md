@@ -1,9 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJw_QmodPB6J-LEn9PmdeW2drk2w1SMCykwQdzdi=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCG09qajPDZdPtLsTkW7mJQA)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJz8oN0nP9jQYax0bKd3F5Or8D-YPgIEqDzLBPFc=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCsFCD8G80_achmqcPEidGAw)
 
-**40meterP - 【하츠네 미쿠(1640mP)】 타임머신【오리지널곡】**  
-Last updated at 08/02/2020 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**LamazeP - Swimsuit-初音ミク for LamazeP**  
+Last updated at 08/02/2020 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
