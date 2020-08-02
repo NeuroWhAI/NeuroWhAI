@@ -1,9 +1,9 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="45" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="45" src="https://lh3.googleusercontent.com/VMgMBYsZlJkcEwy-nDRVpVSOyq0blvkHVAaWTo64_cAwIXUfQN35Us9mfxbIwZnCsZbNxeQ6uPRCZGHGfQ">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-피노키오P - All I Need Are Things I Like  
-Last updated at 08/02/2020 13:27
+Geoxor - Virtual  
+Last updated at 08/02/2020 13:31
 
 ## Blog
 
