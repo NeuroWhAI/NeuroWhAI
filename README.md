@@ -1,9 +1,9 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="45" src="https://yt3.ggpht.com/a/AATXAJyWTLsXdrfFcQphqsPdI9Eq12v6LS3fq8QJ-d71gg=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCBVjMGOIkavEAhyqpxJ73Dw)
 
-**Geoxor - Abandoned**  
-Last updated at 08/02/2020 19:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Maroon 5 - Maroon 5 - Memories (Official Video)**  
+Last updated at 08/02/2020 19:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
