@@ -2,9 +2,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxscw7ZBrfHXhkl0-hQP5PpTt6O7pa12OozVynv_w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**【初音ミク】Lazy【オリジナル曲】**  
+**유노스케-SCALE BLASTER feat.하츠네 미쿠/雄之助 - SCALE BLASTER feat. 初音ミク**  
 雄之助/Yunosuke  
-Last updated at 08/03/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/03/2020 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
