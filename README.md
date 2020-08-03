@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxscw7ZBrfHXhkl0-hQP5PpTt6O7pa12OozVynv_w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**피노키오피ー(ピノキオピー) - 사랑받지 못해도 네가 있어 / PinocchioP - Because You’re Here**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 08/03/2020 20:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】Coppelia【オリジナル曲】**  
+雄之助/Yunosuke  
+Last updated at 08/03/2020 20:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
