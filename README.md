@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxscw7ZBrfHXhkl0-hQP5PpTt6O7pa12OozVynv_w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyD8SYdT_Rg-adPJZlfdZlzXXXjE23fk_xkI078=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA)
 
-**유노스케-SCALE BLASTER feat.하츠네 미쿠/雄之助 - SCALE BLASTER feat. 初音ミク**  
-雄之助/Yunosuke  
-Last updated at 08/03/2020 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】 아이라 【오리지널】**  
+ヨルシカ / n-buna Official  
+Last updated at 08/04/2020 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
