@@ -2,9 +2,9 @@
 
 [<img align="left" height="65" src="">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**그곳에 생명은 있나요? / DIVELA feat.하츠네 미쿠**  
+**비트 싱커 / DIVELA feat. 하츠네 미쿠**  
 DIVELA / Official  
-Last updated at 08/06/2020 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/06/2020 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
