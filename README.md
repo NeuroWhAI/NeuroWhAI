@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyD8SYdT_Rg-adPJZlfdZlzXXXjE23fk_xkI078=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**요루시카 - 그래서 나는 음악을 그만두었다 (MUSIC VIDEO)**  
-ヨルシカ / n-buna Official  
-Last updated at 08/06/2020 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**그곳에 생명은 있나요? / DIVELA feat.하츠네 미쿠**  
+DIVELA / Official  
+Last updated at 08/06/2020 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
