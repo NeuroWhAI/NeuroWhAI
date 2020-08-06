@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyKlfv8khiUb7JvYesmT-k2BiXKFEPVGDe7HRQmDA=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyD8SYdT_Rg-adPJZlfdZlzXXXjE23fk_xkI078=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA)
 
-**ハチ MV「砂の惑星 feat.初音ミク」HACHI / DUNE ft.Miku Hatsune**  
-米津玄師  
-Last updated at 08/06/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**요루시카 - 구름과 유령 (MUSIC VIDEO)**  
+ヨルシカ / n-buna Official  
+Last updated at 08/06/2020 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
