@@ -2,9 +2,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**비비드 히어로/DIVELA feat.하츠네 미쿠**  
+**부끄끄끄 / DIVELA feat.하츠네 미쿠**  
 DIVELA / Official  
-Last updated at 08/06/2020 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/06/2020 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
