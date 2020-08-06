@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz8nFEtgbreiXRrTX2HRFeYL63vor0mASRlExBJ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCOlwKMvGABA-C9wB3dlAxaQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyKlfv8khiUb7JvYesmT-k2BiXKFEPVGDe7HRQmDA=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
 
-**My Fiction**  
-PASSEPIED Official Channel  
-Last updated at 08/04/2020 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**ハチ MV「砂の惑星 feat.初音ミク」HACHI / DUNE ft.Miku Hatsune**  
+米津玄師  
+Last updated at 08/06/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
