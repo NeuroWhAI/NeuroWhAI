@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**비트 싱커 / DIVELA feat. 하츠네 미쿠**  
+**METEOR ／ DIVELA feat. 하츠네 미쿠**  
 DIVELA / Official  
-Last updated at 08/13/2020 20:23 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/13/2020 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
