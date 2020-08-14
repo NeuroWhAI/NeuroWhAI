@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**METEOR ／ DIVELA feat. 하츠네 미쿠**  
-DIVELA / Official  
-Last updated at 08/13/2020 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - シークレットひみつ / PinocchioP - Secret HIMITSU**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 08/14/2020 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
