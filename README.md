@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxscw7ZBrfHXhkl0-hQP5PpTt6O7pa12OozVynv_w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**ピノキオピー - シークレットひみつ / PinocchioP - Secret HIMITSU**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 08/14/2020 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Blank / 初音ミク**  
+雄之助/Yunosuke  
+Last updated at 08/15/2020 00:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
