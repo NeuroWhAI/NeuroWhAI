@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/RmcHWSw_DIQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**ピコン - 人間だった ft. 初音ミク**  
+**ピコン - 空洞より ft. 初音ミク**  
 Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 08/15/2020 19:56 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/15/2020 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
