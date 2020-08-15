@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hErKUtXVWeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9qOWiFp-mL2YHJNkReedFA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**죽기에는 좋은 날이엿어 [히이나]**  
-델핀Dailpen  
-Last updated at 08/15/2020 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - 人間だった ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 08/15/2020 19:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
