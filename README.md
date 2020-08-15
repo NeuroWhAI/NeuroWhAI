@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LtSNzPyo0lA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SXC2wO1XdMI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**Nobody Makes Sense**  
-피노키오P  
-Last updated at 08/15/2020 20:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - ガランド ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 08/15/2020 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
