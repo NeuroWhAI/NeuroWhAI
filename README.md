@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxscw7ZBrfHXhkl0-hQP5PpTt6O7pa12OozVynv_w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz8nFEtgbreiXRrTX2HRFeYL63vor0mASRlExBJ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCOlwKMvGABA-C9wB3dlAxaQ)
 
-**Blank / 初音ミク**  
-雄之助/Yunosuke  
-Last updated at 08/15/2020 00:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yoruno kodomo**  
+PASSEPIED Official Channel  
+Last updated at 08/15/2020 16:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
