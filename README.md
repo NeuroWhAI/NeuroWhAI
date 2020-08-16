@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/boG1NpRoi44/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVPEVqfO021f0jXz3sWNGSA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PEBy3aegIvE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
 
-**公園**  
-아카이코엔  
-Last updated at 08/16/2020 18:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**パスピエ - ネオンと虎, PASSEPIED - Neon & Tiger**  
+PASSEPIED  
+Last updated at 08/16/2020 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
