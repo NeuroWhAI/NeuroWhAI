@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z_fz6oeeG1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUSfpWQG8PRpwbE8i7JeElA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/p5x3WekFoEs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
 
-**ポルカドットスティングレイ「バケノカワ」MV**  
-폴카닷 스팅레이  
-Last updated at 08/16/2020 18:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**パスピエ – グラフィティー , PASSEPIED – Graffiti**  
+PASSEPIED  
+Last updated at 08/16/2020 18:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
