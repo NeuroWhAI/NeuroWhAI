@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/p5x3WekFoEs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**パスピエ – グラフィティー , PASSEPIED – Graffiti**  
-PASSEPIED  
-Last updated at 08/16/2020 18:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - 人間だった ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 08/16/2020 19:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
