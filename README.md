@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PEBy3aegIvE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Z_fz6oeeG1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUSfpWQG8PRpwbE8i7JeElA)
 
-**パスピエ - ネオンと虎, PASSEPIED - Neon & Tiger**  
-PASSEPIED  
-Last updated at 08/16/2020 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**ポルカドットスティングレイ「バケノカワ」MV**  
+폴카닷 스팅레이  
+Last updated at 08/16/2020 18:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
