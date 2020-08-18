@@ -1,10 +1,10 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy0pvqMsV__5_7FY4PFSxcEZsnVhlpUnQbkB0bUgA=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
 
-**ピコン - 人間だった ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 08/16/2020 19:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Arcade Fire - Photograph (Cover)**  
+ibi  
+Last updated at 08/18/2020 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
