@@ -1,10 +1,15 @@
+## Neuro + What + AI
+
+![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzcK3b7-F7wJc-mujQYGg7kDsSWOg3I6QpQkVYH6A=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ)
 
-**미래 게이저 ／ DIVELA feat.하츠네 미쿠**  
-DIVELA / Official  
-Last updated at 08/19/2020 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**ずっと真夜中でいいのに。『お勉強しといてよ』MV（ZUTOMAYO - STUDY ME）**  
+ずっと真夜中でいいのに。  
+Last updated at 08/19/2020 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
