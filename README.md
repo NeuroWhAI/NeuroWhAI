@@ -1,10 +1,10 @@
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy0pvqMsV__5_7FY4PFSxcEZsnVhlpUnQbkB0bUgA=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy4V9hWNT_np8oTXmnwhUw_RG4iDcsIwOgcqph95Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**Arcade Fire - Photograph (Cover)**  
-ibi  
-Last updated at 08/18/2020 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**미래 게이저 ／ DIVELA feat.하츠네 미쿠**  
+DIVELA / Official  
+Last updated at 08/19/2020 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
