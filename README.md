@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwWSz1Ah3BxLh1zFqL11yr4Kf1rKIkdIVCR8Q_p=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**逆走少女 / ナナヲアカリ**  
-ナナヲアカリ OFFICIAL  
-Last updated at 08/22/2020 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**피노키오피ー(ピノキオピー) - 사랑받지 못해도 네가 있어 / PinocchioP - Because You’re Here**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 08/22/2020 19:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
