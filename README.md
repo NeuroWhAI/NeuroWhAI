@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hErKUtXVWeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9qOWiFp-mL2YHJNkReedFA)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwWSz1Ah3BxLh1zFqL11yr4Kf1rKIkdIVCR8Q_p=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ)
 
-**죽기에는 좋은 날이엿어 [히이나]**  
-델핀Dailpen  
-Last updated at 08/22/2020 18:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**逆走少女 / ナナヲアカリ**  
+ナナヲアカリ OFFICIAL  
+Last updated at 08/22/2020 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
