@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4kBJaE3pXV0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6tnYilAwwRNwvID7lIUO5g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**【GUMI】エリカ　あめのむらくもＰ**  
-Ameno Murakamo P  
-Last updated at 08/22/2020 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Picon - 生活があった**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 08/22/2020 20:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
