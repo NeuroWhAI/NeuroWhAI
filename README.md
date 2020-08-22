@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UR_rx2CP4Q8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIgeuAj12ksgeVhp5vgHlyQ)
 
-**Picon - 生活があった**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 08/22/2020 20:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**嗤うマネキン - GUMI**  
+YUUKI MIYAKE  
+Last updated at 08/22/2020 20:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
