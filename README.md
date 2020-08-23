@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**ピコン - 人間だった ft. 初音ミク**  
+**Picon - 生活があった**  
 Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 08/23/2020 17:40 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 08/23/2020 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
