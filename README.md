@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz_Qk0FXQLzPYKwqrcJiPbrob3S1GjGxNMU5Rarng=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ)
 
-**ひび割れた世界**  
-마지코  
-Last updated at 08/23/2020 17:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**majiko - ひび割れた世界 [MV]**  
+majiko / まじ娘 OFFICIAL CHANNEL  
+Last updated at 08/23/2020 18:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
