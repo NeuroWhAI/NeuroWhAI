@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/y5kKWLMVFpg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPy-xB-CF4OYu3QtD6XlcPw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**하나땅-소나기**  
-널파이  
-Last updated at 08/23/2020 17:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**ひび割れた世界**  
+마지코  
+Last updated at 08/23/2020 17:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
