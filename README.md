@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz_Qk0FXQLzPYKwqrcJiPbrob3S1GjGxNMU5Rarng=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyU8jV6SnZcJp_w21_ZEEApLyfShIs-eOlhRBkd=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCXPDICdmniqmuQjmxkOCSOA)
 
-**majiko - ひび割れた世界 [MV]**  
-majiko / まじ娘 OFFICIAL CHANNEL  
-Last updated at 08/23/2020 18:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Galileo Galilei - Arashi No Atode**  
+galileogalileiSMEJ  
+Last updated at 08/24/2020 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
