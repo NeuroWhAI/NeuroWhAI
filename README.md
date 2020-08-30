@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy0pvqMsV__5_7FY4PFSxcEZsnVhlpUnQbkB0bUgA=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwecJ214xgTGgLK7sGod-j9tlY5vClP-pdlm91A0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ)
 
-**C418 - Sweden (Cover)**  
-ibi  
-Last updated at 08/26/2020 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**愛にできることはまだあるかい RADWIMPS MV**  
+radwimpsstaff  
+Last updated at 08/30/2020 17:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
