@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwecJ214xgTGgLK7sGod-j9tlY5vClP-pdlm91A0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**愛にできることはまだあるかい RADWIMPS MV**  
-radwimpsstaff  
-Last updated at 08/30/2020 17:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - 10年後のボーカロイドのうた / PinocchioP - The Vocaloid Songs 10 Years Later**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 08/31/2020 19:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
