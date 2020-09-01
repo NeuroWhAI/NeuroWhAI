@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwecJ214xgTGgLK7sGod-j9tlY5vClP-pdlm91A0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**愛にできることはまだあるかい RADWIMPS MV**  
-radwimpsstaff  
-Last updated at 08/31/2020 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Twilight**  
+Geoxor  
+Last updated at 09/01/2020 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
