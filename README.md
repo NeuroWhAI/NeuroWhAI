@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCehYwE7MZlu1Yn1WkL-uROw)
 
-**夜行性ハイズ**  
-DECO*27  
-Last updated at 09/01/2020 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Love poem (Love poem)**  
+IU  
+Last updated at 09/01/2020 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
