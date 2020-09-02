@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ)
 
-**阿吽のビーツ / flower**  
-羽生まゐご  
-Last updated at 09/02/2020 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**majiko - ひび割れた世界 [MV]**  
+majiko / まじ娘 OFFICIAL CHANNEL  
+Last updated at 09/02/2020 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
