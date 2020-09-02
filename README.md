@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ)
 
-**majiko - ひび割れた世界 [MV]**  
-majiko / まじ娘 OFFICIAL CHANNEL  
-Last updated at 09/02/2020 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**愛にできることはまだあるかい RADWIMPS MV**  
+radwimpsstaff  
+Last updated at 09/02/2020 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
