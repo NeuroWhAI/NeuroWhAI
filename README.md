@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCehYwE7MZlu1Yn1WkL-uROw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJy7xf21gamQlJ50x13UJvzt9LpADYppZDFcqmytPQ=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**Love poem (Love poem)**  
-IU  
-Last updated at 09/01/2020 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Euphoria**  
+Geoxor  
+Last updated at 09/02/2020 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
