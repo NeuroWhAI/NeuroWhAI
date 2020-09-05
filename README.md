@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**ハレハレヤ / flower**  
+**魔性のカマトト 町子編 「鬼の居ぬ間に」**  
 羽生まゐご  
-Last updated at 09/05/2020 23:13 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/05/2020 23:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
