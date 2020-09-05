@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**魔性のカマトト 町子編 「鬼の居ぬ間に」**  
+**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
 羽生まゐご  
-Last updated at 09/05/2020 23:31 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/05/2020 23:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
