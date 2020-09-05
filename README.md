@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**傷つけ愛 / 初音ミク**  
+**不思議の国のアリス症候群　Syndrome Of Alice In Wonderland / 初音ミク**  
 羽生まゐご  
-Last updated at 09/05/2020 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/05/2020 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
