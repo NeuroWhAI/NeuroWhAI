@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
+**魔性のカマトト あんず編「痣」**  
 羽生まゐご  
-Last updated at 09/05/2020 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/05/2020 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
