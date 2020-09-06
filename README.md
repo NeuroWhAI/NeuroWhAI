@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz8oyDrZ4bZAcDlADItLKSx5K296QaFhW1-wu8HKw=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
 
-**米津玄師 MV「アンビリーバーズ」**  
+**米津玄師 MV「WOODEN DOLL」**  
 米津玄師  
-Last updated at 09/06/2020 15:03 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/06/2020 15:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
