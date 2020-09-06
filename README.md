@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwecJ214xgTGgLK7sGod-j9tlY5vClP-pdlm91A0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ)
 
-**魔性のカマトト あんず編「痣」**  
-羽生まゐご  
-Last updated at 09/06/2020 15:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**愛にできることはまだあるかい RADWIMPS MV**  
+radwimpsstaff  
+Last updated at 09/06/2020 15:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
