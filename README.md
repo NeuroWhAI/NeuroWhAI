@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwpc5ITlLHxd_UH9vAoPFmkb9qBfCM63y82cw7b0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg)
 
-**魔性のカマトト あんず編「痣」**  
-羽生まゐご  
-Last updated at 09/08/2020 20:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**츠유 - 태양이 될 수 있을까 MV**  
+ツユ  
+Last updated at 09/10/2020 19:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
