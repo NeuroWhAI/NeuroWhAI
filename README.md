@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwAmykSI4FQXK05wB41wQS-ftmsUFFDSFUVT-M6=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC3Bjw_Ek1FTbhEKZsh9uo1w)
 
-**PinocchioP - Common World Domination feat.Hatsune Miku / 피노키오P - 흔해빠진 세계정복**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 09/11/2020 20:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**스다 케이나「veil」MV**  
+須田景凪 バルーン  
+Last updated at 09/11/2020 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
