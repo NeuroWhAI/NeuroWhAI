@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**魔性のカマトト 町子編 「鬼の居ぬ間に」**  
-羽生まゐご  
-Last updated at 09/10/2020 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**PinocchioP - Common World Domination feat.Hatsune Miku / 피노키오P - 흔해빠진 세계정복**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 09/11/2020 20:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
