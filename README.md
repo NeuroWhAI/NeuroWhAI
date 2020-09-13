@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz_Qk0FXQLzPYKwqrcJiPbrob3S1GjGxNMU5Rarng=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**Hibiwareta Sekai (Instrumental)**  
-majiko / まじ娘 OFFICIAL CHANNEL  
-Last updated at 09/13/2020 14:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト 町子編 「鬼の居ぬ間に」**  
+羽生まゐご  
+Last updated at 09/13/2020 16:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
