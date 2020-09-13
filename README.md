@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwAmykSI4FQXK05wB41wQS-ftmsUFFDSFUVT-M6=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC3Bjw_Ek1FTbhEKZsh9uo1w)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz_Qk0FXQLzPYKwqrcJiPbrob3S1GjGxNMU5Rarng=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ)
 
-**스다 케이나「veil」MV**  
-須田景凪 バルーン  
-Last updated at 09/11/2020 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hibiwareta Sekai (Instrumental)**  
+majiko / まじ娘 OFFICIAL CHANNEL  
+Last updated at 09/13/2020 14:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
