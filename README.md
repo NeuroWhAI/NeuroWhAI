@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1G4isv_Fylg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hmmYv6JtILo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzemmV5YXT0Uh1HuR-Gz7oQ)
 
-**Paradise**  
-Coldplay(콜드플레이)  
-Last updated at 09/15/2020 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Stardust**  
+Wisp X  
+Last updated at 09/15/2020 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
