@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzZrwaaLzCebth9vbwHZ3oeKhhmjYEZt07tWZFY=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCT-hFL5NJRcWMRfn36bvqTg)
 
-**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
-羽生まゐご  
-Last updated at 09/13/2020 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bleak**  
+Revolt Production Music  
+Last updated at 09/15/2020 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
