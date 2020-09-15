@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzZrwaaLzCebth9vbwHZ3oeKhhmjYEZt07tWZFY=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCT-hFL5NJRcWMRfn36bvqTg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz5HxzwqtObtBm3Fpw-3EqvKZlwnwEhhkOSuB_PJA=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC2JzylaIF8qeowc7-5VwwmA)
 
-**Bleak**  
-Revolt Production Music  
-Last updated at 09/15/2020 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**미나미(美波)「비를 기다리다, (アメヲマツ、)」MV**  
+美波  
+Last updated at 09/15/2020 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
