@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hmmYv6JtILo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzemmV5YXT0Uh1HuR-Gz7oQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gRW1gVxC1hs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzemmV5YXT0Uh1HuR-Gz7oQ)
 
-**Stardust**  
+**Moonglow**  
 Wisp X  
-Last updated at 09/15/2020 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/15/2020 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
