@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/I8yBbwRurAE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzWhKfNG1tyJ3ECQWwpLeWA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1G4isv_Fylg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
 
-**この世界を愛したい cover.鹿乃**  
-Kano  
-Last updated at 09/15/2020 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Paradise**  
+Coldplay(콜드플레이)  
+Last updated at 09/15/2020 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
