@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gRW1gVxC1hs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzemmV5YXT0Uh1HuR-Gz7oQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxZ2KAvWCy5XMEBVWWAUd2tS5ByYWyLI4suGr1qvg=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB62WcN2LgIVVFi7jNOLVAQ)
 
-**Moonglow**  
+**Stardust**  
 Wisp X  
-Last updated at 09/15/2020 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/19/2020 19:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
