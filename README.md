@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxZ2KAvWCy5XMEBVWWAUd2tS5ByYWyLI4suGr1qvg=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB62WcN2LgIVVFi7jNOLVAQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwpc5ITlLHxd_UH9vAoPFmkb9qBfCM63y82cw7b0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg)
 
-**Stardust**  
-Wisp X  
-Last updated at 09/19/2020 19:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**츠유 - 과거에 사로잡혀있어 MV**  
+ツユ  
+Last updated at 09/19/2020 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
