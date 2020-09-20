@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwpc5ITlLHxd_UH9vAoPFmkb9qBfCM63y82cw7b0w=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**츠유 - 과거에 사로잡혀있어 MV**  
-ツユ  
-Last updated at 09/19/2020 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト 町子編 「鬼の居ぬ間に」**  
+羽生まゐご  
+Last updated at 09/20/2020 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
