@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxZ2KAvWCy5XMEBVWWAUd2tS5ByYWyLI4suGr1qvg=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB62WcN2LgIVVFi7jNOLVAQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCT-hFL5NJRcWMRfn36bvqTg)
 
-**Stardust**  
-Wisp X  
-Last updated at 09/22/2020 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bleak**  
+Revolt Production Music  
+Last updated at 09/22/2020 22:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
