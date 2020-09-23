@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxZ2KAvWCy5XMEBVWWAUd2tS5ByYWyLI4suGr1qvg=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB62WcN2LgIVVFi7jNOLVAQ)
 
-**Coffee (20 Min Extended)**  
+**Reminisce**  
 Wisp X  
-Last updated at 09/22/2020 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/23/2020 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
