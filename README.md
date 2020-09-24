@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxZ2KAvWCy5XMEBVWWAUd2tS5ByYWyLI4suGr1qvg=s88-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCB62WcN2LgIVVFi7jNOLVAQ)
 
-**Leaf**  
+**Stardust**  
 Wisp X  
-Last updated at 09/24/2020 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 09/24/2020 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
