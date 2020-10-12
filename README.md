@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJxNZLpHcDwkJV7z2oqFN5_WI-PjhrJaOwbl5LzNmg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCbPkAx-AriW9fmpaLW3OpRw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCQn1FqrR2OCjSe6Nl4GlVHw)
 
-**Cinematic Party Music**  
-Fred V & Grafix  
-Last updated at 10/02/2020 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**쓰레기봉투의 재고를 점검하자┃Cover by Raon Lee**  
+Raon Lee  
+Last updated at 10/12/2020 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
