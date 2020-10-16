@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCQn1FqrR2OCjSe6Nl4GlVHw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**쓰레기봉투의 재고를 점검하자┃Cover by Raon Lee**  
-Raon Lee  
-Last updated at 10/12/2020 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - ラヴィット / PinocchioP - Loveit**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 10/16/2020 19:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
