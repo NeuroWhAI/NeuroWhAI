@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzQlhe3zEM3ig2az-1HJ1ORqVLe45JHZILLrbuGow=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCVh47EKH9VLresRqiYi9txw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**String Theocracy / "라이브러리 오브 루이나" 테마곡**  
-Mili  
-Last updated at 10/19/2020 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - ラヴィット / PinocchioP - Loveit**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 10/21/2020 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
