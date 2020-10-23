@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - Crappy Fantasy Days / ピノキオピー - 空想しょうもない日々**  
+**PinocchioP - Nice To Meet You, Mr. Earthling feat.Hatsune Miku / 피노키오P - 처음 뵙겠습니다, 지구인 씨**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/23/2020 23:41 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 10/23/2020 23:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
