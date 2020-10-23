@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - Ghosts Play to the Audience / 피노키오P - 귀신의 우스갯소리**  
+**PinocchioP - What's Inside / 피노키오피 - 내장이 있나요**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/23/2020 23:57 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 10/24/2020 01:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
