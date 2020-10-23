@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwwou8oKAPSjmntyAhE2lgDA6JBBhzZXFAbS6y2=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**포지티브 퍼레이드 feat. 하츠네 미쿠**  
-DECO*27  
-Last updated at 10/23/2020 23:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**PinocchioP - Love for Love by Love of Love / 피노키오피 - 사랑의 사랑에 의한 사랑을 위한 사랑**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 10/23/2020 23:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
