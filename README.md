@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - Ultimate Senpai / 피노키오피 -얼티밋 선배(アルティメットセンパイ)**  
+**피노키오피 - 시크릿 히미츠 / PinocchioP - Secret HIMITSU**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/23/2020 23:13 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 10/23/2020 23:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
