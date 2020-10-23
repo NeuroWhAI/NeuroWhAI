@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - All I Need are Things I Like / 피노키오P - 좋아하는 것만으로도 괜찮아요**  
+**피노키오피 - 제로 / ピノキオピー - ぜろ**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/23/2020 22:33 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 10/23/2020 22:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
