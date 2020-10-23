@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwpc5ITlLHxd_UH9vAoPFmkb9qBfCM63y82cw7b0w=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg)
 
-**피노키오피ー(ピノキオピー) - 사랑받지 못해도 네가 있어 / PinocchioP - Because You’re Here**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/21/2020 20:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**츠유 - 비교당하는 아이 (TUYU Remix) MV**  
+ツユ  
+Last updated at 10/23/2020 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
