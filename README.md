@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwpc5ITlLHxd_UH9vAoPFmkb9qBfCM63y82cw7b0w=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJyD8SYdT_Rg-adPJZlfdZlzXXXjE23fk_xkI078=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA)
 
-**츠유 - 비교당하는 아이 (TUYU Remix) MV**  
-ツユ  
-Last updated at 10/23/2020 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**요루시카 - 꽃에 망령 ( OFFICIAL VIDEO )**  
+ヨルシカ / n-buna Official  
+Last updated at 10/23/2020 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
