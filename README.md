@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz0DSWAJYP-NUTpEo3HZa5gbDjayMk1eHQj2rtmrQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCCHcEUksSVKsRDH86j77Ntg)
 
-**ピノキオピー - ラヴィット / PinocchioP - Loveit**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/24/2020 15:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Shooting AKA Dear Sister**  
+thelonelyisland  
+Last updated at 10/24/2020 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
