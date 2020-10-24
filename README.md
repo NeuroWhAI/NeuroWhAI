@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - What's Inside / 피노키오피 - 내장이 있나요**  
+**ピノキオピー - ラヴィット / PinocchioP - Loveit**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/24/2020 01:24 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 10/24/2020 15:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
