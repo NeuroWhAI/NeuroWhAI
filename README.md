@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzDMbsbRNebWYqbmCOk2Kbl46By6y2dYdLSjna8Tw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
 
-**피노키오피 - 10년 후의 보컬로이드의 노래 / PinocchioP - The Vocaloid Songs 10 Years Later**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 10/25/2020 12:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ohm**  
+ibi  
+Last updated at 10/31/2020 15:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
