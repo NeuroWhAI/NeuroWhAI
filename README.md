@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzDMbsbRNebWYqbmCOk2Kbl46By6y2dYdLSjna8Tw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**Ohm**  
-ibi  
-Last updated at 10/31/2020 15:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Jigokuwadokodesuenmasama**  
+하뉴 마이고  
+Last updated at 11/04/2020 19:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
