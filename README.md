@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qrm-kGEA6jA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zFLzlwwrtOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**YOZURINA**  
-피노키오P  
-Last updated at 11/04/2020 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**傷つけ愛 / 初音ミク**  
+하뉴 마이고  
+Last updated at 11/04/2020 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
