@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ZEy36W1xX8c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**MeltyLandNightmare**  
-하루마키고한  
-Last updated at 11/04/2020 20:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**ケガレの唄**  
+하뉴 마이고  
+Last updated at 11/04/2020 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
