@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IcpzqZrpLVM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/J-7GujtdGfQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**RTRT**  
-Mili  
-Last updated at 11/04/2020 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**不思議の国のアリス症候群　Syndrome Of Alice In Wonderland / 初音ミク**  
+하뉴 마이고  
+Last updated at 11/04/2020 20:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
