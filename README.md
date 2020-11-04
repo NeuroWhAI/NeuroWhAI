@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Ae9NH78vKzI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtOy6aKyz2ltSKSkQccXVGA)
 
-**ツギハギスタッカート**  
-とあ feat.IA  
-Last updated at 11/04/2020 21:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**アサガオの散る頃に (Asagaono cirukoroni) - COVER by くろくも☁︎ (kurokumo)**  
+くろくも  
+Last updated at 11/04/2020 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
