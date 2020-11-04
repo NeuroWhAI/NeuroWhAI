@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8ANqduP_XE4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EpFxTXgElLA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
 
-**PinocchioP - Rearranged Album「P+」/ ピノキオピー [trailer]**  
-피노키오P  
-Last updated at 11/04/2020 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】 夜明けと蛍 【オリジナル】**  
+나부나  
+Last updated at 11/04/2020 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
