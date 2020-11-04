@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 11/04/2020 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**レントリリー**  
+ジグ  
+Last updated at 11/04/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
