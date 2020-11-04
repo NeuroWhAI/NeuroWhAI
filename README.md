@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/XogSflwXgpw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/a_rrj1Xh5LI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
 
-**アスノヨゾラ哨戒班**  
-Orangestar  
-Last updated at 11/04/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**フラジール**  
+ぬゆり  
+Last updated at 11/04/2020 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
