@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Ae9NH78vKzI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtOy6aKyz2ltSKSkQccXVGA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XogSflwXgpw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**アサガオの散る頃に (Asagaono cirukoroni) - COVER by くろくも☁︎ (kurokumo)**  
-くろくも  
-Last updated at 11/04/2020 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**アスノヨゾラ哨戒班**  
+Orangestar  
+Last updated at 11/04/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
