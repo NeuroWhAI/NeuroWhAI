@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8ANqduP_XE4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**レントリリー**  
-ジグ  
-Last updated at 11/04/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**PinocchioP - Rearranged Album「P+」/ ピノキオピー [trailer]**  
+피노키오P  
+Last updated at 11/04/2020 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
