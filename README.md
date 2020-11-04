@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Tq49NR_HzfY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mZWnb7pXD-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Aster**  
-하루마키고한  
-Last updated at 11/04/2020 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**PinocchioP - Indies 6th Album 「Antenna」/ ピノキオピー [trailer]**  
+피노키오P  
+Last updated at 11/04/2020 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
