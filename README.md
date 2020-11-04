@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LtSNzPyo0lA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IcpzqZrpLVM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-**Nobody Makes Sense**  
-피노키오P  
-Last updated at 11/04/2020 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**RTRT**  
+Mili  
+Last updated at 11/04/2020 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
