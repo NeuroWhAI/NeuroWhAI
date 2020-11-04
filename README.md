@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7Y9sJvLI3Po/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCii32Rr4rHZd86v2NpSUGqQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3Yp-oxOGdHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
 
-**Gehenna**  
-wotaku  
-Last updated at 11/04/2020 20:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Superhero**  
+Guiano  
+Last updated at 11/04/2020 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
