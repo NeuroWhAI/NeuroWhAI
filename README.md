@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EpFxTXgElLA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
 
-**【初音ミク】 夜明けと蛍 【オリジナル】**  
-나부나  
-Last updated at 11/04/2020 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**ツギハギスタッカート**  
+とあ feat.IA  
+Last updated at 11/04/2020 21:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
