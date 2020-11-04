@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/3Yp-oxOGdHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YDnZFwlZa1g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
 
-**Superhero**  
-Guiano  
-Last updated at 11/04/2020 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**命ばっかり**  
+ぬゆり  
+Last updated at 11/04/2020 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
