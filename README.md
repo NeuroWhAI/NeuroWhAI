@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8jVXc6N4muc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qrm-kGEA6jA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**If I Could Become a Comet (HARUMAKIGOHAN Vocal ver.)**  
-하루마키고한  
-Last updated at 11/04/2020 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**YOZURINA**  
+피노키오P  
+Last updated at 11/04/2020 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
