@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Be-Gb9fum7w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXkItX65rhwqvr8VAenH7xA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**ASCA 『RESISTER』(ソードアート・オンライン アリシゼーション OPテーマ)**  
-ASCA  
-Last updated at 11/06/2020 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Reunion (VOCALOID ver.)**  
+하루마키고한  
+Last updated at 11/06/2020 22:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
