@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/iM8d0SzJTIU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ihgrM14jrFY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
 
-**DECO*27 - 二息歩行 (Reloaded) feat. 初音ミク**  
-DECO*27  
-Last updated at 11/07/2020 00:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】 アイラ 【オリジナル】**  
+나부나  
+Last updated at 11/07/2020 00:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
