@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/a_rrj1Xh5LI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ENcnYh79dUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**フラジール**  
-ぬゆり  
-Last updated at 11/06/2020 23:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**Thoughtcrime**  
+Yorushika(ヨルシカ)  
+Last updated at 11/06/2020 23:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
