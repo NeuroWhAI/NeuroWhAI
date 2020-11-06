@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/3GN66nYqW9o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VHgiGuVdLEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VHgiGuVdLEA)
 
-**メルティランドナイトメア(Self Cover)**  
-하루마키고한  
-Last updated at 11/06/2020 23:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**ロンリーユニバース**  
+Aqu3ra  
+Last updated at 11/07/2020 00:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
