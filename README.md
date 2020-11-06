@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Tq49NR_HzfY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 11/06/2020 23:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aster**  
+하루마키고한  
+Last updated at 11/06/2020 23:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
