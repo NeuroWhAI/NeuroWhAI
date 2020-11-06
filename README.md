@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
 
-**秘密 / はるまきごはんVocal ver. アニメMV**  
-하루마키고한  
-Last updated at 11/06/2020 23:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**ツギハギスタッカート**  
+とあ feat.IA  
+Last updated at 11/06/2020 23:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
