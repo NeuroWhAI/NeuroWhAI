@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/a_rrj1Xh5LI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1EU-QCANzzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXhAKJthTNudMCmnasFfyNg)
 
-**フラジール**  
-ぬゆり  
-Last updated at 11/04/2020 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Memento**  
+nonoc  
+Last updated at 11/06/2020 22:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
