@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oVP_PSm7qXA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**ドリームレス・ドリームス(Self Cover)**  
-하루마키고한  
-Last updated at 11/07/2020 00:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**帝国少女 (CGS-edit)(テイコクショウジョ)**  
+R Sound Design  
+Last updated at 11/07/2020 00:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
