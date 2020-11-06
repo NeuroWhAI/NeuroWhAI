@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uFRPeiAEO0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-vJGGYCSKt0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**DECO*27 - アンドロイドガール feat. 初音ミク**  
-DECO*27  
-Last updated at 11/06/2020 23:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト あんず編「痣」**  
+하뉴 마이고  
+Last updated at 11/06/2020 23:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
