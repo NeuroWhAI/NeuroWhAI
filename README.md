@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hL-lijONWFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uFRPeiAEO0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**The Promise (HARUMAKIGOHAN Vocal ver.)**  
-하루마키고한  
-Last updated at 11/06/2020 23:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - アンドロイドガール feat. 初音ミク**  
+DECO*27  
+Last updated at 11/06/2020 23:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
