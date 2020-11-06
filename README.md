@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ENcnYh79dUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3GN66nYqW9o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**Thoughtcrime**  
-Yorushika(ヨルシカ)  
-Last updated at 11/06/2020 23:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**メルティランドナイトメア(Self Cover)**  
+하루마키고한  
+Last updated at 11/06/2020 23:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
