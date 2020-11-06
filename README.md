@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rodWNwEIEmo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3eB6Tr5w4FdZ0RxBwebNTA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5EggZdAvyzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXvIaHuBh0mMachhMyJMMlA)
 
-**The Town Plays a Melody**  
-fhána  
-Last updated at 11/06/2020 22:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**芽ぐみの雨(TVsize)**  
+yanaginagi  
+Last updated at 11/06/2020 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
