@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1EU-QCANzzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXhAKJthTNudMCmnasFfyNg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**Memento**  
-nonoc  
-Last updated at 11/06/2020 22:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**LiSA 『炎』 -MUSiC CLiP-**  
+LiSA(리사)  
+Last updated at 11/06/2020 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
