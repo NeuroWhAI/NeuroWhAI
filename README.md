@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f5GIhAIRTTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YDnZFwlZa1g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
 
-**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
-하뉴 마이고  
-Last updated at 11/06/2020 23:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**命ばっかり**  
+ぬゆり  
+Last updated at 11/06/2020 23:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
