@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VHgiGuVdLEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VHgiGuVdLEA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oVP_PSm7qXA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**ロンリーユニバース**  
-Aqu3ra  
-Last updated at 11/07/2020 00:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**ドリームレス・ドリームス(Self Cover)**  
+하루마키고한  
+Last updated at 11/07/2020 00:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
