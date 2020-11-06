@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/yzYSo1Zw58B9EjmpqP-nZRxmc8lb9F44gs8dqcF4MbsUJOqJAKRl7snxR4rhJ5BaeZAhHoZvsIPvcxbKhA">](https://music.youtube.com/channel/UC3eB6Tr5w4FdZ0RxBwebNTA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1EU-QCANzzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXhAKJthTNudMCmnasFfyNg)
 
-**The Town plays a Melody(피처링: 토와나)**  
-fhána  
-Last updated at 11/07/2020 00:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Memento**  
+nonoc  
+Last updated at 11/07/2020 00:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
