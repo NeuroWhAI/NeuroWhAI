@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eeVlQn_MVxI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eeVlQn_MVxI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uSX7jj4-NNE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**Day&Night**  
-Aqu3ra  
-Last updated at 11/07/2020 00:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Seventina**  
+하루마키고한  
+Last updated at 11/07/2020 00:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
