@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oVP_PSm7qXA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/yzYSo1Zw58B9EjmpqP-nZRxmc8lb9F44gs8dqcF4MbsUJOqJAKRl7snxR4rhJ5BaeZAhHoZvsIPvcxbKhA">](https://music.youtube.com/channel/UC3eB6Tr5w4FdZ0RxBwebNTA)
 
-**ドリームレス・ドリームス(Self Cover)**  
-하루마키고한  
-Last updated at 11/07/2020 00:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Town plays a Melody(피처링: 토와나)**  
+fhána  
+Last updated at 11/07/2020 00:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
