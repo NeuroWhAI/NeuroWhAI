@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/utCfqksg0FA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eeVlQn_MVxI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eeVlQn_MVxI)
 
-**CobaltMemories**  
-하루마키고한  
-Last updated at 11/07/2020 00:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Day&Night**  
+Aqu3ra  
+Last updated at 11/07/2020 00:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
