@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJzS0Hxvoq0cRr53ig6OUKHQ3cUz4V9Nn1frb8U57Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - Crappy Fantasy Days / ピノキオピー - 空想しょうもない日々**  
+**PinocchioP - hanauta / ピノキオピー**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/07/2020 16:06 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/07/2020 16:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
