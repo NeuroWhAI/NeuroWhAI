@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t7MBzMP4OzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/J-7GujtdGfQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**ヒッチコック**  
-Yorushika(ヨルシカ)  
-Last updated at 11/07/2020 17:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**不思議の国のアリス症候群　Syndrome Of Alice In Wonderland / 初音ミク**  
+하뉴 마이고  
+Last updated at 11/07/2020 17:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
