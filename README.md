@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f5GIhAIRTTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xXenYRkbKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
 
-**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
-하뉴 마이고  
-Last updated at 11/07/2020 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**I Think I Just Died**  
+Guiano  
+Last updated at 11/07/2020 17:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
