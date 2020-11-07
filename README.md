@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-vJGGYCSKt0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**ツギハギスタッカート**  
-とあ feat.IA  
-Last updated at 11/07/2020 16:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト あんず編「痣」**  
+하뉴 마이고  
+Last updated at 11/07/2020 16:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
