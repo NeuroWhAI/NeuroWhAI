@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5kIeUb5AE4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**ぼかろころしあむ**  
-DIVELA  
-Last updated at 11/07/2020 17:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**懺悔参り**  
+하뉴 마이고  
+Last updated at 11/07/2020 17:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
