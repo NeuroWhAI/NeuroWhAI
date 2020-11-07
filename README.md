@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/F64yFFnZfkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f5GIhAIRTTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**言って。**  
-Yorushika(ヨルシカ)  
-Last updated at 11/07/2020 17:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
+하뉴 마이고  
+Last updated at 11/07/2020 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
