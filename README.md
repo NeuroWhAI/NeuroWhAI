@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-vJGGYCSKt0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t7MBzMP4OzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**魔性のカマトト あんず編「痣」**  
-하뉴 마이고  
-Last updated at 11/07/2020 16:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヒッチコック**  
+Yorushika(ヨルシカ)  
+Last updated at 11/07/2020 17:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
