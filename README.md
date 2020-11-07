@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9lVPAWLWtWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ony539T074w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9tx_HmhNISUR39M29r9a8A)
 
-**Ghost In A Flower**  
-Yorushika(ヨルシカ)  
-Last updated at 11/07/2020 16:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**King Gnu - 白日**  
+킹 누  
+Last updated at 11/07/2020 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
