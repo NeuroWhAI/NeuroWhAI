@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwwou8oKAPSjmntyAhE2lgDA6JBBhzZXFAbS6y2=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**소녀해부 feat. 하쯔네 미쿠**  
-DECO*27  
-Last updated at 11/07/2020 23:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - ラヴィット feat. 初音ミク / Loveit**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 11/07/2020 23:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
