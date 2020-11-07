@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/e409Pu3NYvg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCupaZfXB7FLiSHvCXqi7UYA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DuMqFknYHBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
 
-**かくれんぼ / 優里　covered by 當山みれい**  
-Mirei Touyama  
-Last updated at 11/07/2020 16:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**Official髭男dism - イエスタデイ［Official Video］**  
+오피셜히게단디즘  
+Last updated at 11/07/2020 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
