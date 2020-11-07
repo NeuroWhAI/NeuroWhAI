@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ony539T074w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9tx_HmhNISUR39M29r9a8A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2B7MEADeLyA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**King Gnu - 白日**  
-킹 누  
-Last updated at 11/07/2020 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**ハレハレヤ**  
+하뉴 마이고  
+Last updated at 11/07/2020 16:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
