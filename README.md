@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9MjAJSoaoSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWSS8uB_YSvOPwvVXUnD9ew)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/pRG7FJobkv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZtrZ8_Opr4Sa2r61ye_UsQ)
 
-**Kousui**  
-EITO  
-Last updated at 11/07/2020 16:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**MY FIRST STORY -不可逆リプレイス-【Official Video】**  
+MY FIRST STORY  
+Last updated at 11/07/2020 16:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
