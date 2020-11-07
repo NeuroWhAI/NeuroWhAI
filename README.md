@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5kIeUb5AE4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**Jigokuwadokodesuenmasama**  
-하뉴 마이고  
-Last updated at 11/07/2020 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**ぼかろころしあむ**  
+DIVELA  
+Last updated at 11/07/2020 17:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
