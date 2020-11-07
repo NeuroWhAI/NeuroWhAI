@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/e409Pu3NYvg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCupaZfXB7FLiSHvCXqi7UYA)
 
-**LiSA 『炎』 -MUSiC CLiP-**  
-LiSA(리사)  
-Last updated at 11/07/2020 16:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**かくれんぼ / 優里　covered by 當山みれい**  
+Mirei Touyama  
+Last updated at 11/07/2020 16:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
