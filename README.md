@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/J-7GujtdGfQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
 
-**不思議の国のアリス症候群　Syndrome Of Alice In Wonderland / 初音ミク**  
-하뉴 마이고  
-Last updated at 11/07/2020 17:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】透明エレジー【オリジナル曲】**  
+나부나  
+Last updated at 11/07/2020 17:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
