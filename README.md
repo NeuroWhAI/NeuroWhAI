@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/zFLzlwwrtOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/F64yFFnZfkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**傷つけ愛 / 初音ミク**  
-하뉴 마이고  
-Last updated at 11/07/2020 17:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**言って。**  
+Yorushika(ヨルシカ)  
+Last updated at 11/07/2020 17:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
