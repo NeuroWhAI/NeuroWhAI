@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
 
-**ケガレノウタ**  
-하뉴 마이고  
-Last updated at 11/07/2020 16:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**レントリリー**  
+ジグ  
+Last updated at 11/07/2020 16:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
