@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zFLzlwwrtOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**【GUMI】透明エレジー【オリジナル曲】**  
-나부나  
-Last updated at 11/07/2020 17:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**傷つけ愛 / 初音ミク**  
+하뉴 마이고  
+Last updated at 11/07/2020 17:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
