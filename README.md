@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**ピコン - 人間だった ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 11/08/2020 19:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aunnobeats (Ujico*Remix)**  
+하뉴 마이고 및 우지코  
+Last updated at 11/08/2020 19:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
