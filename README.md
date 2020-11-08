@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1pl-BAci8iY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIgeuAj12ksgeVhp5vgHlyQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3GQfrOjPLpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtTaFadValr5MftYRlWsTDg)
 
-**YUUKI MIYAKE「TORCH」MV**  
-YUUKI MIYAKE  
-Last updated at 11/08/2020 19:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**I hmel atha ipian amawi**  
+Pektea Vaiphei  
+Last updated at 11/08/2020 19:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
