@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/F64yFFnZfkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mvkbCZfwWzA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-**言って。**  
-Yorushika(ヨルシカ)  
-Last updated at 11/08/2020 20:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aimer 『Ref:rain』MUSIC VIDEO(5th album『Sun Dance』『Penny Rain』2019/04/10（水）2枚同時発売)**  
+Aimer  
+Last updated at 11/08/2020 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
