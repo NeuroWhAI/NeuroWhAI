@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/I8yBbwRurAE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzWhKfNG1tyJ3ECQWwpLeWA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/766qmHTc2ro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**この世界を愛したい cover.鹿乃**  
-Kano  
-Last updated at 11/08/2020 20:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ame Wo Matsu**  
+미나미  
+Last updated at 11/08/2020 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
