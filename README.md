@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DuMqFknYHBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/9lVPAWLWtWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Official髭男dism - イエスタデイ［Official Video］**  
-오피셜히게단디즘  
-Last updated at 11/08/2020 18:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ghost In A Flower**  
+Yorushika(ヨルシカ)  
+Last updated at 11/08/2020 18:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
