@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/pKEOgP5ARXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCupaZfXB7FLiSHvCXqi7UYA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wrpRv1pyV6I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJSUG4MRcFszyC5qj7s7Uw)
 
-**當山みれい 『sayonara』Music Video**  
-Mirei Touyama  
-Last updated at 11/08/2020 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**No Game No Life: Zero Movie Theme Song - THERE IS A REASON / Konomi Suzuki**  
+Kiranime  
+Last updated at 11/08/2020 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
