@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/BBiBnjAe-gQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lYDlFanzM7Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClOxGhIpJ-4QkqTMNSBLRxw)
 
-**ピコン - ファーレン ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 11/08/2020 20:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**BINZ - OKKKK | JC HƯNG COVER | MV FANMAKE**  
+JC Hưng Official  
+Last updated at 11/08/2020 20:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
