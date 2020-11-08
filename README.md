@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwwou8oKAPSjmntyAhE2lgDA6JBBhzZXFAbS6y2=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**소녀해부 feat. 하쯔네 미쿠 (TeddyLoid Alllies Remix)**  
+**소녀해부 feat. 하쯔네 미쿠**  
 DECO*27  
-Last updated at 11/08/2020 18:07 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/08/2020 18:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
