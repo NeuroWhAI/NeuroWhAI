@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DuMqFknYHBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
 
-**LiSA 『炎』 -MUSiC CLiP-**  
-LiSA(리사)  
-Last updated at 11/08/2020 18:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Official髭男dism - イエスタデイ［Official Video］**  
+오피셜히게단디즘  
+Last updated at 11/08/2020 18:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
