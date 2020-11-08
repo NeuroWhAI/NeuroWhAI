@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wrpRv1pyV6I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJSUG4MRcFszyC5qj7s7Uw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GQ3V50XoLOM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**No Game No Life: Zero Movie Theme Song - THERE IS A REASON / Konomi Suzuki**  
-Kiranime  
-Last updated at 11/08/2020 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**ライラック**  
+미나미  
+Last updated at 11/08/2020 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
