@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DS2sP8CDLas/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpzy28Kw66pBn5o8uP3m4tA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5BMnuvtdw1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Atashiga Tonarini Iru Uchini**  
-Chiai Fujikawa  
-Last updated at 11/08/2020 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Koe**  
+마지코  
+Last updated at 11/08/2020 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
