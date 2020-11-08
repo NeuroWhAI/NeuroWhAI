@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/btjFVLcZHL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GuzkWx342qg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCbFKn5JB-mH3uBnmKx1jgmA)
 
-**ピコン - 暖かい生き物 ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 11/08/2020 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ezra - don't go (lyric)**  
+DejavuMu Channel  
+Last updated at 11/08/2020 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
