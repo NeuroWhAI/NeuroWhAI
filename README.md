@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ePBjUMEeqBw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoQYF_x8LQaJ1cmCTKHB9dg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_cnHxTaGrYQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**ねむるまち feat.yama (Official Video)**  
-쿠지라  
-Last updated at 11/08/2020 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Paranoia**  
+마지코  
+Last updated at 11/08/2020 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
