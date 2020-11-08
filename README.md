@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TXpGWhdwXuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGuY5KgFbRYs3jejI2DrFBQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6su62xI2x2Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpzy28Kw66pBn5o8uP3m4tA)
 
-**RAM WIRE 『僕らの手には何もないけど、』Music Video ・「象の背中」の城井文が描くショートアニメ**  
-RAM WIRE  
-Last updated at 11/08/2020 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kimino Namae**  
+Chiai Fujikawa  
+Last updated at 11/08/2020 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
