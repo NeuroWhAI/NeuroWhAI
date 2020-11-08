@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0YF8vecQWYs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XD57rJGtaLU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Kawaki wo Ameku**  
-미나미  
-Last updated at 11/08/2020 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**嗤うマネキン 歌ってみた**  
+마지코  
+Last updated at 11/08/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
