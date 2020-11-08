@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hC048JMa4jI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HIRiduzNLzQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**サヨナラミッドナイト**  
-마지코  
-Last updated at 11/08/2020 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hollowness**  
+미나미  
+Last updated at 11/08/2020 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
