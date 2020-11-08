@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwwou8oKAPSjmntyAhE2lgDA6JBBhzZXFAbS6y2=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**소녀해부 feat. 하쯔네 미쿠**  
-DECO*27  
-Last updated at 11/08/2020 18:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**LiSA 『炎』 -MUSiC CLiP-**  
+LiSA(리사)  
+Last updated at 11/08/2020 18:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
