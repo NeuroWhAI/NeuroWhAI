@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hRKnWBWSf7o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCD7CGii1mLS_QSgmuYijP9g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/b82nw8abKMU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
 
-**Lirik lagu The Chainsmokers - Takeaway Piano Version (Nickz Cover)**  
-Misko Gaming  
-Last updated at 11/08/2020 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**Cold Summer**  
+Guiano  
+Last updated at 11/08/2020 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
