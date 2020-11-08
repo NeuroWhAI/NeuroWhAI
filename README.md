@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/F64yFFnZfkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**ひび割れた世界**  
-마지코  
-Last updated at 11/08/2020 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**言って。**  
+Yorushika(ヨルシカ)  
+Last updated at 11/08/2020 20:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
