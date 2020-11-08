@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6su62xI2x2Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpzy28Kw66pBn5o8uP3m4tA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KhV57_EH3AA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
 
-**Kimino Namae**  
-Chiai Fujikawa  
-Last updated at 11/08/2020 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**猛独が襲う**  
+마후마후  
+Last updated at 11/08/2020 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
