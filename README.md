@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Y1K-ZD2bB8M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hRKnWBWSf7o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCD7CGii1mLS_QSgmuYijP9g)
 
-**Silence - n-buna ft. Sarah Furukawa**  
-Yorushika(ヨルシカ)  
-Last updated at 11/08/2020 19:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lirik lagu The Chainsmokers - Takeaway Piano Version (Nickz Cover)**  
+Misko Gaming  
+Last updated at 11/08/2020 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
