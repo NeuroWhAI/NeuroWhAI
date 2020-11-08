@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ACo60qnd_Lc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCukBv_7AJU7AZHcidF0HIvQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hC048JMa4jI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**secret base 〜君がくれたもの〜 / ZONE (Covered by コバソロ & えみい(テーマパークガール))(피처링: Kopi)**  
-Kobasolo(코바솔로)  
-Last updated at 11/08/2020 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**サヨナラミッドナイト**  
+마지코  
+Last updated at 11/08/2020 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
