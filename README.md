@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/CwkzK-F0Y00/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**LiSA 『紅蓮華』 -MUSiC CLiP YouTube EDIT ver.-**  
-LiSA(리사)  
-Last updated at 11/08/2020 19:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tada Kimi ni Hare**  
+Yorushika(ヨルシカ)  
+Last updated at 11/08/2020 19:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
