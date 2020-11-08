@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KhV57_EH3AA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0YF8vecQWYs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**猛独が襲う**  
-마후마후  
-Last updated at 11/08/2020 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kawaki wo Ameku**  
+미나미  
+Last updated at 11/08/2020 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
