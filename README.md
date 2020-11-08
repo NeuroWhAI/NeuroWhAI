@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vIyw5eZIl7Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1pl-BAci8iY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIgeuAj12ksgeVhp5vgHlyQ)
 
-**ピコン - ノンヒューマン ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 11/08/2020 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**YUUKI MIYAKE「TORCH」MV**  
+YUUKI MIYAKE  
+Last updated at 11/08/2020 19:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
