@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/766qmHTc2ro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/pKEOgP5ARXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCupaZfXB7FLiSHvCXqi7UYA)
 
-**Ame Wo Matsu**  
-미나미  
-Last updated at 11/08/2020 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**當山みれい 『sayonara』Music Video**  
+Mirei Touyama  
+Last updated at 11/08/2020 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
