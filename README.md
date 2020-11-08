@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GuzkWx342qg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCbFKn5JB-mH3uBnmKx1jgmA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vIyw5eZIl7Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**Ezra - don't go (lyric)**  
-DejavuMu Channel  
-Last updated at 11/08/2020 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - ノンヒューマン ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 11/08/2020 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
