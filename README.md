@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 11/09/2020 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 11/09/2020 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
