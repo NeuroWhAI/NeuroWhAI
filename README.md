@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hUs0-gqBulQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/9IZpsi9I8kU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMVhOB8d67947YmHlrumR4w)
 
-**Geoxor - Moonlight (Official Performance Video)**  
-Geoxor  
-Last updated at 11/09/2020 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Paradigm**  
+Leslie Wai  
+Last updated at 11/09/2020 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
