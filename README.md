@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t66lw67WSOA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/09/2020 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sakura**  
+Geoxor 및 Canonblade  
+Last updated at 11/09/2020 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
