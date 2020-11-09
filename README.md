@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/A8pOVirjGF0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCH-ybYrUazysguJchij8iXQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f5GIhAIRTTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**Overkill**  
-RIOT  
-Last updated at 11/09/2020 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
+하뉴 마이고  
+Last updated at 11/09/2020 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
