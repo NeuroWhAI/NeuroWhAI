@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Qg1qZq5yjps/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nRROWJa8sdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Highscore**  
-Panda Eyes 및 테미니트  
-Last updated at 11/09/2020 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Shaii**  
+Geoxor  
+Last updated at 11/09/2020 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
