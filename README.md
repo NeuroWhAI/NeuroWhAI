@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJz8oyDrZ4bZAcDlADItLKSx5K296QaFhW1-wu8HKw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**ハチ MV「砂の惑星 feat.初音ミク」HACHI / DUNE ft.Miku Hatsune**  
-米津玄師  
-Last updated at 11/09/2020 21:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 11/09/2020 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
