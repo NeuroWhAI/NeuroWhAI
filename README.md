@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8jVXc6N4muc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**Jigokuwadokodesuenmasama**  
-하뉴 마이고  
-Last updated at 11/09/2020 22:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**If I Could Become a Comet (HARUMAKIGOHAN Vocal ver.)**  
+하루마키고한  
+Last updated at 11/09/2020 22:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
