@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9IZpsi9I8kU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMVhOB8d67947YmHlrumR4w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oklzVH8FfVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Paradigm**  
-Leslie Wai  
-Last updated at 11/09/2020 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Virtual**  
+Geoxor  
+Last updated at 11/09/2020 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
