@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0CZSb3Ijhbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/O-_xFk0PKkM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Super Panda 64**  
-Panda Eyes  
-Last updated at 11/09/2020 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Make Me Strong**  
+Geoxor  
+Last updated at 11/09/2020 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
