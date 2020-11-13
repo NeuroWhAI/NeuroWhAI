@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJwwou8oKAPSjmntyAhE2lgDA6JBBhzZXFAbS6y2=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/a/AATXAJww-2_8sHRwBEy6Za48wKq9Q3OvATsX-T1V7Y8T_g=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**소녀해부 feat. 하쯔네 미쿠 (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 11/13/2020 23:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**地獄はどこですエンマさま / 初音ミク**  
+羽生まゐご  
+Last updated at 11/13/2020 23:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
