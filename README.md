@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EpFxTXgElLA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8pGRdRhjX3o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**【初音ミク】 夜明けと蛍 【オリジナル】**  
-나부나  
-Last updated at 11/14/2020 19:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 妄想感傷代償連盟 feat. 初音ミク**  
+DECO*27  
+Last updated at 11/14/2020 19:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
