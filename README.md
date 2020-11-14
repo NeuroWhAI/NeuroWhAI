@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KhV57_EH3AA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/9lVPAWLWtWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**猛独が襲う**  
-마후마후  
-Last updated at 11/14/2020 18:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ghost In A Flower**  
+Yorushika(ヨルシカ)  
+Last updated at 11/14/2020 18:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
