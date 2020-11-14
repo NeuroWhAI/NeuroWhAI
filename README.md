@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
 
-**秘密 / はるまきごはんVocal ver. アニメMV**  
-하루마키고한  
-Last updated at 11/14/2020 18:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**最後の晩餐**  
+Misumi  
+Last updated at 11/14/2020 18:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
