@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/766qmHTc2ro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**Tada Kimi ni Hare**  
-Yorushika(ヨルシカ)  
-Last updated at 11/14/2020 19:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ame Wo Matsu**  
+미나미  
+Last updated at 11/14/2020 19:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
