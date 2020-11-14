@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9lVPAWLWtWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GQ3V50XoLOM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**Ghost In A Flower**  
-Yorushika(ヨルシカ)  
-Last updated at 11/14/2020 18:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**ライラック**  
+미나미  
+Last updated at 11/14/2020 18:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
