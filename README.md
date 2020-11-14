@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/766qmHTc2ro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/P_CSdxSGfaA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxMijt1N7bsZEslRHpVOkHw)
 
-**Ame Wo Matsu**  
-미나미  
-Last updated at 11/14/2020 19:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**wowaka 『アンノウン・マザーグース』feat. 初音ミク / wowaka - Unknown Mother-Goose (Official Video) ft. Hatsune Miku**  
+히토리에  
+Last updated at 11/14/2020 19:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
