@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t7MBzMP4OzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-tKVN2mAKRI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
 
-**ヒッチコック**  
-Yorushika(ヨルシカ)  
-Last updated at 11/14/2020 18:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**DAOKO × 米津玄師『打上花火』MUSIC VIDEO**  
+DAOKO 및 Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 11/14/2020 18:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
