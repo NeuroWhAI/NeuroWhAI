@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-tKVN2mAKRI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7zwCIz-Ohn4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**DAOKO × 米津玄師『打上花火』MUSIC VIDEO**  
-DAOKO 및 Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 11/14/2020 18:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク**  
+DECO*27  
+Last updated at 11/14/2020 18:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
