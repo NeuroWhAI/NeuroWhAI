@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7Y9sJvLI3Po/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCii32Rr4rHZd86v2NpSUGqQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
 
-**Gehenna**  
-wotaku  
-Last updated at 11/14/2020 18:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**ツギハギスタッカート**  
+とあ feat.IA  
+Last updated at 11/14/2020 18:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
