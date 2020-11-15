@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/TXwKRaHN_4dVmVrEWSYbf2BwlZMBhmff0O_yHvtkpsD-rQYWKEkc68VZsaiR1oFOs0ugsGMr2B1rKaE">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-**Haiirotoao**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 11/15/2020 22:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**Koiwazurai**  
+Aimer(에메)  
+Last updated at 11/15/2020 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
