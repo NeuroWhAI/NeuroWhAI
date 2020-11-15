@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/rD4fO57ZYpAz_JnxHcNdmFSsEGR3Q8bUtSXoTQMIefQgsuww6aa1LcjZGv2kG-944vO_2oS8NnJVnkY">](https://music.youtube.com/channel/UC0nuEa_S2ANq-Y6SEGdjnNA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**気まぐれメルシィ feat. 初音ミク(피처링: 하츠네 미쿠)**  
-하치오지P  
-Last updated at 11/15/2020 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**藍二乗**  
+요루시카  
+Last updated at 11/15/2020 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
