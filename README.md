@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/alWLsNVvCDvoRhwYELsityi5-_NdwKPQaSOqTD3Qjb4TY6YH0VyKhZWNGu91nEpgUEIVEeQFyFnimiws">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**Love poem**  
+**시간의 바깥**  
 아이유(IU)  
-Last updated at 11/15/2020 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/15/2020 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
