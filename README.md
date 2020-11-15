@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/TXwKRaHN_4dVmVrEWSYbf2BwlZMBhmff0O_yHvtkpsD-rQYWKEkc68VZsaiR1oFOs0ugsGMr2B1rKaE">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**Koiwazurai**  
-Aimer(에메)  
-Last updated at 11/15/2020 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**ライラック**  
+미나미  
+Last updated at 11/15/2020 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
