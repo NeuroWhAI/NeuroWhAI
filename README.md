@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7Y9sJvLI3Po/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCii32Rr4rHZd86v2NpSUGqQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**Gehenna**  
-wotaku  
-Last updated at 11/15/2020 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**秘密 / はるまきごはんVocal ver. アニメMV**  
+하루마키고한  
+Last updated at 11/15/2020 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
