@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/0ggCvSHHEiWpE6nr3cjtaIIGRxE8WFb-I99vwSOp6mg8syaR6K9PwhVGjOrN1FZCDeQJXdwrxUT9-ztl3Q">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/channel/UCQG5sjqWWe4MRhYM_OAEIyw)
 
-**Pretender**  
-오피셜히게단디즘  
-Last updated at 11/15/2020 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kimi Wa Rock Wo Kikanai**  
+aimyon  
+Last updated at 11/15/2020 22:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
