@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/i3z2eaLGJiG6Hkv8bnMWuou4kx5ati5Zh4Zbs-Xg4UZxgdZyge1dCi1At2TleFAVkD7ef7U4CA3Oteph">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**藍二乗**  
-요루시카  
-Last updated at 11/15/2020 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mushroom**  
+마지코  
+Last updated at 11/15/2020 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
