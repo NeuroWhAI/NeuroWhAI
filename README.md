@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/i3z2eaLGJiG6Hkv8bnMWuou4kx5ati5Zh4Zbs-Xg4UZxgdZyge1dCi1At2TleFAVkD7ef7U4CA3Oteph">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Mushroom**  
-마지코  
-Last updated at 11/15/2020 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Reversible Campaign**  
+DECO*27  
+Last updated at 11/15/2020 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
