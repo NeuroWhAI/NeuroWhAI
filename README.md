@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/alWLsNVvCDvoRhwYELsityi5-_NdwKPQaSOqTD3Qjb4TY6YH0VyKhZWNGu91nEpgUEIVEeQFyFnimiws">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/rD4fO57ZYpAz_JnxHcNdmFSsEGR3Q8bUtSXoTQMIefQgsuww6aa1LcjZGv2kG-944vO_2oS8NnJVnkY">](https://music.youtube.com/channel/UC0nuEa_S2ANq-Y6SEGdjnNA)
 
-**시간의 바깥**  
-아이유(IU)  
-Last updated at 11/15/2020 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**気まぐれメルシィ feat. 初音ミク(피처링: 하츠네 미쿠)**  
+하치오지P  
+Last updated at 11/15/2020 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
