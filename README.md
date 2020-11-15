@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**秘密 / はるまきごはんVocal ver. アニメMV**  
-하루마키고한  
-Last updated at 11/15/2020 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Love poem**  
+아이유(IU)  
+Last updated at 11/15/2020 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
