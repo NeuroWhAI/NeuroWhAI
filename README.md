@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/PjQaErqQ47Abz8e_CQaGTMir5ubdymoEtunmyR72ammAMc45U_wyoWgHriGqAOU7ApaPf6u_TnI7Ax_n">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
 
-**ライラック**  
-미나미  
-Last updated at 11/15/2020 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Stand By You**  
+오피셜히게단디즘  
+Last updated at 11/15/2020 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
