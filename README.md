@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/channel/UCQG5sjqWWe4MRhYM_OAEIyw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/vTji9383Ye0Rm9f0edj3XRam1R1L6GCuMZ90-ZKkOcKh9u2HRSqfHHBvgPSF892jG4c4fIZZ7ZZ8a_9y">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
 
-**Ai Wo Tsutaetaidatoka**  
-aimyon  
-Last updated at 11/15/2020 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Umareta Imi Nado Nakatta**  
+마후마후  
+Last updated at 11/15/2020 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
