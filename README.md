@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/PjQaErqQ47Abz8e_CQaGTMir5ubdymoEtunmyR72ammAMc45U_wyoWgHriGqAOU7ApaPf6u_TnI7Ax_n">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/channel/UCQG5sjqWWe4MRhYM_OAEIyw)
 
-**Stand By You**  
-오피셜히게단디즘  
-Last updated at 11/15/2020 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ai Wo Tsutaetaidatoka**  
+aimyon  
+Last updated at 11/15/2020 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
