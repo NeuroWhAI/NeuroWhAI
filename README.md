@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/vTji9383Ye0Rm9f0edj3XRam1R1L6GCuMZ90-ZKkOcKh9u2HRSqfHHBvgPSF892jG4c4fIZZ7ZZ8a_9y">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/0ggCvSHHEiWpE6nr3cjtaIIGRxE8WFb-I99vwSOp6mg8syaR6K9PwhVGjOrN1FZCDeQJXdwrxUT9-ztl3Q">](https://music.youtube.com/channel/UC84Rm0a3gimYXPtqp5O_JRw)
 
-**Umareta Imi Nado Nakatta**  
-마후마후  
-Last updated at 11/15/2020 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pretender**  
+오피셜히게단디즘  
+Last updated at 11/15/2020 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
