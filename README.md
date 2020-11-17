@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/O-_xFk0PKkM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oklzVH8FfVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Make Me Strong**  
+**Virtual**  
 Geoxor  
-Last updated at 11/17/2020 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/17/2020 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
