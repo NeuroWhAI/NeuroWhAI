@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/39uozc2Sg5bMX1T_j9LX9jljOnsvcTqMlIIBk7bbjykf7tg0tG6-G8dwNMKi9Ree0ymX9G88AfPCCiPNsA">](https://music.youtube.com/channel/UCUrcaHP1Qrlrxoxg9z1jlmg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6W0wh8Ucvo8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**恋**  
-Hoshino Gen(호시노 겐)  
-Last updated at 11/15/2020 22:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Timeless**  
+Geoxor  
+Last updated at 11/17/2020 22:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
