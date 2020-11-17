@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6W0wh8Ucvo8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/JSKIQnn2x8E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Timeless**  
+**Stardust**  
 Geoxor  
-Last updated at 11/17/2020 22:24 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/17/2020 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
