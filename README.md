@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TsNc66xsF1o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**Nana**  
-Geoxor  
-Last updated at 11/17/2020 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**소녀해부 feat. 하쯔네 미쿠 (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 11/18/2020 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
