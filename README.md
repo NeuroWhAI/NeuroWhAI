@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hu4skDEtcMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fsDdgKZdTns/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCW9vY52b2DaKw2rpXDu6KXw)
 
-**Blank / 初音ミク**  
-雄之助  
-Last updated at 11/19/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**スペシャルガール - れるりりfeat.鳴花ヒメ & ミコト / Specialgirl rerulili feat. Meika Hime & Mikoto(피처링: 鳴花ヒメ・ミコト)**  
+레루리리  
+Last updated at 11/19/2020 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
