@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KgczJh0uX5o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/QvO8kcWFFT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**DECO*27 - 勘違い性反希望症 feat. 初音ミク**  
-DECO*27  
-Last updated at 11/19/2020 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Love of Love by Love for Love**  
+피노키오P  
+Last updated at 11/19/2020 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
