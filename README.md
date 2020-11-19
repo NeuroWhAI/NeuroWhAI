@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/QvO8kcWFFT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_N970R-P7Qc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_N970R-P7Qc)
 
-**Love of Love by Love for Love**  
-피노키오P  
-Last updated at 11/19/2020 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ensou - Singularity (Vocaloid / GUMI)**  
+ensou  
+Last updated at 11/19/2020 22:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
