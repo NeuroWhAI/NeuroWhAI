@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1toZnYWU7X8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6Ajnnukj64qFld-7jp2Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/k7UryMWlMHw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjDdKk2um40blNDCECY0kfw)
 
-**ft.初音ミク&GUMI -ゴールデンジパング**  
--MASA Works DESIGN-  
-Last updated at 11/19/2020 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**絶対音楽で踊れ**  
+Utsup  
+Last updated at 11/19/2020 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
