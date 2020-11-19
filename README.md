@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/X2IzkM7gtPY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM_mn8pNK0NCVQqQHnE7STg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bmkY2yc1K7Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
 
-**Crusher-P ft. Kasane Teto - Love Is War (Crusher Remix)**  
-Crusher-P  
-Last updated at 11/19/2020 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Teo**  
+Omoi  
+Last updated at 11/19/2020 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
