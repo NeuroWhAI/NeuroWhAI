@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KgczJh0uX5o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**SCALE BLASTER(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 11/19/2020 21:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 勘違い性反希望症 feat. 初音ミク**  
+DECO*27  
+Last updated at 11/19/2020 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
