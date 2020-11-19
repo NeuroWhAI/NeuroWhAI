@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/E4kcWPLtBFM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjDdKk2um40blNDCECY0kfw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nxYSdXoT0iw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSTUasOJbLZAusU7k66yACw)
 
-**看板娘の悪巫山戯**  
-Utsup  
-Last updated at 11/19/2020 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Outer Science (feat. Rena) 【Intense Symphonic Metal Cover】**  
+FalKKonE  
+Last updated at 11/19/2020 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
