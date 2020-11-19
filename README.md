@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7WhDyYJecjY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpdcUsCOK7AxIXDxRdz_mrA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/A4sgkndTF_s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSTUasOJbLZAusU7k66yACw)
 
-**劣等上等 (Masayoshi Iimori Remix)**  
-Giga  
-Last updated at 11/19/2020 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Fox's Wedding (feat. Rena) 【Intense Symphonic Metal Cover】**  
+FalKKonE  
+Last updated at 11/19/2020 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
