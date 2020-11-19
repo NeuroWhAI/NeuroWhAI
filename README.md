@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GVrRXhS0mLs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**Eat The Wind**  
-Yorushika(ヨルシカ)  
-Last updated at 11/19/2020 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**SCALE BLASTER(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 11/19/2020 21:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
