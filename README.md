@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z4LiNMCTV20/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjDdKk2um40blNDCECY0kfw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/D5yLRmomUz4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
 
-**ハイパーリアリティショウ**  
-Utsup  
-Last updated at 11/19/2020 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ohne Herz**  
+Omoi  
+Last updated at 11/19/2020 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
