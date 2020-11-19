@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/a_rrj1Xh5LI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**フラジール**  
-ぬゆり  
-Last updated at 11/19/2020 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 11/19/2020 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
