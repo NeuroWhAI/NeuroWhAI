@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ZEy36W1xX8c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hu4skDEtcMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**MeltyLandNightmare**  
-하루마키고한  
-Last updated at 11/19/2020 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Blank / 初音ミク**  
+雄之助  
+Last updated at 11/19/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
