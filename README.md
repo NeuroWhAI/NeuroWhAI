@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PC2yCwqXy14/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn3j7zDVyqZPtKHIr0KH_Yg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/E4kcWPLtBFM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjDdKk2um40blNDCECY0kfw)
 
-**LUNATIC MIRAGE**  
-ELFENSJóN  
-Last updated at 11/19/2020 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**看板娘の悪巫山戯**  
+Utsup  
+Last updated at 11/19/2020 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
