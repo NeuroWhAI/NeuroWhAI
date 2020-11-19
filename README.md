@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UZXPxdJqPBA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Z4LiNMCTV20/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjDdKk2um40blNDCECY0kfw)
 
-**Secret HIMITSU**  
-피노키오P  
-Last updated at 11/19/2020 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**ハイパーリアリティショウ**  
+Utsup  
+Last updated at 11/19/2020 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
