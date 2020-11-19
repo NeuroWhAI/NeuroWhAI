@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fsDdgKZdTns/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCW9vY52b2DaKw2rpXDu6KXw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PC2yCwqXy14/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn3j7zDVyqZPtKHIr0KH_Yg)
 
-**スペシャルガール - れるりりfeat.鳴花ヒメ & ミコト / Specialgirl rerulili feat. Meika Hime & Mikoto(피처링: 鳴花ヒメ・ミコト)**  
-레루리리  
-Last updated at 11/19/2020 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**LUNATIC MIRAGE**  
+ELFENSJóN  
+Last updated at 11/19/2020 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
