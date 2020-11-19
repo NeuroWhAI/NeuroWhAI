@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/y8nKlSIuAOY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjDdKk2um40blNDCECY0kfw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cmfmDWBA4GE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrOFHhUbrHjFizTFG7NdOdw)
 
-**MiKUSABBATH (Bonus Track)**  
-Utsup  
-Last updated at 11/19/2020 22:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**バグラグ(feat.鳴花ヒメ)**  
+seeeeecun  
+Last updated at 11/19/2020 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
