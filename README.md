@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bmkY2yc1K7Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/o6s7tfSexTQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6Ajnnukj64qFld-7jp2Q)
 
-**Teo**  
-Omoi  
-Last updated at 11/19/2020 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**ERGONOMIC HERO**  
+-MASA Works DESIGN-  
+Last updated at 11/19/2020 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
