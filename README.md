@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1ImJ7cEiks8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1ImJ7cEiks8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/RRfiZCN3GOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCCftku6h35YbZx6Zzi8srOQ)
 
-**Yukari**  
-Yokomin  
-Last updated at 11/19/2020 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**揺籠×Infection(피처링: 마유)**  
+やいり  
+Last updated at 11/19/2020 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
