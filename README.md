@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/--41OGPMurU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
 
-**Loveit**  
-피노키오P  
-Last updated at 11/19/2020 20:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**最後の晩餐**  
+Misumi  
+Last updated at 11/19/2020 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
