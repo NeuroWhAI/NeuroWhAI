@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nxYSdXoT0iw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSTUasOJbLZAusU7k66yACw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1toZnYWU7X8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6Ajnnukj64qFld-7jp2Q)
 
-**Outer Science (feat. Rena) 【Intense Symphonic Metal Cover】**  
-FalKKonE  
-Last updated at 11/19/2020 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**ft.初音ミク&GUMI -ゴールデンジパング**  
+-MASA Works DESIGN-  
+Last updated at 11/19/2020 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
