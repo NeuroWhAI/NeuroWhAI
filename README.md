@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/RRfiZCN3GOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCCftku6h35YbZx6Zzi8srOQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GVrRXhS0mLs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**揺籠×Infection(피처링: 마유)**  
-やいり  
-Last updated at 11/19/2020 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Eat The Wind**  
+Yorushika(ヨルシカ)  
+Last updated at 11/19/2020 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
