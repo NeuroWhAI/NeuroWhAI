@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/a_rrj1Xh5LI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 11/19/2020 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**フラジール**  
+ぬゆり  
+Last updated at 11/19/2020 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
