@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ub3DRNn3ILI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUBa4FfPsY0RnKzz5bw0e4Q)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 11/19/2020 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**ごめんなさいを言えるかな**  
+마치게리타  
+Last updated at 11/19/2020 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
