@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cmfmDWBA4GE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrOFHhUbrHjFizTFG7NdOdw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhT2pO1pkFZaJOJgqIuPwfUXCZ8jIquOdiCPxHyLg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**バグラグ(feat.鳴花ヒメ)**  
-seeeeecun  
-Last updated at 11/19/2020 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**阿吽のビーツ (Ujico*Remix)**  
+羽生まゐご  
+Last updated at 11/24/2020 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
