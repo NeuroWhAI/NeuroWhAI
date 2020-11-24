@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhT2pO1pkFZaJOJgqIuPwfUXCZ8jIquOdiCPxHyLg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**阿吽のビーツ (Ujico*Remix)**  
-羽生まゐご  
-Last updated at 11/24/2020 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**소녀해부 feat. 하쯔네 미쿠 (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 11/24/2020 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
