@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**ピノキオピー - ラヴィット feat. 初音ミク / Loveit**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/24/2020 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Twilight**  
+Geoxor  
+Last updated at 11/25/2020 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
