@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**ピノキオピー - ラヴィット feat. 初音ミク / Loveit**  
+**PinocchioP - Ultimate Senpai / 피노키오피 -얼티밋 선배(アルティメットセンパイ)**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/27/2020 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/27/2020 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
