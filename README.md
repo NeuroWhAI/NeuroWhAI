@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjkemD8XbLTrj_FXrDf9y3tS0LQAAciLta3uhNV3w=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCK7wTMguyPyPCjhLoOK2rJg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**Thirty Seconds To Mars - A Beautiful Lie**  
-THIRTY SECONDS TO MARS  
-Last updated at 11/25/2020 22:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**ネオネオン feat. 初音ミク**  
+DECO*27  
+Last updated at 11/27/2020 19:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
