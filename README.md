@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwng792JcOY0RTXSFtC0ZyvRaooMbEhKJdZVxTcJFfw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**PinocchioP - What's Inside / 피노키오피 - 내장이 있나요**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/27/2020 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ziqqurat / 雄之助 feat. 初音ミク**  
+雄之助/Yunosuke  
+Last updated at 11/28/2020 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
