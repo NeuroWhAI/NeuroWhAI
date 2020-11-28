@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhZUAYFMi6FVvapAdPS9YbncN0aeJ5gwFaA6oCP=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCgbTJ0Qb1OpA0GEocaJ7qrw)
 
-**피노키오피ー(ピノキオピー) - 사랑받지 못해도 네가 있어 / PinocchioP - Because You’re Here**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/28/2020 17:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**멜티랜드 나이트메어 / 하루마키고한 feat.하츠네 미쿠 - Melty Land Nightmare**  
+はるまきごはん / Harumaki Gohan Official  
+Last updated at 11/28/2020 19:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
