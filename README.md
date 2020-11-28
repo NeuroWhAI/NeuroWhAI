@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**피노키오피 - 시크릿 히미츠 / PinocchioP - Secret HIMITSU**  
+**피노키오피ー(ピノキオピー) - 사랑받지 못해도 네가 있어 / PinocchioP - Because You’re Here**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 11/28/2020 17:32 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 11/28/2020 17:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
