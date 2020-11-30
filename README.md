@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhZUAYFMi6FVvapAdPS9YbncN0aeJ5gwFaA6oCP=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCgbTJ0Qb1OpA0GEocaJ7qrw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngGe-XhxkzLuIAN_XluwEJOq28ofcuANtBbdLymmg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
 
-**멜티랜드 나이트메어 / 하루마키고한 feat.하츠네 미쿠 - Melty Land Nightmare**  
-はるまきごはん / Harumaki Gohan Official  
-Last updated at 11/28/2020 19:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**구제불능의 멋진 운명 / DIVELA feat.오토마치 우나**  
+DIVELA / Official  
+Last updated at 11/30/2020 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
