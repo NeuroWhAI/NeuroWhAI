@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngGe-XhxkzLuIAN_XluwEJOq28ofcuANtBbdLymmg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCrGzu0MPKQpYF2AV2oG-VpQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**구제불능의 멋진 운명 / DIVELA feat.오토마치 우나**  
-DIVELA / Official  
-Last updated at 11/30/2020 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**소녀해부 feat. 하쯔네 미쿠 (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 11/30/2020 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
