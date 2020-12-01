@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnh0Yd-y-O8HhCHHm7oIc394rJXwnUhZw7_NutR_2Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCvq3kUGY5Dbsdkr3DZx25Sw)
 
-**소녀해부 feat. 하쯔네 미쿠 (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 11/30/2020 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**乙女解剖 (TeddyLoid Alllies Remix)をうたいました**  
+Giga  
+Last updated at 12/01/2020 20:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
