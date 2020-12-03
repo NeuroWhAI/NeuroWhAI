@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjTsQMT2rWV_PyEW6bpkMmzx859tgDsH3Hm5o6D_Q=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
 
-**Franz Xaver Gruber - Stille Nacht**  
-ibi  
-Last updated at 12/02/2020 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**阿吽のビーツ / flower**  
+羽生まゐご  
+Last updated at 12/03/2020 23:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
