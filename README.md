@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_xXenYRkbKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Y1And10a3I8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**I Think I Just Died**  
-Guiano  
-Last updated at 12/05/2020 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**サンキュー虚無感 / 初音ミク　[羽生まゐご]**  
+하뉴 마이고  
+Last updated at 12/05/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
