@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SXC2wO1XdMI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xXenYRkbKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
 
-**ピコン - ガランド ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 12/05/2020 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**I Think I Just Died**  
+Guiano  
+Last updated at 12/05/2020 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
