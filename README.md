@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**Ziqqurat / 雄之助 feat. 初音ミク**  
-雄之助/Yunosuke  
-Last updated at 12/06/2020 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor & Canonblade - Sakura**  
+Geoxor  
+Last updated at 12/06/2020 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
