@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwng792JcOY0RTXSFtC0ZyvRaooMbEhKJdZVxTcJFfw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**Panda Eyes x Lucid Dream**  
-Geoxor  
-Last updated at 12/06/2020 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**유노스케-SCALE BLASTER feat.하츠네 미쿠/雄之助 - SCALE BLASTER feat. 初音ミク**  
+雄之助/Yunosuke  
+Last updated at 12/06/2020 21:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
