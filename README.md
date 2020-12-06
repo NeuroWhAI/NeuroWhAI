@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**Geoxor & Canonblade - Sakura**  
+**Faerie**  
 Geoxor  
-Last updated at 12/06/2020 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 12/06/2020 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
