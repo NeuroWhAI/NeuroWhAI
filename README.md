@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**Twilight**  
-Geoxor  
-Last updated at 12/06/2020 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ziqqurat / 雄之助 feat. 初音ミク**  
+雄之助/Yunosuke  
+Last updated at 12/06/2020 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
