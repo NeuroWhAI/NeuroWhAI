@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwng792JcOY0RTXSFtC0ZyvRaooMbEhKJdZVxTcJFfw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**유노스케-SCALE BLASTER feat.하츠네 미쿠/雄之助 - SCALE BLASTER feat. 初音ミク**  
+**Yunosuke × tekalu - illusion feat. Hatsune Miku / 유노스케 × tekalu - illusion feat. 하츠네미쿠**  
 雄之助/Yunosuke  
-Last updated at 12/06/2020 21:30 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 12/07/2020 19:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
