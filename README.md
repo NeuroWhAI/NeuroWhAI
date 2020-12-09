@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**Geoxor @ Virtual Arcadia 2020 MIX**  
-Geoxor  
-Last updated at 12/09/2020 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**피노키오피 - 시크릿 히미츠 / PinocchioP - Secret HIMITSU**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 12/09/2020 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
