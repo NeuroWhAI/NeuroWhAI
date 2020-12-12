@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eu02EtwzYog/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cmfmDWBA4GE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrOFHhUbrHjFizTFG7NdOdw)
 
-**Ziqqurat / 雄之助 feat. 初音ミク**  
-雄之助  
-Last updated at 12/12/2020 21:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**バグラグ(feat.鳴花ヒメ)**  
+Seeeeecun  
+Last updated at 12/12/2020 21:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
