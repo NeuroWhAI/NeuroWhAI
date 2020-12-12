@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aDBe6DenUmg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**【初音ミク】リシェマ【オリジナル曲】**  
+**SCALE BLASTER(피처링: 하츠네 미쿠)**  
 雄之助  
-Last updated at 12/12/2020 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 12/12/2020 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
