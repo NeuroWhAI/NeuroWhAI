@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VVaNq9uSJgY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nfhzjvI6fp0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**[MV] REOL - ちるちる / ChiruChiru**  
-Reol  
-Last updated at 12/12/2020 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**【キック強め。】Ice Coffin【オリジナル曲】**  
+雄之助  
+Last updated at 12/12/2020 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
