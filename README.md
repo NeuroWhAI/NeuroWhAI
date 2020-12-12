@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/3e0u72O7CFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3e0u72O7CFI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hFg3WRqpQmg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxh2AsIrMjB7RE45IWdLQUA)
 
-**Future Sign(피처링: Rin Kagamine)**  
-市瀬るぽ  
-Last updated at 12/12/2020 21:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Cynic - ポリスピカデリー feat. 闇音レンリ / Police Piccadilly**  
+ポリスピカデリー  
+Last updated at 12/12/2020 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
