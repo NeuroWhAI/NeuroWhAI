@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/aDBe6DenUmg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**피노키오피 - 시크릿 히미츠 / PinocchioP - Secret HIMITSU**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 12/09/2020 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】リシェマ【オリジナル曲】**  
+雄之助  
+Last updated at 12/12/2020 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
