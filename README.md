@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UJ2Ld9xzAZY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PzG80-1hvJ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**【IA OFFICIAL】オーヴァークロック ｜ Neru (MUSIC VIDEO)**  
-1st PLACE  
-Last updated at 12/12/2020 22:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Itadaki no Noah(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 12/12/2020 22:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
