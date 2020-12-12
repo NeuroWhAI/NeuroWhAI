@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cmfmDWBA4GE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrOFHhUbrHjFizTFG7NdOdw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/K3G00S1vaw8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**バグラグ(feat.鳴花ヒメ)**  
-Seeeeecun  
-Last updated at 12/12/2020 21:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**〔れをる〕 サイバーサンダーサイダー 〔歌ってみた〕**  
+Reol  
+Last updated at 12/12/2020 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
