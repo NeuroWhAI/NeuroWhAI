@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/46MIgupU8UY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCD7pKXtQ-ZFixYZp8NYAY1Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**八王子P「Heart Chrome feat. 杏音鳥音」Music Video**  
-八王子P  
-Last updated at 12/12/2020 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 12/12/2020 22:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
