@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/K3G00S1vaw8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EKUBLenVvH4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**〔れをる〕 サイバーサンダーサイダー 〔歌ってみた〕**  
-Reol  
-Last updated at 12/12/2020 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**ビビッドヒーロー ／ DIVELA feat.初音ミク**  
+DIVELA  
+Last updated at 12/12/2020 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
