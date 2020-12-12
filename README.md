@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hFg3WRqpQmg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxh2AsIrMjB7RE45IWdLQUA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/RYsbNNRcnqc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf-ujhM6P-LFOdaLaepXg5g)
 
-**Cynic - ポリスピカデリー feat. 闇音レンリ / Police Piccadilly**  
-ポリスピカデリー  
-Last updated at 12/12/2020 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dear Hypnos**  
+EZFG  
+Last updated at 12/12/2020 21:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
