@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5vebKoO__8A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/78SmXHkkTEU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**[MV] れをる - 極彩色 / Gokusaishiki**  
-Reol  
-Last updated at 12/12/2020 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**ミライゲイザー ／ DIVELA feat.初音ミク**  
+DIVELA  
+Last updated at 12/12/2020 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
