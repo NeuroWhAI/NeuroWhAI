@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PzG80-1hvJ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5vebKoO__8A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**Itadaki no Noah(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 12/12/2020 22:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] れをる - 極彩色 / Gokusaishiki**  
+Reol  
+Last updated at 12/12/2020 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
