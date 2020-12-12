@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UFTfJnkYS8A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YhpME9uNu0E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**【IA OFFICIAL】SEE THE LIGHTS feat. IA / ASY (MUSIC VIDEO)**  
-1st PLACE  
-Last updated at 12/12/2020 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】リトル・ブレイブ・ストーリー【オリジナル曲】**  
+雄之助  
+Last updated at 12/12/2020 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
