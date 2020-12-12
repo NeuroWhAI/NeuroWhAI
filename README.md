@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7WhDyYJecjY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/46MIgupU8UY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCD7pKXtQ-ZFixYZp8NYAY1Q)
 
-**劣等上等 (Masayoshi Iimori Remix)**  
-Гига ft.Герик Горилла  
-Last updated at 12/12/2020 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**八王子P「Heart Chrome feat. 杏音鳥音」Music Video**  
+八王子P  
+Last updated at 12/12/2020 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
