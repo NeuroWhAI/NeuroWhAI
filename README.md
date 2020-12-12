@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UJ2Ld9xzAZY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 12/12/2020 22:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**【IA OFFICIAL】オーヴァークロック ｜ Neru (MUSIC VIDEO)**  
+1st PLACE  
+Last updated at 12/12/2020 22:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
