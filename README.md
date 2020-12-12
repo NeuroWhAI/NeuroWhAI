@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/78SmXHkkTEU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UFTfJnkYS8A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
 
-**ミライゲイザー ／ DIVELA feat.初音ミク**  
-DIVELA  
-Last updated at 12/12/2020 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**【IA OFFICIAL】SEE THE LIGHTS feat. IA / ASY (MUSIC VIDEO)**  
+1st PLACE  
+Last updated at 12/12/2020 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
