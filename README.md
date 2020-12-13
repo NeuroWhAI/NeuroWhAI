@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Txh4DZmcbPk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR29q3hGlpPRDrR1bk_8XqQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rR3UoWBtGsk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**そして夜と灯る feat.初音ミク**  
-하츠네 미쿠  
-Last updated at 12/13/2020 19:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**未来最終戦争**  
+DIVELA  
+Last updated at 12/13/2020 19:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
