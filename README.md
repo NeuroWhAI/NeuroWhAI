@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UhuDd9RrFOk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t66lw67WSOA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Geoxor - Velocity [Melbourne Bounce]**  
-Geoxor  
-Last updated at 12/13/2020 18:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sakura**  
+Geoxor 및 Canonblade  
+Last updated at 12/13/2020 18:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
