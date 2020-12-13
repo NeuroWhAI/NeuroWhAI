@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Uh9cxgAX3kA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xXenYRkbKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
 
-**Galaxica(피처링: Subkey)**  
-Panda Eyes  
-Last updated at 12/13/2020 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**I Think I Just Died**  
+Guiano  
+Last updated at 12/13/2020 18:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
