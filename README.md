@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-wzLZ6Ti7-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**レントリリー**  
-ジグ  
-Last updated at 12/13/2020 18:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Orangestar - Sunflower (feat. 夏背.) Official Video**  
+Orangestar  
+Last updated at 12/13/2020 19:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
