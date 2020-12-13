@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_xXenYRkbKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
 
-**I Think I Just Died**  
-Guiano  
-Last updated at 12/13/2020 18:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**レントリリー**  
+ジグ  
+Last updated at 12/13/2020 18:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
