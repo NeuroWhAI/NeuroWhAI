@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5kIeUb5AE4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/CLywtSOj4NA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**ぼかろころしあむ**  
-DIVELA  
-Last updated at 12/16/2020 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sky Passing Around, Moon Rabbit**  
+Orangestar  
+Last updated at 12/16/2020 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
