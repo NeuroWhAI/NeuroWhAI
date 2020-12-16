@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Tj5KVAnqB5o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zSfMHbogn00/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Uz**  
-Orangestar  
-Last updated at 12/16/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - ポジティブ・パレード feat. 初音ミク**  
+DECO*27  
+Last updated at 12/16/2020 21:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
