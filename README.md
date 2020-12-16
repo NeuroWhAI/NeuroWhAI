@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hxSg2Ioz3LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5kIeUb5AE4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**DECO*27 - ヒバナ feat. 初音ミク**  
-DECO*27  
-Last updated at 12/16/2020 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**ぼかろころしあむ**  
+DIVELA  
+Last updated at 12/16/2020 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
