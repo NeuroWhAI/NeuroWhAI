@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xXenYRkbKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNXW28yOcvLAkTtkvceZt6g)
 
-**レントリリー**  
-ジグ  
-Last updated at 12/16/2020 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**シンデシマッタノダロウカ**  
+Guiano  
+Last updated at 12/16/2020 20:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
