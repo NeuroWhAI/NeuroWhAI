@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EpFxTXgElLA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7zwCIz-Ohn4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**【初音ミク】 夜明けと蛍 【オリジナル】**  
-나부나  
-Last updated at 12/16/2020 21:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク**  
+DECO*27  
+Last updated at 12/16/2020 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
