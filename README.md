@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/CLywtSOj4NA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yJTQuDCnMjg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
 
-**Sky Passing Around, Moon Rabbit**  
-Orangestar  
-Last updated at 12/16/2020 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**じん / ロスタイムメモリー 【OFFICIAL MUSIC VIDEO】**  
+Jin  
+Last updated at 12/16/2020 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
