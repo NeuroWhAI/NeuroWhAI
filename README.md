@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
 
-**ピノキオピー - 404 feat. 初音ミク**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 12/13/2020 20:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】透明エレジー【オリジナル曲】**  
+나부나  
+Last updated at 12/16/2020 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
