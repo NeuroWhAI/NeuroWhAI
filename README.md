@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
 
-**【GUMI】透明エレジー【オリジナル曲】**  
-나부나  
-Last updated at 12/16/2020 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**レントリリー**  
+ジグ  
+Last updated at 12/16/2020 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
