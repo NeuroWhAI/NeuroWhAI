@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8pGRdRhjX3o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Tj5KVAnqB5o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**DECO*27 - 妄想感傷代償連盟 feat. 初音ミク**  
-DECO*27  
-Last updated at 12/16/2020 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**Uz**  
+Orangestar  
+Last updated at 12/16/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
