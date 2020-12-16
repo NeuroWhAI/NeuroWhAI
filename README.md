@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7zwCIz-Ohn4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qB4xRKllyeI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク**  
-DECO*27  
-Last updated at 12/16/2020 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**じん / サマータイムレコード【OFFICIAL MUSIC VIDEO】**  
+Jin  
+Last updated at 12/16/2020 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
