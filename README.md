@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aPDaFGqMX4I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jQmYZWjLwzw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**じん / 夜咄ディセイブ【OFFICIAL MUSIC VIDEO】**  
-Jin  
-Last updated at 12/16/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alice in 冷凍庫**  
+Orangestar  
+Last updated at 12/16/2020 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
