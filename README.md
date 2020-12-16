@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jQmYZWjLwzw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/veRs6lGa4Lw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
 
-**Alice in 冷凍庫**  
-Orangestar  
-Last updated at 12/16/2020 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**石風呂 / 壊れぬハートが欲しいのだ【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 12/16/2020 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
