@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qB4xRKllyeI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCffP6jI_WwWpYOJt6d8tPvQ)
 
-**じん / サマータイムレコード【OFFICIAL MUSIC VIDEO】**  
-Jin  
-Last updated at 12/16/2020 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yunomix vol. 4**  
+Yunomi  
+Last updated at 12/19/2020 14:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
