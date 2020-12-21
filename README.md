@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/NmctjxO7-7JaD_46R6UvMAz9nmDRYtrJZPLA1D1KW0RhL8UR4bZrJQ_MwLpUvJtjbqBj04nvwXHDLsgT">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
 
-**ピコン - 人間だった ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 12/21/2020 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**All Alone with You**  
+EGOIST  
+Last updated at 12/21/2020 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
