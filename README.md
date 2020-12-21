@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/HfX2KKa4oDYN3DPfy001J4rTUmgcJtC40LLDuhUP7LTIeVv6PkCWlPIZAl9qPEwLT8koTNWjUL-koQ">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**ケガレの唄**  
-羽生まゐご  
-Last updated at 12/21/2020 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Picon - 生活があった**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 12/21/2020 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
