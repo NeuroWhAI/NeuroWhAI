@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FD5SzIzS2QE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnBE8jzjUi5sTGRNa9o5Oew)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**テオ**  
-알파큥.  
-Last updated at 12/21/2020 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**言って。**  
+요루시카  
+Last updated at 12/21/2020 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
