@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/K8G2mb7ywa6h3K7Co_An_gSHzS87UdDZC_pYm1L_PsI0wDwIDlqrtDTJdInhYdJPdqy7aD1SQKffdzs2">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/RIEFE_qpS_rr77RfZK088GWdigBxA9DgZk1vqle1nq0bNJYW187iW_fscCjxhgJYvvFkGRW8mcjVzLk">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
 
-**痣**  
-羽生まゐご  
-Last updated at 12/21/2020 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Apropos**  
+Mittsies  
+Last updated at 12/21/2020 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
