@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/FD5SzIzS2QE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnBE8jzjUi5sTGRNa9o5Oew)
 
-**Picon - 生活があった**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 12/21/2020 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**テオ**  
+알파큥.  
+Last updated at 12/21/2020 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
