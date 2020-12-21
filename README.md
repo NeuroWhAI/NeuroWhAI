@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/98RjRKBpBcgCec2JQqJkAtQYjwx6P-nBmFwFfh0Wq2DYBQO5OfBT_azFDir9m6r0Q7ZWNC5jG5dlNJaA">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**Jigokuwadokodesuenmasama**  
-하뉴 마이고  
-Last updated at 12/21/2020 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**homura**  
+LiSA(리사)  
+Last updated at 12/21/2020 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
