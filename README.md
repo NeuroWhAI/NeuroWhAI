@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**ピノキオピー - ラヴィット feat. 初音ミク / Loveit**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 12/21/2020 18:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**Jigokuwadokodesuenmasama**  
+하뉴 마이고  
+Last updated at 12/21/2020 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
