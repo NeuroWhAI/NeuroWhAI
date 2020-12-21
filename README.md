@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/nOsbDM8hv64TUzKc-Wip0TgDioe0ez1_d-JjtcTxtDV_1pFrsRzzAc9FsB5UustZONoZN59hZOz4aPcr-g">](https://music.youtube.com/channel/UCWGLQ8EGHWN3-zqV8ttaRMg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/K8G2mb7ywa6h3K7Co_An_gSHzS87UdDZC_pYm1L_PsI0wDwIDlqrtDTJdInhYdJPdqy7aD1SQKffdzs2">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**Final Boss**  
-니트로 펀  
-Last updated at 12/21/2020 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**痣**  
+羽生まゐご  
+Last updated at 12/21/2020 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
