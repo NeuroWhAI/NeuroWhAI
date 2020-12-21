@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**Love poem**  
-아이유(IU)  
-Last updated at 12/21/2020 20:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - 人間だった ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 12/21/2020 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
