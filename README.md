@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/98RjRKBpBcgCec2JQqJkAtQYjwx6P-nBmFwFfh0Wq2DYBQO5OfBT_azFDir9m6r0Q7ZWNC5jG5dlNJaA">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**homura**  
-LiSA(리사)  
-Last updated at 12/21/2020 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Timeless**  
+Geoxor  
+Last updated at 12/21/2020 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
