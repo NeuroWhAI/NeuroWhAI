@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/NmctjxO7-7JaD_46R6UvMAz9nmDRYtrJZPLA1D1KW0RhL8UR4bZrJQ_MwLpUvJtjbqBj04nvwXHDLsgT">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/qDiKlbRhUGw1ZRbrT-Zp6xuoULlYscE9ngGSeUW2bHtgcf3CffeUqI2xRYm43RSSaqqo9yVmyeKPpPLqfQ">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**All Alone with You**  
-EGOIST  
-Last updated at 12/21/2020 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Long Times**  
+Geoxor  
+Last updated at 12/21/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
