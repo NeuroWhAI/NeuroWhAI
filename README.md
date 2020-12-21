@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCffP6jI_WwWpYOJt6d8tPvQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**Yunomix vol. 4**  
-Yunomi  
-Last updated at 12/19/2020 14:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - ラヴィット feat. 初音ミク / Loveit**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 12/21/2020 18:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
