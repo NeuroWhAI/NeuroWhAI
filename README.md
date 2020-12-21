@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/qDiKlbRhUGw1ZRbrT-Zp6xuoULlYscE9ngGSeUW2bHtgcf3CffeUqI2xRYm43RSSaqqo9yVmyeKPpPLqfQ">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/nOsbDM8hv64TUzKc-Wip0TgDioe0ez1_d-JjtcTxtDV_1pFrsRzzAc9FsB5UustZONoZN59hZOz4aPcr-g">](https://music.youtube.com/channel/UCWGLQ8EGHWN3-zqV8ttaRMg)
 
-**Long Times**  
-Geoxor  
-Last updated at 12/21/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Final Boss**  
+니트로 펀  
+Last updated at 12/21/2020 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
