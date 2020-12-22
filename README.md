@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/RIEFE_qpS_rr77RfZK088GWdigBxA9DgZk1vqle1nq0bNJYW187iW_fscCjxhgJYvvFkGRW8mcjVzLk">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhCqRvaNkRCv12xsQgreTiOgHlk5QlOp4d_pESSpQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCuvdmRlSWAlwB_rJZgg1cmQ)
 
-**Apropos**  
-Mittsies  
-Last updated at 12/21/2020 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**HYUKOH(혁오) - TOMBOY(톰보이 뮤직비디오) M/V**  
+HYUKOH  
+Last updated at 12/22/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
