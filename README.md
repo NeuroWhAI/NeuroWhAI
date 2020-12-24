@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UGzd2dnkhME/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
 
-**夜明け前に飛び乗って / feat. 初音ミク**  
-MIMI  
-Last updated at 12/24/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**最後の晩餐**  
+미스미  
+Last updated at 12/24/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
