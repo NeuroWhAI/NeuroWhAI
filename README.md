@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/3k6cHJn3eLE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxYm3OtJKDBIcvkBBWf2SJA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IkGB5ncYhtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**ロボティックガール(피처링: nicamoq)**  
-유노미  
-Last updated at 12/24/2020 20:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**BREAK IT(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 12/24/2020 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
