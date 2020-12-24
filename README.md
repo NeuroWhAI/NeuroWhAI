@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rzamOqbbBfQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**レントリリー**  
-ジグ  
-Last updated at 12/24/2020 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**モーメント / feat.初音ミク**  
+MIMI  
+Last updated at 12/24/2020 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
