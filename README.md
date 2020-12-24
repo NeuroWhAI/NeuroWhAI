@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Txh4DZmcbPk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**Aunnobeats (Ujico*Remix)**  
-하뉴 마이고 및 우지코  
-Last updated at 12/24/2020 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**そして夜と灯る feat.初音ミク**  
+MIMI  
+Last updated at 12/24/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
