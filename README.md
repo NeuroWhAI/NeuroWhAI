@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qtuX4cHk-vE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/44lW4WTZZjM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
 
-**マシュマリー / feat.初音ミク**  
-MIMI  
-Last updated at 12/24/2020 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**kanojo wa tabinideru**  
+sana  
+Last updated at 12/24/2020 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
