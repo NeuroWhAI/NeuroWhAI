@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q5XzviXSHQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**最後の晩餐**  
-미스미  
-Last updated at 12/24/2020 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**何もない様な / feat.初音ミク**  
+MIMI  
+Last updated at 12/24/2020 21:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
