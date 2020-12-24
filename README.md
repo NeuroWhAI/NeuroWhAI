@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/r5xaccIl1Ps/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qtuX4cHk-vE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**SorrowChat / 初音ミク**  
+**マシュマリー / feat.初音ミク**  
 MIMI  
-Last updated at 12/24/2020 20:35 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 12/24/2020 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
