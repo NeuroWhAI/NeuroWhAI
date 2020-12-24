@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/b1HU3sPr1Cw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**【初音ミク】エル・ドラド【オリジナル曲】**  
-雄之助  
-Last updated at 12/24/2020 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**MIMI『 Pale 』feat. 初音ミク**  
+MIMI  
+Last updated at 12/24/2020 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
