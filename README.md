@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Txh4DZmcbPk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GDV32AUXgsw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**そして夜と灯る feat.初音ミク**  
-MIMI  
-Last updated at 12/24/2020 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**ChikyuWoAgeru**  
+하루마키고한  
+Last updated at 12/24/2020 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
