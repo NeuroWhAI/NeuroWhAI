@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q5XzviXSHQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0X_pI_SCDK8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**何もない様な / feat.初音ミク**  
-MIMI  
-Last updated at 12/24/2020 21:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**CobaltMemories**  
+하루마키고한  
+Last updated at 12/24/2020 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
