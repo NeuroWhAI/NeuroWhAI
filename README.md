@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UGzd2dnkhME/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**Reunion (はるまきごはんVocal ver.)**  
-하루마키고한  
-Last updated at 12/24/2020 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**夜明け前に飛び乗って / feat. 初音ミク**  
+MIMI  
+Last updated at 12/24/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
