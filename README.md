@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/h1poqc119N0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxYm3OtJKDBIcvkBBWf2SJA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/b1HU3sPr1Cw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**インドア系ならトラックメイカー/covered by キズナアイ【歌ってみた】(피처링: 키즈나 아이)**  
-유노미  
-Last updated at 12/24/2020 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】エル・ドラド【オリジナル曲】**  
+雄之助  
+Last updated at 12/24/2020 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
