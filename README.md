@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/44lW4WTZZjM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TuKfadan6Ys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuEV3YfFZ3xUZGZKiMdIgBA)
 
-**kanojo wa tabinideru**  
-sana  
-Last updated at 12/24/2020 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**レントリリー**  
+ジグ  
+Last updated at 12/24/2020 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
