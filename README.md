@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhCqRvaNkRCv12xsQgreTiOgHlk5QlOp4d_pESSpQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCuvdmRlSWAlwB_rJZgg1cmQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3k6cHJn3eLE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxYm3OtJKDBIcvkBBWf2SJA)
 
-**HYUKOH(혁오) - TOMBOY(톰보이 뮤직비디오) M/V**  
-HYUKOH  
-Last updated at 12/22/2020 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**ロボティックガール(피처링: nicamoq)**  
+유노미  
+Last updated at 12/24/2020 20:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
