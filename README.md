@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - SLoWMoTIoN feat.Hatsune Miku / 피노키오P - 슬로우 모션**  
+**PinocchioP - All I Need are Things I Like / 피노키오P - 좋아하는 것만으로도 괜찮아요**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 12/27/2020 14:58 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 12/27/2020 15:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
