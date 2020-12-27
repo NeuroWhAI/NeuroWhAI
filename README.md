@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VHgiGuVdLEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VHgiGuVdLEA)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwng792JcOY0RTXSFtC0ZyvRaooMbEhKJdZVxTcJFfw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**ロンリーユニバース**  
-Aqu3ra  
-Last updated at 12/24/2020 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】ループメモリー【Original】**  
+雄之助/Yunosuke  
+Last updated at 12/27/2020 12:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
