@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniczCxXMcx7lvDFhwtMMNAOb2jpraBChx1vZZUSyw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCBHddZ8LVkY3wlfpz6MFVGw)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**Yasuha. - 사랑하고 있다 feat. 하츠네 미쿠 【오리지널 송】뮤직 비디오**  
-Yasuha. Official  
-Last updated at 12/27/2020 14:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**PinocchioP - I'm glad you're evil too / 피노키오P - 너도 나쁜 사람이라 다행이야**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 12/27/2020 14:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
