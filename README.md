@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**PinocchioP - I'm glad you're evil too / 피노키오P - 너도 나쁜 사람이라 다행이야**  
+**ピノキオピー - 君が生きてなくてよかった feat. 初音ミク / Thanks for being Lifeless**  
 ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 12/27/2020 14:28 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 12/27/2020 14:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
