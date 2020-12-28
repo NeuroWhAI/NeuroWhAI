@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/335VWT_Fcyc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFEwOFWlPNbVprYBsLKWeJA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rDRl_Uq1xYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCErqlFVSB-v_g7tz59BikvQ)
 
-**アマテラス / HarryP ft.初音ミク (Official Music Video)**  
-HarryP（はりーP）  
-Last updated at 12/28/2020 13:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**『繰り返し一粒』【鹿乃(かの)】中日字幕**  
+Evening  
+Last updated at 12/28/2020 13:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
