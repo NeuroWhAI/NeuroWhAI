@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LOKM9Gl3cA4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2O7Lfbhn5x5p5mCEldX8Sw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7y3DwuVxDq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrALFGPubY9rNwVOOJUYu4g)
 
-**みゆはん「ぼくのフレンド」-TVサイズ-（TVアニメ『けものフレンズ』EDテーマ）　MV**  
-Mewhan  
-Last updated at 12/28/2020 12:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**灰色と青／cover そらる×まふまふ**  
+そらるチャンネル / Soraru Channel  
+Last updated at 12/28/2020 12:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
