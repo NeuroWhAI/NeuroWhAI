@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q4ZMtyottnY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy7XqnTnH-NtYz3S1Tx-11g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/X_vcG9TQChQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1P7ivmEQMok4gz4xtG7mDQ)
 
-**パスピエ (PASSEPIED) - Love is Gold**  
-Xabier Vera Díaz  
-Last updated at 12/28/2020 13:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**【nory】超有名ボカロ楽曲をShape of Youにのせて歌ってみた**  
+nory  
+Last updated at 12/28/2020 13:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
