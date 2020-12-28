@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4vaAzmbQsVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxasUyz_GaQta-2NZWcQJCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/j3IRIkbjJX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g)
 
-**【東方Vocal】「眠らない夜に星が降る」 TUMENECO**  
-Arturia Pendragon  
-Last updated at 12/28/2020 12:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**そらる-人間だった【歌ってみた】**  
+Soraru(소라루)  
+Last updated at 12/28/2020 12:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
