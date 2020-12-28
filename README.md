@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/luP_-_usUoE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ZksUjrxM8LKjA49AbZjXg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LOKM9Gl3cA4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2O7Lfbhn5x5p5mCEldX8Sw)
 
-**【初音ミク - Hatsune Miku Append】Weißer Schnee【Original】**  
-Jrharbort Productions  
-Last updated at 12/28/2020 12:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**みゆはん「ぼくのフレンド」-TVサイズ-（TVアニメ『けものフレンズ』EDテーマ）　MV**  
+Mewhan  
+Last updated at 12/28/2020 12:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
