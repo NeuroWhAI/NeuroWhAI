@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/XeTZcFKJrQo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPtpkLMI1l_tY4w3aqz4HZA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-**果てにはハテナ／鏡音リン**  
-ぽて / Pote  
-Last updated at 12/28/2020 13:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**델리스파이스 - 챠우챠우 (1997年)**  
+pops8090  
+Last updated at 12/28/2020 13:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
