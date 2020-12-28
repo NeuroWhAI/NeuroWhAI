@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rDRl_Uq1xYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCErqlFVSB-v_g7tz59BikvQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/P3AiQy1pOV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy7XqnTnH-NtYz3S1Tx-11g)
 
-**『繰り返し一粒』【鹿乃(かの)】中日字幕**  
-Evening  
-Last updated at 12/28/2020 13:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**パスピエ (PASSEPIED) - ラストダンス (Last Dance)**  
+Xabier Vera Díaz  
+Last updated at 12/28/2020 13:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
