@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/X_vcG9TQChQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1P7ivmEQMok4gz4xtG7mDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/R6pVI4M_DZE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfX8HOlEgj6rfK2Hp3hpKCg)
 
-**【nory】超有名ボカロ楽曲をShape of Youにのせて歌ってみた**  
-nory  
-Last updated at 12/28/2020 13:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**넬 기억을 걷는 시간 가사**  
+ᅥᅣᅥᅣ  
+Last updated at 12/28/2020 13:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
