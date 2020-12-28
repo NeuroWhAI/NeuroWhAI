@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/P3AiQy1pOV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy7XqnTnH-NtYz3S1Tx-11g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XeTZcFKJrQo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPtpkLMI1l_tY4w3aqz4HZA)
 
-**パスピエ (PASSEPIED) - ラストダンス (Last Dance)**  
-Xabier Vera Díaz  
-Last updated at 12/28/2020 13:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**果てにはハテナ／鏡音リン**  
+ぽて / Pote  
+Last updated at 12/28/2020 13:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
