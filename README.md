@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7y3DwuVxDq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrALFGPubY9rNwVOOJUYu4g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/335VWT_Fcyc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFEwOFWlPNbVprYBsLKWeJA)
 
-**灰色と青／cover そらる×まふまふ**  
-そらるチャンネル / Soraru Channel  
-Last updated at 12/28/2020 12:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**アマテラス / HarryP ft.初音ミク (Official Music Video)**  
+HarryP（はりーP）  
+Last updated at 12/28/2020 13:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
