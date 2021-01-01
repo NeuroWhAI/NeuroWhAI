@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ayg2A2JoRzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmwTXJIYcoV2vzQswb1eLlw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wgBZylNg6U0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
 
-**【BOFU2016】Re：End of a Dream / uma vs. モリモリあつし【BGA】**  
-모리모리아츠시  
-Last updated at 01/01/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**cheatreal**  
+토파조라이트  
+Last updated at 01/01/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
