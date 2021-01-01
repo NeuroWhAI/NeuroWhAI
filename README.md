@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Ji5YExbaf1Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ji5YExbaf1Y)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/79LwIdheZts/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCpTpszeiaSs938KEIXZRNcQ)
 
-**物凄い狂っとるフランちゃんが物凄いうた**  
-Halozy  
-Last updated at 01/01/2021 22:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**ego**  
+sasakure.UK  
+Last updated at 01/01/2021 22:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
