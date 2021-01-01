@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eCm--tb5SKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fgtwncI3RuM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-**Utopiosphere**  
+**Nine Point Eight**  
 Mili  
-Last updated at 01/01/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 01/01/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
