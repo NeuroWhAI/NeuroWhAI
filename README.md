@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/G9jQ23oKuaY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0j7oRmuvkXehGz0onsu_qg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/M1aAzGM0DoM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-BMmo6R55fikE2uQe26uDA)
 
-**SILVANA ❡ 人間だった ❡ 歌ってみた**  
-SILVANA -しるばーな-  
-Last updated at 01/01/2021 14:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**FantasticYouth - 「Space Saver」 (Lyric Video)**  
+FantasticYouth  
+Last updated at 01/01/2021 14:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
