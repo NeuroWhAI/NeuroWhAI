@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ESx_hy1n7HA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/me4cOQfUQ9o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKDJD97mRyn7EG9FXw8twUA)
 
-**world.execute (me) ;**  
-Mili  
-Last updated at 01/01/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**USAO - WildFire**  
+USAO  
+Last updated at 01/01/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
