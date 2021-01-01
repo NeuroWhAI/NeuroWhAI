@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/piAINQpjxdAeExwKlhCG1yFlLMETw1GSF8c8hBYUHk-sv42GUKTZJjmGtjTV9UH2X_85nPv5N3r9UhIu">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eCm--tb5SKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-**Pastel Rain**  
-삼월의 판타시아  
-Last updated at 01/01/2021 19:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Utopiosphere**  
+Mili  
+Last updated at 01/01/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
