@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fgtwncI3RuM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/j2FRjbvb60Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC11uFYc6xHggXXmjLnepqOA)
 
-**Nine Point Eight**  
-Mili  
-Last updated at 01/01/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Chocolate Missile**  
+Alice Schach and the Magic Orchestra  
+Last updated at 01/01/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
