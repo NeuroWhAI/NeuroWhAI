@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/M7FH1dL51oU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uOLBLf89pFk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAixQ94Ie4FJXkJNx-5rhxA)
 
-**ツユ - 泥の分際で私だけの大切を奪おうだなんて MV**  
-TUYU  
-Last updated at 01/01/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Debug**  
+Canonblade  
+Last updated at 01/01/2021 19:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
