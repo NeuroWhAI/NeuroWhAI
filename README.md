@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/R6pVI4M_DZE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfX8HOlEgj6rfK2Hp3hpKCg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/G9jQ23oKuaY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0j7oRmuvkXehGz0onsu_qg)
 
-**넬 기억을 걷는 시간 가사**  
-ᅥᅣᅥᅣ  
-Last updated at 12/28/2020 13:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**SILVANA ❡ 人間だった ❡ 歌ってみた**  
+SILVANA -しるばーな-  
+Last updated at 01/01/2021 14:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
