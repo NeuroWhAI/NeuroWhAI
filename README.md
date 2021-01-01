@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnj0-30wlXGY3RmmzhPOIdYi28eD9e8KdF71uY1s=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCxlhN8pzd3lxMAOumdMgkoQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhQXAZprAcL0MRHw35zXO5CzpHTC5ZIcSHIWrGg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCOgniGxG01lnJyr6zMstfQg)
 
-**KEMURIKUSA / ナノ Music Video**  
-ナノ  
-Last updated at 01/01/2021 14:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Boku no Friend (acoustic ver.)**  
+みゆはん  
+Last updated at 01/01/2021 15:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
