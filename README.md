@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ausqr8vTMgc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DptxummxCd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKDJD97mRyn7EG9FXw8twUA)
 
-**You Are the Miserable (Laur Remix)**  
-토파조라이트  
-Last updated at 01/01/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**Extra Mode**  
+USAO  
+Last updated at 01/01/2021 22:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
