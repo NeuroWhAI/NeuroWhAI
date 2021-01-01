@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LysVlPg2fd8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qZSSJk6OHdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVilBDWd-gHrw84XEZi3EMQ)
 
-**50.000**  
-ColBreakz  
-Last updated at 01/01/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Creo - Carnivores**  
+Creo  
+Last updated at 01/01/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
