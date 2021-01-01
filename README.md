@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/g_hYkzSk9ZA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Ji5YExbaf1Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ji5YExbaf1Y)
 
-**星屑ストラック (かねこちはる Remix)**  
-토파조라이트  
-Last updated at 01/01/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**物凄い狂っとるフランちゃんが物凄いうた**  
+Halozy  
+Last updated at 01/01/2021 22:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
