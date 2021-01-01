@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Eo56HTijkQ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCltRu6wGcfC-bFZ1V3ROplQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/A0fAuX8jiPk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyME5tzW9Q72KNotx1m9BsQ)
 
-**Space Magic**  
-meganeko  
-Last updated at 01/01/2021 20:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hyper Beam**  
+MDK  
+Last updated at 01/01/2021 20:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
