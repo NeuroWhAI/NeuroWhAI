@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qZSSJk6OHdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVilBDWd-gHrw84XEZi3EMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rIPOOoQxquE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
 
-**Creo - Carnivores**  
-Creo  
-Last updated at 01/01/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**CENSORED!!**  
+토파조라이트  
+Last updated at 01/01/2021 21:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
