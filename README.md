@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DptxummxCd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKDJD97mRyn7EG9FXw8twUA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/J6d3_JEh5Aw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaPioftns9XiA3kqIdQsBjg)
 
-**Extra Mode**  
-USAO  
-Last updated at 01/01/2021 22:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**Extra No. 3**  
+Srav3R  
+Last updated at 01/01/2021 22:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
