@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/etS-H8CFJrQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCermf7vqBLEsYL-X_8gBcUg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GcopfMYIApQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**Bloom - Light Year**  
-Firefly Music  
-Last updated at 01/01/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**2011**  
+ColBreakz  
+Last updated at 01/01/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
