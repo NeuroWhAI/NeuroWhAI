@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uOLBLf89pFk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAixQ94Ie4FJXkJNx-5rhxA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qZSSJk6OHdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVilBDWd-gHrw84XEZi3EMQ)
 
-**Debug**  
-Canonblade  
-Last updated at 01/01/2021 19:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**Creo - Carnivores**  
+Creo  
+Last updated at 01/01/2021 19:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
