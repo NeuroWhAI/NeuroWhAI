@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/j2FRjbvb60Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC11uFYc6xHggXXmjLnepqOA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6rg4cYlAKOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
 
-**Chocolate Missile**  
-Alice Schach and the Magic Orchestra  
-Last updated at 01/01/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**ツユ - ルーザーガール MV**  
+TUYU  
+Last updated at 01/01/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
