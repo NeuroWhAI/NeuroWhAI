@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/79LwIdheZts/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCpTpszeiaSs938KEIXZRNcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**ego**  
-sasakure.UK  
-Last updated at 01/01/2021 22:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
+피노키오P  
+Last updated at 01/01/2021 22:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
