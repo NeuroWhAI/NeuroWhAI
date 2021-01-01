@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/M1aAzGM0DoM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-BMmo6R55fikE2uQe26uDA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hrC4oVdGShk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC304KabOlVyOtGpdr-d6ocw)
 
-**FantasticYouth - 「Space Saver」 (Lyric Video)**  
-FantasticYouth  
-Last updated at 01/01/2021 14:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MIDI] The River (Ghosts Of Paraguay) [SC-88Pro]**  
+SomethingUnreal  
+Last updated at 01/01/2021 14:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
