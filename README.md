@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0MZvDD_sy-w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8yTwXwzu-FnTF-Bgh4fSdQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Years**  
-Dex Arson  
-Last updated at 01/01/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヒビワレタセカイ**  
+마지코  
+Last updated at 01/01/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
