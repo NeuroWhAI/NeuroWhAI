@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wgBZylNg6U0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eKyQvs6tCRM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA)
 
-**cheatreal**  
-토파조라이트  
-Last updated at 01/01/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Light it up**  
+카메리아  
+Last updated at 01/01/2021 22:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
