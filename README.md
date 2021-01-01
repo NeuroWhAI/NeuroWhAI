@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/o5XuvEwxRrs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIk2NPkHRvKH68OrDI_DvNQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/JISrUAqMiiw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPqdosHDisK1BfmB0hsmccg)
 
-**KUWAGO - Let's start!**  
-KUWAGO  
-Last updated at 01/01/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dance of The Violins**  
+F-777  
+Last updated at 01/01/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
