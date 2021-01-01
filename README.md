@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/pzjLccPoGUs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5j7WhhhayPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**Inochini Kirawareteiru**  
-마지코  
-Last updated at 01/01/2021 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**75.000**  
+ColBreakz  
+Last updated at 01/01/2021 21:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
