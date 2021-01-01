@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hrC4oVdGShk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC304KabOlVyOtGpdr-d6ocw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnj0-30wlXGY3RmmzhPOIdYi28eD9e8KdF71uY1s=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCxlhN8pzd3lxMAOumdMgkoQ)
 
-**[MIDI] The River (Ghosts Of Paraguay) [SC-88Pro]**  
-SomethingUnreal  
-Last updated at 01/01/2021 14:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**KEMURIKUSA / ナノ Music Video**  
+ナノ  
+Last updated at 01/01/2021 14:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
