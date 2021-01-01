@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/J6d3_JEh5Aw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaPioftns9XiA3kqIdQsBjg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/g_hYkzSk9ZA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
 
-**Extra No. 3**  
-Srav3R  
-Last updated at 01/01/2021 22:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**星屑ストラック (かねこちはる Remix)**  
+토파조라이트  
+Last updated at 01/01/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
