@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/pzjLccPoGUs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**ヒビワレタセカイ**  
+**Inochini Kirawareteiru**  
 마지코  
-Last updated at 01/01/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 01/01/2021 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
