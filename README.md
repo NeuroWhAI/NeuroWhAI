@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/c5Myyr6vNxg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRtRVVWUEfIGOC2C2WW6_Uw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/6J0T0785CFS99wVCmzT9RsSYOAvzL-UYZtEnoRWYeEOb-eOudZLOW0uVaxXBlwJ5csOOXPDXTCTxANN7">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Skrillex - First of the year (Shirakami Fubuki Mix)**  
-Kanoeki  
-Last updated at 01/02/2021 16:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hibiwareta Sekai**  
+마지코  
+Last updated at 01/02/2021 16:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
