@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EnDXGQmCz3U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Vitality - Helltaker**  
-Mittsies  
-Last updated at 01/02/2021 16:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**だから僕は音楽を辞めた**  
+요루시카  
+Last updated at 01/02/2021 16:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
