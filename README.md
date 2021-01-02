@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/A0fAuX8jiPk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyME5tzW9Q72KNotx1m9BsQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1SAXBLZLYbA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1SAXBLZLYbA)
 
-**Hyper Beam**  
-MDK  
-Last updated at 01/02/2021 14:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Monster**  
+테미니트, Chime, PsoGnar  
+Last updated at 01/02/2021 14:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
