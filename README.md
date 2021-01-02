@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yidw4BplBf4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yidw4BplBf4)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Shockwave**  
-MDK, Travis Montgomery  
-Last updated at 01/02/2021 15:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**DSCF**  
+DECO*27  
+Last updated at 01/02/2021 15:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
