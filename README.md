@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/IJ5pvZ8l0mPjVzbDW7LXfVwWwZmIRFQgYBWvw4M53ketQjsHsloIWxUaioZNJ7cUTiG5uwfvVMGqE0g">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**Lucid Dream**  
-Geoxor 및 Panda Eyes  
-Last updated at 01/02/2021 15:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Love poem**  
+아이유(IU)  
+Last updated at 01/02/2021 15:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
