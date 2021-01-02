@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
 
-**だから僕は音楽を辞めた**  
-요루시카  
-Last updated at 01/02/2021 16:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**ツギハギスタッカート**  
+とあ feat.IA  
+Last updated at 01/02/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
