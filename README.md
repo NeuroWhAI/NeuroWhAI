@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/WS4wMpGKiFkNvUEi3MjeeLuPQdcK6ihgdqHI1wjI7M5KUZNQwFmmw8fB2wAsXoFCywwHhbO41U3ehJHw">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
 
-**Timeless**  
-Geoxor  
-Last updated at 01/02/2021 16:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Highscore**  
+Panda Eyes & Teminite  
+Last updated at 01/02/2021 16:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
