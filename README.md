@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LysVlPg2fd8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
-피노키오P  
-Last updated at 01/01/2021 22:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**50.000**  
+ColBreakz  
+Last updated at 01/02/2021 13:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
