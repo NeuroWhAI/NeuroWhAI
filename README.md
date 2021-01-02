@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/pDeLjEXcUBA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs12lDmnCNPKIPpApA4ujOQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LRK3BKHX6pI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**Zaphkiel**  
-Kolkian  
-Last updated at 01/02/2021 14:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dex Arson - Rampage (ColBreakz Remix)**  
+ColBreakz  
+Last updated at 01/02/2021 14:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
