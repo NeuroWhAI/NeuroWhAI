@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/F0PUVKfxkTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCG6QEHCBfWZOnv7UVxappyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yidw4BplBf4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yidw4BplBf4)
 
-**Bossfight - Nock Em**  
-DubstepGutter  
-Last updated at 01/02/2021 15:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Shockwave**  
+MDK, Travis Montgomery  
+Last updated at 01/02/2021 15:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
