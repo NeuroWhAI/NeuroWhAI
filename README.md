@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/6J0T0785CFS99wVCmzT9RsSYOAvzL-UYZtEnoRWYeEOb-eOudZLOW0uVaxXBlwJ5csOOXPDXTCTxANN7">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EnDXGQmCz3U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
 
-**Hibiwareta Sekai**  
-마지코  
-Last updated at 01/02/2021 16:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Vitality - Helltaker**  
+Mittsies  
+Last updated at 01/02/2021 16:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
