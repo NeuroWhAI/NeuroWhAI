@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/c5Myyr6vNxg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRtRVVWUEfIGOC2C2WW6_Uw)
 
-**Make Me Strong**  
-Geoxor  
-Last updated at 01/02/2021 16:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Skrillex - First of the year (Shirakami Fubuki Mix)**  
+Kanoeki  
+Last updated at 01/02/2021 16:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
