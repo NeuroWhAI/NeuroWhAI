@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jOWdxMs_1LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/A0fAuX8jiPk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyME5tzW9Q72KNotx1m9BsQ)
 
-**You & Me**  
-ColBreakz  
-Last updated at 01/02/2021 14:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hyper Beam**  
+MDK  
+Last updated at 01/02/2021 14:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
