@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/noGh3757fkY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChaP_RBpN09f2LlZSeLsvOw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/aoVY9gEJDcw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnKG7Phzxix1H4qBq0L_Dtw)
 
-**[가시더라도 후반은 꼭 듣고..] 월피스카터 - 나팔꽃 질 무렵에**  
-야월성  
-Last updated at 01/02/2021 23:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**히이나【柊南】 Hide and seek『ハイドアンド・シーク』**  
+쿠레아  
+Last updated at 01/02/2021 23:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
