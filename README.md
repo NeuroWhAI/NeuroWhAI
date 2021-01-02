@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/IJ5pvZ8l0mPjVzbDW7LXfVwWwZmIRFQgYBWvw4M53ketQjsHsloIWxUaioZNJ7cUTiG5uwfvVMGqE0g">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**DSCF**  
-DECO*27  
-Last updated at 01/02/2021 15:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lucid Dream**  
+Geoxor 및 Panda Eyes  
+Last updated at 01/02/2021 15:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
