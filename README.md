@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/HfX2KKa4oDYN3DPfy001J4rTUmgcJtC40LLDuhUP7LTIeVv6PkCWlPIZAl9qPEwLT8koTNWjUL-koQ">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**ケガレの唄**  
-羽生まゐご  
-Last updated at 01/02/2021 15:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**Timeless**  
+Geoxor  
+Last updated at 01/02/2021 16:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
