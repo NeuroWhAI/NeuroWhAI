@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ePrAZh-nQXg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBOT3oI7yw0Ikr3HwTb4mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jOWdxMs_1LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**Earthquake**  
-테미니트  
-Last updated at 01/02/2021 14:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**You & Me**  
+ColBreakz  
+Last updated at 01/02/2021 14:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
