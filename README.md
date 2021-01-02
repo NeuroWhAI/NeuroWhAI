@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KG-DiLQFVCw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzKUNNopIlETIZvk2ZYmarQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KnaBXmx6ueA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyg8aSDlt64JhWXKFFBZh-Q)
 
-**[우타이테/Akie] Akie秋絵 - 사랑의 말Ⅲ(愛言葉Ⅲ)**  
-J.K 「 J-Music 」  
-Last updated at 01/03/2021 00:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**[티비플] 요즘 청년들의 마음을 빗댄 가사 노래**  
+Best 티비플  
+Last updated at 01/03/2021 00:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
