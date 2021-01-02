@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rQZinpJoiYQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyME5tzW9Q72KNotx1m9BsQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XCvz9kNcX7o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**Critical Hit**  
-MDK  
-Last updated at 01/02/2021 14:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**5000**  
+ColBreakz  
+Last updated at 01/02/2021 14:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
