@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/nOsbDM8hv64TUzKc-Wip0TgDioe0ez1_d-JjtcTxtDV_1pFrsRzzAc9FsB5UustZONoZN59hZOz4aPcr-g">](https://music.youtube.com/channel/UCWGLQ8EGHWN3-zqV8ttaRMg)
 
-**Love poem**  
-아이유(IU)  
-Last updated at 01/02/2021 15:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Final Boss**  
+니트로 펀  
+Last updated at 01/02/2021 15:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
