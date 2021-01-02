@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Jigokuwadokodesuenmasama**  
-하뉴 마이고  
-Last updated at 01/02/2021 16:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Make Me Strong**  
+Geoxor  
+Last updated at 01/02/2021 16:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
