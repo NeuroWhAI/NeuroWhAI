@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VC27GhNMVs4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEO9HLm8YNglYs77Glk-qUw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/noGh3757fkY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChaP_RBpN09f2LlZSeLsvOw)
 
-**히이나 - 죽기에는 좋은 날이었어**  
-서하린  
-Last updated at 01/02/2021 23:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**[가시더라도 후반은 꼭 듣고..] 월피스카터 - 나팔꽃 질 무렵에**  
+야월성  
+Last updated at 01/02/2021 23:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
