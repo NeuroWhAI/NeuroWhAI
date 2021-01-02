@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5VMC98XaKIY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCT2dhvkTqVjCU4t2eUDgykA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mPf3UsaYxMo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZ2iqEDWmJzJxknvMYHwZtA)
 
-**[이어폰 권장] 히이나 - 새벽과 반딧불이**  
-무도령  
-Last updated at 01/02/2021 23:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**[한글 자막] 회전하는 하늘토끼 - 히이나**  
+너구리몽상가  
+Last updated at 01/03/2021 00:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
