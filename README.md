@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0zaeOXP06rU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBOT3oI7yw0Ikr3HwTb4mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Qg1qZq5yjps/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
 
-**Unstoppable**  
-테미니트  
-Last updated at 01/02/2021 15:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Highscore**  
+Panda Eyes 및 테미니트  
+Last updated at 01/02/2021 15:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
