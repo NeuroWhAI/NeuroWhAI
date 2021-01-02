@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/RaJ6Vf2w9hY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPqdosHDisK1BfmB0hsmccg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/QsgJNYzlA9U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCltRu6wGcfC-bFZ1V3ROplQ)
 
-**Viking Arena**  
-F-777  
-Last updated at 01/02/2021 14:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Milkshake**  
+meganeko  
+Last updated at 01/02/2021 14:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
