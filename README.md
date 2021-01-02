@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Fl3ZEiZu--s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwmx63E6CNomh7iHp1o0VUA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/C3BJZGsCVic/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSiJ62mDGzoGceD33RWAEBA)
 
-**[심묘] 마음짓기/하나땅**  
-묘심  
-Last updated at 01/02/2021 23:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**KK - 혼자 돌아가는 길 [ひとりのかえりみち] [자막/발음] - 720p Kimeolbin**  
+김얼빈 Kimeolbin  
+Last updated at 01/02/2021 23:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
