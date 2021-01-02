@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/p2Irc9NPCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIarod0H3oPm3oQIf1BHPMA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hErKUtXVWeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9qOWiFp-mL2YHJNkReedFA)
 
-**ツギハギスタッカート**  
-とあ feat.IA  
-Last updated at 01/02/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**죽기에는 좋은 날이엿어 [히이나]**  
+델핀Dailpen  
+Last updated at 01/02/2021 23:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
