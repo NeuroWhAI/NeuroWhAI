@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/C3BJZGsCVic/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSiJ62mDGzoGceD33RWAEBA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ByXoo3ZnKSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ByXoo3ZnKSo)
 
-**KK - 혼자 돌아가는 길 [ひとりのかえりみち] [자막/발음] - 720p Kimeolbin**  
-김얼빈 Kimeolbin  
-Last updated at 01/02/2021 23:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**晴天前夜**  
+ウォルピスカーター  
+Last updated at 01/02/2021 23:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
