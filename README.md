@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mPf3UsaYxMo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZ2iqEDWmJzJxknvMYHwZtA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uwnyEjvzP8g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEuVPl61P-sxvMv2xCMb-eA)
 
-**[한글 자막] 회전하는 하늘토끼 - 히이나**  
-너구리몽상가  
-Last updated at 01/03/2021 00:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**하나땅 - 자상무색**  
+Kurumi Tokisaki  
+Last updated at 01/03/2021 00:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
