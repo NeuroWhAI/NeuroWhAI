@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/QK1psyb8xLk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL18GpJowydMGsM8VPFsdkw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VC27GhNMVs4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEO9HLm8YNglYs77Glk-qUw)
 
-**히이나(柊南) - 나팔꽃 질 무렵에(アサガオの散る頃に) [한글자막/1080p/FHD]**  
-「花香」 [키리뉴]  
-Last updated at 01/02/2021 23:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**히이나 - 죽기에는 좋은 날이었어**  
+서하린  
+Last updated at 01/02/2021 23:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
