@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HHg45602UZE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyg8aSDlt64JhWXKFFBZh-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6jPzQJDW9Ks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwSOARsvB-Qa6PtuYyK74dA)
 
-**[티비플] 일반인도 오덕도 울렸던 애니 노래**  
-Best 티비플  
-Last updated at 01/02/2021 23:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Music】macollection/Voまこと【My song】**  
+마코토 ASMR / まこと。  
+Last updated at 01/02/2021 23:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
