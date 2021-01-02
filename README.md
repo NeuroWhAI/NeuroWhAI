@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uOLBLf89pFk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAixQ94Ie4FJXkJNx-5rhxA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/pDeLjEXcUBA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs12lDmnCNPKIPpApA4ujOQ)
 
-**Debug**  
-Canonblade  
-Last updated at 01/02/2021 13:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Zaphkiel**  
+Kolkian  
+Last updated at 01/02/2021 14:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
