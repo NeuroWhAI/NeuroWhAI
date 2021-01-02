@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9ePz9RKRU1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyME5tzW9Q72KNotx1m9BsQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/i-5u2Pz5kH0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs12lDmnCNPKIPpApA4ujOQ)
 
-**Lightspeed**  
-MDK 및 Sterrezo  
-Last updated at 01/02/2021 13:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Catalyze**  
+Kolkian  
+Last updated at 01/02/2021 13:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
