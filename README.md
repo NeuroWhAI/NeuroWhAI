@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VFYUkFzDkeA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzqF_192ia15XHswC9QqEkQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/QK1psyb8xLk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL18GpJowydMGsM8VPFsdkw)
 
-**[자막]KK - 가지마**  
-J - Anthology  
-Last updated at 01/02/2021 23:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**히이나(柊南) - 나팔꽃 질 무렵에(アサガオの散る頃に) [한글자막/1080p/FHD]**  
+「花香」 [키리뉴]  
+Last updated at 01/02/2021 23:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
