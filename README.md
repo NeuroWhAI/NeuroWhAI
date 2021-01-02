@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/XCvz9kNcX7o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/RaJ6Vf2w9hY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPqdosHDisK1BfmB0hsmccg)
 
-**5000**  
-ColBreakz  
-Last updated at 01/02/2021 14:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Viking Arena**  
+F-777  
+Last updated at 01/02/2021 14:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
