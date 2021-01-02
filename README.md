@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/i-5u2Pz5kH0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs12lDmnCNPKIPpApA4ujOQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/xsfsszt-8R4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBOT3oI7yw0Ikr3HwTb4mA)
 
-**Catalyze**  
-Kolkian  
-Last updated at 01/02/2021 13:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ascent**  
+테미니트  
+Last updated at 01/02/2021 13:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
