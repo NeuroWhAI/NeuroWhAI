@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ByXoo3ZnKSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ByXoo3ZnKSo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VFYUkFzDkeA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzqF_192ia15XHswC9QqEkQ)
 
-**晴天前夜**  
-ウォルピスカーター  
-Last updated at 01/02/2021 23:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**[자막]KK - 가지마**  
+J - Anthology  
+Last updated at 01/02/2021 23:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
