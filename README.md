@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aoVY9gEJDcw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnKG7Phzxix1H4qBq0L_Dtw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/S4Dna78nKhc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDY99bDdlc4bh5RBPMJ4tlA)
 
-**히이나【柊南】 Hide and seek『ハイドアンド・シーク』**  
-쿠레아  
-Last updated at 01/02/2021 23:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**[이어폰/소름] 꼭두각시 피에로 (からくりピエロ)**  
+러브썸  
+Last updated at 01/02/2021 23:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
