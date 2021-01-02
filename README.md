@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uwnyEjvzP8g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEuVPl61P-sxvMv2xCMb-eA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KG-DiLQFVCw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzKUNNopIlETIZvk2ZYmarQ)
 
-**하나땅 - 자상무색**  
-Kurumi Tokisaki  
-Last updated at 01/03/2021 00:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**[우타이테/Akie] Akie秋絵 - 사랑의 말Ⅲ(愛言葉Ⅲ)**  
+J.K 「 J-Music 」  
+Last updated at 01/03/2021 00:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
