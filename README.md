@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GcopfMYIApQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Iu8P_vplUiM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBOT3oI7yw0Ikr3HwTb4mA)
 
-**2011**  
-ColBreakz  
-Last updated at 01/02/2021 13:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Space Invaders**  
+테미니트 및 MDK  
+Last updated at 01/02/2021 13:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
