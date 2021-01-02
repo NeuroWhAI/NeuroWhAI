@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/S4Dna78nKhc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDY99bDdlc4bh5RBPMJ4tlA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HHg45602UZE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyg8aSDlt64JhWXKFFBZh-Q)
 
-**[이어폰/소름] 꼭두각시 피에로 (からくりピエロ)**  
-러브썸  
-Last updated at 01/02/2021 23:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**[티비플] 일반인도 오덕도 울렸던 애니 노래**  
+Best 티비플  
+Last updated at 01/02/2021 23:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
