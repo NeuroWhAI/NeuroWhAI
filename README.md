@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/nOsbDM8hv64TUzKc-Wip0TgDioe0ez1_d-JjtcTxtDV_1pFrsRzzAc9FsB5UustZONoZN59hZOz4aPcr-g">](https://music.youtube.com/channel/UCWGLQ8EGHWN3-zqV8ttaRMg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/I8yBbwRurAE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzWhKfNG1tyJ3ECQWwpLeWA)
 
-**Final Boss**  
-니트로 펀  
-Last updated at 01/02/2021 15:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**この世界を愛したい cover.鹿乃**  
+Kano  
+Last updated at 01/02/2021 15:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
