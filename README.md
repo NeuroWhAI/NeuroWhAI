@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Ir5ZdDs0IFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0zaeOXP06rU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBOT3oI7yw0Ikr3HwTb4mA)
 
-**30.000**  
-ColBreakz  
-Last updated at 01/02/2021 14:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Unstoppable**  
+테미니트  
+Last updated at 01/02/2021 15:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
