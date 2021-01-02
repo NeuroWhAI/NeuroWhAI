@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bjXtYFZbpRE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XoLouT7TqZY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyME5tzW9Q72KNotx1m9BsQ)
 
-**Gourmet Race**  
-ColBreakz  
-Last updated at 01/02/2021 14:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Press Start**  
+MDK  
+Last updated at 01/02/2021 14:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
