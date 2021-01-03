@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/z2v99xlcoPLAeoiyvnIpmIkvXgh7OCsggbEqRNa_dAI17_0g61YIBduinTvVj6xbEc9ihqHcFOv2ck1Lmg">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**Koe**  
-마지코  
-Last updated at 01/03/2021 16:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**Love poem**  
+아이유(IU)  
+Last updated at 01/03/2021 16:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
