@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/x72FDWF2zopnQU65hJeqrTsreHi-KoXZrOAoelEy6Cf8Sis-oxImvJa_IUg8e43tw3R-72nBcBAh5Zk">](https://music.youtube.com/channel/UCM2oAe3ljJp2MvoRbI7BbaA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/XoQh4YAICEA6B2STwbTEE-D04vG21tKUnbSKSTUN7RpH8I052tOpE7SYmOsOt1DUZkaP07xBbOUM8ipESA">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**상사화**  
-안예은  
-Last updated at 01/03/2021 16:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Abandoned**  
+Geoxor  
+Last updated at 01/03/2021 16:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
