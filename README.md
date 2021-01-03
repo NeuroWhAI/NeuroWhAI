@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GSpwTvYgFrM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/etU18FB5Qew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClr7fiK_1f6ZJO4xcHs1RIg)
 
-**What's Inside**  
-피노키오P  
-Last updated at 01/03/2021 16:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**チームしゃちほこ - START / Team Syachihoko [OFFICIAL VIDEO]**  
+TEAM SHACHI  
+Last updated at 01/03/2021 16:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
