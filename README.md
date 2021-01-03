@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/rxcoy6DCAeKprASO-F7qzKfHGJsVMXjLhmrwj71jWcvoWJd9fwpaM0G7LUF7ik_AiVQXwdtrRCP2rXxcyQ">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KhV57_EH3AA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
 
-**Uchiagehanabi**  
-DAOKO  
-Last updated at 01/03/2021 17:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**猛独が襲う**  
+마후마후  
+Last updated at 01/03/2021 17:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
