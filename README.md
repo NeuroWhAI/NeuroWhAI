@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/etU18FB5Qew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClr7fiK_1f6ZJO4xcHs1RIg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/90NEq0crq-Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQtAeBghXY5fBT6wl97kmxg)
 
-**チームしゃちほこ - START / Team Syachihoko [OFFICIAL VIDEO]**  
-TEAM SHACHI  
-Last updated at 01/03/2021 16:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**【MV full size】Debut single「はじめてのかくめい！」【DIALOGUE＋】**  
+다이얼로그  
+Last updated at 01/03/2021 16:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
