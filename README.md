@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/N9-M-avUjO8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCkMsHxeWjiHQvhHAs33OCmw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/x72FDWF2zopnQU65hJeqrTsreHi-KoXZrOAoelEy6Cf8Sis-oxImvJa_IUg8e43tw3R-72nBcBAh5Zk">](https://music.youtube.com/channel/UCM2oAe3ljJp2MvoRbI7BbaA)
 
-**Utsu-P - OGRE feat. 初音ミク**  
-鬱P / Utsu-P OFFICIAL CHANNEL  
-Last updated at 01/03/2021 16:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**상사화**  
+안예은  
+Last updated at 01/03/2021 16:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
