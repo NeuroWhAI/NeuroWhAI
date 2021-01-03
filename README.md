@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/pNQIy4OorneYRnCxkC55eZydWn9I4VDgnxmhR2EW6GGhJbjVEbQ-neJIntuVeQgJTeh0lEbLfIGFTls">](https://music.youtube.com/channel/UCii32Rr4rHZd86v2NpSUGqQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/AAPnfs2bi9Umv5B_ZhK8HsqlOl9yHRh-i0pbMoANhwFdFgdoK5m45DKSlJKGIakbuPa52sfLl_xIuuU">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-**Gehenna**  
-wotaku  
-Last updated at 01/03/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kaette Koiyo**  
+amazarashi(아마자라시)  
+Last updated at 01/03/2021 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
