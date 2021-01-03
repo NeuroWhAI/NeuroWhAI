@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/AAPnfs2bi9Umv5B_ZhK8HsqlOl9yHRh-i0pbMoANhwFdFgdoK5m45DKSlJKGIakbuPa52sfLl_xIuuU">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Kaette Koiyo**  
-amazarashi(아마자라시)  
-Last updated at 01/03/2021 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Timeless**  
+Geoxor  
+Last updated at 01/03/2021 16:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
