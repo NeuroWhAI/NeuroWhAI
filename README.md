@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EKUBLenVvH4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**Love poem**  
-아이유(IU)  
-Last updated at 01/03/2021 16:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**ビビッドヒーロー ／ DIVELA feat.初音ミク**  
+DIVELA  
+Last updated at 01/03/2021 16:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
