@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/qDiKlbRhUGw1ZRbrT-Zp6xuoULlYscE9ngGSeUW2bHtgcf3CffeUqI2xRYm43RSSaqqo9yVmyeKPpPLqfQ">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/z2v99xlcoPLAeoiyvnIpmIkvXgh7OCsggbEqRNa_dAI17_0g61YIBduinTvVj6xbEc9ihqHcFOv2ck1Lmg">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Hate**  
-Geoxor  
-Last updated at 01/03/2021 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Koe**  
+마지코  
+Last updated at 01/03/2021 16:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
