@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EKUBLenVvH4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/pNQIy4OorneYRnCxkC55eZydWn9I4VDgnxmhR2EW6GGhJbjVEbQ-neJIntuVeQgJTeh0lEbLfIGFTls">](https://music.youtube.com/channel/UCii32Rr4rHZd86v2NpSUGqQ)
 
-**ビビッドヒーロー ／ DIVELA feat.初音ミク**  
-DIVELA  
-Last updated at 01/03/2021 16:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Gehenna**  
+wotaku  
+Last updated at 01/03/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
