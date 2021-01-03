@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/N9-M-avUjO8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCkMsHxeWjiHQvhHAs33OCmw)
 
-**Timeless**  
-Geoxor  
-Last updated at 01/03/2021 16:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**Utsu-P - OGRE feat. 初音ミク**  
+鬱P / Utsu-P OFFICIAL CHANNEL  
+Last updated at 01/03/2021 16:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
