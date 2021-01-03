@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hc0ZDaAZQT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NIABFcVB3Is/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLSqAlcWmR3FcxqBlM8f4sQ)
 
-**神聖かまってちゃん「るるちゃんの自殺配信」MusicVideo**  
-Shinsei kamattechan  
-Last updated at 01/03/2021 15:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】　マインドブランド　【オリジナル】**  
+MARETU  
+Last updated at 01/03/2021 15:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
