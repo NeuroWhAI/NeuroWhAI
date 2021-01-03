@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4JveP5YJLtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-uAUO2_CYjD-W3rJG_9BrQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/qDiKlbRhUGw1ZRbrT-Zp6xuoULlYscE9ngGSeUW2bHtgcf3CffeUqI2xRYm43RSSaqqo9yVmyeKPpPLqfQ">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**夢みるアドレセンス 『メロンソーダ』Music Video**  
-유메미루 아도레센스  
-Last updated at 01/03/2021 16:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hate**  
+Geoxor  
+Last updated at 01/03/2021 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
