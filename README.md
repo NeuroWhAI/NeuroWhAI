@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NIABFcVB3Is/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLSqAlcWmR3FcxqBlM8f4sQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/g4Mj7qY3nTc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6awEqFgpzrSZA9cQoHk3nQ)
 
-**【初音ミク】　マインドブランド　【オリジナル】**  
-MARETU  
-Last updated at 01/03/2021 15:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Fragrant Drive(フラグラントドライブ) / ガルスピ ～Smells Like Girl Spirit～**  
+Fragrant Drive  
+Last updated at 01/03/2021 16:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
