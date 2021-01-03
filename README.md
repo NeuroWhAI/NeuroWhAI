@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/90NEq0crq-Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQtAeBghXY5fBT6wl97kmxg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4JveP5YJLtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-uAUO2_CYjD-W3rJG_9BrQ)
 
-**【MV full size】Debut single「はじめてのかくめい！」【DIALOGUE＋】**  
-다이얼로그  
-Last updated at 01/03/2021 16:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**夢みるアドレセンス 『メロンソーダ』Music Video**  
+유메미루 아도레센스  
+Last updated at 01/03/2021 16:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
