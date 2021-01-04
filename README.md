@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniOhr0ds8QrHlwu00R_DBfBkii3FzgVy_rJwFGrmQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCp6p4QMnrhszX8rhzgy_q2Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnguuU8u-i3ac2vaWKTNA_yOuW4-DbuxjKN7QaAtyQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCVh47EKH9VLresRqiYi9txw)
 
-**Ruru's Suicide Show on a Livestream**  
-かまってチャンネル【公式】  
-Last updated at 01/04/2021 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Rosetta**  
+Mili  
+Last updated at 01/04/2021 21:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
