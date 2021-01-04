@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KhV57_EH3AA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvHOSjgsLj_p0lUuQ2VmhZw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniOhr0ds8QrHlwu00R_DBfBkii3FzgVy_rJwFGrmQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCp6p4QMnrhszX8rhzgy_q2Q)
 
-**猛独が襲う**  
-마후마후  
-Last updated at 01/03/2021 17:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ruru's Suicide Show on a Livestream**  
+かまってチャンネル【公式】  
+Last updated at 01/04/2021 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
