@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnguuU8u-i3ac2vaWKTNA_yOuW4-DbuxjKN7QaAtyQ=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCVh47EKH9VLresRqiYi9txw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwng3cHle8GFjFitrumiXjxfZshOX6QBDG0Vtzj5T=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UC0limtsihPBO4NZf8cylI1Q)
 
-**Rosetta**  
-Mili  
-Last updated at 01/04/2021 21:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**형 (兄)**  
+Official NORAZO  
+Last updated at 01/11/2021 19:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
