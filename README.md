@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCf4k9c-2r6sSrv2Na40OPJA)
 
-**Ziqqurat / 雄之助 feat. 初音ミク**  
-雄之助/Yunosuke  
-Last updated at 01/11/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Brain Power**  
+Noma99  
+Last updated at 01/11/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
