@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngwHCfiypCoVy2cSS1FemnCfoMt6JhnSmMiLgKyQA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCI4fJYWKcGa8MvnvLw0qysQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCkv_bAMJEoNJWThutrtlUQQ)
 
-**WORLD ORDER "PERMANENT REVOLUTION"**  
-WORLD ORDER  
-Last updated at 01/11/2021 20:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ziqqurat / 雄之助 feat. 初音ミク**  
+雄之助/Yunosuke  
+Last updated at 01/11/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
