@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhNORMY-JuggrilsyPBCJL7YI_KcpiAQyQOeEKyGa0=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCqECaJ8Gagnn7YCbPEzWH6g)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhTEyik8nvY4EEHa6qtVqXPsfsA5Qa52h_CnjAIeg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w)
 
-**Taylor Swift – exile (feat. Bon Iver) (Official Lyric Video)**  
-Taylor Swift  
-Last updated at 01/17/2021 23:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**Exile Vilify (From the Game Portal 2)**  
+The National  
+Last updated at 01/17/2021 23:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
