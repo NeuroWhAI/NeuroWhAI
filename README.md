@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngmEigQ_xqcNuA9psrV7XictMYK-n_lfm2GMMj8eg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCc_bv_5nmxy2xnPNg9kP3Rg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ALZHF5UqnU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-**Unstoppable**  
-Teminite  
-Last updated at 01/21/2021 22:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alone**  
+Marshmello(마시멜로)  
+Last updated at 01/21/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
