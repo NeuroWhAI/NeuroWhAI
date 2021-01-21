@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhTEyik8nvY4EEHa6qtVqXPsfsA5Qa52h_CnjAIeg=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**Exile Vilify (From the Game Portal 2)**  
-The National  
-Last updated at 01/17/2021 23:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Moonlight (Official Performance Video)**  
+Geoxor  
+Last updated at 01/21/2021 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
