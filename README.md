@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/z0WxjIG9lzE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNfOz2pGMnPpCC3Nr9F9mAQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6lGdo1P79dA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaU9pHTx8JcP0JGZesCYFGA)
 
-**[Crusaders Quest] Official M/V Knots Way**  
-HANGAME / 한게임  
-Last updated at 01/22/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**볼륨 up KK 그게 당신의 행복일지라도 HD 자막,발음**  
+{NEKO} Athena Musik  
+Last updated at 01/22/2021 20:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
