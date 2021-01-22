@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yvNl6RK6xG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCS6HeJcWYHS0fQhZ12afT2A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hErKUtXVWeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9qOWiFp-mL2YHJNkReedFA)
 
-**とびだせ！バンキッキ(피처링: 나치)**  
-Shibayan  
-Last updated at 01/22/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**죽기에는 좋은 날이엿어 [히이나]**  
+델핀Dailpen  
+Last updated at 01/22/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
