@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Fl3ZEiZu--s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwmx63E6CNomh7iHp1o0VUA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/S4Dna78nKhc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDY99bDdlc4bh5RBPMJ4tlA)
 
-**[심묘] 마음짓기/하나땅**  
-묘심  
-Last updated at 01/22/2021 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**[이어폰/소름] 꼭두각시 피에로 (からくりピエロ)**  
+러브썸  
+Last updated at 01/22/2021 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
