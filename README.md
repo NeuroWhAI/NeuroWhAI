@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yvNl6RK6xG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCS6HeJcWYHS0fQhZ12afT2A)
 
-**Geoxor x Sugar Rush - Let You Go**  
-Geoxor  
-Last updated at 01/22/2021 18:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**とびだせ！バンキッキ(피처링: 나치)**  
+Shibayan  
+Last updated at 01/22/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
