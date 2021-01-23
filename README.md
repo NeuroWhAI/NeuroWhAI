@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpxF5nPX36beclDXDovCVlw)
 
-**Jigokuwadokodesuenmasama**  
-하뉴 마이고  
-Last updated at 01/23/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】透明エレジー【オリジナル曲】**  
+나부나  
+Last updated at 01/23/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
