@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5j7WhhhayPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uOLBLf89pFk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAixQ94Ie4FJXkJNx-5rhxA)
 
-**75.000**  
-ColBreakz  
-Last updated at 01/23/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Debug**  
+Canonblade  
+Last updated at 01/23/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
