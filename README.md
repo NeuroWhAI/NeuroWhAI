@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhtPNkQphmOSVeJD-s0L5Ap1YyVSfw8hrNTlv0vaA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCBVjMGOIkavEAhyqpxJ73Dw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjsfDHGvv6gR8hvxLhCFyekPe1PK1DyFX4BU1WBOA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCJrOtniJ0-NWz37R30urifQ)
 
-**Memories (Official Video)**  
-Maroon 5  
-Last updated at 01/22/2021 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Faded**  
+Alan Walker  
+Last updated at 01/23/2021 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
