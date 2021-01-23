@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eCm--tb5SKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LysVlPg2fd8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXeqYxZSsjKgaka8Vb1mdDg)
 
-**Utopiosphere**  
-Mili  
-Last updated at 01/23/2021 21:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**50.000**  
+ColBreakz  
+Last updated at 01/23/2021 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
