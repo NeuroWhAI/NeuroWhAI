@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhyuQAmNI1lCH5dUIrTAKi8pwLny49qoAxn8eqU=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCOlwKMvGABA-C9wB3dlAxaQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eCm--tb5SKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-**Last Dance**  
-PASSEPIED Official Channel  
-Last updated at 01/23/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**Utopiosphere**  
+Mili  
+Last updated at 01/23/2021 21:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
