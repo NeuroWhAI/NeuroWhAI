@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjsfDHGvv6gR8hvxLhCFyekPe1PK1DyFX4BU1WBOA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCJrOtniJ0-NWz37R30urifQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhyuQAmNI1lCH5dUIrTAKi8pwLny49qoAxn8eqU=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCOlwKMvGABA-C9wB3dlAxaQ)
 
-**Faded**  
-Alan Walker  
-Last updated at 01/23/2021 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Last Dance**  
+PASSEPIED Official Channel  
+Last updated at 01/23/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
