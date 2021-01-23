@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uOLBLf89pFk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAixQ94Ie4FJXkJNx-5rhxA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5y3xh8gs24c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg)
 
-**Debug**  
-Canonblade  
-Last updated at 01/23/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Excuse My Rudeness, But Could You Please RIP♡**  
+Mori Calliope Ch. hololive-EN  
+Last updated at 01/23/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
