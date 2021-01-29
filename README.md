@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1s8NNPgdl5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Reunion (はるまきごはんVocal ver.)**  
-하루마키고한  
-Last updated at 01/29/2021 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**セカイはまだ始まってすらいない**  
+피노키오P  
+Last updated at 01/29/2021 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
