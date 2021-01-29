@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Fb1_fpuYX1I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**そこに命はありますか。 ／ DIVELA feat.初音ミク**  
-DIVELA  
-Last updated at 01/29/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**阿吽のビーツ**  
+하뉴 마이고  
+Last updated at 01/29/2021 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
