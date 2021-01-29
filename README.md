@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ZEy36W1xX8c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5y3xh8gs24c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg)
 
-**MeltyLandNightmare**  
-하루마키고한  
-Last updated at 01/29/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Excuse My Rudeness, But Could You Please RIP♡**  
+Mori Calliope Ch. hololive-EN  
+Last updated at 01/29/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
