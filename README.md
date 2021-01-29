@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**Nana**  
+**Poi**  
 Geoxor  
-Last updated at 01/29/2021 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 01/29/2021 18:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
