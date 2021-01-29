@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
 
-**All I Need Are Things I Like**  
-피노키오P  
-Last updated at 01/29/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**最後の晩餐**  
+Misumi  
+Last updated at 01/29/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
