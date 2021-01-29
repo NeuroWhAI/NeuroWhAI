@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1s8NNPgdl5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**セカイはまだ始まってすらいない**  
-피노키오P  
-Last updated at 01/29/2021 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] REOL - ヒビカセ / Hibikase**  
+Reol  
+Last updated at 01/29/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
