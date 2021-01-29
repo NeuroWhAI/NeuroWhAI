@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GJi9qJOLtQI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8dQZws1cBtMwcxHr111YQw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**치즈 (CHEEZE) - 아이유(IU) 'unlucky' cover [Live]**  
-치즈(CHEEZE)  
-Last updated at 01/29/2021 19:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 01/29/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
