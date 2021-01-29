@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Fb1_fpuYX1I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**チュルリラ・チュルリラ・ダッダッダ！**  
-쿠라게P  
-Last updated at 01/29/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**そこに命はありますか。 ／ DIVELA feat.初音ミク**  
+DIVELA  
+Last updated at 01/29/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
