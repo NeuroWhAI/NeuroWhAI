@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uFRPeiAEO0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**DECO*27 - アンドロイドガール feat. 初音ミク**  
-DECO*27  
-Last updated at 01/29/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Reunion (はるまきごはんVocal ver.)**  
+하루마키고한  
+Last updated at 01/29/2021 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
