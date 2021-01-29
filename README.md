@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/z_RmuScgWOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qrm-kGEA6jA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**エバ**  
-Hiiragi Kirai  
-Last updated at 01/29/2021 20:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**YOZURINA**  
+피노키오P  
+Last updated at 01/29/2021 20:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
