@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwng3cHle8GFjFitrumiXjxfZshOX6QBDG0Vtzj5T=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UC0limtsihPBO4NZf8cylI1Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
 
-**형 (兄)**  
-Official NORAZO  
-Last updated at 01/28/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nana**  
+Geoxor  
+Last updated at 01/29/2021 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
