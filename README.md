@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LSxMaomjUPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM_mn8pNK0NCVQqQHnE7STg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/h1pSSrmdEtw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**〔れをる〕 ECHO 〔歌ってみた〕(피처링: Gumi)**  
-Crusher-P  
-Last updated at 01/29/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**(Rotten) Apple dot com**  
+피노키오P  
+Last updated at 01/29/2021 20:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
