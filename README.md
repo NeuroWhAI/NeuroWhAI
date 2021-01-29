@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwni-ONlpRA_CKWNCp7sU4OfAvNgtV_1MgSWOUOF8wA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCIPihBzEXYFiYfFwYCwWpKg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngNnKcXN8pFPdWvT8CUn53bJpX3PM8oeRNfSsYvow=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg)
 
-**Poi**  
-Geoxor  
-Last updated at 01/29/2021 18:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Wake Me Up (Lyric Video)**  
+Avicii  
+Last updated at 01/29/2021 19:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
