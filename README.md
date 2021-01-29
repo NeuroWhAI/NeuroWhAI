@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/v7_Jo4SfICk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChMOQ1DOaMPHX_KtFhRQszw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Devil's Manner**  
-Tatsuya Kitani  
-Last updated at 01/29/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**All I Need Are Things I Like**  
+피노키오P  
+Last updated at 01/29/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
