@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ZEy36W1xX8c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
 
-**劣等上等 feat. 鏡音リン・レン**  
-ГИГА  
-Last updated at 01/29/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**MeltyLandNightmare**  
+하루마키고한  
+Last updated at 01/29/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
