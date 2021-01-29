@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LSxMaomjUPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM_mn8pNK0NCVQqQHnE7STg)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 01/29/2021 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**〔れをる〕 ECHO 〔歌ってみた〕(피처링: Gumi)**  
+Crusher-P  
+Last updated at 01/29/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
