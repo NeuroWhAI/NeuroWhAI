@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5y3xh8gs24c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/--41OGPMurU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Excuse My Rudeness, But Could You Please RIP♡**  
-Mori Calliope Ch. hololive-EN  
-Last updated at 01/29/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loveit**  
+피노키오P  
+Last updated at 01/29/2021 20:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
