@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hVtE9EBq5hk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDegYuLWfZQXBeZA_OPYYmQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**【Self cover】アンチジョーカーを本人がドラム叩いてみた**  
-LatuLatu  
-Last updated at 01/29/2021 20:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**帝国少女 (CGS-edit)(テイコクショウジョ)**  
+R Sound Design  
+Last updated at 01/29/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
