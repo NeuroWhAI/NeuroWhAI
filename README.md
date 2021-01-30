@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**That's Why I Gave Up on Music**  
-Yorushika(ヨルシカ)  
-Last updated at 01/30/2021 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] REOL - No title**  
+Reol  
+Last updated at 01/30/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
