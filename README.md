@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1EU-QCANzzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXhAKJthTNudMCmnasFfyNg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0-q1KafFCLU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**Memento**  
-nonoc  
-Last updated at 01/30/2021 17:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Celebrity**  
+아이유(IU)  
+Last updated at 01/30/2021 17:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
