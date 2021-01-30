@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PLevj9bdRRA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**きみも悪い人でよかった**  
-피노키오P  
-Last updated at 01/30/2021 17:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Zangemairi**  
+하뉴 마이고  
+Last updated at 01/30/2021 17:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
