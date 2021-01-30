@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fjYptQjF1Tw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3zwjSYv4k5HKGXCHMpjVRg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hvp9ipXiTbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5GA6aMFwxgORelNISUY_ZA)
 
-**Hans Zimmer - S.T.A.Y. (Interstellar Theme Cover by Efisio Cross)**  
-Epic Music VN  
-Last updated at 01/30/2021 15:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Cold**  
+호르헤 멘데즈  
+Last updated at 01/30/2021 16:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
