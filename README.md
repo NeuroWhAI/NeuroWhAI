@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uFRPeiAEO0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Zangemairi**  
-하뉴 마이고  
-Last updated at 01/30/2021 17:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - アンドロイドガール feat. 初音ミク**  
+DECO*27  
+Last updated at 01/30/2021 17:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
