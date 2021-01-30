@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngP8FAQd5VoXCfZXm_NxKqhbBZrf29JuGiysFkngA=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCs7O9sOUQiBGBxaaAguIwig)
 
-**秘密 / はるまきごはんVocal ver. アニメMV**  
-하루마키고한  
-Last updated at 01/29/2021 21:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Imitation Game - Main Theme (Piano Version)**  
+Patrik Pietschmann  
+Last updated at 01/30/2021 15:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
