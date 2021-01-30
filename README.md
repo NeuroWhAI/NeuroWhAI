@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnh3E5eA5BXnFVx9sY2w9IIlRu85lltqZH8o8hRy=s88-c-k-c0xffffffff-no-nd-rj-mo">](https://www.youtube.com/channel/UCJeBQabyLa_FvMxb6G67lkw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_nj-LnZqY-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHwgvUMe00uBYqzka6Yrl5w)
 
-**Inception: Time - Orchestra Version (#EnterTheWorldOfHansZimmer A)**  
-Hans Zimmer  
-Last updated at 01/30/2021 15:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Interstellar Main Theme Hans Zimmer…**  
+Jacob's Piano  
+Last updated at 01/30/2021 15:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
