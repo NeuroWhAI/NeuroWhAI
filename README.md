@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uFRPeiAEO0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**DECO*27 - アンドロイドガール feat. 初音ミク**  
-DECO*27  
-Last updated at 01/30/2021 17:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】透明エレジー【オリジナル曲】**  
+Yorushika(ヨルシカ)  
+Last updated at 01/30/2021 18:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
