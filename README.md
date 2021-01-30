@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 01/30/2021 17:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tada Kimi ni Hare**  
+Yorushika(ヨルシカ)  
+Last updated at 01/30/2021 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
