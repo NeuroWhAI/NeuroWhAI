@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_nj-LnZqY-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHwgvUMe00uBYqzka6Yrl5w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vPA6T0la6uI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfCNL5oajlQBAlyjWv1ChVw)
 
-**Interstellar Main Theme Hans Zimmer…**  
-Jacob's Piano  
-Last updated at 01/30/2021 15:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Day One**  
+Hans Zimmer(한스 짐머)  
+Last updated at 01/30/2021 15:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
