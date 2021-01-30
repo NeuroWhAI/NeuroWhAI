@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hxSg2Ioz3LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/F64yFFnZfkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**DECO*27 - ヒバナ feat. 初音ミク**  
-DECO*27  
-Last updated at 01/30/2021 18:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**言って。**  
+Yorushika(ヨルシカ)  
+Last updated at 01/30/2021 18:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
