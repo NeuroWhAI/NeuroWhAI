@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vPA6T0la6uI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfCNL5oajlQBAlyjWv1ChVw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1SiJat1L8rg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx8DEu2k2XGGLyxDcgbHqMA)
 
-**Day One**  
-Hans Zimmer(한스 짐머)  
-Last updated at 01/30/2021 15:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Philip Glass - Morning Passages**  
+Ibi  
+Last updated at 01/30/2021 15:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
