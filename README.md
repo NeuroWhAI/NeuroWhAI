@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hvp9ipXiTbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5GA6aMFwxgORelNISUY_ZA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1EU-QCANzzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXhAKJthTNudMCmnasFfyNg)
 
-**Cold**  
-호르헤 멘데즈  
-Last updated at 01/30/2021 16:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Memento**  
+nonoc  
+Last updated at 01/30/2021 17:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
