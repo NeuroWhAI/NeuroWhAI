@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Vl1kO9hObpA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdPIrgYGxVAy4SoPnGK1gfw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**지코 (ZICO) - SoulMate (Feat. 아이유) Official Music Video**  
-블락비(Block B)  
-Last updated at 01/30/2021 17:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**That's Why I Gave Up on Music**  
+Yorushika(ヨルシカ)  
+Last updated at 01/30/2021 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
