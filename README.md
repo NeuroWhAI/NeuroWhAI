@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PLevj9bdRRA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Tada Kimi ni Hare**  
-Yorushika(ヨルシカ)  
-Last updated at 01/30/2021 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**きみも悪い人でよかった**  
+피노키오P  
+Last updated at 01/30/2021 17:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
