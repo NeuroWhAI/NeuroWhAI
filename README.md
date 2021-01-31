@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/F64yFFnZfkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ubrovjZUi64/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrpcd5WtOrdCsx5cufc4JRQ)
 
-**言って。**  
-Yorushika(ヨルシカ)  
-Last updated at 01/30/2021 18:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Saturn**  
+계속 한밤중이면 좋을텐데  
+Last updated at 01/31/2021 15:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
