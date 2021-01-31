@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DtPyRCIvJcU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJq-B_2y4QMUqPbfV4F0Xmg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/BQTCOpLWaPc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCAFC-rgVqpnTdCtI60HHXiQ)
 
-**少女終末旅行 OST「動く、動く Piano Version 」**  
-LJPLM- ACG  
-Last updated at 01/31/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**泣けど喚けど朝がきて/4ma15 feat.重音テト**  
+4ma15  
+Last updated at 01/31/2021 20:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
