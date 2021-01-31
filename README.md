@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-rSW74L-XMA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRfCpDlKXvg3Sos0VO23tjg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/j3IRIkbjJX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g)
 
-**【ShibayanRecords】 「nachi」 とびだせ！バンキッキ(Casual Killer remix)**  
-UnderGround  
-Last updated at 01/31/2021 19:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**そらる-人間だった【歌ってみた】**  
+Soraru(소라루)  
+Last updated at 01/31/2021 19:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
