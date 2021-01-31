@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/XoQh4YAICEA6B2STwbTEE-D04vG21tKUnbSKSTUN7RpH8I052tOpE7SYmOsOt1DUZkaP07xBbOUM8ipESA">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**SEKAI NO OWARI - Dragon Night**  
-세카이노 오와리  
-Last updated at 01/31/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Abandoned**  
+Geoxor  
+Last updated at 01/31/2021 19:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
