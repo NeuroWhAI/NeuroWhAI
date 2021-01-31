@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IkGB5ncYhtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8IK6eLTNV1k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**BREAK IT(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 01/31/2021 15:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] REOL - 宵々古今 / YoiYoi Kokon**  
+Reol  
+Last updated at 01/31/2021 15:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
