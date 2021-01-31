@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/okodiTeAnQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjVlugL3wyf5BFm43KKqOeg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DtPyRCIvJcU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJq-B_2y4QMUqPbfV4F0Xmg)
 
-**水彩メリーゴーランド / けーだっしゅ feat.初音ミク**  
-けーだっしゅ  
-Last updated at 01/31/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**少女終末旅行 OST「動く、動く Piano Version 」**  
+LJPLM- ACG  
+Last updated at 01/31/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
