@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/P3AiQy1pOV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy7XqnTnH-NtYz3S1Tx-11g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2gtjXO0ss4M/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCWa9U2N6UEhuaQRoDxROdKQ)
 
-**パスピエ (PASSEPIED) - ラストダンス (Last Dance)**  
-Xabier Vera Díaz  
-Last updated at 01/31/2021 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**memory of snow/fripSide**  
+rosederirakusu  
+Last updated at 01/31/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
