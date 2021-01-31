@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L1KBaVHAdS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIVFv8AiQLqM9oLHTixrNYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SlPhMPnQ58k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-**【강지】 내가 죽으려고 생각 한것은 한국어 커버 (僕が死のうと思ったのは korean cover)**  
-강 지  
-Last updated at 01/31/2021 20:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Memories**  
+Maroon 5(마룬 파이브)  
+Last updated at 01/31/2021 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
