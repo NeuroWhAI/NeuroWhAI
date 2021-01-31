@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Gt-qKNQkbeo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCgh4EFARgiynPiAL4_LCVTA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rDRl_Uq1xYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCErqlFVSB-v_g7tz59BikvQ)
 
-**【IA ROCKS】 Limiter / リミッター (Mwk Remix) 【VOCALOIDカバー】**  
-April M  
-Last updated at 01/31/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**『繰り返し一粒』【鹿乃(かの)】中日字幕**  
+Evening  
+Last updated at 01/31/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
