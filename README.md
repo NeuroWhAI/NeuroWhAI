@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2OqigCz2S1w/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCfWQfOBi6zDLiKhR79xXxmg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/u3wYTv2seEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVGBXvhcHJe1CoQkmSbm_Wg)
 
-**Undertale OST - Undertale Extended**  
-Elu Tran  
-Last updated at 01/31/2021 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**「Q」椎名もた feat.鏡音リン 中文字幕**  
+z960265  
+Last updated at 01/31/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
