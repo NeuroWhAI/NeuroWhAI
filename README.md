@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/c9S8smnDeG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpaI6U4e2MA_17PzMD4gs3g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5nP8oYtXFVE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC38GMKiSwiZQQITrRYuTEOA)
 
-**Porter Robinson - Sad Machine (Didrick & Ember Island Cover)**  
-Didrik Franzén  
-Last updated at 01/31/2021 19:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nightcore - Narcissistic Cannibal**  
+Zero.Miz-Kun メ Nightcore Records  
+Last updated at 01/31/2021 19:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
