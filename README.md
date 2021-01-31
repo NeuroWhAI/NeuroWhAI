@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UhuDd9RrFOk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EVw1VNPI2m8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Geoxor - Velocity [Melbourne Bounce]**  
+**Hate**  
 Geoxor  
-Last updated at 01/31/2021 16:43 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 01/31/2021 16:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
