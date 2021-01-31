@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LtSNzPyo0lA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**ピコン - 人間だった ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 01/31/2021 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nobody Makes Sense**  
+피노키오P  
+Last updated at 01/31/2021 16:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
