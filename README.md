@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qYAmduGAwBQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**MIMI『 Pale 』feat. 初音ミク**  
-미미  
-Last updated at 01/31/2021 16:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**【鏡音リン・レン】おこちゃま戦争【オリジナル】**  
+Reol  
+Last updated at 01/31/2021 16:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
