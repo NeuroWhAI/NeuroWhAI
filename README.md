@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PLevj9bdRRA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**[MV] REOL - ヒビカセ / Hibikase**  
-Reol  
-Last updated at 01/31/2021 15:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**きみも悪い人でよかった**  
+피노키오P  
+Last updated at 01/31/2021 15:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
