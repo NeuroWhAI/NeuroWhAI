@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/X2IzkM7gtPY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM_mn8pNK0NCVQqQHnE7STg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**Crusher-P ft. Kasane Teto - Love Is War (Crusher Remix)**  
-Crusher-P  
-Last updated at 01/31/2021 15:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] REOL - No title**  
+Reol  
+Last updated at 01/31/2021 15:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
