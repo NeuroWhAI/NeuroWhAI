@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gWYUuZmD1vI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRkp8eejVvkHA7T5X8jbJGQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kLaWtPSGRgo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC6fYTZ9AIkqNy6zYEHVwow)
 
-**Yuiko - solitary flower**  
-Miryanel Mirai  
-Last updated at 01/31/2021 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**내가 죽으려고 생각한 것은 국악버전 (Boku Ga Shinou To Omottanowa Korean Traditional Instrument Ver)**  
+Flow Music  
+Last updated at 01/31/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
