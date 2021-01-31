@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rDRl_Uq1xYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCErqlFVSB-v_g7tz59BikvQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/channel/UC7x9ctNNo2ZWGBYwPoXrNcg)
 
-**『繰り返し一粒』【鹿乃(かの)】中日字幕**  
-Evening  
-Last updated at 01/31/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**형 (兄)**  
+Norazo  
+Last updated at 01/31/2021 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
