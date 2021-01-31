@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/kLaWtPSGRgo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC6fYTZ9AIkqNy6zYEHVwow)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2OqigCz2S1w/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCfWQfOBi6zDLiKhR79xXxmg)
 
-**내가 죽으려고 생각한 것은 국악버전 (Boku Ga Shinou To Omottanowa Korean Traditional Instrument Ver)**  
-Flow Music  
-Last updated at 01/31/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Undertale OST - Undertale Extended**  
+Elu Tran  
+Last updated at 01/31/2021 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
