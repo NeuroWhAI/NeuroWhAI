@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5nP8oYtXFVE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC38GMKiSwiZQQITrRYuTEOA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YJg_fji3Uko/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Nightcore - Narcissistic Cannibal**  
-Zero.Miz-Kun メ Nightcore Records  
-Last updated at 01/31/2021 19:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Twilight**  
+Geoxor  
+Last updated at 01/31/2021 19:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
