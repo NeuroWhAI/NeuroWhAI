@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yA8RW0Y_Rcs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/--41OGPMurU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**【初音ミク×GUMI×鏡音リン】PaⅢ.INCEPTION【オリジナル曲】(피처링: 하츠네 미쿠, Rin Kagamine, Megpoid)**  
-雄之助  
-Last updated at 01/31/2021 15:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loveit**  
+피노키오P  
+Last updated at 01/31/2021 15:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
