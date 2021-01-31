@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q6p2L4fy2g8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zCvnPjy6WKc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCZihTdTkqD45JvRabFEcQKw)
 
-**パスピエ, PASSEPIED - (dis)communication [Full Ver.]**  
-PASSEPIED  
-Last updated at 01/31/2021 20:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**初音ミク-新世界へのプロローグ**  
+黃澄深  
+Last updated at 01/31/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
