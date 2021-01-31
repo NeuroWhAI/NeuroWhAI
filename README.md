@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**劣等上等 feat. 鏡音リン・レン**  
-ГИГА  
-Last updated at 01/31/2021 16:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**METEOR(피처링: 하츠네 미쿠)**  
+DIVELA  
+Last updated at 01/31/2021 16:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
