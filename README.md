@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/h-LOlueKCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Live Again**  
-Mori Calliope Ch. hololive-EN  
-Last updated at 01/31/2021 19:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**夜行性ハイズ**  
+DECO*27  
+Last updated at 01/31/2021 19:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
