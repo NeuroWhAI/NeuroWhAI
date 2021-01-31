@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Fb1_fpuYX1I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**そこに命はありますか。 ／ DIVELA feat.初音ミク**  
-DIVELA  
-Last updated at 01/31/2021 15:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] REOL - ヒビカセ / Hibikase**  
+Reol  
+Last updated at 01/31/2021 15:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
