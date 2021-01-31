@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2gtjXO0ss4M/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCWa9U2N6UEhuaQRoDxROdKQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/FkahmviBPXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMfREkOCuwmfBAgBfOfgb9Q)
 
-**memory of snow/fripSide**  
-rosederirakusu  
-Last updated at 01/31/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**[한국어 커버/Korean Cover]열얼굴(十面相/The ten faced)[SeeU/시유]**  
+Production Onyang / 오냥  
+Last updated at 01/31/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
