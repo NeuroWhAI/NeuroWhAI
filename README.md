@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FkahmviBPXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMfREkOCuwmfBAgBfOfgb9Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-**[한국어 커버/Korean Cover]열얼굴(十面相/The ten faced)[SeeU/시유]**  
-Production Onyang / 오냥  
-Last updated at 01/31/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**델리스파이스 - 챠우챠우 (1997年)**  
+pops8090  
+Last updated at 01/31/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
