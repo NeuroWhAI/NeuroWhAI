@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/pl6XAk7nTdU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCq58BzscnyEmKtRkyp0ituw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/okodiTeAnQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjVlugL3wyf5BFm43KKqOeg)
 
-**【君の名は】なんでもないや(フル)/cover by上白石萌音**  
-お酢  
-Last updated at 01/31/2021 20:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**水彩メリーゴーランド / けーだっしゅ feat.初音ミク**  
+けーだっしゅ  
+Last updated at 01/31/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
