@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/u3wYTv2seEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVGBXvhcHJe1CoQkmSbm_Wg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/je6uthMUv94/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCeevk1WUxGXM_u_4yfE129Q)
 
-**「Q」椎名もた feat.鏡音リン 中文字幕**  
-z960265  
-Last updated at 01/31/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sweet Cat Dreaming**  
+Aura Qualic  
+Last updated at 01/31/2021 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
