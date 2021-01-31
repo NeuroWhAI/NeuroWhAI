@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yXh__PegCaM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmhtmUBjkXOAetnaDq-XJ1g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Pal0N04aUXs/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCOtGtJqElHTyeYwPi0hyGVg)
 
-**ずっと、ふたり。90秒スポット [dai(M.Graveyard)×nayuta(7uta.com)]**  
-nayuta  
-Last updated at 01/31/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**PSYQUI - エンドロール (ft. mikanzil) Endroll**  
+Wemo42- Sama  
+Last updated at 01/31/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
