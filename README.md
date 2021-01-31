@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IRG0jLqv7p4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX-CH5sv5ikAVoQGfRU06PA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/h-LOlueKCtk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg)
 
-**Level Up (Original Mix)**  
-세카이 및 PsoGnar  
-Last updated at 01/31/2021 17:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Live Again**  
+Mori Calliope Ch. hololive-EN  
+Last updated at 01/31/2021 19:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
