@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IGrhyOtikQ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUt2uP6O_UBJp4aBx5KjQjA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yA8RW0Y_Rcs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**Something Comforting**  
-포터 로빈슨  
-Last updated at 01/31/2021 15:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク×GUMI×鏡音リン】PaⅢ.INCEPTION【オリジナル曲】(피처링: 하츠네 미쿠, Rin Kagamine, Megpoid)**  
+雄之助  
+Last updated at 01/31/2021 15:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
