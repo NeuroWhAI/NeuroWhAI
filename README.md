@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 01/31/2021 16:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**MIMI『 Pale 』feat. 初音ミク**  
+미미  
+Last updated at 01/31/2021 16:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
