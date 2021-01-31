@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/xhb6hCx4X7o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0rk-nMm43zS6l_qVtXpvMg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yXh__PegCaM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmhtmUBjkXOAetnaDq-XJ1g)
 
-**All Falls Down - Alan Walker feat. Noah Cyrus with Digital Farm Animals (Piano Orchestra Cover)**  
-Mathias Fritsche  
-Last updated at 01/31/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**ずっと、ふたり。90秒スポット [dai(M.Graveyard)×nayuta(7uta.com)]**  
+nayuta  
+Last updated at 01/31/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
