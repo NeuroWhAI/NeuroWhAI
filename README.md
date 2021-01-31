@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hxSg2Ioz3LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**DECO*27 - ヒバナ feat. 初音ミク**  
-DECO*27  
-Last updated at 01/31/2021 16:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kegarenouta**  
+하뉴 마이고  
+Last updated at 01/31/2021 16:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
