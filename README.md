@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Sa0c1VGoiyc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3ifTl5zKiCAhHIBQYcaTeg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kryucJQjl6s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNdFbw0C16V7drHrNBrH3aQ)
 
-**Illenium X San Holo - Needed Your Light [Mashup]**  
-Proximity  
-Last updated at 01/31/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Children of the Grave (Gakkougurashi! Halloween AMV)**  
+Xophilarus  
+Last updated at 01/31/2021 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
