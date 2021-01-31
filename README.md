@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SwZYiJX_Kns/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCj7kI0TTyegpw7sE4X2WhjA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/M1aAzGM0DoM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-BMmo6R55fikE2uQe26uDA)
 
-**【初音ミクDark】Farewell【オリジナル曲】**  
-リア  
-Last updated at 01/31/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**FantasticYouth - 「Space Saver」 (Lyric Video)**  
+FantasticYouth  
+Last updated at 01/31/2021 19:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
