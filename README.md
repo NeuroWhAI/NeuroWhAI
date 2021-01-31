@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/k9wgqZR29Kg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChPsCwzLIghlUKodG5zijfA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Gt-qKNQkbeo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCgh4EFARgiynPiAL4_LCVTA)
 
-**Canoue - 氷の魔女は眠る (Album: canoue IV～錆び往く禍の城～)**  
-Elegant Sister (ES)  
-Last updated at 01/31/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**【IA ROCKS】 Limiter / リミッター (Mwk Remix) 【VOCALOIDカバー】**  
+April M  
+Last updated at 01/31/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
