@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IkGB5ncYhtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMrM0ZwxX56Aabrj3NlFfzw)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 01/31/2021 15:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**BREAK IT(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 01/31/2021 15:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
