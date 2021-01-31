@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2Yb4AmzHQbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCw_ipiX_370he1SLocfyJ-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SwZYiJX_Kns/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCj7kI0TTyegpw7sE4X2WhjA)
 
-**Plastic Memories ED Asayake no Starmine （朝焼けのスターマイン） Piano ピアノ HQ**  
-Hiumann  
-Last updated at 01/31/2021 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミクDark】Farewell【オリジナル曲】**  
+リア  
+Last updated at 01/31/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
