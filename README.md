@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/YJg_fji3Uko/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-rSW74L-XMA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRfCpDlKXvg3Sos0VO23tjg)
 
-**Twilight**  
-Geoxor  
-Last updated at 01/31/2021 19:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**【ShibayanRecords】 「nachi」 とびだせ！バンキッキ(Casual Killer remix)**  
+UnderGround  
+Last updated at 01/31/2021 19:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
