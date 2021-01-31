@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/BQTCOpLWaPc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCAFC-rgVqpnTdCtI60HHXiQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/L1KBaVHAdS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIVFv8AiQLqM9oLHTixrNYw)
 
-**泣けど喚けど朝がきて/4ma15 feat.重音テト**  
-4ma15  
-Last updated at 01/31/2021 20:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**【강지】 내가 죽으려고 생각 한것은 한국어 커버 (僕が死のうと思ったのは korean cover)**  
+강 지  
+Last updated at 01/31/2021 20:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
