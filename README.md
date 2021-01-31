@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/XoQh4YAICEA6B2STwbTEE-D04vG21tKUnbSKSTUN7RpH8I052tOpE7SYmOsOt1DUZkaP07xBbOUM8ipESA">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2Yb4AmzHQbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCw_ipiX_370he1SLocfyJ-Q)
 
-**Abandoned**  
-Geoxor  
-Last updated at 01/31/2021 19:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Plastic Memories ED Asayake no Starmine （朝焼けのスターマイン） Piano ピアノ HQ**  
+Hiumann  
+Last updated at 01/31/2021 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
