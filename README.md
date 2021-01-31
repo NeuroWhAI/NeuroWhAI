@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/c9S8smnDeG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpaI6U4e2MA_17PzMD4gs3g)
 
-**All I Need Are Things I Like**  
-피노키오P  
-Last updated at 01/31/2021 19:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Porter Robinson - Sad Machine (Didrick & Ember Island Cover)**  
+Didrik Franzén  
+Last updated at 01/31/2021 19:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
