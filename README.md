@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nrT2oIGkYyY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC0vIEsGCPKWkYrPU94pUx_g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/X_vcG9TQChQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1P7ivmEQMok4gz4xtG7mDQ)
 
-**【プラスティック・メモリーズ】朝焼けのスターマイン AcousticGuitar Arrange**  
-Dark MioN  
-Last updated at 01/31/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**【nory】超有名ボカロ楽曲をShape of Youにのせて歌ってみた**  
+nory  
+Last updated at 01/31/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
