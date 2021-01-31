@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**夜行性ハイズ**  
-DECO*27  
-Last updated at 01/31/2021 19:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**All I Need Are Things I Like**  
+피노키오P  
+Last updated at 01/31/2021 19:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
