@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2hJkH6Ms3Rw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNjNTqCfXSKd4S1tNgWUg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nrT2oIGkYyY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC0vIEsGCPKWkYrPU94pUx_g)
 
-**brinq - question (feat. アンテナガール, Yunomi Remix) [J-Pop]**  
-Waifu Wednesdays!  
-Last updated at 01/31/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**【プラスティック・メモリーズ】朝焼けのスターマイン AcousticGuitar Arrange**  
+Dark MioN  
+Last updated at 01/31/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
