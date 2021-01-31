@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/j3IRIkbjJX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-**そらる-人間だった【歌ってみた】**  
-Soraru(소라루)  
-Last updated at 01/31/2021 19:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**SEKAI NO OWARI - Dragon Night**  
+세카이노 오와리  
+Last updated at 01/31/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
