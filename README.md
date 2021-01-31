@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1s8NNPgdl5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Kegarenouta**  
-하뉴 마이고  
-Last updated at 01/31/2021 16:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**セカイはまだ始まってすらいない**  
+피노키오P  
+Last updated at 01/31/2021 16:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
