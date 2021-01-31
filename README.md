@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hfQvhc7U09I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiUY2aIMcrM497Mj0xYvfIA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/pl6XAk7nTdU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCq58BzscnyEmKtRkyp0ituw)
 
-**진흙 속에 피다 (泥中に咲く) / HarryP｜하츠네 미쿠 【Cover】**  
-XYNSIA 신시아  
-Last updated at 01/31/2021 20:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**【君の名は】なんでもないや(フル)/cover by上白石萌音**  
+お酢  
+Last updated at 01/31/2021 20:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
