@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/k9wgqZR29Kg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChPsCwzLIghlUKodG5zijfA)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 01/31/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Canoue - 氷の魔女は眠る (Album: canoue IV～錆び往く禍の城～)**  
+Elegant Sister (ES)  
+Last updated at 01/31/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
