@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gWYUuZmD1vI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRkp8eejVvkHA7T5X8jbJGQ)
 
-**델리스파이스 - 챠우챠우 (1997年)**  
-pops8090  
-Last updated at 01/31/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yuiko - solitary flower**  
+Miryanel Mirai  
+Last updated at 01/31/2021 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
