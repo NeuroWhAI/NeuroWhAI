@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NqHc6MSKuHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdRpSsXLFHwF-L8qOvM9QQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Io0E0REHCks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsrc4bUoDouleM4oaQkUnbA)
 
-**(자막) 아이러니를 불러봤습니다 《 Vocal 카노 》**  
-niemoe factory  
-Last updated at 02/02/2021 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**ベルセルク / いかさん【歌ってみた】**  
+いかさん / IKASAN - ちゃんねる  
+Last updated at 02/02/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
