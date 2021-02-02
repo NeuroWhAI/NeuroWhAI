@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/channel/UC7x9ctNNo2ZWGBYwPoXrNcg)
 
-**SEKAI NO OWARI - Dragon Night**  
-세카이노 오와리  
-Last updated at 02/02/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**형 (兄)**  
+Norazo  
+Last updated at 02/02/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
