@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0-q1KafFCLU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q5XzviXSHQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
 
-**Celebrity**  
-아이유(IU)  
-Last updated at 02/02/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**何もない様な / feat.初音ミク**  
+MIMI  
+Last updated at 02/02/2021 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
