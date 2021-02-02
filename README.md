@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/n6jW9CGlD4A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0-q1KafFCLU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**【女性が歌う】TEENAGE RIOT（米津玄師） / vo.獅子神レオナ / 『GATSBY COP』CMソング【VTuber】**  
-獅子神レオナ/レオナちゃんねる  
-Last updated at 01/31/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Celebrity**  
+아이유(IU)  
+Last updated at 02/02/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
