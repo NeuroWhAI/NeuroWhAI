@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/channel/UC7x9ctNNo2ZWGBYwPoXrNcg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hfQvhc7U09I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiUY2aIMcrM497Mj0xYvfIA)
 
-**형 (兄)**  
-Norazo  
-Last updated at 02/02/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**진흙 속에 피다 (泥中に咲く) / HarryP｜하츠네 미쿠 【Cover】**  
+XYNSIA 신시아  
+Last updated at 02/02/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
