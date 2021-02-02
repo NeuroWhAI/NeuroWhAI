@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q5XzviXSHQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**何もない様な / feat.初音ミク**  
-MIMI  
-Last updated at 02/02/2021 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**帝国少女 (CGS-edit)(テイコクショウジョ)**  
+R Sound Design  
+Last updated at 02/02/2021 20:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
