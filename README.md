@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Web5BDA5dHs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEOugXOAfa-HRmRjKbH8z3Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/c5Myyr6vNxg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCRtRVVWUEfIGOC2C2WW6_Uw)
 
-**どうぶつビスケッツデビューアルバム「さふぁりどらいぶ♪」PV（けものフレンズ）**  
-『けものフレンズプロジェクト』公式  
-Last updated at 02/02/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Skrillex - First of the year (Shirakami Fubuki Mix)**  
+Kanoeki  
+Last updated at 02/02/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
