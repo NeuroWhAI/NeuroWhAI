@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/H2_6RfoiYu4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtGmulznR7e0KxpEdKu_nqw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Web5BDA5dHs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEOugXOAfa-HRmRjKbH8z3Q)
 
-**sasakure.UK - to Asteroid B-612 feat. lasah**  
-U/M/A/A Inc.  
-Last updated at 02/02/2021 20:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**どうぶつビスケッツデビューアルバム「さふぁりどらいぶ♪」PV（けものフレンズ）**  
+『けものフレンズプロジェクト』公式  
+Last updated at 02/02/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
