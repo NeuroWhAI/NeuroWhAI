@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L1KBaVHAdS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIVFv8AiQLqM9oLHTixrNYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Aky1oL4dGLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6m3DJHXXxA9ybCrq8a8ApQ)
 
-**【강지】 내가 죽으려고 생각 한것은 한국어 커버 (僕が死のうと思ったのは korean cover)**  
-강 지  
-Last updated at 02/02/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**월피스카터 - 시간의 비, 최종전쟁 [Nightcore][자막]**  
+이브Ib  
+Last updated at 02/02/2021 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
