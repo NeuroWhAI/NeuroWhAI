@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fWNhWmIWRVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNjNTqCfXSKd4S1tNgWUg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/k9wgqZR29Kg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChPsCwzLIghlUKodG5zijfA)
 
-**Yunomi - Oedo Controller (ft. Toriena)**  
-Waifu Wednesdays!  
-Last updated at 02/02/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Canoue - 氷の魔女は眠る (Album: canoue IV～錆び往く禍の城～)**  
+Elegant Sister (ES)  
+Last updated at 02/02/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
