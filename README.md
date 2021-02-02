@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oDnmzIQzTlI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/L1KBaVHAdS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIVFv8AiQLqM9oLHTixrNYw)
 
-**First Full Album 「浮世巡り」XFD**  
-하뉴 마이고  
-Last updated at 02/02/2021 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**【강지】 내가 죽으려고 생각 한것은 한국어 커버 (僕が死のうと思ったのは korean cover)**  
+강 지  
+Last updated at 02/02/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
