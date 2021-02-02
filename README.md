@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/tm7NkfWe2Hc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChZovKPPI2CMGcXNHZh3_KQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7y3DwuVxDq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrALFGPubY9rNwVOOJUYu4g)
 
-**UNI - I'm not a monster (VOCALOID4) [보컬로이드 유니]**  
-WyvernP Official / 와이번P  
-Last updated at 02/02/2021 21:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**灰色と青／cover そらる×まふまふ**  
+そらるチャンネル / Soraru Channel  
+Last updated at 02/02/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
