@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/sW3RT0tF020/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCukBv_7AJU7AZHcidF0HIvQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/u3wYTv2seEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVGBXvhcHJe1CoQkmSbm_Wg)
 
-**西野カナ『トリセツ』『ヒロイン失格』主題歌 歌詞つき（フルカバー）(Kobasolo & Lefty hand cream) - 西野加奈『使用說明書』 - 翻唱歌曲 니시노 카나 /토리세츠**  
-Kobasolo(코바솔로)  
-Last updated at 02/02/2021 21:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**「Q」椎名もた feat.鏡音リン 中文字幕**  
+z960265  
+Last updated at 02/02/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
