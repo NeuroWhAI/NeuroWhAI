@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hfQvhc7U09I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiUY2aIMcrM497Mj0xYvfIA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fWNhWmIWRVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNjNTqCfXSKd4S1tNgWUg)
 
-**진흙 속에 피다 (泥中に咲く) / HarryP｜하츠네 미쿠 【Cover】**  
-XYNSIA 신시아  
-Last updated at 02/02/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yunomi - Oedo Controller (ft. Toriena)**  
+Waifu Wednesdays!  
+Last updated at 02/02/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
