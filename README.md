@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7y3DwuVxDq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrALFGPubY9rNwVOOJUYu4g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NqHc6MSKuHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdRpSsXLFHwF-L8qOvM9QQA)
 
-**灰色と青／cover そらる×まふまふ**  
-そらるチャンネル / Soraru Channel  
-Last updated at 02/02/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**(자막) 아이러니를 불러봤습니다 《 Vocal 카노 》**  
+niemoe factory  
+Last updated at 02/02/2021 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
