@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/46oCfjSCrLg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCG9_bzTINlSfDt7MRdGkufQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-**【合唱】十面相 / Ten-faced - Nico Nico Chorus**  
-AnotherNicoUploader  
-Last updated at 02/02/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**SEKAI NO OWARI - Dragon Night**  
+세카이노 오와리  
+Last updated at 02/02/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
