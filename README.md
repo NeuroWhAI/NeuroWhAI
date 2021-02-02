@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/WXZaXtYW-Gc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrOaijB2OTbuH0Sc7Ifee1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/su0FCBRwVpE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6PeirgIN0O3m2I9hh-inmg)
 
-**His Theme - Undertale [Piano & Orchestra] (Synthesia) // PianoPrinceOfAnime**  
-Marioverehrer  
-Last updated at 02/02/2021 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yunomi & nicamoq – インドア系ならトラックメイカー**  
+Airocars  
+Last updated at 02/02/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
