@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/su0FCBRwVpE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6PeirgIN0O3m2I9hh-inmg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/46oCfjSCrLg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCG9_bzTINlSfDt7MRdGkufQ)
 
-**Yunomi & nicamoq – インドア系ならトラックメイカー**  
-Airocars  
-Last updated at 02/02/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**【合唱】十面相 / Ten-faced - Nico Nico Chorus**  
+AnotherNicoUploader  
+Last updated at 02/02/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
