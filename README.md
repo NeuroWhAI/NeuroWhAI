@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/u3wYTv2seEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVGBXvhcHJe1CoQkmSbm_Wg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/WXZaXtYW-Gc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrOaijB2OTbuH0Sc7Ifee1A)
 
-**「Q」椎名もた feat.鏡音リン 中文字幕**  
-z960265  
-Last updated at 02/02/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**His Theme - Undertale [Piano & Orchestra] (Synthesia) // PianoPrinceOfAnime**  
+Marioverehrer  
+Last updated at 02/02/2021 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
