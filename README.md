@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TgOu00Mf3kI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**에잇(Prod.&Feat. SUGA of BTS)(피처링: SUGA)**  
-아이유(IU)  
-Last updated at 02/03/2021 20:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - 人間だった ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 02/03/2021 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
