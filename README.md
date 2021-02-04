@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/60ItHLz5WEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VHAYLOM0yEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNC3nq4BXyaB6sTfX4IoDHA)
 
-**Faded**  
-앨런 워커  
-Last updated at 02/04/2021 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**In The End (Mellen Gi Remix)(피처링: Fleurie)**  
+Tommee Profitt  
+Last updated at 02/04/2021 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
