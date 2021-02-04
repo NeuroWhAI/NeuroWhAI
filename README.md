@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_ovdm2yX4MA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/b3Mm4wHMtjQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEwgTYNBDIYFCKWYpQdA_BA)
 
-**Levels**  
-Avicii(아비치)  
-Last updated at 02/04/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alan Walker - Unity (Extended Version) by**  
+Albert Vishi  
+Last updated at 02/04/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
