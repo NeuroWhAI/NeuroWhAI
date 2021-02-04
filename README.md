@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/60ItHLz5WEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-**Zangemairi**  
-하뉴 마이고  
-Last updated at 02/03/2021 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Faded**  
+앨런 워커  
+Last updated at 02/04/2021 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
