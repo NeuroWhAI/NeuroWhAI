@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/sy_ISTRa-SXwvs5ub9eQmAy95UT53RlIaWseRctiTAzS0CNMhgx3C57G-YFyziXmwbVukUJv-0xmS37t-Q">](https://music.youtube.com/channel/UCkXti-lTW7oglXtpxcC2VDw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/8LMqwjD1pza-H-rzWvVChOPBd3FsnZtl48KZYcbtDnYG-98JoOut-e61peSBTEFUbeEZ2sObs8NjeSyy">](https://music.youtube.com/channel/UCR0KQboSU8DdUWN3p1vPsBA)
 
-**トラフィック・ジャム**  
-煮ル果実  
-Last updated at 02/05/2021 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**チルドレン**  
+Bin  
+Last updated at 02/05/2021 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
