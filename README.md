@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NhYsFAJ2k3Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC11uFYc6xHggXXmjLnepqOA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lgGCKohN91U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf41DQz0_vpJiqscucqU1FQ)
 
-**Maharajah**  
-Alice Schach and the Magic Orchestra  
-Last updated at 02/05/2021 21:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**未完成 - Covered by YuNi【家入レオ】**  
+YuNi  
+Last updated at 02/05/2021 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
