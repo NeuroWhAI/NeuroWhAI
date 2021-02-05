@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Fb1_fpuYX1I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OOmOFI6QEBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**そこに命はありますか。 ／ DIVELA feat.初音ミク**  
-DIVELA  
-Last updated at 02/05/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**「星の涙」三月のパンタシア【OFFICIAL】**  
+삼월의 판타시아  
+Last updated at 02/05/2021 22:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
