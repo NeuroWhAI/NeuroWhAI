@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/tqwAe0c3R-FNFCqnWyspacGVnbwCcfznJtvDsnUg_iGHgOE82rS-EuG7_LIrc17Vb1rK3FuAkaAiewwR">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
 
-**Hibikase**  
-Reol  
-Last updated at 02/05/2021 19:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Teo**  
+Omoi  
+Last updated at 02/05/2021 20:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
