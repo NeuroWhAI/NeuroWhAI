@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1VSvkQ2Es9Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNCR9nSEnznMUg9gPVP-39w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Rm-Jj3l-Mmw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Rm-Jj3l-Mmw)
 
-**Status**  
-B A N S H E  
-Last updated at 02/05/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mamasita**  
+Kean Dysso, AkA  
+Last updated at 02/05/2021 19:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
