@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LtSNzPyo0lA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Lb3uJI1cTHc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpTpszeiaSs938KEIXZRNcQ)
 
-**Nobody Makes Sense**  
-피노키오P  
-Last updated at 02/05/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**キマイラ(피처링: 애나벨)**  
+sasakure.UK  
+Last updated at 02/05/2021 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
