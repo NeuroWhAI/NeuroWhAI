@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-ZbsoYlWwnQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf41DQz0_vpJiqscucqU1FQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Fb1_fpuYX1I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**プロローグ - Covered by YuNi【Uru】**  
-YuNi  
-Last updated at 02/05/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**そこに命はありますか。 ／ DIVELA feat.初音ミク**  
+DIVELA  
+Last updated at 02/05/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
