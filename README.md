@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/8LMqwjD1pza-H-rzWvVChOPBd3FsnZtl48KZYcbtDnYG-98JoOut-e61peSBTEFUbeEZ2sObs8NjeSyy">](https://music.youtube.com/channel/UCR0KQboSU8DdUWN3p1vPsBA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/82hae7wFgczeK8W4KFFl8kl2fI3dPBjy0eDi2-ywBd-zaNGIzZ2bjsKBmszAsKm25cpg1HTWobWAUxP0">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**チルドレン**  
-Bin  
-Last updated at 02/05/2021 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**すきなことだけでいいです**  
+PinocchioP  
+Last updated at 02/05/2021 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
