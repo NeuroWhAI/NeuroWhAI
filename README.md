@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/8mL3Cor8pMq-yWLF81i9UxSeC9YMsWetm7V6wEQnDfi_N2z0ry3rwjiAzq0s722y3nVdmmHv2_NrTuA">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/sy_ISTRa-SXwvs5ub9eQmAy95UT53RlIaWseRctiTAzS0CNMhgx3C57G-YFyziXmwbVukUJv-0xmS37t-Q">](https://music.youtube.com/channel/UCkXti-lTW7oglXtpxcC2VDw)
 
-**い～やい～やい～や(피처링: z'5)**  
-Neru  
-Last updated at 02/05/2021 20:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**トラフィック・ジャム**  
+煮ル果実  
+Last updated at 02/05/2021 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
