@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/Ln_qcgoZI_u4ebACjpGqsRZLxQSHr_bacvwughcAXU6hoLDX0_q7rybM86x2A5FLU0paKWj5lU-O1Nlz8g">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/2FBb3Kx9nqf3QkZXWucMalfPXlbIVeGvRy0m60qP-KMz2cln6OqTyvFWkJyL9Z8dyThuPVK83cy1fyVI">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Loveit**  
-피노키오P  
-Last updated at 02/05/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**乙女解剖 (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 02/05/2021 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
