@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/82hae7wFgczeK8W4KFFl8kl2fI3dPBjy0eDi2-ywBd-zaNGIzZ2bjsKBmszAsKm25cpg1HTWobWAUxP0">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">](https://music.youtube.com/channel/UCXW81UHV3UeWUjVMr11ov2A)
 
-**すきなことだけでいいです**  
-PinocchioP  
-Last updated at 02/05/2021 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tokyo Ghetto**  
+Eve  
+Last updated at 02/05/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
