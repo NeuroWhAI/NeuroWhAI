@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ka8tGDJxtEo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIuastkfs1VhEWE6aBWv4kg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1VSvkQ2Es9Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNCR9nSEnznMUg9gPVP-39w)
 
-**Panic Room**  
-Au/Ra  
-Last updated at 02/05/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Status**  
+B A N S H E  
+Last updated at 02/05/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
