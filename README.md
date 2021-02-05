@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/b3Mm4wHMtjQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEwgTYNBDIYFCKWYpQdA_BA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0-q1KafFCLU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**Alan Walker - Unity (Extended Version) by**  
-Albert Vishi  
-Last updated at 02/04/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Celebrity**  
+아이유(IU)  
+Last updated at 02/05/2021 19:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
