@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/2FBb3Kx9nqf3QkZXWucMalfPXlbIVeGvRy0m60qP-KMz2cln6OqTyvFWkJyL9Z8dyThuPVK83cy1fyVI">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
 
-**乙女解剖 (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 02/05/2021 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hibikase**  
+Reol  
+Last updated at 02/05/2021 19:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
