@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/tqwAe0c3R-FNFCqnWyspacGVnbwCcfznJtvDsnUg_iGHgOE82rS-EuG7_LIrc17Vb1rK3FuAkaAiewwR">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/u5ZTWXHfd9_3-iROlb8LiyCzv6aGJMeXUT8MsAKEy7M5IzwBDHuyqSjcKh5hUMxyL1Dka5wk0UkMaeGA">](https://music.youtube.com/channel/UCqagelMp-tKB8qFJgzDAn8w)
 
-**Teo**  
-Omoi  
-Last updated at 02/05/2021 20:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kirai Kirai Jigahidai!**  
+WADATAKEAKI KurageP  
+Last updated at 02/05/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
