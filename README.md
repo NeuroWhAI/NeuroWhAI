@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VQKMvpn8EcM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL-UELIcRr_qDBJxDdgwQng)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ka8tGDJxtEo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIuastkfs1VhEWE6aBWv4kg)
 
-**Saiwon - Falling Ether (DigitalTek Remix)**  
-DigitalTek  
-Last updated at 02/05/2021 19:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Panic Room**  
+Au/Ra  
+Last updated at 02/05/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
