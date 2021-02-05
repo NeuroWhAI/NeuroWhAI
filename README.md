@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/KXFLxuIs5VJb3Pjpkajkv6FLzCUe6oDKZxkjOnLJI_g6mg83L3EIKR9cIvCTJbO1CeqYN9NlamFB1K00fg">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**No Title**  
-Reol  
-Last updated at 02/05/2021 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Secret HIMITSU**  
+피노키오P  
+Last updated at 02/05/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
