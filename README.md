@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">](https://music.youtube.com/channel/UCXW81UHV3UeWUjVMr11ov2A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/d-nxW9qBtxQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-**Last Dance**  
-Eve  
-Last updated at 02/05/2021 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ga1ahad and Scientific Witchery**  
+Mili  
+Last updated at 02/05/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
