@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LAHr857IuTo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvqRJJGb6VZ-W20eSIPmXBg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/Ln_qcgoZI_u4ebACjpGqsRZLxQSHr_bacvwughcAXU6hoLDX0_q7rybM86x2A5FLU0paKWj5lU-O1Nlz8g">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**KEAN DYSSO - My House G House**  
-Spirit Of GѺÐ  
-Last updated at 02/05/2021 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loveit**  
+피노키오P  
+Last updated at 02/05/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
