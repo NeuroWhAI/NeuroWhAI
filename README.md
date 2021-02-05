@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vApmlsYX68o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1wZQBuO1rZPyN7t4HWBkLA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VQKMvpn8EcM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCL-UELIcRr_qDBJxDdgwQng)
 
-**Uh La La**  
-XIX  
-Last updated at 02/05/2021 19:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**Saiwon - Falling Ether (DigitalTek Remix)**  
+DigitalTek  
+Last updated at 02/05/2021 19:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
