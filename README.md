@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OOmOFI6QEBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/QgouH0x07_Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCD7xfdEKiagDbPnEJ3k21QA)
 
-**「星の涙」三月のパンタシア【OFFICIAL】**  
-삼월의 판타시아  
-Last updated at 02/05/2021 22:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kokoronashi (Cover)**  
+CocoTsuki  
+Last updated at 02/05/2021 22:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
