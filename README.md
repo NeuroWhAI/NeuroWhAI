@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Rm-Jj3l-Mmw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Rm-Jj3l-Mmw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_EqTfSwn2Qw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3rq4fD1NlnhTjlN2zPGDJg)
 
-**Mamasita**  
-Kean Dysso, AkA  
-Last updated at 02/05/2021 19:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Golden Hour**  
+Feall  
+Last updated at 02/05/2021 19:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
