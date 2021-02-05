@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0-q1KafFCLU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vApmlsYX68o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1wZQBuO1rZPyN7t4HWBkLA)
 
-**Celebrity**  
-아이유(IU)  
-Last updated at 02/05/2021 19:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Uh La La**  
+XIX  
+Last updated at 02/05/2021 19:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
