@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/zmG6fwYjdrZzCZf1pQWQoDWl9C1RO5vOAtjuLAv0b07Ue1CZQf7lwioDfoqTVlWCOdJkUSuJZEcRdqph">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/ExhMegIFYZee8a2TICc0tJaWkzvBbfQmSognrTXsTQreQtRRGDOF5syDXeqAjwpni8TdVnaXGZ3ZQA8">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
 
-**Being low as dirt, taking what's important from me**  
-TUYU  
-Last updated at 02/05/2021 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yoiyoi Kokon**  
+Reol  
+Last updated at 02/05/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
