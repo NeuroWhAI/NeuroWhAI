@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
 
-**スクランブル交際**  
-DECO*27  
-Last updated at 02/05/2021 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**No Title**  
+Reol  
+Last updated at 02/05/2021 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
