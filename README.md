@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/d-nxW9qBtxQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**Ga1ahad and Scientific Witchery**  
-Mili  
-Last updated at 02/05/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Jigokuwadokodesuenmasama**  
+하뉴 마이고  
+Last updated at 02/05/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
