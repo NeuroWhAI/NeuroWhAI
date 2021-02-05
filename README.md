@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/lgGCKohN91U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf41DQz0_vpJiqscucqU1FQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-ZbsoYlWwnQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf41DQz0_vpJiqscucqU1FQ)
 
-**未完成 - Covered by YuNi【家入レオ】**  
+**プロローグ - Covered by YuNi【Uru】**  
 YuNi  
-Last updated at 02/05/2021 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/05/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
