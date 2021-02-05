@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">](https://music.youtube.com/channel/UCXW81UHV3UeWUjVMr11ov2A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/tD0LHKQ6s89Yh_rhWomd_PYWYU_xa7LrgW_WEkNXSMggLBlkJMWd51FyIBMQGsrjJGirJ0lpfBHt-2c3">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Tokyo Ghetto**  
-Eve  
-Last updated at 02/05/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tokyo Mannequin**  
+피노키오P  
+Last updated at 02/05/2021 20:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
