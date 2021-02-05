@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/LEC5oSzt5FxxAVA17VdPdc4skaGUTHkpQBKks4PZgsopY5C5TcloQ6SqfFKuWfJdoN6Rr16MBPzuBer-">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**DONUT HOLE**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/05/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**スクランブル交際**  
+DECO*27  
+Last updated at 02/05/2021 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
