@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_EqTfSwn2Qw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3rq4fD1NlnhTjlN2zPGDJg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LAHr857IuTo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvqRJJGb6VZ-W20eSIPmXBg)
 
-**Golden Hour**  
-Feall  
-Last updated at 02/05/2021 19:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**KEAN DYSSO - My House G House**  
+Spirit Of GѺÐ  
+Last updated at 02/05/2021 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
