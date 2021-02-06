@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Krem4GHmmxg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCisM9mNxVXtgrgn3zSjvmag)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zZyeMhkU8-c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7d4s6ekX2FgRjjTqmngp9w)
 
-**BOOM BOOM SATELLITES 『LAY YOUR HANDS ON ME』Short Ver.**  
-BOOM BOOM SATELLITES  
-Last updated at 02/06/2021 15:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kisetsu wa Tsugitsugi Shindeiku [dj-Jo Remix]**  
+dj-Jo 및 Zenpaku  
+Last updated at 02/06/2021 15:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
