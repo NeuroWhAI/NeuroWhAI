@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/n0l0iLUgyPQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kMlWIFca6B4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**DECO*27 - エゴママ feat. marina(피처링: marina)**  
-DECO*27  
-Last updated at 02/06/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**〔れをる〕　メリュー　〔歌ってみた〕**  
+Reol  
+Last updated at 02/06/2021 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
