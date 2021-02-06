@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/XSLhsjepelI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR29q3hGlpPRDrR1bk_8XqQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Vz1C44EDkYA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIukruobbHEmb8nhaH_Hu3A)
 
-**【初音ミク】グリーンライツ・セレナーデ / Greenlights Serenade【オリジナルMV】**  
-하츠네 미쿠  
-Last updated at 02/06/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**スイートマジック @ ろん×Junky**  
+Junky  
+Last updated at 02/06/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
