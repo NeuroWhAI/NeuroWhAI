@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cRIBCezbUhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**すきなうた - yui × 鎖那**  
-sana  
-Last updated at 02/06/2021 14:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**That's Why I Gave Up on Music**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 14:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
