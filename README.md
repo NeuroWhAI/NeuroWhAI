@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hxSg2Ioz3LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/60ItHLz5WEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-**DECO*27 - ヒバナ feat. 初音ミク**  
-DECO*27  
-Last updated at 02/06/2021 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Faded**  
+앨런 워커  
+Last updated at 02/06/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
