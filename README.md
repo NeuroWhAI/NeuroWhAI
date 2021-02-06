@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t66lw67WSOA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oklzVH8FfVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Sakura**  
-Geoxor 및 Canonblade  
-Last updated at 02/06/2021 15:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**Virtual**  
+Geoxor  
+Last updated at 02/06/2021 15:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
