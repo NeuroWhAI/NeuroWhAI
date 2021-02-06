@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/L13gCEZJVRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**劣等上等 feat. 鏡音リン・レン**  
-ГИГА  
-Last updated at 02/06/2021 22:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**Henceforth(피처링: IA)**  
+Orangestar  
+Last updated at 02/06/2021 22:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
