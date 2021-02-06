@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/b3Mm4wHMtjQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEwgTYNBDIYFCKWYpQdA_BA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0s4ORh6qtJI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
 
-**Alan Walker - Unity (Extended Version) by**  
-Albert Vishi  
-Last updated at 02/06/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**WAA!!!!**  
+Omoi  
+Last updated at 02/06/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
