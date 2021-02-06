@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/je6uthMUv94/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCeevk1WUxGXM_u_4yfE129Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OXHYIlkZLUU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
 
-**Sweet Cat Dreaming**  
-Aura Qualic  
-Last updated at 02/06/2021 14:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**【IA OFFICIAL】Shooting Star / TeddyLoid feat.IA (MUSIC VIDEO)**  
+1st PLACE  
+Last updated at 02/06/2021 14:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
