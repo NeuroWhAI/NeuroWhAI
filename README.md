@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-EKxzId_Sj4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
 
-**That's Why I Gave Up on Music**  
-Yorushika(ヨルシカ)  
-Last updated at 02/06/2021 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**米津玄師 MV「アイネクライネ」**  
+Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 02/06/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
