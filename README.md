@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9nCkUgTO5x4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCukBv_7AJU7AZHcidF0HIvQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/je6uthMUv94/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCeevk1WUxGXM_u_4yfE129Q)
 
-**【女性が歌う】灰色と青＋菅田将暉/米津玄師(Covered by コバソロ & 春茶)(피처링: Kopi)**  
-Kobasolo(코바솔로)  
-Last updated at 02/06/2021 14:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sweet Cat Dreaming**  
+Aura Qualic  
+Last updated at 02/06/2021 14:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
