@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ptnYBctoexk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Y_NmFJxpqHg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyPfPSVEBkSQxylPRyTD3bw)
 
-**米津玄師 MV「馬と鹿」Uma to Shika**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/06/2021 18:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tiara「ただいまと言えるまで」**  
+티아라  
+Last updated at 02/06/2021 18:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
