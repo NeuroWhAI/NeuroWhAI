@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0zaeOXP06rU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBOT3oI7yw0Ikr3HwTb4mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0CZSb3Ijhbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
 
-**Unstoppable**  
-테미니트  
-Last updated at 02/06/2021 15:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Super Panda 64**  
+판다 아이즈  
+Last updated at 02/06/2021 15:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
