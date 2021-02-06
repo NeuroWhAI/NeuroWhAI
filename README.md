@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NMMufaweJu4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX5XUy4Wzgvo4lKcD1jIYBg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-tKVN2mAKRI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
 
-**イチリンソウ**  
-SayakaYamamotoVEVO  
-Last updated at 02/06/2021 17:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**DAOKO × 米津玄師『打上花火』MUSIC VIDEO**  
+DAOKO 및 Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 02/06/2021 17:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
