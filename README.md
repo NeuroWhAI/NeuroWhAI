@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Y_NmFJxpqHg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyPfPSVEBkSQxylPRyTD3bw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/MH5noJJfqDY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Tiara「ただいまと言えるまで」**  
-티아라  
-Last updated at 02/06/2021 18:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Night Journey**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 18:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
