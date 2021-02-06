@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bmkY2yc1K7Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**Teo**  
-Omoi  
-Last updated at 02/06/2021 16:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**No title**  
+Reol  
+Last updated at 02/06/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
