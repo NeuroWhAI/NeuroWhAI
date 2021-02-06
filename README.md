@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/JJaCwW4HyVs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/URG6YnTPcac/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzWhKfNG1tyJ3ECQWwpLeWA)
 
-**雲と幽霊**  
-Yorushika(ヨルシカ)  
-Last updated at 02/06/2021 14:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**ハロ/ハワユ**  
+Kano  
+Last updated at 02/06/2021 14:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
