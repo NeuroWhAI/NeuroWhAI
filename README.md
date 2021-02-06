@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q5XzviXSHQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
 
-**Nanimo nai Youna**  
-미미  
-Last updated at 02/06/2021 16:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**チュルリラ・チュルリラ・ダッダッダ！**  
+쿠라게P  
+Last updated at 02/06/2021 16:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
