@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Ziz_ckzVjyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 02/06/2021 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**MIMI『ルルージュ』feat.初音ミク**  
+미미  
+Last updated at 02/06/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
