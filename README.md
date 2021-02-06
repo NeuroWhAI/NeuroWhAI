@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/v7_Jo4SfICk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChMOQ1DOaMPHX_KtFhRQszw)
 
-**Zangemairi**  
-하뉴 마이고  
-Last updated at 02/06/2021 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Devil's Manner**  
+Tatsuya Kitani  
+Last updated at 02/06/2021 19:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
