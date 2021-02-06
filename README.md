@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UDskSD_F9KA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCuLYCVJQHH4hCeROWAlGs1A)
 
-**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
-피노키오P  
-Last updated at 02/06/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**8hit (feat. Kagamine Rin&Kagamine Len)**  
+WONDERFUL★OPPORTUNITY!  
+Last updated at 02/06/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
