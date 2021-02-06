@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**LiSA 『炎』 -MUSiC CLiP-**  
-LiSA  
-Last updated at 02/06/2021 17:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**That's Why I Gave Up on Music**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
