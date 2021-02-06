@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-tKVN2mAKRI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EoxRhxsTmNg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKmDskjTFttQkgXp3GtjHrg)
 
-**DAOKO × 米津玄師『打上花火』MUSIC VIDEO**  
-DAOKO 및 Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/06/2021 17:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Akie秋絵】天ノ弱 -うぃんぐPiano Ver.- 【歌ってみた】【オリジナルPV】**  
+吉沢秋絵  
+Last updated at 02/06/2021 17:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
