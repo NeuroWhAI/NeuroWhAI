@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Tjoq6bhKyHg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCL7KDC-0JqQU4YdP-13dE_A)
 
-**チュルリラ・チュルリラ・ダッダッダ！**  
-쿠라게P  
-Last updated at 02/06/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**WAVE(피처링: Lily)**  
+niki  
+Last updated at 02/06/2021 22:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
