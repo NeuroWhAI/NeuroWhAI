@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0s4ORh6qtJI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/crCS77wqxTI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**WAA!!!!**  
-Omoi  
-Last updated at 02/06/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Forward**  
+R Sound Design  
+Last updated at 02/06/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
