@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EoxRhxsTmNg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKmDskjTFttQkgXp3GtjHrg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gJX2iy6nhHc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
 
-**【Akie秋絵】天ノ弱 -うぃんぐPiano Ver.- 【歌ってみた】【オリジナルPV】**  
-吉沢秋絵  
-Last updated at 02/06/2021 17:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**米津玄師 MV「 灰色と青（ ＋菅田将暉 ）」(피처링: Suda Masaki)**  
+Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 02/06/2021 17:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
