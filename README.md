@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OXHYIlkZLUU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cmVdgWL5548/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCitbMAs5IlXXG5GqAZJzfpw)
 
-**【IA OFFICIAL】Shooting Star / TeddyLoid feat.IA (MUSIC VIDEO)**  
-1st PLACE  
-Last updated at 02/06/2021 14:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**So Happy**  
+Raven & Kreyn  
+Last updated at 02/06/2021 14:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
