@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/aPDaFGqMX4I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
 
-**METEOR(피처링: 하츠네 미쿠)**  
-DIVELA  
-Last updated at 02/06/2021 16:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**じん / 夜咄ディセイブ【OFFICIAL MUSIC VIDEO】**  
+Jin  
+Last updated at 02/06/2021 16:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
