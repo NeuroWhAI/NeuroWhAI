@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7B_PVsPvcg0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCBPPlzfYBbl1W_hlJ35p6YQ)
 
-**翡翠のまち**  
-sana  
-Last updated at 02/06/2021 14:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**コレサワ「たばこ」【Music Video】**  
+코레사와  
+Last updated at 02/06/2021 14:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
