@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bmkY2yc1K7Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/z_RmuScgWOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
 
-**Teo**  
-Omoi  
-Last updated at 02/06/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**エバ**  
+Hiiragi Kirai  
+Last updated at 02/06/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
