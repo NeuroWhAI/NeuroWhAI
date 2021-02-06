@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2IsBcAjUBVg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCesyNtiwxtiIdBv9UD7EiQQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/70i9-ExfKdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCI9pAHIWil0NtCHlAIUveKQ)
 
-**colors/初音ミク**  
-Paseri Onuma  
-Last updated at 02/06/2021 17:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**If Interstellar Theme Was A Song? - Hanu Dixit**  
+Hanu Dixit  
+Last updated at 02/06/2021 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
