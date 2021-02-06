@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nf9RjiHG_dY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIQpFEPNZUCFsUgkgwW1ZVg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lD4ZIzosp_c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lD4ZIzosp_c)
 
-**Decade(피처링: 하츠네 미쿠)**  
-딕시 플랫라인  
-Last updated at 02/06/2021 15:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tobu & Syndec - Dusk [NCS Release]**  
+NoCopyrightSounds  
+Last updated at 02/06/2021 15:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
