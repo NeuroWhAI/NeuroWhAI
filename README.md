@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5ZZei-ySy3M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5ZZei-ySy3M)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cQtgFZMWn98/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCV4O9Mqs85Bg4Rart8xkC1w)
 
-**Dropouts - Unity (feat. Aloma Steele) [NCS Release]**  
-NoCopyrightSounds  
-Last updated at 02/06/2021 15:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Cruiser (Bonus Track)(피처링: 알렉스 소나타)**  
+Gareth Emery  
+Last updated at 02/06/2021 15:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
