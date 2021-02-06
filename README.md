@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**METEOR(피처링: 하츠네 미쿠)**  
-DIVELA  
-Last updated at 02/06/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**Zangemairi**  
+하뉴 마이고  
+Last updated at 02/06/2021 21:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
