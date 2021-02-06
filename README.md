@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ieF_TtJhAxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/J-7GujtdGfQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**第六感**  
-Reol  
-Last updated at 02/06/2021 18:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**不思議の国のアリス症候群　Syndrome Of Alice In Wonderland / 初音ミク**  
+하뉴 마이고  
+Last updated at 02/06/2021 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
