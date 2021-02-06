@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gPE3XQVHMuA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKXj93egWRbbjQiyWUhLYDA)
 
-**LiSA 『炎』 -MUSiC CLiP-**  
-LiSA  
-Last updated at 02/06/2021 22:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**Asuka**  
+PIKASONIC  
+Last updated at 02/06/2021 22:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
