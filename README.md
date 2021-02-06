@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ieF_TtJhAxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**Tada Kimi ni Hare**  
-Yorushika(ヨルシカ)  
-Last updated at 02/06/2021 18:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**第六感**  
+Reol  
+Last updated at 02/06/2021 18:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
