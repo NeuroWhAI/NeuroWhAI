@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7awIdGqyr40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbKvE9QuiumgC-mhm0EQe7Q)
 
-**帝国少女 (CGS-edit)(テイコクショウジョ)**  
-R Sound Design  
-Last updated at 02/06/2021 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**スーサイドパレヱド**  
+YURRY CANON  
+Last updated at 02/06/2021 16:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
