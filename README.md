@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jP7wze4LzoA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCermf7vqBLEsYL-X_8gBcUg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Iv5P21D76bw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdKS2fXd-StyVBOyWyiqnYA)
 
-**PIKASONIC - Miss You**  
-Firefly Music  
-Last updated at 02/06/2021 23:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Holo**  
+Ampyx  
+Last updated at 02/06/2021 23:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
