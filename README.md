@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5PguQyvbtbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqG6ZhISLMJZu90EDk36P5Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jP7wze4LzoA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCermf7vqBLEsYL-X_8gBcUg)
 
-**Pagoda**  
-Xomu & Amidst  
-Last updated at 02/06/2021 22:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**PIKASONIC - Miss You**  
+Firefly Music  
+Last updated at 02/06/2021 23:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
