@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aPDaFGqMX4I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Tg5z_8286ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**じん / 夜咄ディセイブ【OFFICIAL MUSIC VIDEO】**  
-Jin  
-Last updated at 02/06/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Whatever Yama Says Goes**  
+피노키오P  
+Last updated at 02/06/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
