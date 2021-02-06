@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7awIdGqyr40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbKvE9QuiumgC-mhm0EQe7Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bmkY2yc1K7Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCM-4XhCGnEq4he1xIUZBn6A)
 
-**スーサイドパレヱド**  
-YURRY CANON  
-Last updated at 02/06/2021 16:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Teo**  
+Omoi  
+Last updated at 02/06/2021 16:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
