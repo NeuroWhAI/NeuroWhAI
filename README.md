@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/D0rcpDpcNgQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR35HCYe9TN6aboSP7k0JrA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t66lw67WSOA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**【Kagamine Len V4X】Satisfaction【Cover】**  
-시리아  
-Last updated at 02/06/2021 15:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sakura**  
+Geoxor 및 Canonblade  
+Last updated at 02/06/2021 15:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
