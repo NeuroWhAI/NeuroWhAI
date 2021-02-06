@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IimCdaFGj3I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvjXxvmWE3-lbb9lYOJPedA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5ZZei-ySy3M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5ZZei-ySy3M)
 
-**Through The Night(피처링: 하츠네 미쿠)**  
-Slushii  
-Last updated at 02/06/2021 15:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dropouts - Unity (feat. Aloma Steele) [NCS Release]**  
+NoCopyrightSounds  
+Last updated at 02/06/2021 15:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
