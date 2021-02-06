@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-EKxzId_Sj4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/9lVPAWLWtWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**米津玄師 MV「アイネクライネ」**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/06/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ghost In A Flower**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 17:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
