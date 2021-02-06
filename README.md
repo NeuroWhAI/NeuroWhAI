@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f5GIhAIRTTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 02/06/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
+하뉴 마이고  
+Last updated at 02/06/2021 20:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
