@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UDskSD_F9KA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCuLYCVJQHH4hCeROWAlGs1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XSLhsjepelI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR29q3hGlpPRDrR1bk_8XqQ)
 
-**8hit (feat. Kagamine Rin&Kagamine Len)**  
-WONDERFUL★OPPORTUNITY!  
-Last updated at 02/06/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】グリーンライツ・セレナーデ / Greenlights Serenade【オリジナルMV】**  
+하츠네 미쿠  
+Last updated at 02/06/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
