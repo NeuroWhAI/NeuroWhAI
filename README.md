@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cmVdgWL5548/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCitbMAs5IlXXG5GqAZJzfpw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Krem4GHmmxg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCisM9mNxVXtgrgn3zSjvmag)
 
-**So Happy**  
-Raven & Kreyn  
-Last updated at 02/06/2021 14:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**BOOM BOOM SATELLITES 『LAY YOUR HANDS ON ME』Short Ver.**  
+BOOM BOOM SATELLITES  
+Last updated at 02/06/2021 15:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
