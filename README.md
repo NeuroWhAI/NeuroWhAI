@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cQtgFZMWn98/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCV4O9Mqs85Bg4Rart8xkC1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/D0rcpDpcNgQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR35HCYe9TN6aboSP7k0JrA)
 
-**Cruiser (Bonus Track)(피처링: 알렉스 소나타)**  
-Gareth Emery  
-Last updated at 02/06/2021 15:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Kagamine Len V4X】Satisfaction【Cover】**  
+시리아  
+Last updated at 02/06/2021 15:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
