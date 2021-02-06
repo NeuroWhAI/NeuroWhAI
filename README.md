@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/07r67gGbtLQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**DECO*27 - ゆめゆめ feat. 初音ミク(피처링: 하츠네 미쿠)**  
-DECO*27  
-Last updated at 02/06/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**That's Why I Gave Up on Music**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
