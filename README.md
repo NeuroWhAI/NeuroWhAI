@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/z_RmuScgWOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**エバ**  
-Hiiragi Kirai  
-Last updated at 02/06/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**METEOR(피처링: 하츠네 미쿠)**  
+DIVELA  
+Last updated at 02/06/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
