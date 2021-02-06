@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/h1j1-HFKlgQ/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCi5S-X9KHbN00hU6jfHR3bA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**【official】食物連鎖／otetsu feat.GUMI**  
-Otetsu  
-Last updated at 02/06/2021 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**LiSA 『炎』 -MUSiC CLiP-**  
+LiSA  
+Last updated at 02/06/2021 22:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
