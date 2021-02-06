@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Vz1C44EDkYA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIukruobbHEmb8nhaH_Hu3A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/07r67gGbtLQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**スイートマジック @ ろん×Junky**  
-Junky  
-Last updated at 02/06/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - ゆめゆめ feat. 初音ミク(피처링: 하츠네 미쿠)**  
+DECO*27  
+Last updated at 02/06/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
