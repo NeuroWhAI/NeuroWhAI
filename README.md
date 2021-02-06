@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/URG6YnTPcac/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzWhKfNG1tyJ3ECQWwpLeWA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/olWvy0PiLfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
 
-**ハロ/ハワユ**  
-Kano  
-Last updated at 02/06/2021 14:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Compared Child**  
+TUYU  
+Last updated at 02/06/2021 14:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
