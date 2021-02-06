@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/B776HM2cZWM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**アストロノーツ**  
+**ヒビカセ**  
 Reol  
-Last updated at 02/06/2021 20:19 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/06/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
