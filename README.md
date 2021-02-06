@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7B_PVsPvcg0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCBPPlzfYBbl1W_hlJ35p6YQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/JJaCwW4HyVs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**コレサワ「たばこ」【Music Video】**  
-코레사와  
-Last updated at 02/06/2021 14:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**雲と幽霊**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 14:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
