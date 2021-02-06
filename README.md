@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**チュルリラ・チュルリラ・ダッダッダ！**  
-쿠라게P  
-Last updated at 02/06/2021 16:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**METEOR(피처링: 하츠네 미쿠)**  
+DIVELA  
+Last updated at 02/06/2021 16:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
