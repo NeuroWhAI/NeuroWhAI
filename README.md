@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/lzAyrgSqeeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**米津玄師 MV「orion」**  
-米津玄師  
-Last updated at 02/06/2021 18:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tada Kimi ni Hare**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 18:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
