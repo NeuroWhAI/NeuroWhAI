@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhT2pO1pkFZaJOJgqIuPwfUXCZ8jIquOdiCPxHyLg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cRIBCezbUhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
 
-**魔性のカマトト 町子編 「鬼の居ぬ間に」**  
-羽生まゐご  
-Last updated at 02/06/2021 00:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**すきなうた - yui × 鎖那**  
+sana  
+Last updated at 02/06/2021 14:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
