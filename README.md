@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/J-7GujtdGfQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**不思議の国のアリス症候群　Syndrome Of Alice In Wonderland / 初音ミク**  
+**Kegarenouta**  
 하뉴 마이고  
-Last updated at 02/06/2021 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/06/2021 19:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
