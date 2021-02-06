@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gJX2iy6nhHc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ENcnYh79dUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**米津玄師 MV「 灰色と青（ ＋菅田将暉 ）」(피처링: Suda Masaki)**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/06/2021 17:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**Thoughtcrime**  
+Yorushika(ヨルシカ)  
+Last updated at 02/06/2021 18:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
