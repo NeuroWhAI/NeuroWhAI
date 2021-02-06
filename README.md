@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L13gCEZJVRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/h1j1-HFKlgQ/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCi5S-X9KHbN00hU6jfHR3bA)
 
-**Henceforth(피처링: IA)**  
-Orangestar  
-Last updated at 02/06/2021 22:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**【official】食物連鎖／otetsu feat.GUMI**  
+Otetsu  
+Last updated at 02/06/2021 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
