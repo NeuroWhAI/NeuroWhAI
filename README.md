@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/lD4ZIzosp_c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lD4ZIzosp_c)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zc_fZhaWkQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxcqQJaXMKseuHxOmtFFGYg)
 
-**Tobu & Syndec - Dusk [NCS Release]**  
-NoCopyrightSounds  
-Last updated at 02/06/2021 15:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aaron Fong - Feeling Alive 「Lyrics」**  
+Astyles Music  
+Last updated at 02/06/2021 15:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
