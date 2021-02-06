@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/60ItHLz5WEA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/b3Mm4wHMtjQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEwgTYNBDIYFCKWYpQdA_BA)
 
-**Faded**  
-앨런 워커  
-Last updated at 02/06/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alan Walker - Unity (Extended Version) by**  
+Albert Vishi  
+Last updated at 02/06/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
