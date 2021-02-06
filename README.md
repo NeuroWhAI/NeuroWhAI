@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9lVPAWLWtWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NMMufaweJu4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX5XUy4Wzgvo4lKcD1jIYBg)
 
-**Ghost In A Flower**  
-Yorushika(ヨルシカ)  
-Last updated at 02/06/2021 17:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**イチリンソウ**  
+SayakaYamamotoVEVO  
+Last updated at 02/06/2021 17:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
