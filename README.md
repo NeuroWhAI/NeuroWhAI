@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gPE3XQVHMuA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKXj93egWRbbjQiyWUhLYDA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5PguQyvbtbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqG6ZhISLMJZu90EDk36P5Q)
 
-**Asuka**  
-PIKASONIC  
-Last updated at 02/06/2021 22:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pagoda**  
+Xomu & Amidst  
+Last updated at 02/06/2021 22:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
