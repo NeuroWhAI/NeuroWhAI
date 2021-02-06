@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ENcnYh79dUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/O_DLtVuiqhI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbzcUjXa4yX3k5CD8bioDmg)
 
-**Thoughtcrime**  
-Yorushika(ヨルシカ)  
-Last updated at 02/06/2021 18:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Wataridori**  
+[Alexandros]  
+Last updated at 02/06/2021 18:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
