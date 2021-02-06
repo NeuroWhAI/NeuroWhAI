@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q5XzviXSHQ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2B7MEADeLyA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**Nanimo nai Youna**  
-미미  
-Last updated at 02/06/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Harehareya**  
+하뉴 마이고  
+Last updated at 02/06/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
