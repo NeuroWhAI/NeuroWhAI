@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-wzLZ6Ti7-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**MIMI『 Pale 』feat. 初音ミク**  
-미미  
-Last updated at 02/07/2021 18:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Orangestar - Sunflower (feat. 夏背.) Official Video**  
+Orangestar  
+Last updated at 02/07/2021 18:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
