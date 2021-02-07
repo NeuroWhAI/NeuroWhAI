@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qB4xRKllyeI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
 
-**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
-피노키오P  
-Last updated at 02/07/2021 18:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**じん / サマータイムレコード【OFFICIAL MUSIC VIDEO】**  
+Jin  
+Last updated at 02/07/2021 18:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
