@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/8mL3Cor8pMq-yWLF81i9UxSeC9YMsWetm7V6wEQnDfi_N2z0ry3rwjiAzq0s722y3nVdmmHv2_NrTuA">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/npYIoH0enbB5umHL6tNTC-C1mGdjMQpNaO72mPEx8iA7N3HxNFYwX9c7gFXKbuecQN6DDcxnTo7_3vY">](https://music.youtube.com/channel/UClQl-JAWZGJCrvb0azOGXAg)
 
-**い～やい～やい～や(피처링: z'5)**  
-Neru  
-Last updated at 02/07/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kisetsu wa Tsugitsugi Shindeiku [dj-Jo Remix](피처링: Zenpaku)**  
+Zenpaku 및 dj-Jo  
+Last updated at 02/07/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
