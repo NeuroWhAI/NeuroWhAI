@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/ZPmx3RPB7ORWWbSzNykm6hQM5mnL22UKFCsgxQf7QrhbYHxkS4AIhAhDFCG2vLz4WoquoNFhWZ-hQx2Q">](https://music.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/CEInQZ21sY7OndfHF0K-ytK2OmO5YIZh0sbX3s9jUoojCB024gdG13blgYB98ZRzqMTAZvcpwhD-VKbr">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
 
-**Are you kidding me(피처링: 마미)**  
-PSYQUI  
-Last updated at 02/07/2021 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Super Panda 64**  
+Panda Eyes  
+Last updated at 02/07/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
