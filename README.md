@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/C3sTnpaLChw0nsyf73UqmZt4kGrD3EQm7xtNv4GPXcNwOaZZLXm2QsXgh1dyGya_0beN36xnSDVJzopVTg">](https://music.youtube.com/channel/UCH7Bls-MaKHRZAjRC4n1eJw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/K8G2mb7ywa6h3K7Co_An_gSHzS87UdDZC_pYm1L_PsI0wDwIDlqrtDTJdInhYdJPdqy7aD1SQKffdzs2">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**Karma 염라**  
-Dareharu 달의하루  
-Last updated at 02/07/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**痣**  
+羽生まゐご  
+Last updated at 02/07/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
