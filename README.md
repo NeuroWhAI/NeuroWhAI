@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVBS7beWKqNrAMiRdIki_mA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 02/07/2021 21:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**劣等上等 feat. 鏡音リン・レン**  
+ГИГА  
+Last updated at 02/07/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
