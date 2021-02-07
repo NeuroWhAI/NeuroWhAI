@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/olWvy0PiLfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
 
-**All I Need Are Things I Like**  
-피노키오P  
-Last updated at 02/07/2021 18:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Compared Child**  
+TUYU  
+Last updated at 02/07/2021 18:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
