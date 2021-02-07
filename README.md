@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aPDaFGqMX4I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/L13gCEZJVRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**じん / 夜咄ディセイブ【OFFICIAL MUSIC VIDEO】**  
-Jin  
-Last updated at 02/07/2021 17:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Henceforth(피처링: IA)**  
+Orangestar  
+Last updated at 02/07/2021 17:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
