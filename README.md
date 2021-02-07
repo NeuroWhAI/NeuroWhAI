@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/CEInQZ21sY7OndfHF0K-ytK2OmO5YIZh0sbX3s9jUoojCB024gdG13blgYB98ZRzqMTAZvcpwhD-VKbr">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/C3sTnpaLChw0nsyf73UqmZt4kGrD3EQm7xtNv4GPXcNwOaZZLXm2QsXgh1dyGya_0beN36xnSDVJzopVTg">](https://music.youtube.com/channel/UCH7Bls-MaKHRZAjRC4n1eJw)
 
-**Super Panda 64**  
-Panda Eyes  
-Last updated at 02/07/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Karma 염라**  
+Dareharu 달의하루  
+Last updated at 02/07/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
