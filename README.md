@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7awIdGqyr40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbKvE9QuiumgC-mhm0EQe7Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bUbOc97FpUA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**スーサイドパレヱド**  
-YURRY CANON  
-Last updated at 02/07/2021 18:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**flos**  
+R Sound Design  
+Last updated at 02/07/2021 18:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
