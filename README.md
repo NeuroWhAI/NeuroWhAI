@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L13gCEZJVRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/v7_Jo4SfICk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChMOQ1DOaMPHX_KtFhRQszw)
 
-**Henceforth(피처링: IA)**  
-Orangestar  
-Last updated at 02/07/2021 17:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Devil's Manner**  
+Tatsuya Kitani  
+Last updated at 02/07/2021 17:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
