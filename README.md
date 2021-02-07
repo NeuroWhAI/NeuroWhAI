@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-EKxzId_Sj4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ygY2qObZv24/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**米津玄師 MV「アイネクライネ」**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/07/2021 18:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - 愛されなくても君がいる feat. 初音ミク / Because You’re Here**  
+피노키오P  
+Last updated at 02/07/2021 18:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
