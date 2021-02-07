@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/v7_Jo4SfICk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChMOQ1DOaMPHX_KtFhRQszw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdMCG4FJBUTfWAKRT-UM4iw)
 
-**Devil's Manner**  
-Tatsuya Kitani  
-Last updated at 02/07/2021 17:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**METEOR(피처링: 하츠네 미쿠)**  
+DIVELA  
+Last updated at 02/07/2021 18:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
