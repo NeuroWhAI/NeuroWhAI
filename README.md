@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/npYIoH0enbB5umHL6tNTC-C1mGdjMQpNaO72mPEx8iA7N3HxNFYwX9c7gFXKbuecQN6DDcxnTo7_3vY">](https://music.youtube.com/channel/UClQl-JAWZGJCrvb0azOGXAg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/HUmsOGk7OnIJleekpLmXLuZ_9Igvhv8fwVigKVbuzqjYo3Mj5iWMVXYAPZgbAaCpyVOW9W2cu8NZS52m7g">](https://music.youtube.com/channel/UCXW81UHV3UeWUjVMr11ov2A)
 
-**Kisetsu wa Tsugitsugi Shindeiku [dj-Jo Remix](피처링: Zenpaku)**  
-Zenpaku 및 dj-Jo  
-Last updated at 02/07/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dramaturgy**  
+Eve  
+Last updated at 02/07/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
