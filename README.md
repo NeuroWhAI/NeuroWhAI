@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
 
-**帝国少女 (CGS-edit)(テイコクショウジョ)**  
-R Sound Design  
-Last updated at 02/07/2021 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**チュルリラ・チュルリラ・ダッダッダ！**  
+쿠라게P  
+Last updated at 02/07/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
