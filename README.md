@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-tKVN2mAKRI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/--41OGPMurU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**DAOKO × 米津玄師『打上花火』MUSIC VIDEO**  
-DAOKO 및 Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/07/2021 18:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loveit**  
+피노키오P  
+Last updated at 02/07/2021 18:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
