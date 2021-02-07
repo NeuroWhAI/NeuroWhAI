@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/VY-A1JmwpVJOVr2F87qEtsCjMzGkLeMU-onRY-Qco3iakdAdjT13CpMPm9NfqE_UC_0yqmNj_9oI0TMo">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/ojYvv9_uHPXNe72eMZdNhB8TS2NLDMMBNQaXPo-oRjcPz9neSklg5AfRTgUUo5MNaH30n0YrFbh8fbo">](https://music.youtube.com/channel/UCeqjRAl_a1ZrrwJ_IbIwjWQ)
 
-**Nagasugita Haru**  
-PASSEPIED  
-Last updated at 02/07/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**KING**  
+Kanaria  
+Last updated at 02/07/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
