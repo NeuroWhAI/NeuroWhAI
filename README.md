@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qB4xRKllyeI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCego_DhQb_SSF-4NM3kq2mA)
 
-**じん / サマータイムレコード【OFFICIAL MUSIC VIDEO】**  
-Jin  
-Last updated at 02/07/2021 18:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**MIMI『 Pale 』feat. 初音ミク**  
+미미  
+Last updated at 02/07/2021 18:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
