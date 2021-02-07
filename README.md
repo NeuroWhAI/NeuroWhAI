@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**【GUMI】透明エレジー【オリジナル曲】**  
+**That's Why I Gave Up on Music**  
 Yorushika(ヨルシカ)  
-Last updated at 02/07/2021 17:17 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/07/2021 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
