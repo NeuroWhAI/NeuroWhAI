@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 02/07/2021 17:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**帝国少女 (CGS-edit)(テイコクショウジョ)**  
+R Sound Design  
+Last updated at 02/07/2021 17:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
