@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PLevj9bdRRA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**チュルリラ・チュルリラ・ダッダッダ！**  
-쿠라게P  
-Last updated at 02/07/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**きみも悪い人でよかった**  
+피노키오P  
+Last updated at 02/07/2021 17:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
