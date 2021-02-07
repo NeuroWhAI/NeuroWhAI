@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7awIdGqyr40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbKvE9QuiumgC-mhm0EQe7Q)
 
-**劣等上等 feat. 鏡音リン・レン**  
-ГИГА  
-Last updated at 02/07/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**スーサイドパレヱド**  
+YURRY CANON  
+Last updated at 02/07/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
