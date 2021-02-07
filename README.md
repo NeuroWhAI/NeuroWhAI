@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7awIdGqyr40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbKvE9QuiumgC-mhm0EQe7Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hxSg2Ioz3LM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**スーサイドパレヱド**  
-YURRY CANON  
-Last updated at 02/07/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - ヒバナ feat. 初音ミク**  
+DECO*27  
+Last updated at 02/07/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
