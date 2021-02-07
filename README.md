@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-wzLZ6Ti7-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Orangestar - Sunflower (feat. 夏背.) Official Video**  
-Orangestar  
-Last updated at 02/07/2021 18:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**All I Need Are Things I Like**  
+피노키오P  
+Last updated at 02/07/2021 18:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
