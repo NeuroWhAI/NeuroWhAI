@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**That's Why I Gave Up on Music**  
-Yorushika(ヨルシカ)  
-Last updated at 02/07/2021 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**阿吽のビーツ**  
+하뉴 마이고  
+Last updated at 02/07/2021 17:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
