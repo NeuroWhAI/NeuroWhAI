@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/z_RmuScgWOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/ZPmx3RPB7ORWWbSzNykm6hQM5mnL22UKFCsgxQf7QrhbYHxkS4AIhAhDFCG2vLz4WoquoNFhWZ-hQx2Q">](https://music.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg)
 
-**エバ**  
-Hiiragi Kirai  
-Last updated at 02/07/2021 21:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Are you kidding me(피처링: 마미)**  
+PSYQUI  
+Last updated at 02/07/2021 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
