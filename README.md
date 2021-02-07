@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bUbOc97FpUA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/QJNANqm9QPQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**flos**  
-R Sound Design  
-Last updated at 02/07/2021 18:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kiminoyozora Shoukaihan (Voice: Ia)**  
+Orangestar  
+Last updated at 02/07/2021 18:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
