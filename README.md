@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**LiSA 『炎』 -MUSiC CLiP-**  
-LiSA  
-Last updated at 02/07/2021 18:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 02/07/2021 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
