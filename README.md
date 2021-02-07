@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/olWvy0PiLfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jQmYZWjLwzw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**Compared Child**  
-TUYU  
-Last updated at 02/07/2021 18:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alice in 冷凍庫**  
+Orangestar  
+Last updated at 02/07/2021 18:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
