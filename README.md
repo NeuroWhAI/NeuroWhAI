@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/K8G2mb7ywa6h3K7Co_An_gSHzS87UdDZC_pYm1L_PsI0wDwIDlqrtDTJdInhYdJPdqy7aD1SQKffdzs2">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/channel/UC7x9ctNNo2ZWGBYwPoXrNcg)
 
-**痣**  
-羽生まゐご  
-Last updated at 02/07/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**형 (兄)**  
+Norazo  
+Last updated at 02/07/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
