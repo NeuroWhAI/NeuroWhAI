@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wM4phGebR4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Jak2qiq_jJo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Zangemairi**  
-하뉴 마이고  
-Last updated at 02/07/2021 17:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】 メリュー 【オリジナル】 HatsuneMiku - Meru**  
+Yorushika(ヨルシカ)  
+Last updated at 02/07/2021 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
