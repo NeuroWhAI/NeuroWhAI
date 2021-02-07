@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/channel/UC7x9ctNNo2ZWGBYwPoXrNcg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/VY-A1JmwpVJOVr2F87qEtsCjMzGkLeMU-onRY-Qco3iakdAdjT13CpMPm9NfqE_UC_0yqmNj_9oI0TMo">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
 
-**형 (兄)**  
-Norazo  
-Last updated at 02/07/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nagasugita Haru**  
+PASSEPIED  
+Last updated at 02/07/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
