@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Jak2qiq_jJo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/aPDaFGqMX4I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
 
-**【初音ミク】 メリュー 【オリジナル】 HatsuneMiku - Meru**  
-Yorushika(ヨルシカ)  
-Last updated at 02/07/2021 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**じん / 夜咄ディセイブ【OFFICIAL MUSIC VIDEO】**  
+Jin  
+Last updated at 02/07/2021 17:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
