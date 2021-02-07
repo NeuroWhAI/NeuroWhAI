@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/ojYvv9_uHPXNe72eMZdNhB8TS2NLDMMBNQaXPo-oRjcPz9neSklg5AfRTgUUo5MNaH30n0YrFbh8fbo">](https://music.youtube.com/channel/UCeqjRAl_a1ZrrwJ_IbIwjWQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/8mL3Cor8pMq-yWLF81i9UxSeC9YMsWetm7V6wEQnDfi_N2z0ry3rwjiAzq0s722y3nVdmmHv2_NrTuA">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
 
-**KING**  
-Kanaria  
-Last updated at 02/07/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**い～やい～やい～や(피처링: z'5)**  
+Neru  
+Last updated at 02/07/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
