@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/QJNANqm9QPQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4DxL6IKmXx4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**Kiminoyozora Shoukaihan (Voice: Ia)**  
-Orangestar  
-Last updated at 02/07/2021 18:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**LiSA 『炎』 -MUSiC CLiP-**  
+LiSA  
+Last updated at 02/07/2021 18:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
