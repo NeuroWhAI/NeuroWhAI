@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Iv5P21D76bw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdKS2fXd-StyVBOyWyiqnYA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U2-K_eFGtJM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Holo**  
-Ampyx  
-Last updated at 02/06/2021 23:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】透明エレジー【オリジナル曲】**  
+Yorushika(ヨルシカ)  
+Last updated at 02/07/2021 17:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
