@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/US3VTVDRbjE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJSPN1g1w9khsU_kbqpBYgA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Byuhn6hkJbM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCks7Bd9YS-dMuSNHDnphlzA)
 
-**Snailchan Adventure**  
-우지코  
-Last updated at 02/08/2021 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**I Said Meow**  
+Azazal & Said  
+Last updated at 02/08/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
