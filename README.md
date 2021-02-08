@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LtSNzPyo0lA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**劣等上等 feat. 鏡音リン・レン**  
-ГИГА  
-Last updated at 02/08/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nobody Makes Sense**  
+피노키오P  
+Last updated at 02/08/2021 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
