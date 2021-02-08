@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eSI7RsjZy1E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPCMocGCVvbXai2tRGrucCA)
 
-**Tokyo Teddy Bear**  
-Neru  
-Last updated at 02/08/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**劣等上等 feat. 鏡音リン・レン**  
+ГИГА  
+Last updated at 02/08/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
