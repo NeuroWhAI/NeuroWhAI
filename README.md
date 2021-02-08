@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/dfe6LT9VCBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ihgrM14jrFY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**三月のパンタシア 『パステルレイン』**  
-삼월의 판타시아  
-Last updated at 02/08/2021 20:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**【GUMI】 アイラ 【オリジナル】**  
+Yorushika(ヨルシカ)  
+Last updated at 02/08/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
