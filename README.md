@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/N8nGig78lNs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJSPN1g1w9khsU_kbqpBYgA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/weZKm1kTrpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5EH9egdct4dmAo3AHwzPBA)
 
-**hot milk**  
-우지코  
-Last updated at 02/08/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Basics in Behavior (feat. Or3o Instrumental) [Instrumental] (Blue Version)**  
+The Living Tombstone(더 리빙 툼스톤)  
+Last updated at 02/08/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
