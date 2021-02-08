@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L13gCEZJVRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hUaVxNUCbc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCScyxoxSNTJvAm1OI2aKX6w)
 
-**Henceforth(피처링: IA)**  
-Orangestar  
-Last updated at 02/08/2021 19:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**帝国少女 (CGS-edit)(テイコクショウジョ)**  
+R Sound Design  
+Last updated at 02/08/2021 19:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
