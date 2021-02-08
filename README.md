@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OOmOFI6QEBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**翡翠のまち**  
-sana  
-Last updated at 02/08/2021 19:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**「星の涙」三月のパンタシア【OFFICIAL】**  
+삼월의 판타시아  
+Last updated at 02/08/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
