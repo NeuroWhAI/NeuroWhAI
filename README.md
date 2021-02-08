@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/3nlSDxvt6JU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJSPN1g1w9khsU_kbqpBYgA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/US3VTVDRbjE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJSPN1g1w9khsU_kbqpBYgA)
 
-**Pixel Galaxy**  
+**Snailchan Adventure**  
 우지코  
-Last updated at 02/08/2021 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/08/2021 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
