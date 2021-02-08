@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/AiosKUO7oqo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UConAyNNy6wrEZX-emiUm5JA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/N8nGig78lNs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJSPN1g1w9khsU_kbqpBYgA)
 
-**Counting!**  
-heiakim  
-Last updated at 02/08/2021 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**hot milk**  
+우지코  
+Last updated at 02/08/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
