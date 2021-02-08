@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hc0ZDaAZQT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GSpwTvYgFrM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**神聖かまってちゃん「るるちゃんの自殺配信」MusicVideo**  
-Shinsei kamattechan  
-Last updated at 02/08/2021 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**What's Inside**  
+피노키오P  
+Last updated at 02/08/2021 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
