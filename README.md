@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cRIBCezbUhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zm0dTQnUtco/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**すきなうた - yui × 鎖那**  
-sana  
-Last updated at 02/08/2021 19:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**三月のパンタシア 『街路、ライトの灯りだけ』**  
+삼월의 판타시아  
+Last updated at 02/08/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
