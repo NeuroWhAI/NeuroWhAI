@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qB4xRKllyeI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3nlSDxvt6JU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJSPN1g1w9khsU_kbqpBYgA)
 
-**じん / サマータイムレコード【OFFICIAL MUSIC VIDEO】**  
-Jin  
-Last updated at 02/08/2021 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pixel Galaxy**  
+우지코  
+Last updated at 02/08/2021 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
