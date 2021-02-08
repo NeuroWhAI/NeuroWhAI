@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GSpwTvYgFrM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4QXCPuwBz2E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
 
-**What's Inside**  
-피노키오P  
-Last updated at 02/08/2021 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**あの世行きのバスに乗ってさらば。**  
+TUYU  
+Last updated at 02/08/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
