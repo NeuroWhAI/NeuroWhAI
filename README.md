@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OOmOFI6QEBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wvlUWjqGQSA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**「星の涙」三月のパンタシア【OFFICIAL】**  
-삼월의 판타시아  
-Last updated at 02/08/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hare wo Matsu**  
+Orangestar  
+Last updated at 02/08/2021 20:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
