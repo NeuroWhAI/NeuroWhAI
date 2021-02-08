@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/HUmsOGk7OnIJleekpLmXLuZ_9Igvhv8fwVigKVbuzqjYo3Mj5iWMVXYAPZgbAaCpyVOW9W2cu8NZS52m7g">](https://music.youtube.com/channel/UCXW81UHV3UeWUjVMr11ov2A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3Gt3r42tY5k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
 
-**Dramaturgy**  
-Eve  
-Last updated at 02/07/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**コーヒーカップ (cover) / 鎖那**  
+sana  
+Last updated at 02/08/2021 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
