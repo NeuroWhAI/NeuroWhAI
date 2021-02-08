@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LtSNzPyo0lA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/y8-6QPEes1k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
 
-**Nobody Makes Sense**  
-피노키오P  
-Last updated at 02/08/2021 21:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Neru & z’5 - い〜やい〜やい〜や(Whatever whatever whatever) feat. Kagamine Rin & Kagamine Len**  
+Neru  
+Last updated at 02/08/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
