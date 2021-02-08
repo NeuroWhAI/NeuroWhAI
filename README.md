@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8Z3TbMBfDM0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
 
-**ありふれたせかいせいふく feat.初音ミク(피처링: 하츠네 미쿠)**  
-피노키오P  
-Last updated at 02/08/2021 20:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**チュルリラ・チュルリラ・ダッダッダ！**  
+쿠라게P  
+Last updated at 02/08/2021 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
