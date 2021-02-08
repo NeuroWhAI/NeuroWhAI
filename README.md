@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/weZKm1kTrpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5EH9egdct4dmAo3AHwzPBA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hc0ZDaAZQT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
 
-**Basics in Behavior (feat. Or3o Instrumental) [Instrumental] (Blue Version)**  
-The Living Tombstone(더 리빙 툼스톤)  
-Last updated at 02/08/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**神聖かまってちゃん「るるちゃんの自殺配信」MusicVideo**  
+Shinsei kamattechan  
+Last updated at 02/08/2021 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
