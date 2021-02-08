@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ihgrM14jrFY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qB4xRKllyeI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoevh_x8j8VepBc1i4Bbqtg)
 
-**【GUMI】 アイラ 【オリジナル】**  
-Yorushika(ヨルシカ)  
-Last updated at 02/08/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**じん / サマータイムレコード【OFFICIAL MUSIC VIDEO】**  
+Jin  
+Last updated at 02/08/2021 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
