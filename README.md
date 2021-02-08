@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_j0kfGNwIlw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eSI7RsjZy1E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
 
-**チュルリラ・チュルリラ・ダッダッダ！**  
-쿠라게P  
-Last updated at 02/08/2021 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tokyo Teddy Bear**  
+Neru  
+Last updated at 02/08/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
