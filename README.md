@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/R_uS0aT0bG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOqPalU27ztRNMrL2PD-YAA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_5w8SJ3yVsc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDG_B8qavMbSkvwHLeDjC2Q)
 
-**Guitarmass**  
-Infected Mushroom  
-Last updated at 02/09/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Milky Ways Redux**  
+보스파이트  
+Last updated at 02/09/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
