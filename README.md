@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yHgIYfNF8kY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VoCgT9GCoEo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHue3nGiTTCcxgUWlZCmMfg)
 
-**Oshama Scramble! (Cranky Remix)**  
-토파조라이트  
-Last updated at 02/09/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Starslav - OPA**  
+Starslav  
+Last updated at 02/09/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
