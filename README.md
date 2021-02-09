@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rUs0iQZHDkM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yHgIYfNF8kY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4QytjnlEVGQMZw0LrwaiBw)
 
-**Apropos**  
-Mittsies  
-Last updated at 02/09/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Oshama Scramble! (Cranky Remix)**  
+토파조라이트  
+Last updated at 02/09/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
