@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_5w8SJ3yVsc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDG_B8qavMbSkvwHLeDjC2Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rUs0iQZHDkM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
 
-**Milky Ways Redux**  
-보스파이트  
-Last updated at 02/09/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**Apropos**  
+Mittsies  
+Last updated at 02/09/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
