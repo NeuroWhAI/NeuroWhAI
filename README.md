@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VoCgT9GCoEo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHue3nGiTTCcxgUWlZCmMfg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LQboZNoMd0c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSG3gm4UmKbrZoR0n7NH1kA)
 
-**Starslav - OPA**  
-Starslav  
-Last updated at 02/09/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**vs. SAYU**  
+제임스 란디노 및 Nikki Simmons  
+Last updated at 02/09/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
