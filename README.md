@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EnDXGQmCz3U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/K_YbbAhRbIQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
 
-**Vitality - Helltaker**  
+**Mittsies - Epitomize**  
 Mittsies  
-Last updated at 02/09/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/09/2021 21:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
