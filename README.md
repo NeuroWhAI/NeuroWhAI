@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/olWvy0PiLfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZkClY03Vnv-X9qMnEHzxHQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EnDXGQmCz3U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
 
-**Compared Child**  
-TUYU  
-Last updated at 02/08/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Vitality - Helltaker**  
+Mittsies  
+Last updated at 02/09/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
