@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/l75bx318mIE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHSP_-Tb2DRe11OxkG11cQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t66lw67WSOA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Departure**  
-Mittsies  
-Last updated at 02/09/2021 21:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sakura**  
+Geoxor 및 Canonblade  
+Last updated at 02/09/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
