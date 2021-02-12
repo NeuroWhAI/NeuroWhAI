@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Byuhn6hkJbM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCks7Bd9YS-dMuSNHDnphlzA)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngbL5Lje18jZieilufwiVkRim0KHSJm-QE1PN5HvQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA)
 
-**I Said Meow**  
-Azazal & Said  
-Last updated at 02/09/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**YOASOBI「밤을 달리다」 Official Music Video**  
+Ayase / YOASOBI  
+Last updated at 02/12/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
