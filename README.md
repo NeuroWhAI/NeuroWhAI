@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cRIBCezbUhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/JJaCwW4HyVs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**すきなうた - yui × 鎖那**  
-sana  
-Last updated at 02/13/2021 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**雲と幽霊**  
+Yorushika(ヨルシカ)  
+Last updated at 02/13/2021 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
