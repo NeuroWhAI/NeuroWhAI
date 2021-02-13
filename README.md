@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/JJaCwW4HyVs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t66lw67WSOA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**雲と幽霊**  
-Yorushika(ヨルシカ)  
-Last updated at 02/13/2021 20:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sakura**  
+Geoxor 및 Canonblade  
+Last updated at 02/13/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
