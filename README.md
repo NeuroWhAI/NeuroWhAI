@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngbL5Lje18jZieilufwiVkRim0KHSJm-QE1PN5HvQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/3Gt3r42tY5k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
 
-**YOASOBI「밤을 달리다」 Official Music Video**  
-Ayase / YOASOBI  
-Last updated at 02/12/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**コーヒーカップ (cover) / 鎖那**  
+sana  
+Last updated at 02/13/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
