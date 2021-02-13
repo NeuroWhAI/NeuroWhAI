@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zm0dTQnUtco/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**That's Why I Gave Up on Music**  
-Yorushika(ヨルシカ)  
-Last updated at 02/13/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**三月のパンタシア 『街路、ライトの灯りだけ』**  
+삼월의 판타시아  
+Last updated at 02/13/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
