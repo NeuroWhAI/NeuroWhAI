@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KTZ-y85Erus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**翡翠のまち**  
-sana  
-Last updated at 02/13/2021 20:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**That's Why I Gave Up on Music**  
+Yorushika(ヨルシカ)  
+Last updated at 02/13/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
