@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniOhr0ds8QrHlwu00R_DBfBkii3FzgVy_rJwFGrmQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCp6p4QMnrhszX8rhzgy_q2Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhmeHHu62xly7TKx4vVXSpnoc6d-xUuzOsJpn9piA=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC3SyT4_WLHzN7JmHQwKQZww)
 
-**신세이 카맛테쨩「루루쨩의 자살방송」 MV**  
-かまってチャンネル【公式】  
-Last updated at 02/14/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Celebrity (Celebrity)**  
+이지금 [IU Official]  
+Last updated at 02/14/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
