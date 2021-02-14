@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhmeHHu62xly7TKx4vVXSpnoc6d-xUuzOsJpn9piA=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC3SyT4_WLHzN7JmHQwKQZww)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngGSzanAJPTfqesE4dq5mB3sSVLEHXzrl2uBM5F=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC0limtsihPBO4NZf8cylI1Q)
 
-**Celebrity (Celebrity)**  
-이지금 [IU Official]  
-Last updated at 02/14/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**형 (兄)**  
+Official NORAZO  
+Last updated at 02/14/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
