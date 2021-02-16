@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jP7wze4LzoA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCermf7vqBLEsYL-X_8gBcUg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kw1f1mIziJU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIujPhAYi9WMDepC8FOkg0Q)
 
-**PIKASONIC - Miss You**  
-Firefly Music  
-Last updated at 02/16/2021 19:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**TheFatRat - The Calling (feat. Laura Brehm) Cover Victoria Walls**  
+Victoria Walls  
+Last updated at 02/16/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
