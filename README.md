@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/kw1f1mIziJU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIujPhAYi9WMDepC8FOkg0Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q4gKKc-RFTE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
 
-**TheFatRat - The Calling (feat. Laura Brehm) Cover Victoria Walls**  
-Victoria Walls  
-Last updated at 02/16/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Crystal Cave**  
+판다 아이즈  
+Last updated at 02/16/2021 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
