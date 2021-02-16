@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q4gKKc-RFTE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TuPCxJ3c4yA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCp3-eKSasiiZ-4rkICpr5sA)
 
-**Crystal Cave**  
-판다 아이즈  
-Last updated at 02/16/2021 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Outbreaker**  
+Hinkik  
+Last updated at 02/16/2021 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
