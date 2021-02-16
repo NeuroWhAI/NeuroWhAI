@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngGSzanAJPTfqesE4dq5mB3sSVLEHXzrl2uBM5F=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC0limtsihPBO4NZf8cylI1Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gPE3XQVHMuA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKXj93egWRbbjQiyWUhLYDA)
 
-**형 (兄)**  
-Official NORAZO  
-Last updated at 02/14/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Asuka**  
+PIKASONIC  
+Last updated at 02/16/2021 19:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
