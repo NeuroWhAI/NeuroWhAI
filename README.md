@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jb4ybTQwcdw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DS2sP8CDLas/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpzy28Kw66pBn5o8uP3m4tA)
 
-**「main actor 」MV**  
-미나미  
-Last updated at 02/18/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Atashiga Tonarini Iru Uchini**  
+Chiai Fujikawa  
+Last updated at 02/18/2021 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
