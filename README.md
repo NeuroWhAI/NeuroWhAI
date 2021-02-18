@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nIrYjzHAEp0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjlifcVO6r-V5RSh3eB1lLg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gyJCjbXzcKc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
 
-**My Dearest**  
-supercell  
-Last updated at 02/18/2021 21:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**Namae no Nai Kaibutsu**  
+EGOIST  
+Last updated at 02/18/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
