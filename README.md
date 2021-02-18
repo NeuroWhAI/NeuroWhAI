@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jmQ1g-3ZfrY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMsNS10PzxzEayT7UHS4p6g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/x-W29j6f1Gs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKXj93egWRbbjQiyWUhLYDA)
 
-**Ningen Datta (English Cover)【JubyPhonic】人間だった**  
-JubyPhonic  
-Last updated at 02/18/2021 19:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Forever**  
+PIKASONIC  
+Last updated at 02/18/2021 19:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
