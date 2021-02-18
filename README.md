@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fWiR-HnQZzo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jb4ybTQwcdw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**Aimer　『words』**  
-Aimer  
-Last updated at 02/18/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**「main actor 」MV**  
+미나미  
+Last updated at 02/18/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
