@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/zyJJlPSeEpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC10utK9bMfT9x4rrcVSM9dQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mTCESSzPZSw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCG5E8GexF7f2u44J3Rjn0fw)
 
-**Owari no Sekai Kara**  
-Maeda Jun 및 yanaginagi  
-Last updated at 02/18/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Eir Aoi - Ignite**  
+Aoi Eir  
+Last updated at 02/18/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
