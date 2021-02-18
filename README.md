@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0YF8vecQWYs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zyJJlPSeEpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC10utK9bMfT9x4rrcVSM9dQ)
 
-**Kawaki wo Ameku**  
-미나미  
-Last updated at 02/18/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**Owari no Sekai Kara**  
+Maeda Jun 및 yanaginagi  
+Last updated at 02/18/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
