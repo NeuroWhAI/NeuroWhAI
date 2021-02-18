@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5S4GLqTcQSs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GJ4yehnerHQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**amazarashi - Namae**  
-amazarashi(아마자라시)  
-Last updated at 02/18/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**LiSA - Oath Sign**  
+LiSA  
+Last updated at 02/18/2021 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
