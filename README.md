@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DS2sP8CDLas/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpzy28Kw66pBn5o8uP3m4tA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KId6eunoiWk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
 
-**Atashiga Tonarini Iru Uchini**  
-Chiai Fujikawa  
-Last updated at 02/18/2021 21:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**LiSA - Crossing Field**  
+LiSA  
+Last updated at 02/18/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
