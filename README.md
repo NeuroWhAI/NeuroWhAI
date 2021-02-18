@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mTCESSzPZSw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCG5E8GexF7f2u44J3Rjn0fw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eLPs_w-FepA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjlifcVO6r-V5RSh3eB1lLg)
 
-**Eir Aoi - Ignite**  
-Aoi Eir  
-Last updated at 02/18/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**네가 모르는 이야기**  
+supercell  
+Last updated at 02/18/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
