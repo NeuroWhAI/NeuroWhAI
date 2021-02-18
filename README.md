@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cNoy_b_JYU0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIAyq2tv3-_v70-YZ_CkXNA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jmQ1g-3ZfrY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMsNS10PzxzEayT7UHS4p6g)
 
-**I'm glad you're evil too ♥ English Cover【rachie】きみも悪い人でよかった**  
-Rachie  
-Last updated at 02/18/2021 19:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ningen Datta (English Cover)【JubyPhonic】人間だった**  
+JubyPhonic  
+Last updated at 02/18/2021 19:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
