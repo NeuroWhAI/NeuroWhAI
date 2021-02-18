@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eLPs_w-FepA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjlifcVO6r-V5RSh3eB1lLg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ax8DmYyx9Ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-**네가 모르는 이야기**  
-supercell  
-Last updated at 02/18/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aimer 『Black Bird』MUSIC VIDEO 映画『累-かさね-』（9月7日（金）公開・主演：土屋太鳳×芳根京子）ver.**  
+Aimer  
+Last updated at 02/18/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
