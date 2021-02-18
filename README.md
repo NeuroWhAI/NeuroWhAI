@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-Hq0-47hyds/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nIrYjzHAEp0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjlifcVO6r-V5RSh3eB1lLg)
 
-**All Alone With You**  
-EGOIST  
-Last updated at 02/18/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**My Dearest**  
+supercell  
+Last updated at 02/18/2021 21:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
