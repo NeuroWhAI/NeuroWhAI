@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gyJCjbXzcKc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Namae no Nai Kaibutsu**  
-EGOIST  
-Last updated at 02/18/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**ひび割れた世界**  
+마지코  
+Last updated at 02/18/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
