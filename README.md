@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ax8DmYyx9Ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5S4GLqTcQSs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-**Aimer 『Black Bird』MUSIC VIDEO 映画『累-かさね-』（9月7日（金）公開・主演：土屋太鳳×芳根京子）ver.**  
-Aimer  
-Last updated at 02/18/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**amazarashi - Namae**  
+amazarashi(아마자라시)  
+Last updated at 02/18/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
