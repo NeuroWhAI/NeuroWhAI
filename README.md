@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KId6eunoiWk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0YF8vecQWYs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEsOqBVe_DNEUAer9TYk6bw)
 
-**LiSA - Crossing Field**  
-LiSA  
-Last updated at 02/18/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kawaki wo Ameku**  
+미나미  
+Last updated at 02/18/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
