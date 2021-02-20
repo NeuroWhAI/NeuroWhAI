@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t6o2TpzpPGU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzWhKfNG1tyJ3ECQWwpLeWA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/whd7EE83yNY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbjaGL1eNjkItJMoxYkAhIw)
 
-**君がいる世界へ 一花依世界 日本語版 【鹿乃】**  
-Kano  
-Last updated at 02/20/2021 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**유루캠프△ 2기 ED はるのとなり[ 봄 곁에서 ] Full ver. - 한글자막 / 가사**  
+B&Y MUSIC  
+Last updated at 02/20/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
