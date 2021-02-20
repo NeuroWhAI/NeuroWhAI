@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
 
-**Kegarenouta**  
-하뉴 마이고  
-Last updated at 02/20/2021 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**翡翠のまち**  
+sana  
+Last updated at 02/20/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
