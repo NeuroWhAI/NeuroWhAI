@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LE1XskraNfI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zm0dTQnUtco/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**DECO*27 - ハートアラモード feat. 初音ミク**  
-DECO*27  
-Last updated at 02/20/2021 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**三月のパンタシア 『街路、ライトの灯りだけ』**  
+삼월의 판타시아  
+Last updated at 02/20/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
