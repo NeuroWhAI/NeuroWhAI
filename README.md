@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/70i9-ExfKdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCI9pAHIWil0NtCHlAIUveKQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hc0ZDaAZQT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
 
-**If Interstellar Theme Was A Song? - Hanu Dixit**  
-Hanu Dixit  
-Last updated at 02/20/2021 23:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**神聖かまってちゃん「るるちゃんの自殺配信」MusicVideo**  
+Shinsei kamattechan  
+Last updated at 02/20/2021 23:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
