@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eFah8TCWOro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy3Lx1fNl4XnxleZBJK_PXw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**The Reluctant Heroes**  
-Sawano Hiroyuki(사와노 히로유키) 및 엠피  
-Last updated at 02/20/2021 19:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**阿吽のビーツ**  
+하뉴 마이고  
+Last updated at 02/20/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
