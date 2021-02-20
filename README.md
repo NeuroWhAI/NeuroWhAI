@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/z_RmuScgWOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
 
-**翡翠のまち**  
-sana  
-Last updated at 02/20/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**エバ**  
+Hiiragi Kirai  
+Last updated at 02/20/2021 20:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
