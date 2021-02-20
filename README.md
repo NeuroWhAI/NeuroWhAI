@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/veRs6lGa4Lw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1okLHuZUftU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**石風呂 / 壊れぬハートが欲しいのだ【OFFICIAL MUSIC VIDEO】**  
-1st PLACE  
-Last updated at 02/20/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**ラプンツェル Rapunzel / 初音ミク**  
+Yorushika(ヨルシカ)  
+Last updated at 02/20/2021 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
