@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Xd1NavZyIs4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1OJqJdDeGywaN_TttPlG4A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR29q3hGlpPRDrR1bk_8XqQ)
 
-**Kano →「 Sentimental Love Heart 」**  
-NBelieve  
-Last updated at 02/20/2021 23:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**MIMI『 Pale 』feat. 初音ミク**  
+하츠네 미쿠  
+Last updated at 02/20/2021 23:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
