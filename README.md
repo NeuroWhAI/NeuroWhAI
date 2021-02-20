@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2B7MEADeLyA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/h2sgg-rMjmE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiykKcoHr7Z8PVvQZ6-JMMQ)
 
-**Harehareya**  
-하뉴 마이고  
-Last updated at 02/20/2021 20:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**stern**  
+sana  
+Last updated at 02/20/2021 20:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
