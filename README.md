@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/z_RmuScgWOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Na6B9IKDccc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**エバ**  
-Hiiragi Kirai  
-Last updated at 02/20/2021 20:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Jigokuwadokodesuenmasama**  
+하뉴 마이고  
+Last updated at 02/20/2021 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
