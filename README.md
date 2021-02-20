@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hc0ZDaAZQT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/TgsCxluHokY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf66f_Nl29y0oU8HF4YuqQA)
 
-**神聖かまってちゃん「るるちゃんの自殺配信」MusicVideo**  
-Shinsei kamattechan  
-Last updated at 02/20/2021 23:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor - Euphoria (Piano Cover + Sheet Music)**  
+renaseri  
+Last updated at 02/20/2021 23:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
