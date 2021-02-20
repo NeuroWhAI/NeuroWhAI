@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eFah8TCWOro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy3Lx1fNl4XnxleZBJK_PXw)
 
-**ピノキオピー - アンテナ feat. 初音ミク / Antenna**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 02/18/2021 22:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Reluctant Heroes**  
+Sawano Hiroyuki(사와노 히로유키) 및 엠피  
+Last updated at 02/20/2021 19:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
