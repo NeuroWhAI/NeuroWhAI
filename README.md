@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/isZE_g2wMrc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCV8sQNx95gUh5oLCwKEHV0Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hgWz96JCvhg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Y5pLXDpGtNogjSzO_hNBg)
 
-**「壊れたコンパス」 IA**  
-msy  
-Last updated at 02/21/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**久遠千歳×Yunomi『命に嫌われている。×future base(Kizuna AI)』【マッシュアップ】**  
+プリー【Vtuber】黒船提督  
+Last updated at 02/21/2021 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
