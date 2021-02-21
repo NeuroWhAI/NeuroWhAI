@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/B776HM2cZWM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/P3AiQy1pOV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCy7XqnTnH-NtYz3S1Tx-11g)
 
-**アストロノーツ**  
-Reol  
-Last updated at 02/21/2021 20:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**パスピエ (PASSEPIED) - ラストダンス (Last Dance)**  
+Xabier Vera Díaz  
+Last updated at 02/21/2021 20:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
