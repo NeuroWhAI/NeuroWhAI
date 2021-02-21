@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6hn-lXh4Myk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCngyb_A3actA7uLbWE8eOPg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HPIDGH-eqCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWpo0zC1ze6RuzvGZakEoyQ)
 
-**Hatsune Miku - Strobe Last (ストロボラスト) - English/Romaji Subs**  
-ikuy398  
-Last updated at 02/21/2021 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**【MIDI】けものフレンズED「ぼくのフレンド」を耳コピ【TVサイズ】**  
+クラウン  
+Last updated at 02/21/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
