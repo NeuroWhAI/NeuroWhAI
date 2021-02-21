@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/B776HM2cZWM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**Hibiwareta Sekai**  
-마지코  
-Last updated at 02/21/2021 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**アストロノーツ**  
+Reol  
+Last updated at 02/21/2021 20:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
