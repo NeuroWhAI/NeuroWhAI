@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HPIDGH-eqCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWpo0zC1ze6RuzvGZakEoyQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/isZE_g2wMrc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCV8sQNx95gUh5oLCwKEHV0Q)
 
-**【MIDI】けものフレンズED「ぼくのフレンド」を耳コピ【TVサイズ】**  
-クラウン  
-Last updated at 02/21/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**「壊れたコンパス」 IA**  
+msy  
+Last updated at 02/21/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
