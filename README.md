@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/06YWg6Y1kxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR29q3hGlpPRDrR1bk_8XqQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**MIMI『 Pale 』feat. 初音ミク**  
-하츠네 미쿠  
-Last updated at 02/20/2021 23:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hibiwareta Sekai**  
+마지코  
+Last updated at 02/21/2021 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
