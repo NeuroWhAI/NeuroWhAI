@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mVYKcTxKro0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmC13e647V-fq4w1nwN-w-A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Xd1NavZyIs4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1OJqJdDeGywaN_TttPlG4A)
 
-**【東方ボーカル】 【Shibayan Records】 「・-・・---・・・-・(signum/ii remix)」**  
-TasteTeaTunes  
-Last updated at 02/22/2021 21:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kano →「 Sentimental Love Heart 」**  
+NBelieve  
+Last updated at 02/22/2021 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
