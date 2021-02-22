@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/uBaev32PTrIygjVxDjBSItjcpXexyBn96cI_y_MupxUyj5fqdRLywaVXuB9s5obmr47n8oLc_CGZmfFB">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**ピコン - 人間だった ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 02/22/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Celebrity**  
+아이유(IU)  
+Last updated at 02/22/2021 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
