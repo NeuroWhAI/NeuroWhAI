@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hgWz96JCvhg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Y5pLXDpGtNogjSzO_hNBg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/whd7EE83yNY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbjaGL1eNjkItJMoxYkAhIw)
 
-**久遠千歳×Yunomi『命に嫌われている。×future base(Kizuna AI)』【マッシュアップ】**  
-プリー【Vtuber】黒船提督  
-Last updated at 02/21/2021 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**유루캠프△ 2기 ED はるのとなり[ 봄 곁에서 ] Full ver. - 한글자막 / 가사**  
+B&Y MUSIC  
+Last updated at 02/22/2021 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
