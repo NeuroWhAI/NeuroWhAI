@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/o-YZKXBDslk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCf66f_Nl29y0oU8HF4YuqQA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/channel/UC7x9ctNNo2ZWGBYwPoXrNcg)
 
-**Geoxor - Moonlight (Piano Cover + Sheet Music)**  
-renaseri  
-Last updated at 02/22/2021 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**형 (兄)**  
+Norazo  
+Last updated at 02/22/2021 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
