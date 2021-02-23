@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngx3J-3rl2ORzeREfE8-YUUl5osckHgHR6WF1RMLg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCq72e16zV6HGkDZmTzn-mDg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnibokOGuA1uU7hGC37yzvkB4vljwXhnyZwu39Qoeg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCK0QmywgbPA-Aa-6xA-6bIg)
 
-**attack on titan but it’s lofi ~ shock**  
-kurochuu.  
-Last updated at 02/23/2021 21:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**Attack on Titan - "Shock" (Season 4 Ending FULL) - Yuko Ando | ENGLISH ver | GoldenBoys**  
+GoldenBoys  
+Last updated at 02/23/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
