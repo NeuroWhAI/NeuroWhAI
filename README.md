@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjfX5OEDBZE0pmh_RgDE385_Nde35Rh5kNEpqT3sA=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCxe7RhBKw1EImE6BIPVLOxg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngBFxv0P-nIMKGrV9k4rjGMu-szO0Sxdlj8nYT4YQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCb8doC0mHqrDgtxQMXFm94w)
 
-**Attack On Titan Season 4 - SHOCK - Ending (Feat Danie Green) - COVER ESPAÑOL LATINO**  
-Fugasa  
-Last updated at 02/23/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dreamy Remix - Shock / Attack On Titan 4 ED**  
+Palademix  
+Last updated at 02/23/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
