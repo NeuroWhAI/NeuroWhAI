@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Xd1NavZyIs4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1OJqJdDeGywaN_TttPlG4A)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniOhr0ds8QrHlwu00R_DBfBkii3FzgVy_rJwFGrmQ=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCp6p4QMnrhszX8rhzgy_q2Q)
 
-**Kano →「 Sentimental Love Heart 」**  
-NBelieve  
-Last updated at 02/22/2021 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**僕の戦争**  
+かまってチャンネル【公式】  
+Last updated at 02/23/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
