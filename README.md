@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniOhr0ds8QrHlwu00R_DBfBkii3FzgVy_rJwFGrmQ=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCp6p4QMnrhszX8rhzgy_q2Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngx3J-3rl2ORzeREfE8-YUUl5osckHgHR6WF1RMLg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCq72e16zV6HGkDZmTzn-mDg)
 
-**僕の戦争**  
-かまってチャンネル【公式】  
-Last updated at 02/23/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**attack on titan but it’s lofi ~ shock**  
+kurochuu.  
+Last updated at 02/23/2021 21:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
