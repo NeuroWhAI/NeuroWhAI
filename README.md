@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnibokOGuA1uU7hGC37yzvkB4vljwXhnyZwu39Qoeg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCK0QmywgbPA-Aa-6xA-6bIg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjfX5OEDBZE0pmh_RgDE385_Nde35Rh5kNEpqT3sA=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCxe7RhBKw1EImE6BIPVLOxg)
 
-**Attack on Titan - "Shock" (Season 4 Ending FULL) - Yuko Ando | ENGLISH ver | GoldenBoys**  
-GoldenBoys  
-Last updated at 02/23/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**Attack On Titan Season 4 - SHOCK - Ending (Feat Danie Green) - COVER ESPAÑOL LATINO**  
+Fugasa  
+Last updated at 02/23/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
