@@ -7,9 +7,9 @@
 
 [<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngBFxv0P-nIMKGrV9k4rjGMu-szO0Sxdlj8nYT4YQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCb8doC0mHqrDgtxQMXFm94w)
 
-**Dreamy Remix - Shock / Attack On Titan 4 ED**  
+**Lofi Remix - Shock (Attack on Titan 4 Ending)**  
 Palademix  
-Last updated at 02/23/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/23/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
