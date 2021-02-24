@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngBFxv0P-nIMKGrV9k4rjGMu-szO0Sxdlj8nYT4YQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCb8doC0mHqrDgtxQMXFm94w)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngw1LIOeILTcHaE66QYR8A0pfgbP4muXBuaQjlK0g=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCG6LnjdxJST-7mWlqeMe9Hg)
 
-**Lofi Remix - Shock (Attack on Titan 4 Ending)**  
-Palademix  
-Last updated at 02/23/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**【進撃の巨人 Attack on Titan Ending 6】『衝撃 Shock (Shougeki)』 を歌ってみた | Cover by ShiroNeko**  
+Shiro Neko  
+Last updated at 02/24/2021 19:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
