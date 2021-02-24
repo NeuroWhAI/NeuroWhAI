@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniJZMBN3p-GXVwcZjXu5NZEHRYDva5DmU0FV_9QnQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCRyIF1f9LPlDL0aGMhb3Ryw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/aNniRnoJ10U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTmicnamtBqHhR6fvNi-ibw)
 
-**【FULL COVER】Attack on Titan Season 2 ED - "Yuugure no Tori" (夕暮れの鳥)**  
-Robyn Ardery  
-Last updated at 02/24/2021 19:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**진격의 거인[Attack On Titan] ED - Shock cover ( by Leha )**  
+레하_Leha  
+Last updated at 02/24/2021 20:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
