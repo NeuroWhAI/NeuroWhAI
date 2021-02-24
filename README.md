@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngx3J-3rl2ORzeREfE8-YUUl5osckHgHR6WF1RMLg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCq72e16zV6HGkDZmTzn-mDg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniCD-1vzyK007RVwvryQdXrjPoTQ6M1h9C5Bx9EYg=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCjuV2sAsfqhm5tjwxKSsDvw)
 
-**attack on titan but it’s lofi ~ shock**  
-kurochuu.  
-Last updated at 02/24/2021 22:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Shock (Instrumental) (From "Attack on Titan: The Final Season")**  
+Jonatan King  
+Last updated at 02/24/2021 22:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
