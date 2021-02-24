@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eaiJKLROq5M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFz9dDDaW8vkey8MgkyXfnA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/70i9-ExfKdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCI9pAHIWil0NtCHlAIUveKQ)
 
-**Ori and the Blind Forest OST - 17 - Restoring the Light, Facing the Dark**  
-ShinAkuma  
-Last updated at 02/24/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**If Interstellar Theme Was A Song? - Hanu Dixit**  
+Hanu Dixit  
+Last updated at 02/24/2021 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
