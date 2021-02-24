@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngw1LIOeILTcHaE66QYR8A0pfgbP4muXBuaQjlK0g=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCG6LnjdxJST-7mWlqeMe9Hg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniJZMBN3p-GXVwcZjXu5NZEHRYDva5DmU0FV_9QnQ=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCRyIF1f9LPlDL0aGMhb3Ryw)
 
-**【進撃の巨人 Attack on Titan Ending 6】『衝撃 Shock (Shougeki)』 を歌ってみた | Cover by ShiroNeko**  
-Shiro Neko  
-Last updated at 02/24/2021 19:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**【FULL COVER】Attack on Titan Season 2 ED - "Yuugure no Tori" (夕暮れの鳥)**  
+Robyn Ardery  
+Last updated at 02/24/2021 19:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
