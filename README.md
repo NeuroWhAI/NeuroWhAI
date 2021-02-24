@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/iBZpOTg2qrk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJekkpVKmFRsvnTo5BaJxww)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
 
-**Attack on Titan Season 4 ED 6 - SHOCK (Full, English Ver.)「衝撃」**  
-펠렉  
-Last updated at 02/24/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**衝撃**  
+安藤裕子  
+Last updated at 02/24/2021 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
