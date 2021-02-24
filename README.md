@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5Per60XwWoU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl2qXNHvpjHldVFM-_ENM9Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/whd7EE83yNY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbjaGL1eNjkItJMoxYkAhIw)
 
-**Attack on Titan Season 4 - Ending Full『Shock』by Yuko Ando**  
-AniMelody – Anime Music  
-Last updated at 02/24/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**유루캠프△ 2기 ED はるのとなり[ 봄 곁에서 ] Full ver. - 한글자막 / 가사**  
+B&Y MUSIC  
+Last updated at 02/24/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
