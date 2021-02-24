@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/uBaev32PTrIygjVxDjBSItjcpXexyBn96cI_y_MupxUyj5fqdRLywaVXuB9s5obmr47n8oLc_CGZmfFB">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjLuu4sEeerwbPK1vKhBDHMFI3aZp7HrHJrC8O05A=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCYi97rWysHQHsIgTRmi0Phg)
 
-**Celebrity**  
-아이유(IU)  
-Last updated at 02/24/2021 20:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**'Shock' - Attack on Titan S4 ENDING - Cover en español**  
+Aki Chan  
+Last updated at 02/24/2021 22:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
