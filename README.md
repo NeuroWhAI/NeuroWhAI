@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/P0Rj7nbaXpIAdCS_eX8LzOi7O_l2pck_zGqmooos5AhuU-uq2LxiGZGyv6pAyyjXki7MF_GqsNPZUS1D">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/sUW4dDWiz-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
 
-**Whole Lotta No's**  
-피노키오P  
-Last updated at 02/25/2021 19:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**神聖かまってちゃん-夕暮れの鳥／Shinsei Kamattechan-Yuugure no tori**  
+Shinsei kamattechan  
+Last updated at 02/25/2021 19:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
