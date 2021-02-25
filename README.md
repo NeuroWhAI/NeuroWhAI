@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UAuwzw_5JU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuJOS7FFIeXCFHEKRpWXubw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/iBZpOTg2qrk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJekkpVKmFRsvnTo5BaJxww)
 
-**『衝撃』Music Video【TVアニメ「進撃の巨人」The Final Season エンディングテーマ曲】**  
-安藤裕子Official Channel  
-Last updated at 02/25/2021 20:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Attack on Titan Season 4 ED 6 - SHOCK (Full, English Ver.)「衝撃」**  
+펠렉  
+Last updated at 02/25/2021 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
