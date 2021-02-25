@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Ha-_e-IPUMA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNN6ZRo54Y1JwNYqdL9v8iQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UAuwzw_5JU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuJOS7FFIeXCFHEKRpWXubw)
 
-**Attack on Titan Season 4 (Final Season) ED - Shock / "Shougeki (衝撃)" (Piano & Orchestral Cover)**  
-PianoPrinceOfAnime  
-Last updated at 02/25/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**『衝撃』Music Video【TVアニメ「進撃の巨人」The Final Season エンディングテーマ曲】**  
+安藤裕子Official Channel  
+Last updated at 02/25/2021 20:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
