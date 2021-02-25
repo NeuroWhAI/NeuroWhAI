@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5Per60XwWoU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl2qXNHvpjHldVFM-_ENM9Q)
 
-**衝撃**  
-安藤裕子  
-Last updated at 02/25/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Attack on Titan Season 4 - Ending Full『Shock』by Yuko Ando**  
+AniMelody – Anime Music  
+Last updated at 02/25/2021 20:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
