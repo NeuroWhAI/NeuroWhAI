@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_PfxLZUHQZxNskRMkSAPCSdhmP522K7d69mxMEYVA3G11uDahB2QVf3WBjK8v9Z3l6XrOJZA4RbQSiNd">](https://music.youtube.com/channel/UC5LMr1oW9sZp5DVK9xr_k9A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/Wvwbhin1GQOIAEwOGJVDprUzK6JfdgBNZiZRykn1sx8RWjNWS_sX6VUUspr7F8o614p69MQiHLktlCnx">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**You See Big Girl / T:T (This is Freedom)**  
-Samuel Kim  
-Last updated at 02/25/2021 19:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**Galaxy**  
+Geoxor  
+Last updated at 02/25/2021 19:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
