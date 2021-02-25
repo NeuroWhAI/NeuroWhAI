@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aNniRnoJ10U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTmicnamtBqHhR6fvNi-ibw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Aaw6pvAuNys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzQJPS7o_U24_KzEBu-kmLw)
 
-**진격의 거인[Attack On Titan] ED - Shock cover ( by Leha )**  
-레하_Leha  
-Last updated at 02/25/2021 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Attack on Titan - "Shock" (Season 4 Ending FULL) - Yuko Ando | ENGLISH ver | GoldenBoys**  
+GoldenBoys  
+Last updated at 02/25/2021 20:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
