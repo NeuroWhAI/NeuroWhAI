@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/tD0LHKQ6s89Yh_rhWomd_PYWYU_xa7LrgW_WEkNXSMggLBlkJMWd51FyIBMQGsrjJGirJ0lpfBHt-2c3">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/KXFLxuIs5VJb3Pjpkajkv6FLzCUe6oDKZxkjOnLJI_g6mg83L3EIKR9cIvCTJbO1CeqYN9NlamFB1K00fg">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Antenna**  
+**Secret HIMITSU**  
 피노키오P  
-Last updated at 02/25/2021 19:32 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 02/25/2021 19:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
