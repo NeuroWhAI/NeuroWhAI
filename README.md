@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/DKa_edQGMngKYIIC7vCc1pBGKHFm71XmXy9LhkeAoSQ9p3VxnLaXWoG7wFDD70oXUbrhrEhtedWg1GAa">](https://music.youtube.com/channel/UCC2ZsEeVOP4jU8vqhTxTB4w)
 
-**Alice in Freezer**  
-Orangestar  
-Last updated at 02/25/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Urameshi Yahoo (retake)**  
+Takeaki Wada  
+Last updated at 02/25/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
