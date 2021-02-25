@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/Wvwbhin1GQOIAEwOGJVDprUzK6JfdgBNZiZRykn1sx8RWjNWS_sX6VUUspr7F8o614p69MQiHLktlCnx">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/r8MSgqE3PWIbkKeKibABPAi8FN5ZpIhfRBP2CAwWWYVYxyZkLAgIKYZ_EGnZRQhzXfbp4mNzBotWc3A">](https://music.youtube.com/channel/UCkNrMqHKQvy2l-6KqXz4Lcg)
 
-**Galaxy**  
-Geoxor  
-Last updated at 02/25/2021 19:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**dead feelings**  
+MOSHi  
+Last updated at 02/25/2021 19:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
