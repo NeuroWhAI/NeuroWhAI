@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/KXFLxuIs5VJb3Pjpkajkv6FLzCUe6oDKZxkjOnLJI_g6mg83L3EIKR9cIvCTJbO1CeqYN9NlamFB1K00fg">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/1LsO9diF7NBhMcOgVWCw_Ri3IFEV4-320M68c8R2b2iom2wsgCfO9NhNkee87kxoLwQ6vrjXwcqyVu-j">](https://music.youtube.com/channel/UCpTpszeiaSs938KEIXZRNcQ)
 
-**Secret HIMITSU**  
-피노키오P  
-Last updated at 02/25/2021 19:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pinboke Wonder-World Peace(피처링: Annabel)**  
+sasakure.UK  
+Last updated at 02/25/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
