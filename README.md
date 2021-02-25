@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/DKa_edQGMngKYIIC7vCc1pBGKHFm71XmXy9LhkeAoSQ9p3VxnLaXWoG7wFDD70oXUbrhrEhtedWg1GAa">](https://music.youtube.com/channel/UCC2ZsEeVOP4jU8vqhTxTB4w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/P0Rj7nbaXpIAdCS_eX8LzOi7O_l2pck_zGqmooos5AhuU-uq2LxiGZGyv6pAyyjXki7MF_GqsNPZUS1D">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**Urameshi Yahoo (retake)**  
-Takeaki Wada  
-Last updated at 02/25/2021 19:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Whole Lotta No's**  
+피노키오P  
+Last updated at 02/25/2021 19:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
