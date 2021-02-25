@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/pL-U5l31u9y1ZZI1OkTDoumgDPazq8Jt1DDgLrHIkByvb1QlPpZ3F4Nw02QZV9vASpx5p9Kwxzf2-MwqaQ">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
 
-**僕の戦争**  
-SHINSEI KAMATTE CHAN  
-Last updated at 02/25/2021 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**衝撃**  
+安藤裕子  
+Last updated at 02/25/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
