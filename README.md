@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/1LsO9diF7NBhMcOgVWCw_Ri3IFEV4-320M68c8R2b2iom2wsgCfO9NhNkee87kxoLwQ6vrjXwcqyVu-j">](https://music.youtube.com/channel/UCpTpszeiaSs938KEIXZRNcQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**Pinboke Wonder-World Peace(피처링: Annabel)**  
-sasakure.UK  
-Last updated at 02/25/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alice in Freezer**  
+Orangestar  
+Last updated at 02/25/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
