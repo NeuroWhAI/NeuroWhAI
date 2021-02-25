@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/70i9-ExfKdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCI9pAHIWil0NtCHlAIUveKQ)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniiErO6BJJak3RCtI8WT6F38wjPBwCpDGETNa8mWw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCtcapz5lbgMUGqTPXPHGkvg)
 
-**If Interstellar Theme Was A Song? - Hanu Dixit**  
-Hanu Dixit  
-Last updated at 02/25/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**진격의 거인 4기 엔딩 ED – Shock 衝撃(Shougeki)┃Cover by RU**  
+RU [Rock U]  
+Last updated at 02/25/2021 23:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
