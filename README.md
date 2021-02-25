@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/whd7EE83yNY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbjaGL1eNjkItJMoxYkAhIw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eaiJKLROq5M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFz9dDDaW8vkey8MgkyXfnA)
 
-**유루캠프△ 2기 ED はるのとなり[ 봄 곁에서 ] Full ver. - 한글자막 / 가사**  
-B&Y MUSIC  
-Last updated at 02/25/2021 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ori and the Blind Forest OST - 17 - Restoring the Light, Facing the Dark**  
+ShinAkuma  
+Last updated at 02/25/2021 20:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
