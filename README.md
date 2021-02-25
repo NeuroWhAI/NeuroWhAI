@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Aaw6pvAuNys/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzQJPS7o_U24_KzEBu-kmLw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Ha-_e-IPUMA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNN6ZRo54Y1JwNYqdL9v8iQ)
 
-**Attack on Titan - "Shock" (Season 4 Ending FULL) - Yuko Ando | ENGLISH ver | GoldenBoys**  
-GoldenBoys  
-Last updated at 02/25/2021 20:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Attack on Titan Season 4 (Final Season) ED - Shock / "Shougeki (衝撃)" (Piano & Orchestral Cover)**  
+PianoPrinceOfAnime  
+Last updated at 02/25/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
