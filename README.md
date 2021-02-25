@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7lH7csKBnzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DS2sP8CDLas/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpzy28Kw66pBn5o8uP3m4tA)
 
-**Lia / 一番の宝物【OFFICIAL MUSIC VIDEO】**  
-1st PLACE  
-Last updated at 02/25/2021 19:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**Atashiga Tonarini Iru Uchini**  
+Chiai Fujikawa  
+Last updated at 02/25/2021 19:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
