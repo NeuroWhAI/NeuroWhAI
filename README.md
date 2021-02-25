@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/r8MSgqE3PWIbkKeKibABPAi8FN5ZpIhfRBP2CAwWWYVYxyZkLAgIKYZ_EGnZRQhzXfbp4mNzBotWc3A">](https://music.youtube.com/channel/UCkNrMqHKQvy2l-6KqXz4Lcg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/tD0LHKQ6s89Yh_rhWomd_PYWYU_xa7LrgW_WEkNXSMggLBlkJMWd51FyIBMQGsrjJGirJ0lpfBHt-2c3">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**dead feelings**  
-MOSHi  
-Last updated at 02/25/2021 19:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**Antenna**  
+피노키오P  
+Last updated at 02/25/2021 19:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
