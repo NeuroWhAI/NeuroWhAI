@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0EX3tQWswj0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCRBXIMLgTXBOcbFAhJlsgew)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7lH7csKBnzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
 
-**佐々木恵梨『ふゆびより』 (Music Video) TVアニメ「ゆるキャン」EDテーマ**  
-사사키 에리  
-Last updated at 02/25/2021 19:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lia / 一番の宝物【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 02/25/2021 19:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
