@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/aNniRnoJ10U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTmicnamtBqHhR6fvNi-ibw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/O4GkBizYRGF4Uj25VGmnHvfYOXD3ZQuGXyrM3530D6R-Tg93VujyEJSt2-w9aG3dAbVjkS_1HzMm_fwl0w">](https://music.youtube.com/channel/UClqGyJux0gipUeFnBh-onCQ)
 
-**진격의 거인[Attack On Titan] ED - Shock cover ( by Leha )**  
-레하_Leha  
-Last updated at 02/26/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Boku Ga Shinou To Omottanowa**  
+Nakashima Mika(나카시마 미카)  
+Last updated at 02/26/2021 19:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
