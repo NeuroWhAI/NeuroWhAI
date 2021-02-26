@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwniiErO6BJJak3RCtI8WT6F38wjPBwCpDGETNa8mWw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCtcapz5lbgMUGqTPXPHGkvg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/Wvwbhin1GQOIAEwOGJVDprUzK6JfdgBNZiZRykn1sx8RWjNWS_sX6VUUspr7F8o614p69MQiHLktlCnx">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**진격의 거인 4기 엔딩 ED – Shock 衝撃(Shougeki)┃Cover by RU**  
-RU [Rock U]  
-Last updated at 02/25/2021 23:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Galaxy**  
+Geoxor  
+Last updated at 02/26/2021 18:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
