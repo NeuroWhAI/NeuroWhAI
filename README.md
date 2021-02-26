@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/IgLtkWSBj-sTQOC7B6DGpGF1CvscniekqIN0Av2hxAoiGDQeNK-QqGhjWAsg5OJOp6MeVuiEXpWj2ksaPw">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/ExhMegIFYZee8a2TICc0tJaWkzvBbfQmSognrTXsTQreQtRRGDOF5syDXeqAjwpni8TdVnaXGZ3ZQA8">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
 
-**Love of Love by Love for Love**  
-피노키오P  
-Last updated at 02/26/2021 19:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yoiyoi Kokon**  
+Reol  
+Last updated at 02/26/2021 19:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
