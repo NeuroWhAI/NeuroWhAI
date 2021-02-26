@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/N_p3HT70dU8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWVicaoco6MB5EV1zg2H6kw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wt8KG2zGzhY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpIVlAse7iykn3ZRa9TdrbQ)
 
-**March of Time**  
-다즈비  
-Last updated at 02/26/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Way Guru Nyan... (삐부 왜구루냥 리믹스)**  
+MOKKINKIRIN // 모낀기린  
+Last updated at 02/26/2021 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
