@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/o7Y1t0OPqtww0BeIQgaKnsymtlytvEmlJ4lx7x7I2INNlndMNRFx1jkeDv2ifAxSiPydFhc-8Ynn4O20">](https://music.youtube.com/channel/UCpdcUsCOK7AxIXDxRdz_mrA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/IgLtkWSBj-sTQOC7B6DGpGF1CvscniekqIN0Av2hxAoiGDQeNK-QqGhjWAsg5OJOp6MeVuiEXpWj2ksaPw">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**劣等上等 feat. 鏡音リン・レン(피처링: 鏡音リン・レン)**  
-Giga  
-Last updated at 02/26/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Love of Love by Love for Love**  
+피노키오P  
+Last updated at 02/26/2021 19:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
