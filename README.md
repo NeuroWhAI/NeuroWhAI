@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/zyJJlPSeEpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC10utK9bMfT9x4rrcVSM9dQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/PF8xLb42f4hOCfhR2zYy0lvRYWdWtHZWuDEQvEZh0MATY0TNhRfiwktq-IHNOtJP1G2ZdgQyz9062MWS5g">](https://music.youtube.com/channel/UCE4Knu_Di-7reXKjIXp5o7Q)
 
-**Owari no Sekai Kara**  
-Maeda Jun 및 yanaginagi  
-Last updated at 02/26/2021 20:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bleak**  
+Revolt Production Music  
+Last updated at 02/26/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
