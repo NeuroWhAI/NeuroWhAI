@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/DxmsEz4-YxPpho42MF1eoSF-YLE_95w1j8gZq7ceTKf95BvHfRs-8XSB4lhHNHZ2EmMpvfX0w9Uh0TA">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/yQjjQzyNNMpi4a-RKLXoEkgKxTS70rRRFlJDRfG9ufCfiaawMR2mbKKjDECvMkRq_ejYWwiynjJ56Bo9">](https://music.youtube.com/channel/UCXW81UHV3UeWUjVMr11ov2A)
 
-**Hare wo Matsu**  
-Orangestar  
-Last updated at 02/26/2021 19:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Raison Detre**  
+Eve  
+Last updated at 02/26/2021 19:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
