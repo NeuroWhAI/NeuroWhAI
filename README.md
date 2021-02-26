@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/PF8xLb42f4hOCfhR2zYy0lvRYWdWtHZWuDEQvEZh0MATY0TNhRfiwktq-IHNOtJP1G2ZdgQyz9062MWS5g">](https://music.youtube.com/channel/UCE4Knu_Di-7reXKjIXp5o7Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/RuAICOhpj2A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCDvwUO9msG29_Ak6MpbZxFA)
 
-**Bleak**  
-Revolt Production Music  
-Last updated at 02/26/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**NIENTE 「neu ＬＯＮＧ」**  
+TeirusuFX  
+Last updated at 02/26/2021 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
