@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/osojr29tZSU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIAyq2tv3-_v70-YZ_CkXNA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/VRMzvjwCPBGGZr8m1ECRYIpDbB4kWmH0udPf7Kd_SZlHSqrI6QaSI8eZNXFfGQYCXm3wmkPJIdNIAXFf">](https://music.youtube.com/channel/UCJjvhPWmCgSy2ohBh670o5A)
 
-**Astronauts ♡ English Cover【rachie】 アストロノーツ**  
-Rachie  
-Last updated at 02/26/2021 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Cinematic Party Music**  
+프레드 V & 그라픽스  
+Last updated at 02/26/2021 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
