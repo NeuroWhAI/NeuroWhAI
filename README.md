@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**衝撃**  
-安藤裕子  
-Last updated at 02/26/2021 18:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Itsukatenshininatte Aruiwaaoitorininatte Adam To Eve Ninatte Arienainara**  
+삼월의 판타시아  
+Last updated at 02/26/2021 18:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
