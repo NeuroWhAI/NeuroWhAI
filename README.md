@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_5TTU4Ynk4s22WxAmjwRRJfG8FQBzOhgCZFchPMW7OLhtf2Ig5PCR80ipsQoCzFaQGU9Ar3UCLelKnp8">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UAuwzw_5JU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuJOS7FFIeXCFHEKRpWXubw)
 
-**Love poem**  
-아이유(IU)  
-Last updated at 02/26/2021 20:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**『衝撃』Music Video【TVアニメ「進撃の巨人」The Final Season エンディングテーマ曲】**  
+安藤裕子Official Channel  
+Last updated at 02/26/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
