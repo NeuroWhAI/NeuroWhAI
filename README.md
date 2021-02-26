@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5ZyQQTiZg32aaDcWafrRkMnRWSuuR1b00QFY4Yxz9mBg41icwYC667jtXkE-w0akrrKB9l0WH9peqSdOig">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-**Itsukatenshininatte Aruiwaaoitorininatte Adam To Eve Ninatte Arienainara**  
-삼월의 판타시아  
-Last updated at 02/26/2021 18:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Inochini Fusawashii**  
+amazarashi(아마자라시)  
+Last updated at 02/26/2021 18:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
