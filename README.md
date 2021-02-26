@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/2kiIbtf_cet4Bm0Xcgv_y3B5ATcm8yaBxAnAg0u8nzVQTSEYymJyDqWnlDLItf2RV3UciS6IhQMzTkaq">](https://music.youtube.com/channel/UCHH8TGIhnv47bYZ7F5w_2Pw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/2FBb3Kx9nqf3QkZXWucMalfPXlbIVeGvRy0m60qP-KMz2cln6OqTyvFWkJyL9Z8dyThuPVK83cy1fyVI">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Climbing the Ginso Tree**  
-Gareth Coker  
-Last updated at 02/26/2021 19:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**乙女解剖 (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 02/26/2021 19:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
