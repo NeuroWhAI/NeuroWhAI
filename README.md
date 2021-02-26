@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/veRs6lGa4Lw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngpM9NM4cEchJswOkyxS3EKiQeJdyQa8sBpXK4L=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UC_ml4nmq6waZSLRDHajbUnA)
 
-**石風呂 / 壊れぬハートが欲しいのだ【OFFICIAL MUSIC VIDEO】**  
-1st PLACE  
-Last updated at 02/26/2021 20:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**DJ OKAWARI feat. Kaori Sawada 「Everything's Alright」**  
+DJ OKAWARI OFFICIAL  
+Last updated at 02/26/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
