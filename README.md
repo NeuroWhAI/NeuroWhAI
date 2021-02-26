@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/RuAICOhpj2A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCDvwUO9msG29_Ak6MpbZxFA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/G3aRgjqL_I8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvULGXb4otGJKFgBaXn3ERA)
 
-**NIENTE 「neu ＬＯＮＧ」**  
-TeirusuFX  
-Last updated at 02/26/2021 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**[Official] End of Mythology - DJMAX RESPECT New song**  
+DJMAX Music Cafe  
+Last updated at 02/26/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
