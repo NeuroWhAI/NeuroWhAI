@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/c2UWe0gfS892XP8Q3gsfb7LFwXVJ4DVyG1PBf6RYFtt8PvtH9ctk_jOTc8i94_AMA8BG5tqqII_15yOk">](https://music.youtube.com/channel/UCCD7dAEC73C-Pm2HXqv_TGQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/hpaM_3Cb5iXKusxiQTcsCqbPI7wwWgdgiNvOOvah_iwUYTHDkoQwnltahYcj4JSMmhsuaJzkqroDoWc">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**The Snail**  
-티미 트럼펫  
-Last updated at 02/26/2021 18:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Moneko**  
+Geoxor  
+Last updated at 02/26/2021 18:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
