@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/K8G2mb7ywa6h3K7Co_An_gSHzS87UdDZC_pYm1L_PsI0wDwIDlqrtDTJdInhYdJPdqy7aD1SQKffdzs2">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
 
-**世界で一番じゃない貴方を愛したら**  
-羽生まゐご  
-Last updated at 02/26/2021 18:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**衝撃**  
+安藤裕子  
+Last updated at 02/26/2021 18:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
