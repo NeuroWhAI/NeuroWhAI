@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UAuwzw_5JU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuJOS7FFIeXCFHEKRpWXubw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/osojr29tZSU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIAyq2tv3-_v70-YZ_CkXNA)
 
-**『衝撃』Music Video【TVアニメ「進撃の巨人」The Final Season エンディングテーマ曲】**  
-安藤裕子Official Channel  
-Last updated at 02/26/2021 20:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Astronauts ♡ English Cover【rachie】 アストロノーツ**  
+Rachie  
+Last updated at 02/26/2021 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
