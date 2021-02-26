@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1_lap6dzSUc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHdEh1-tnKz_nFLeFgEFGhA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/eoZei1APo6haovQZHKD0FriTloqz6m04N2zlOk7Fx59Mr_yGT8D1hQAmSxTG9X5JDdESwf-qZcHnGtg">](https://music.youtube.com/channel/UCqG6ZhISLMJZu90EDk36P5Q)
 
-**YELLOW**  
-요우 카미야마  
-Last updated at 02/26/2021 18:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pagoda**  
+Xomu & Amidst  
+Last updated at 02/26/2021 18:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
