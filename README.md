@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/G3aRgjqL_I8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvULGXb4otGJKFgBaXn3ERA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/R0bVJSlYbQw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWa0iqVsMWCzn79rzV2pRDA)
 
-**[Official] End of Mythology - DJMAX RESPECT New song**  
-DJMAX Music Cafe  
-Last updated at 02/26/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Philip Glass – Koyaanisqatsi (piano cover)**  
+ванька сазонов  
+Last updated at 02/26/2021 20:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
