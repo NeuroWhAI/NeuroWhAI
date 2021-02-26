@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/eoZei1APo6haovQZHKD0FriTloqz6m04N2zlOk7Fx59Mr_yGT8D1hQAmSxTG9X5JDdESwf-qZcHnGtg">](https://music.youtube.com/channel/UCqG6ZhISLMJZu90EDk36P5Q)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/piAINQpjxdAeExwKlhCG1yFlLMETw1GSF8c8hBYUHk-sv42GUKTZJjmGtjTV9UH2X_85nPv5N3r9UhIu">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**Pagoda**  
-Xomu & Amidst  
-Last updated at 02/26/2021 18:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Gairo, Light No Akaridake**  
+삼월의 판타시아  
+Last updated at 02/26/2021 18:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
