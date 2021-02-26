@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/R0bVJSlYbQw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWa0iqVsMWCzn79rzV2pRDA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0c9958OoTL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
 
-**Philip Glass – Koyaanisqatsi (piano cover)**  
-ванька сазонов  
-Last updated at 02/26/2021 20:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**キライ・キライ・ジガヒダイ！**  
+쿠라게P  
+Last updated at 02/26/2021 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
