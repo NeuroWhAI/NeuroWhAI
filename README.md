@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eDT1lROh0zo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMJomg1SQuH_wHI5d0TnL-w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hgWz96JCvhg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Y5pLXDpGtNogjSzO_hNBg)
 
-**5 happy songs turned super sad**  
-Toms Mucenieks  
-Last updated at 02/26/2021 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**久遠千歳×Yunomi『命に嫌われている。×future base(Kizuna AI)』【マッシュアップ】**  
+プリー【Vtuber】黒船提督  
+Last updated at 02/26/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
