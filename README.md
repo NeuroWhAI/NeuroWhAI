@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/EQtCb9vSUJEIhvXIcwnWGUOmZQBY2ew1FFQV9SNOzg8l6KbuHAz72mrvTJlaQIThzvMrTzM6m9SArS0-">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/E9E61A7PyknUl8-gafuaSIEP2e3H24o5GuPuyFw8z3te_1EUL4BL1fDBpr7VtliJsTX7GxHQWNLnupH0">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
 
-**命ばっかり**  
-ぬゆり  
-Last updated at 02/26/2021 19:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**脱獄**  
+Neru  
+Last updated at 02/26/2021 19:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
