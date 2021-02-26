@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/5ZyQQTiZg32aaDcWafrRkMnRWSuuR1b00QFY4Yxz9mBg41icwYC667jtXkE-w0akrrKB9l0WH9peqSdOig">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/KXioeXch2iwou5fJ0f92MCPmfytMWsEexM9658ACq9-Ks7TI1mhHqtME-3HufdghirP8Ts6qmhbyDll4KA">](https://music.youtube.com/channel/UCzQJPS7o_U24_KzEBu-kmLw)
 
-**Inochini Fusawashii**  
-amazarashi(아마자라시)  
-Last updated at 02/26/2021 18:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Again**  
+GoldenBoys  
+Last updated at 02/26/2021 19:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
