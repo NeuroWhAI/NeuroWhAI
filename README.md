@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/AbkbyfQwJ5k-9pjRBrVqHLyDiZJnfzDl_SIkmtmzu7vEHKaubShKThDJkgFNrDJNgVx2e_xU1jfT2rk">](https://music.youtube.com/channel/UCjTS4kiUgXQ1wGidbTRUQKQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1_lap6dzSUc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHdEh1-tnKz_nFLeFgEFGhA)
 
-**Video Game**  
-Tokyo Project, Jim Bandrock  
-Last updated at 02/26/2021 18:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**YELLOW**  
+요우 카미야마  
+Last updated at 02/26/2021 18:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
