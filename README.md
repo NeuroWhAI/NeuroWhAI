@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/ExhMegIFYZee8a2TICc0tJaWkzvBbfQmSognrTXsTQreQtRRGDOF5syDXeqAjwpni8TdVnaXGZ3ZQA8">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/sUW4dDWiz-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjtNm_gZ8oVVwSpfBi-pGtw)
 
-**Yoiyoi Kokon**  
-Reol  
-Last updated at 02/26/2021 19:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**神聖かまってちゃん-夕暮れの鳥／Shinsei Kamattechan-Yuugure no tori**  
+Shinsei kamattechan  
+Last updated at 02/26/2021 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
