@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/hpaM_3Cb5iXKusxiQTcsCqbPI7wwWgdgiNvOOvah_iwUYTHDkoQwnltahYcj4JSMmhsuaJzkqroDoWc">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/AbkbyfQwJ5k-9pjRBrVqHLyDiZJnfzDl_SIkmtmzu7vEHKaubShKThDJkgFNrDJNgVx2e_xU1jfT2rk">](https://music.youtube.com/channel/UCjTS4kiUgXQ1wGidbTRUQKQ)
 
-**Moneko**  
-Geoxor  
-Last updated at 02/26/2021 18:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Video Game**  
+Tokyo Project, Jim Bandrock  
+Last updated at 02/26/2021 18:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
