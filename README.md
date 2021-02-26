@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wt8KG2zGzhY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpIVlAse7iykn3ZRa9TdrbQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zyJJlPSeEpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC10utK9bMfT9x4rrcVSM9dQ)
 
-**The Way Guru Nyan... (삐부 왜구루냥 리믹스)**  
-MOKKINKIRIN // 모낀기린  
-Last updated at 02/26/2021 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Owari no Sekai Kara**  
+Maeda Jun 및 yanaginagi  
+Last updated at 02/26/2021 20:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
