@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0c9958OoTL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMePTHm4xzpapG_6-vZvIpg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/veRs6lGa4Lw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCu33JdVED-0vqaNyw_bCTKg)
 
-**キライ・キライ・ジガヒダイ！**  
-쿠라게P  
-Last updated at 02/26/2021 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**石風呂 / 壊れぬハートが欲しいのだ【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 02/26/2021 20:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
