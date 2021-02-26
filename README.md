@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/E9E61A7PyknUl8-gafuaSIEP2e3H24o5GuPuyFw8z3te_1EUL4BL1fDBpr7VtliJsTX7GxHQWNLnupH0">](https://music.youtube.com/channel/UCFRHG2Hol9z-uULmGD4VQ2w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/2kiIbtf_cet4Bm0Xcgv_y3B5ATcm8yaBxAnAg0u8nzVQTSEYymJyDqWnlDLItf2RV3UciS6IhQMzTkaq">](https://music.youtube.com/channel/UCHH8TGIhnv47bYZ7F5w_2Pw)
 
-**脱獄**  
-Neru  
-Last updated at 02/26/2021 19:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Climbing the Ginso Tree**  
+Gareth Coker  
+Last updated at 02/26/2021 19:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
