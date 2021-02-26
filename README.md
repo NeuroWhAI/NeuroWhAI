@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/EQtCb9vSUJEIhvXIcwnWGUOmZQBY2ew1FFQV9SNOzg8l6KbuHAz72mrvTJlaQIThzvMrTzM6m9SArS0-">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/o7Y1t0OPqtww0BeIQgaKnsymtlytvEmlJ4lx7x7I2INNlndMNRFx1jkeDv2ifAxSiPydFhc-8Ynn4O20">](https://music.youtube.com/channel/UCpdcUsCOK7AxIXDxRdz_mrA)
 
-**命ばっかり**  
-ぬゆり  
-Last updated at 02/26/2021 19:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**劣等上等 feat. 鏡音リン・レン(피처링: 鏡音リン・レン)**  
+Giga  
+Last updated at 02/26/2021 19:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
