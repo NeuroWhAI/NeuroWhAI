@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/tTw8AxYjTq-JFIkLV8ZmRQ6IzPOyAPSnfjnskMLTpMQcBPiKuro3mXuwVz7-BFCgaMYhxdOyhkCZ8fo">](https://music.youtube.com/channel/UCt4rbOMLsVxeMsoaRdTfr5A)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Rising Hope**  
-LiSA(리사)  
-Last updated at 02/26/2021 18:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**言って。**  
+요루시카  
+Last updated at 02/26/2021 18:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
