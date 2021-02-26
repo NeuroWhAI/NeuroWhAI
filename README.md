@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/0kORSY0phYjOB48dTckbAYkRhWW-Z--ZAll8oRsjnaQELgu19gLgLc7i7jpAr1JZ_Gf58-PojYZTKU7wWQ">](https://music.youtube.com/channel/UCzQJPS7o_U24_KzEBu-kmLw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/EQtCb9vSUJEIhvXIcwnWGUOmZQBY2ew1FFQV9SNOzg8l6KbuHAz72mrvTJlaQIThzvMrTzM6m9SArS0-">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
 
-**Sorairo Days**  
-GoldenBoys  
-Last updated at 02/26/2021 19:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**命ばっかり**  
+ぬゆり  
+Last updated at 02/26/2021 19:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
