@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/2FBb3Kx9nqf3QkZXWucMalfPXlbIVeGvRy0m60qP-KMz2cln6OqTyvFWkJyL9Z8dyThuPVK83cy1fyVI">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/EQtCb9vSUJEIhvXIcwnWGUOmZQBY2ew1FFQV9SNOzg8l6KbuHAz72mrvTJlaQIThzvMrTzM6m9SArS0-">](https://music.youtube.com/channel/UCR3k7CGuSIU9DnzQQpJQl_w)
 
-**乙女解剖 (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 02/26/2021 19:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**命ばっかり**  
+ぬゆり  
+Last updated at 02/26/2021 19:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
