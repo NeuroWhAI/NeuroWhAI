@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/KXioeXch2iwou5fJ0f92MCPmfytMWsEexM9658ACq9-Ks7TI1mhHqtME-3HufdghirP8Ts6qmhbyDll4KA">](https://music.youtube.com/channel/UCzQJPS7o_U24_KzEBu-kmLw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/DxmsEz4-YxPpho42MF1eoSF-YLE_95w1j8gZq7ceTKf95BvHfRs-8XSB4lhHNHZ2EmMpvfX0w9Uh0TA">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**Again**  
-GoldenBoys  
-Last updated at 02/26/2021 19:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hare wo Matsu**  
+Orangestar  
+Last updated at 02/26/2021 19:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
