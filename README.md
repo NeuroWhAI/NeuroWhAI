@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hgWz96JCvhg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Y5pLXDpGtNogjSzO_hNBg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/N_p3HT70dU8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWVicaoco6MB5EV1zg2H6kw)
 
-**久遠千歳×Yunomi『命に嫌われている。×future base(Kizuna AI)』【マッシュアップ】**  
-プリー【Vtuber】黒船提督  
-Last updated at 02/26/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**March of Time**  
+다즈비  
+Last updated at 02/26/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
