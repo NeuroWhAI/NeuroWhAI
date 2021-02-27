@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5Cof9rP7TEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwDsvF7JKuGpTMuaqpCAebg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zE1fGSg2hcs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6m3DJHXXxA9ybCrq8a8ApQ)
 
-**【Primary/yuiko】in the Garden【オリジナル】**  
-primaryyuiko  
-Last updated at 02/27/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**96네코 - 변하지 않는 것 [고퀄 자막][Nightcore]**  
+이브Ib  
+Last updated at 02/27/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
