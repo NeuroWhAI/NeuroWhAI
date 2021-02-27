@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/JLsYZCwpHuoFHxsRuN5ec3InWJz2DcxSwFj30i4yoDU54hT-5pTmPzmdDPTK3Z_1nY-K-4W9fs77-lFPjg">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/rKDJ6p3HblN9fa1bug-6_vHVzEey_iWpQRtU7mNg813u60vVo1-Scs1v22eU9A9iiM88uXqac8YGTf1S5A">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**Euphoria II**  
-Geoxor  
-Last updated at 02/27/2021 15:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nadir**  
+Orangestar  
+Last updated at 02/27/2021 15:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
