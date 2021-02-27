@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/SCp03oM30v9HVAusKlBccAWGuVqFs9TvWsCotmayJdTLwvvjv80Pn4hj-_t4COQ1hgIzlo0_TVVB7-Dv">](https://music.youtube.com/channel/UCUjVBmmqwsCBAz_7KA7ZdwA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/TGMRM0FiXzn8AMOvFmtDQJoPaIEs0d8sptO272C9UmkYNL8VUcRApF7eA0m6gbkaV58elX73hRh21--g7g">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**The High Seas**  
-EnV  
-Last updated at 02/27/2021 16:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Rain with Cappuccino**  
+요루시카  
+Last updated at 02/27/2021 16:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
