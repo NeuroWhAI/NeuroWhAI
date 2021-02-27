@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/6J0T0785CFS99wVCmzT9RsSYOAvzL-UYZtEnoRWYeEOb-eOudZLOW0uVaxXBlwJ5csOOXPDXTCTxANN7">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Koi Wa Kiraida**  
-삼월의 판타시아  
-Last updated at 02/27/2021 16:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hibiwareta Sekai**  
+마지코  
+Last updated at 02/27/2021 16:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
