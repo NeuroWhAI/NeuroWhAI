@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nkzd1UM93rg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1hLwnLV2RqGFzlS3PYkpww)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8oV_qxVSt94/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUEvXLdpCtbzzDkcMI96llg)
 
-**【ケムリクサ OP】 - KEMURIKUSA (Guitar Cover) 【ナノ】**  
-Gyato [Dong Hyeok Seo]  
-Last updated at 02/27/2021 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**海の幽霊 (米津玄師) ／ダズビー COVER**  
+DAZBEE official  
+Last updated at 02/27/2021 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
