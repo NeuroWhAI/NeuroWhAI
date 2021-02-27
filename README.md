@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cE69xAWdTq8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC10utK9bMfT9x4rrcVSM9dQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zCvnPjy6WKc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCZihTdTkqD45JvRabFEcQKw)
 
-**Last Smile**  
-Maeda Jun 및 yanaginagi  
-Last updated at 02/27/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**初音ミク-新世界へのプロローグ**  
+黃澄深  
+Last updated at 02/27/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
