@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/vNb5EIwbNUIFlpRaNRGFzEt3WeOIChsVkDObRDq1h5aHkeJUqG4ETy1prnaU89rMmbvDiXje89wO6k4g">](https://music.youtube.com/channel/UCyCHC5djn4B2c9dLHe87N5g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/cV7iDJmWMmuMDy7JlQu1vVqkzyIIWLQebMB3aSMZnQ1YM1jv_TvjbczeDA4PMRw8JM4-Qg5_4AVurOA_">](https://music.youtube.com/channel/UCPj5vYW9iiB8C6GIy3MOnMw)
 
-**Desire**  
-OUTRAGE & Jetty Rachers & Hi3ND  
-Last updated at 02/27/2021 15:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**旅人の唄（『無職転生 ～異世界行ったら本気だす～』より）**  
+大原ゆい子  
+Last updated at 02/27/2021 15:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
