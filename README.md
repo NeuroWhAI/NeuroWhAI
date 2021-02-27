@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/WS4wMpGKiFkNvUEi3MjeeLuPQdcK6ihgdqHI1wjI7M5KUZNQwFmmw8fB2wAsXoFCywwHhbO41U3ehJHw">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/PVswp3p8owAXA2yYNEO9ma9120w-HoqMuxAinREhWtMMbgdkhs-IRVG3IBdXOOUYhSNyW-az-LXryFzX">](https://music.youtube.com/channel/UCm3Iz4r831xOyJscsfKarBg)
 
-**Crystal Cave**  
-판다 아이즈  
-Last updated at 02/27/2021 15:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hide and Seek**  
+Vairo  
+Last updated at 02/27/2021 15:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
