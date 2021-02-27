@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/6J0T0785CFS99wVCmzT9RsSYOAvzL-UYZtEnoRWYeEOb-eOudZLOW0uVaxXBlwJ5csOOXPDXTCTxANN7">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/UjuO3CQHlzg2eaqlv5ZyORGTjbtz5z2qb5S1v9l_l5VeE-agv9OrtC3osPgQkREs4GKQ23qEwl8iNB0">](https://music.youtube.com/channel/UC_SxYlf03VsYYBJTXTZj7kw)
 
-**Hibiwareta Sekai**  
-마지코  
-Last updated at 02/27/2021 16:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tomoni**  
+WANIMA  
+Last updated at 02/27/2021 17:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
