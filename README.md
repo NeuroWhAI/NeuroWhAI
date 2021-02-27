@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/MbjtzH9JIKo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl3jPsnhZNprn1sqdl8P-mg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4vaAzmbQsVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxasUyz_GaQta-2NZWcQJCA)
 
-**【廃墟系】けもフレEDを最終回っぽくしてみた【アレンジ】**  
-レンチ【作曲系Vtuber】  
-Last updated at 02/27/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**【東方Vocal】「眠らない夜に星が降る」 TUMENECO**  
+Arturia Pendragon  
+Last updated at 02/27/2021 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
