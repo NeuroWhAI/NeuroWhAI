@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/Y4LRpsxoznQAXf2sHVVGym7iS7PUQlYIU8vQp4oI9bWfotE4SuvKGisf2ENXopxDETJvjexG24TUElB5">](https://music.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**Hype (sky_delta Remix)(피처링: Such)**  
-PSYQUI  
-Last updated at 02/27/2021 16:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Koi Wa Kiraida**  
+삼월의 판타시아  
+Last updated at 02/27/2021 16:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
