@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/zE1fGSg2hcs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6m3DJHXXxA9ybCrq8a8ApQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**96네코 - 변하지 않는 것 [고퀄 자막][Nightcore]**  
-이브Ib  
-Last updated at 02/27/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Picon - 生活があった**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 02/27/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
