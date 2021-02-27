@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/Omfdy6G9JpdlqQGPzX_5WoFaUH_BFfXzcmS0mLqHYPcbY0pJ6-jY2WCy0NWgq-d7C0frc3nIWyBM66DFLA">](https://music.youtube.com/channel/UCKXj93egWRbbjQiyWUhLYDA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/SCp03oM30v9HVAusKlBccAWGuVqFs9TvWsCotmayJdTLwvvjv80Pn4hj-_t4COQ1hgIzlo0_TVVB7-Dv">](https://music.youtube.com/channel/UCUjVBmmqwsCBAz_7KA7ZdwA)
 
-**Asuka**  
-PIKASONIC  
-Last updated at 02/27/2021 16:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**The High Seas**  
+EnV  
+Last updated at 02/27/2021 16:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
