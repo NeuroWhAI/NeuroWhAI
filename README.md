@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/CvxuLjMAltYCBcZ1t-L5D0KX3nU8IKqHGOnBW8pGIq7kp79lzfZInPA8z1YeL5dssG2BYNG8FwJ7128">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/-m5p86y-U865P2hO_l062rA2rvuaTsjJrQhzszq08kZrq52V7adsTfS8IhxkWs3hLT4wkQ6Y_mk1ILs">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-**RTRT**  
-Mili  
-Last updated at 02/27/2021 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Last Stardust**  
+Aimer(에메)  
+Last updated at 02/27/2021 16:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
