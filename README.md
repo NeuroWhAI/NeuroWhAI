@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4vaAzmbQsVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxasUyz_GaQta-2NZWcQJCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bPftoqEeW5E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMVhOB8d67947YmHlrumR4w)
 
-**【東方Vocal】「眠らない夜に星が降る」 TUMENECO**  
-Arturia Pendragon  
-Last updated at 02/27/2021 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nocturnal**  
+레슬리 와이  
+Last updated at 02/27/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
