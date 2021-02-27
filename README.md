@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/axYc-NpvZWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx8DEu2k2XGGLyxDcgbHqMA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4IwIbHoFWXY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9YDIN4WKo3_6fITQlyZICw)
 
-**Some Sand**  
-Ibi  
-Last updated at 02/27/2021 17:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**【全部俺で歌ってみた】ぼくのフレンド【楽譜有】**  
+けいたお兄さん  
+Last updated at 02/27/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
