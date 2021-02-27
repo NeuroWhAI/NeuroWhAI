@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/mBeD0Z3Jbnje02Bz5eFcTH-b3NqaPRwhsSEbUbjZk5tazpmKXmSznw0bzplzDfFksr5XQ7P21kAsxUXO">](https://music.youtube.com/channel/UC7X30tSSXyrtkHWgV7wReAw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/Y4LRpsxoznQAXf2sHVVGym7iS7PUQlYIU8vQp4oI9bWfotE4SuvKGisf2ENXopxDETJvjexG24TUElB5">](https://music.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg)
 
-**Endlessly**  
-Declain  
-Last updated at 02/27/2021 16:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hype (sky_delta Remix)(피처링: Such)**  
+PSYQUI  
+Last updated at 02/27/2021 16:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
