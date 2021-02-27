@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/LvU5uupjJvIcm4vMSPeUEOc-JtzJSDHchaW4QcPaKrxddB9P9ThE3SoQzU32yX8D3CmiEcyHIUkbmvxI">](https://music.youtube.com/channel/UCNvQy7g6kFu0VnKbnDkrqyw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/6cg8PgGdYu0BuIS0zTR-0PB7q5zD_Ekr10K_MaAn1c92RMnswgnEHwNN41p2-QrSUfdU2ueRzqror0SB">](https://music.youtube.com/browse/MPREb_bRZoRejnNBx)
 
-**Robot Love(피처링: Greta)**  
-Klaypex  
-Last updated at 02/27/2021 15:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lanterns**  
+Xomu  
+Last updated at 02/27/2021 15:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
