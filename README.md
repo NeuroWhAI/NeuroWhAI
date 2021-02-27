@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/TGMRM0FiXzn8AMOvFmtDQJoPaIEs0d8sptO272C9UmkYNL8VUcRApF7eA0m6gbkaV58elX73hRh21--g7g">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/WBMsP83yVO0XWQs3H3psAhGqLULgP_O8YyjzExf9uMA2L6LkXjtEfZQ1Q-ZDFS3r7eNAnt12IuzoVq4">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
 
-**Rain with Cappuccino**  
-요루시카  
-Last updated at 02/27/2021 16:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lemon**  
+Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 02/27/2021 16:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
