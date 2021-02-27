@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5SLDIgev8zI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8ckKN1AymYWdWNnTrSpvaA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/MbjtzH9JIKo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl3jPsnhZNprn1sqdl8P-mg)
 
-**신세계OST - Big Sleep**  
-뿌뿌  
-Last updated at 02/27/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**【廃墟系】けもフレEDを最終回っぽくしてみた【アレンジ】**  
+レンチ【作曲系Vtuber】  
+Last updated at 02/27/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
