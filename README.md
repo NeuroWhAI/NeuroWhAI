@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lbj1CRhg44E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZ9Ljdpl396etlsG7Zbi04Q)
 
-**델리스파이스 - 챠우챠우 (1997年)**  
-pops8090  
-Last updated at 02/27/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**朝焼けのスターマイン 『プラスティック・メモリーズ』Full ED Piano 【楽譜/Sheet Music】**  
+tcyJustice  
+Last updated at 02/27/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
