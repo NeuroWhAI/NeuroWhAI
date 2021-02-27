@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/-m5p86y-U865P2hO_l062rA2rvuaTsjJrQhzszq08kZrq52V7adsTfS8IhxkWs3hLT4wkQ6Y_mk1ILs">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/BCp8A6TghyNWacfh3BHUBwnJFTARZ0zWz2Mg36MAntsBREImW_5eJaVe2q10kKl2ZbByn0Zi_2dbZRQ">](https://music.youtube.com/channel/UCUt2uP6O_UBJp4aBx5KjQjA)
 
-**Last Stardust**  
-Aimer(에메)  
-Last updated at 02/27/2021 16:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**Goodbye To A World**  
+포터 로빈슨  
+Last updated at 02/27/2021 16:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
