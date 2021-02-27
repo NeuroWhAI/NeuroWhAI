@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L4IxBW_LLWI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWwoMeZW7XnkBc2ZkrbZkMA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5Cof9rP7TEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwDsvF7JKuGpTMuaqpCAebg)
 
-**Spider Dance - Undertale - Gooseworx Cover**  
-Gooseworx  
-Last updated at 02/27/2021 21:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Primary/yuiko】in the Garden【オリジナル】**  
+primaryyuiko  
+Last updated at 02/27/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
