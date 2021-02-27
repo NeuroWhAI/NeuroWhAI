@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/H_gxIEGRock/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdSw6ibcMMElCYeZgxeEaqA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0FM-PFSHRHE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyIcOCH-VWaRKH9IkR8hz7Q)
 
-**雪歌ユフによる「幸福な死を」itikura_Remix**  
-itikura市蔵  
-Last updated at 02/27/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**この世界を愛したい《好想愛這個世界啊》cover【花丸はれる/花寄女子寮】**  
+花丸はれる / Hareru Hanamaru  
+Last updated at 02/27/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
