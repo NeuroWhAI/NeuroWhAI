@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fArI8VRJT5A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyzOipIWtkYk-bRycCqGMLQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OM2SJW_zmnw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxVa6jiInuNjQGXBIxbapHQ)
 
-**【Happy Sugar Life OP Full】One Room Sugar Life by ナナヲアカリ を叩いてみた - Drum Cover**  
-A Toku  
-Last updated at 02/27/2021 17:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**혁오 - 톰보이 Piano cover (Hyukoh - Tomboy)**  
+Mapia 마피아  
+Last updated at 02/27/2021 17:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
