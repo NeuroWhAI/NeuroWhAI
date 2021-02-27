@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/KkF2x0kv_Si-MDoZTIyJGCdlWFvgBHeLIMGZTBIk5ut4PsK042QR60U58eOidIRuXZInNaJhe2hGS5eZ">](https://music.youtube.com/channel/UCXQbmowL6Ln_hRqY58_OH4g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/0cdfbL_Qt0oY1MtWAlyNx3tohOPBirBCNyU-2DliV9iz1qRROnndyciZTVFURPDtIp0TVH79q_7N31Q">](https://music.youtube.com/channel/UCpTpszeiaSs938KEIXZRNcQ)
 
-**give it back**  
-코슈니에  
-Last updated at 02/27/2021 15:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**to Asteroid B-612(피처링: lasah)**  
+sasakure.UK  
+Last updated at 02/27/2021 16:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
