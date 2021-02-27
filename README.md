@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/lbj1CRhg44E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZ9Ljdpl396etlsG7Zbi04Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lCBF_XSFmng/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**朝焼けのスターマイン 『プラスティック・メモリーズ』Full ED Piano 【楽譜/Sheet Music】**  
-tcyJustice  
-Last updated at 02/27/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - モチベーションが死んでる feat. 初音ミク / Motivation is Dead**  
+피노키오P  
+Last updated at 02/27/2021 22:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
