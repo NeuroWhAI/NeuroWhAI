@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/6cg8PgGdYu0BuIS0zTR-0PB7q5zD_Ekr10K_MaAn1c92RMnswgnEHwNN41p2-QrSUfdU2ueRzqror0SB">](https://music.youtube.com/browse/MPREb_bRZoRejnNBx)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/WS4wMpGKiFkNvUEi3MjeeLuPQdcK6ihgdqHI1wjI7M5KUZNQwFmmw8fB2wAsXoFCywwHhbO41U3ehJHw">](https://music.youtube.com/channel/UCIiBsvwR6sROzw-fiux9BMw)
 
-**Lanterns**  
-Xomu  
-Last updated at 02/27/2021 15:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**Crystal Cave**  
+판다 아이즈  
+Last updated at 02/27/2021 15:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
