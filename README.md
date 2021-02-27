@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/cV7iDJmWMmuMDy7JlQu1vVqkzyIIWLQebMB3aSMZnQ1YM1jv_TvjbczeDA4PMRw8JM4-Qg5_4AVurOA_">](https://music.youtube.com/channel/UCPj5vYW9iiB8C6GIy3MOnMw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/I1qw0dpIAZcynTyTtq65PBlDrkwSFf3y_6KKH4rZ4CofevmTc3RY962wup7-5mZauxLgst5z2EJgnk-sUA">](https://music.youtube.com/channel/UCxW-KiOyle077bsbmV2ssYA)
 
-**旅人の唄（『無職転生 ～異世界行ったら本気だす～』より）**  
-大原ゆい子  
-Last updated at 02/27/2021 15:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dragon Force but is it okay if it's lofi?**  
+Kijugo  
+Last updated at 02/27/2021 15:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
