@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/PVswp3p8owAXA2yYNEO9ma9120w-HoqMuxAinREhWtMMbgdkhs-IRVG3IBdXOOUYhSNyW-az-LXryFzX">](https://music.youtube.com/channel/UCm3Iz4r831xOyJscsfKarBg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/bDUpPIK_5mbGUojOUZbKlRp2AsYWds2G3_2PtFDPzY3vGUGDXpPMyJ3cSU70I0PWsu8UxJkrxomReQM">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Hide and Seek**  
-Vairo  
-Last updated at 02/27/2021 15:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Thoughtcrime**  
+요루시카  
+Last updated at 02/27/2021 15:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
