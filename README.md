@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/bDUpPIK_5mbGUojOUZbKlRp2AsYWds2G3_2PtFDPzY3vGUGDXpPMyJ3cSU70I0PWsu8UxJkrxomReQM">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5FJKF_z9Hj-OaDfQBl68azuQp-cOzEjdYYOPHD0yI06Z5GYl9he7-hlexrttn0mWP3k1f0bVET_r9Cg">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
 
-**Thoughtcrime**  
-요루시카  
-Last updated at 02/27/2021 15:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Everlasting Guilty Crown**  
+EGOIST  
+Last updated at 02/27/2021 15:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
