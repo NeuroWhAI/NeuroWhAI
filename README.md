@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8oV_qxVSt94/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUEvXLdpCtbzzDkcMI96llg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hfQvhc7U09I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiUY2aIMcrM497Mj0xYvfIA)
 
-**海の幽霊 (米津玄師) ／ダズビー COVER**  
-DAZBEE official  
-Last updated at 02/27/2021 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**진흙 속에 피다 (泥中に咲く) / HarryP｜하츠네 미쿠 【Cover】**  
+XYNSIA 신시아  
+Last updated at 02/27/2021 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
