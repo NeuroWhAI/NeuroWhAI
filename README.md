@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ABUffetyo_0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCP3V9UKYLmOF2Ct6qGGDHkA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qt1u8-rBN_M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtsdnT54n5m70qOBE9OSk9A)
 
-**【 ぽわぽわP 】 アストロノーツ ~ 【 PowaPowa-P 】 Astronauts (acoustic ver.) ft. wonderlandica**  
-pallax  
-Last updated at 02/27/2021 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alan Walker - "All Falls Down" (Piano Cover) by David Solis**  
+Solís Music  
+Last updated at 02/27/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
