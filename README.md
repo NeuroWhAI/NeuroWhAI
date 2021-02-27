@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_xzdfU2m4zA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/L4qNdH1TYE0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5nc_ZtjKW1htCVZVRxlQAQ)
 
-**Picon - 生活があった**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 02/27/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Atra Aeterna - When The World Ends**  
+MrSuicideSheep  
+Last updated at 02/27/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
