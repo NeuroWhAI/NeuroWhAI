@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6hn-lXh4Myk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCngyb_A3actA7uLbWE8eOPg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/L4IxBW_LLWI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWwoMeZW7XnkBc2ZkrbZkMA)
 
-**Hatsune Miku - Strobe Last (ストロボラスト) - English/Romaji Subs**  
-ikuy398  
-Last updated at 02/27/2021 21:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Spider Dance - Undertale - Gooseworx Cover**  
+Gooseworx  
+Last updated at 02/27/2021 21:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
