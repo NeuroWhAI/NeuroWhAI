@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/UjuO3CQHlzg2eaqlv5ZyORGTjbtz5z2qb5S1v9l_l5VeE-agv9OrtC3osPgQkREs4GKQ23qEwl8iNB0">](https://music.youtube.com/channel/UC_SxYlf03VsYYBJTXTZj7kw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/ezFxgTV7RBC3EQ-bDRMokLXooy9BjTzaPKU_WluV3gpSsiSPMenZmJi1CpmKZR5BnkydPNMwI7HTG6E">](https://music.youtube.com/channel/UCzemmV5YXT0Uh1HuR-Gz7oQ)
 
-**Tomoni**  
-WANIMA  
-Last updated at 02/27/2021 17:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ether Field**  
+Wisp X  
+Last updated at 02/27/2021 17:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
