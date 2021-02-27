@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uK9X8xomCSU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxr489eZVN42FYUrjRN1cfA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fArI8VRJT5A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyzOipIWtkYk-bRycCqGMLQ)
 
-**『オレンジ』を歌ってみた【ヲタみんver 】中文字幕**  
-Parsleysick  
-Last updated at 02/27/2021 17:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Happy Sugar Life OP Full】One Room Sugar Life by ナナヲアカリ を叩いてみた - Drum Cover**  
+A Toku  
+Last updated at 02/27/2021 17:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
