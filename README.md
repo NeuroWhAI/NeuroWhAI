@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/YJg_fji3Uko/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/sM7apzpYrcE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOHA6m1QX28oxaIruMnYylQ)
 
-**Twilight**  
-Geoxor  
-Last updated at 02/27/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**【SeeU】 망상세/妄想税 (Korean Cover/한국어 커버)**  
+또준이  
+Last updated at 02/27/2021 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
