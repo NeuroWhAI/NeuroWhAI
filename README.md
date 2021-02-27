@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/BCp8A6TghyNWacfh3BHUBwnJFTARZ0zWz2Mg36MAntsBREImW_5eJaVe2q10kKl2ZbByn0Zi_2dbZRQ">](https://music.youtube.com/channel/UCUt2uP6O_UBJp4aBx5KjQjA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/mBeD0Z3Jbnje02Bz5eFcTH-b3NqaPRwhsSEbUbjZk5tazpmKXmSznw0bzplzDfFksr5XQ7P21kAsxUXO">](https://music.youtube.com/channel/UC7X30tSSXyrtkHWgV7wReAw)
 
-**Goodbye To A World**  
-포터 로빈슨  
-Last updated at 02/27/2021 16:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Endlessly**  
+Declain  
+Last updated at 02/27/2021 16:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
