@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/lCBF_XSFmng/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/H_gxIEGRock/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdSw6ibcMMElCYeZgxeEaqA)
 
-**ピノキオピー - モチベーションが死んでる feat. 初音ミク / Motivation is Dead**  
-피노키오P  
-Last updated at 02/27/2021 22:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**雪歌ユフによる「幸福な死を」itikura_Remix**  
+itikura市蔵  
+Last updated at 02/27/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
