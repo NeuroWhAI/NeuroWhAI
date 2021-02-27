@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/WBMsP83yVO0XWQs3H3psAhGqLULgP_O8YyjzExf9uMA2L6LkXjtEfZQ1Q-ZDFS3r7eNAnt12IuzoVq4">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/CvxuLjMAltYCBcZ1t-L5D0KX3nU8IKqHGOnBW8pGIq7kp79lzfZInPA8z1YeL5dssG2BYNG8FwJ7128">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-**Lemon**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 02/27/2021 16:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**RTRT**  
+Mili  
+Last updated at 02/27/2021 16:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
