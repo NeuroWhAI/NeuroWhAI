@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/I1qw0dpIAZcynTyTtq65PBlDrkwSFf3y_6KKH4rZ4CofevmTc3RY962wup7-5mZauxLgst5z2EJgnk-sUA">](https://music.youtube.com/channel/UCxW-KiOyle077bsbmV2ssYA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
 
-**Dragon Force but is it okay if it's lofi?**  
-Kijugo  
-Last updated at 02/27/2021 15:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**衝撃**  
+安藤裕子  
+Last updated at 02/27/2021 15:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
