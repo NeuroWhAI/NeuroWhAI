@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/zCvnPjy6WKc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCZihTdTkqD45JvRabFEcQKw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-**初音ミク-新世界へのプロローグ**  
-黃澄深  
-Last updated at 02/27/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**델리스파이스 - 챠우챠우 (1997年)**  
+pops8090  
+Last updated at 02/27/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
