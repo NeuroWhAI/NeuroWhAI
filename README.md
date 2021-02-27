@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qt1u8-rBN_M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtsdnT54n5m70qOBE9OSk9A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6hn-lXh4Myk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCngyb_A3actA7uLbWE8eOPg)
 
-**Alan Walker - "All Falls Down" (Piano Cover) by David Solis**  
-Solís Music  
-Last updated at 02/27/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hatsune Miku - Strobe Last (ストロボラスト) - English/Romaji Subs**  
+ikuy398  
+Last updated at 02/27/2021 21:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
