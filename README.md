@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2Yb4AmzHQbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCw_ipiX_370he1SLocfyJ-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ABUffetyo_0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCP3V9UKYLmOF2Ct6qGGDHkA)
 
-**Plastic Memories ED Asayake no Starmine （朝焼けのスターマイン） Piano ピアノ HQ**  
-Hiumann  
-Last updated at 02/27/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**【 ぽわぽわP 】 アストロノーツ ~ 【 PowaPowa-P 】 Astronauts (acoustic ver.) ft. wonderlandica**  
+pallax  
+Last updated at 02/27/2021 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
