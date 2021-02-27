@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/t9UQYzPLuUZQMtPuG21ka3KUH8Oj0H4s_a2kCbGRoaNlPOMR4ZXBMSTHSjC1aGuEwDSEq8c6zDa-heZY">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/vNb5EIwbNUIFlpRaNRGFzEt3WeOIChsVkDObRDq1h5aHkeJUqG4ETy1prnaU89rMmbvDiXje89wO6k4g">](https://music.youtube.com/channel/UCyCHC5djn4B2c9dLHe87N5g)
 
-**ボッカデラベリタ**  
-柊キライ  
-Last updated at 02/27/2021 15:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Desire**  
+OUTRAGE & Jetty Rachers & Hi3ND  
+Last updated at 02/27/2021 15:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
