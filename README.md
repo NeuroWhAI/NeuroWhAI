@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4IwIbHoFWXY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9YDIN4WKo3_6fITQlyZICw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YfrW2D766YA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCs7xEHv9tIfQX1SzhkpWk1Q)
 
-**【全部俺で歌ってみた】ぼくのフレンド【楽譜有】**  
-けいたお兄さん  
-Last updated at 02/27/2021 17:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Titanium + Alone**  
+J.Fla  
+Last updated at 02/27/2021 17:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
