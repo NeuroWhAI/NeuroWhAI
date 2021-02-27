@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L4qNdH1TYE0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5nc_ZtjKW1htCVZVRxlQAQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cE69xAWdTq8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC10utK9bMfT9x4rrcVSM9dQ)
 
-**Atra Aeterna - When The World Ends**  
-MrSuicideSheep  
-Last updated at 02/27/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Last Smile**  
+Maeda Jun 및 yanaginagi  
+Last updated at 02/27/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
