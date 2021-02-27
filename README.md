@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/5FJKF_z9Hj-OaDfQBl68azuQp-cOzEjdYYOPHD0yI06Z5GYl9he7-hlexrttn0mWP3k1f0bVET_r9Cg">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/O4GkBizYRGF4Uj25VGmnHvfYOXD3ZQuGXyrM3530D6R-Tg93VujyEJSt2-w9aG3dAbVjkS_1HzMm_fwl0w">](https://music.youtube.com/channel/UClqGyJux0gipUeFnBh-onCQ)
 
-**The Everlasting Guilty Crown**  
-EGOIST  
-Last updated at 02/27/2021 15:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Boku Ga Shinou To Omottanowa**  
+Nakashima Mika(나카시마 미카)  
+Last updated at 02/27/2021 15:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
