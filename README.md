@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HBjCh2sMACQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5nc_ZtjKW1htCVZVRxlQAQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/axYc-NpvZWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx8DEu2k2XGGLyxDcgbHqMA)
 
-**San Holo - Light**  
-MrSuicideSheep  
-Last updated at 02/27/2021 17:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Some Sand**  
+Ibi  
+Last updated at 02/27/2021 17:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
