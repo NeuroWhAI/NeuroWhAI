@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/O4GkBizYRGF4Uj25VGmnHvfYOXD3ZQuGXyrM3530D6R-Tg93VujyEJSt2-w9aG3dAbVjkS_1HzMm_fwl0w">](https://music.youtube.com/channel/UClqGyJux0gipUeFnBh-onCQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/t9UQYzPLuUZQMtPuG21ka3KUH8Oj0H4s_a2kCbGRoaNlPOMR4ZXBMSTHSjC1aGuEwDSEq8c6zDa-heZY">](https://music.youtube.com/channel/UCbc2LRFRwQDa_bSCVObYFKg)
 
-**Boku Ga Shinou To Omottanowa**  
-Nakashima Mika(나카시마 미카)  
-Last updated at 02/27/2021 15:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**ボッカデラベリタ**  
+柊キライ  
+Last updated at 02/27/2021 15:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
