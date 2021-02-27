@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/JLsYZCwpHuoFHxsRuN5ec3InWJz2DcxSwFj30i4yoDU54hT-5pTmPzmdDPTK3Z_1nY-K-4W9fs77-lFPjg">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**衝撃**  
-安藤裕子  
-Last updated at 02/27/2021 15:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Euphoria II**  
+Geoxor  
+Last updated at 02/27/2021 15:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
