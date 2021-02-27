@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/YfrW2D766YA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCs7xEHv9tIfQX1SzhkpWk1Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YJg_fji3Uko/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**Titanium + Alone**  
-J.Fla  
-Last updated at 02/27/2021 17:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Twilight**  
+Geoxor  
+Last updated at 02/27/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
