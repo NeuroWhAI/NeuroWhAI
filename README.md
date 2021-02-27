@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngpM9NM4cEchJswOkyxS3EKiQeJdyQa8sBpXK4L=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UC_ml4nmq6waZSLRDHajbUnA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**DJ OKAWARI feat. Kaori Sawada 「Everything's Alright」**  
-DJ OKAWARI OFFICIAL  
-Last updated at 02/26/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**Itsukatenshininatte Aruiwaaoitorininatte Adam To Eve Ninatte Arienainara**  
+삼월의 판타시아  
+Last updated at 02/27/2021 14:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
