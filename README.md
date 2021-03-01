@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hrC4oVdGShk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC304KabOlVyOtGpdr-d6ocw)
 
-**SEKAI NO OWARI - Dragon Night**  
-세카이노 오와리  
-Last updated at 03/01/2021 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MIDI] The River (Ghosts Of Paraguay) [SC-88Pro]**  
+SomethingUnreal  
+Last updated at 03/01/2021 20:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
