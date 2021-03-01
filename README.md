@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/j3IRIkbjJX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bldyRH_XrOM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtGmulznR7e0KxpEdKu_nqw)
 
-**そらる-人間だった【歌ってみた】**  
-Soraru(소라루)  
-Last updated at 03/01/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**sasakure.UK - Little Cry of The Abyss feat. Asako Toki / 深海のリトルクライ**  
+U/M/A/A Inc.  
+Last updated at 03/01/2021 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
