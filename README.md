@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/0iPoufrpkTOte19HYKnbENehWf0-F0kzUQnG7BOb4vNFSzamIrZYLDtqHMbHDlX9dUQN7bOMy99rlQ">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/6Tfu4kQuO8dl7yFh94tADKD-_anARsd4xmz3SuWIja4J8dY5LZr7vzfpSvGg_pnW5359c33cyiVawa4j">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-**Irony**  
-마지코  
-Last updated at 03/01/2021 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**무릎**  
+아이유(IU)  
+Last updated at 03/01/2021 16:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
