@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hrC4oVdGShk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC304KabOlVyOtGpdr-d6ocw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/BQTCOpLWaPc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCAFC-rgVqpnTdCtI60HHXiQ)
 
-**[MIDI] The River (Ghosts Of Paraguay) [SC-88Pro]**  
-SomethingUnreal  
-Last updated at 03/01/2021 20:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**泣けど喚けど朝がきて/4ma15 feat.重音テト**  
+4ma15  
+Last updated at 03/01/2021 20:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
