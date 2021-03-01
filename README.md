@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/channel/UCT418-ChE6rgGuQlqzFsKZA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
 
-**Nandemonaiya - movie ver.**  
-RADWIMPS(래드윔프스)  
-Last updated at 03/01/2021 15:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Itsukatenshininatte Aruiwaaoitorininatte Adam To Eve Ninatte Arienainara**  
+삼월의 판타시아  
+Last updated at 03/01/2021 15:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
