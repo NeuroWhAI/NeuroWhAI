@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-vJGGYCSKt0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/AImEHXw8kQ8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCErqlFVSB-v_g7tz59BikvQ)
 
-**魔性のカマトト あんず編「痣」**  
-하뉴 마이고  
-Last updated at 03/01/2021 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**『メリュー Meru』【鹿乃(かの)】中日羅字幕**  
+Evening  
+Last updated at 03/01/2021 22:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
