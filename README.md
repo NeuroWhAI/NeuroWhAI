@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/kMlWIFca6B4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yXh__PegCaM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmhtmUBjkXOAetnaDq-XJ1g)
 
-**〔れをる〕　メリュー　〔歌ってみた〕**  
-Reol  
-Last updated at 03/01/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**ずっと、ふたり。90秒スポット [dai(M.Graveyard)×nayuta(7uta.com)]**  
+nayuta  
+Last updated at 03/01/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
