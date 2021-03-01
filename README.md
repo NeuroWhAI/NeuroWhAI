@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/MrBPRaDHGYE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAFC-rgVqpnTdCtI60HHXiQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/h6o3OQsE_0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCV89aKkSPAGAOYkCzgNRfKw)
 
-**深夜高速/重音テト【カバー】**  
-4ma15  
-Last updated at 03/01/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**Inochi ni Kirawarete iru (Hated by life itself) Cover By Umikun**  
+Umikun  
+Last updated at 03/01/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
