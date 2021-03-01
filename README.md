@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/KkF2x0kv_Si-MDoZTIyJGCdlWFvgBHeLIMGZTBIk5ut4PsK042QR60U58eOidIRuXZInNaJhe2hGS5eZ">](https://music.youtube.com/channel/UCXQbmowL6Ln_hRqY58_OH4g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**give it back**  
-코슈니에  
-Last updated at 03/01/2021 16:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**アンドロイドガール**  
+DECO*27  
+Last updated at 03/01/2021 16:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
