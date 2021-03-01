@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/nLJTwsMCCB1WKJvPxPJFyGr85jOei4F1ouoEyivRNiELZmnETxIRtGzY2vdX4Pgemf3-EErQr2_CQI2x">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/povygoHA13Sue9GOrQEArW9xqlkcWrhb-k68mb8b-ojAgG1ce9tvavyU76L4VKgGjMZAKOlFZoVNKr4W">](https://music.youtube.com/channel/UCkY6iS6aXuwSbquSCcDODGQ)
 
-**藍二乗**  
-요루시카  
-Last updated at 03/01/2021 16:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Machigaisagashi**  
+Suda Masaki  
+Last updated at 03/01/2021 16:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
