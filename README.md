@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/TGMRM0FiXzn8AMOvFmtDQJoPaIEs0d8sptO272C9UmkYNL8VUcRApF7eA0m6gbkaV58elX73hRh21--g7g">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/channel/UCT418-ChE6rgGuQlqzFsKZA)
 
-**Hole In The Heart**  
-요루시카  
-Last updated at 03/01/2021 15:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nandemonaiya - movie ver.**  
+RADWIMPS(래드윔프스)  
+Last updated at 03/01/2021 15:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
