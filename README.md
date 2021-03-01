@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/OwqXyH7b7Qv5cUD6Sa73TceATsbxhFaJoqqZZBXeJswKI0M0kuHQHczfFJFLX2P030OTh-tmaVXXUH0">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**ヒッチコック**  
-요루시카  
-Last updated at 03/01/2021 17:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ranshou Seimei**  
+Orangestar  
+Last updated at 03/01/2021 17:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
