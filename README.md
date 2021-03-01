@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/X0RecDmMqIY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCBh2uA8r9Fim4NfnDeaEJCg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Io0E0REHCks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsrc4bUoDouleM4oaQkUnbA)
 
-**【しゃけみー】きみも悪い人でよかった 【歌ってみた。】**  
-nightgrave810  
-Last updated at 03/01/2021 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**ベルセルク / いかさん【歌ってみた】**  
+いかさん / IKASAN - ちゃんねる  
+Last updated at 03/01/2021 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
