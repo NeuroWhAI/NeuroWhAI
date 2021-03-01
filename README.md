@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/TGMRM0FiXzn8AMOvFmtDQJoPaIEs0d8sptO272C9UmkYNL8VUcRApF7eA0m6gbkaV58elX73hRh21--g7g">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/63-2iZJVyq6CvlafOhBcmP0_I1FxlIczzQQmnnj3Q2vYKFPHpqJYhj3iylmSXd2SeVK_GDXzu8Mv0lLqNA">](https://music.youtube.com/channel/UCxW-KiOyle077bsbmV2ssYA)
 
-**Hole In The Heart**  
-요루시카  
-Last updated at 03/01/2021 16:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Crossing Field but is it okay if it's lofi?**  
+Kijugo  
+Last updated at 03/01/2021 16:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
