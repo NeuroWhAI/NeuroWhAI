@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/su0FCBRwVpE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6PeirgIN0O3m2I9hh-inmg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oVGycfDGWzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsyyoo_X8fL4XSn7FVGWEKg)
 
-**Yunomi & nicamoq – インドア系ならトラックメイカー**  
-Airogames  
-Last updated at 03/01/2021 21:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Made in Abyss OST Hanezeve Caradhina - Kevin Penkin （Takeshi Saitou Cover）**  
+SNARE COVER  
+Last updated at 03/01/2021 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
