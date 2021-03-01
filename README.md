@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jQmYZWjLwzw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**Kegarenouta**  
-하뉴 마이고  
-Last updated at 03/01/2021 20:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alice in 冷凍庫**  
+Orangestar  
+Last updated at 03/01/2021 20:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
