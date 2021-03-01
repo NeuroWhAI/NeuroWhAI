@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/BQTCOpLWaPc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCAFC-rgVqpnTdCtI60HHXiQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/oiR-LhbqAC0MBAMhzILyO6rBHzZr8z1NMg-3ByDtL5xQds9-vur-BccER7qf9WsapGEZ6we8d02VjLs3">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
 
-**泣けど喚けど朝がきて/4ma15 feat.重音テト**  
-4ma15  
-Last updated at 03/01/2021 20:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hide-and-Seek**  
+PASSEPIED  
+Last updated at 03/01/2021 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
