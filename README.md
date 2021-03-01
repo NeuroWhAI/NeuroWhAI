@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/oiR-LhbqAC0MBAMhzILyO6rBHzZr8z1NMg-3ByDtL5xQds9-vur-BccER7qf9WsapGEZ6we8d02VjLs3">](https://music.youtube.com/channel/UCe3gbnhf3tesVdTxVyKEIkw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/5PnSMUMjaJjxmCVfYqCbPrJzY9Hm5M-yb3UTEvKroacFdNp-JPvVb-w4hkYwtm5BIFwF6gqotaPuzImr">](https://music.youtube.com/channel/UCkXPlux12UulV4vgSIRpHbw)
 
-**Hide-and-Seek**  
-PASSEPIED  
-Last updated at 03/01/2021 21:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**衝撃**  
+安藤裕子  
+Last updated at 03/01/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
