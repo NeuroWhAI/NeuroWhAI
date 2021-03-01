@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HQnC1UHBvWA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUt2uP6O_UBJp4aBx5KjQjA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OoLPwtrgwzo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXbCo1dYKNceoxUC7rKMjZw)
 
-**Shelter**  
-포터 로빈슨 및 마데온  
-Last updated at 03/01/2021 22:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hanakotoba - Oresuki ED (Ore wo Suki nano wa Omae dake ka yo) - Piano Arrangement [Synthesia]**  
+zzz - Anime on Piano  
+Last updated at 03/01/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
