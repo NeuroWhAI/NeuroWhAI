@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hfQvhc7U09I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiUY2aIMcrM497Mj0xYvfIA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/JLsYZCwpHuoFHxsRuN5ec3InWJz2DcxSwFj30i4yoDU54hT-5pTmPzmdDPTK3Z_1nY-K-4W9fs77-lFPjg">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**진흙 속에 피다 (泥中に咲く) / HarryP｜하츠네 미쿠 【Cover】**  
-XYNSIA 신시아  
-Last updated at 02/27/2021 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Vanilla**  
+Geoxor  
+Last updated at 03/01/2021 15:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
