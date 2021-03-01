@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Io0E0REHCks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsrc4bUoDouleM4oaQkUnbA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/luP_-_usUoE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6ZksUjrxM8LKjA49AbZjXg)
 
-**ベルセルク / いかさん【歌ってみた】**  
-いかさん / IKASAN - ちゃんねる  
-Last updated at 03/01/2021 21:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク - Hatsune Miku Append】Weißer Schnee【Original】**  
+Jrharbort Productions  
+Last updated at 03/01/2021 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
