@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 03/01/2021 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**SEKAI NO OWARI - Dragon Night**  
+세카이노 오와리  
+Last updated at 03/01/2021 20:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
