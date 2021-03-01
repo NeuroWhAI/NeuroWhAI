@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yXh__PegCaM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmhtmUBjkXOAetnaDq-XJ1g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/j3IRIkbjJX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g)
 
-**ずっと、ふたり。90秒スポット [dai(M.Graveyard)×nayuta(7uta.com)]**  
-nayuta  
-Last updated at 03/01/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**そらる-人間だった【歌ってみた】**  
+Soraru(소라루)  
+Last updated at 03/01/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
