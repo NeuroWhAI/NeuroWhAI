@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/TGMRM0FiXzn8AMOvFmtDQJoPaIEs0d8sptO272C9UmkYNL8VUcRApF7eA0m6gbkaV58elX73hRh21--g7g">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Drop Pop Candy(피처링: Giga)**  
-Reol  
-Last updated at 03/01/2021 16:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hole In The Heart**  
+요루시카  
+Last updated at 03/01/2021 16:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
