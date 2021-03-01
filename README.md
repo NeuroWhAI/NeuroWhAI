@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/l6GYkLtRPNw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0ApXvCkGXuXkMVtdEunJrg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bPftoqEeW5E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMVhOB8d67947YmHlrumR4w)
 
-**【初音ミク】ヒカレルサテライト【オリジナルMV付き】**  
-tilt six  
-Last updated at 03/01/2021 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nocturnal**  
+레슬리 와이  
+Last updated at 03/01/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
