@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OoLPwtrgwzo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXbCo1dYKNceoxUC7rKMjZw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-**Hanakotoba - Oresuki ED (Ore wo Suki nano wa Omae dake ka yo) - Piano Arrangement [Synthesia]**  
-zzz - Anime on Piano  
-Last updated at 03/01/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**델리스파이스 - 챠우챠우 (1997年)**  
+pops8090  
+Last updated at 03/01/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
