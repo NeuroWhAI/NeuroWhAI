@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/AImEHXw8kQ8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCErqlFVSB-v_g7tz59BikvQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/A7x3_afcGRQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyfTZv0BO-12O0t-vfLliXg)
 
-**『メリュー Meru』【鹿乃(かの)】中日羅字幕**  
-Evening  
-Last updated at 03/01/2021 22:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**One Punch Man - Sad Main Theme Soundtrack Reorchestrated 【Hereson】**  
+Hereson  
+Last updated at 03/01/2021 22:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
