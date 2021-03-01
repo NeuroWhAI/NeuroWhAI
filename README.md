@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-**アンドロイドガール**  
-DECO*27  
-Last updated at 03/01/2021 16:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**스물다섯, 스물하나**  
+자우림  
+Last updated at 03/01/2021 16:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
