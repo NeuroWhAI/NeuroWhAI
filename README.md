@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/JLsYZCwpHuoFHxsRuN5ec3InWJz2DcxSwFj30i4yoDU54hT-5pTmPzmdDPTK3Z_1nY-K-4W9fs77-lFPjg">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
 
-**DSCF**  
-DECO*27  
-Last updated at 03/01/2021 17:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Vanilla**  
+Geoxor  
+Last updated at 03/01/2021 17:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
