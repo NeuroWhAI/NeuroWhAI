@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/H2_6RfoiYu4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtGmulznR7e0KxpEdKu_nqw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2Yb4AmzHQbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCw_ipiX_370he1SLocfyJ-Q)
 
-**sasakure.UK - to Asteroid B-612 feat. lasah**  
-U/M/A/A Inc.  
-Last updated at 03/01/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Plastic Memories ED Asayake no Starmine （朝焼けのスターマイン） Piano ピアノ HQ**  
+Hiumann  
+Last updated at 03/01/2021 22:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
