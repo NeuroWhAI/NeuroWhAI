@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/F5bIdqZHEOo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
 
-**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
-DECO*27  
-Last updated at 03/01/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**DAOKO 『かけてあげる』Music Video［HD］**  
+DAOKO  
+Last updated at 03/01/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
