@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-**DSCF**  
-DECO*27  
-Last updated at 03/01/2021 16:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**스물다섯, 스물하나**  
+자우림  
+Last updated at 03/01/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
