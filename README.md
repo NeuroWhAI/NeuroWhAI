@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/NzIh9MUv5XuvkKpOiDiP2D_-YcUWDuwhLn0XDpuP0uDMHwlbz26HsGFMQJs_OwQiwx5FmlR3z6e8E5Ab_A">](https://music.youtube.com/channel/UCTmNoI-ROsjfqoI7Bkvop3g)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/x8hb16Qg13_PO-P60AQImfL5oa2Kpn1akIvOFGUVrWWGa9FdEmI2hmZygkKNMokpfy4WpLJMOHumuwkc">](https://music.youtube.com/channel/UCTmhFHWHhM42Lv2OTHPVwaw)
 
-**T-KT**  
-Kayou.  
-Last updated at 03/01/2021 17:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nakedo Wamekedo Asaga Kite(피처링: 重音テト)**  
+12uck  
+Last updated at 03/01/2021 17:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
