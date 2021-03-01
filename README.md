@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/WBMsP83yVO0XWQs3H3psAhGqLULgP_O8YyjzExf9uMA2L6LkXjtEfZQ1Q-ZDFS3r7eNAnt12IuzoVq4">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**Lemon**  
-Kenshi Yonezu(켄시 요네즈/米津 玄師)  
-Last updated at 03/01/2021 17:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**アンドロイドガール**  
+DECO*27  
+Last updated at 03/01/2021 17:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
