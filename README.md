@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/pxhSDZi1iY7B3nWbEgG1ysRfGmWPAs3cg4J94gsUa5L0hZquFzlJM4Coz927MOqq2W9qsPw8NUu7supv">](https://music.youtube.com/channel/UCUUPndfCXVm8-srwV6dzXcg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/OwqXyH7b7Qv5cUD6Sa73TceATsbxhFaJoqqZZBXeJswKI0M0kuHQHczfFJFLX2P030OTh-tmaVXXUH0">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**TOMBOY**  
-HYUKOH  
-Last updated at 03/01/2021 16:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヒッチコック**  
+요루시카  
+Last updated at 03/01/2021 17:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
