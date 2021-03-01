@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/70i9-ExfKdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCI9pAHIWil0NtCHlAIUveKQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jTJUF5rOXBc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**If Interstellar Theme Was A Song? - Hanu Dixit**  
-Hanu Dixit  
-Last updated at 03/01/2021 20:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kegarenouta**  
+하뉴 마이고  
+Last updated at 03/01/2021 20:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
