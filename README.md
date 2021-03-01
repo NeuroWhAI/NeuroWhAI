@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/63-2iZJVyq6CvlafOhBcmP0_I1FxlIczzQQmnnj3Q2vYKFPHpqJYhj3iylmSXd2SeVK_GDXzu8Mv0lLqNA">](https://music.youtube.com/channel/UCxW-KiOyle077bsbmV2ssYA)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/pxhSDZi1iY7B3nWbEgG1ysRfGmWPAs3cg4J94gsUa5L0hZquFzlJM4Coz927MOqq2W9qsPw8NUu7supv">](https://music.youtube.com/channel/UCUUPndfCXVm8-srwV6dzXcg)
 
-**Crossing Field but is it okay if it's lofi?**  
-Kijugo  
-Last updated at 03/01/2021 16:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**TOMBOY**  
+HYUKOH  
+Last updated at 03/01/2021 16:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
