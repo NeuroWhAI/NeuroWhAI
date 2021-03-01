@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6Jo6I1T0azg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCukBv_7AJU7AZHcidF0HIvQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/p_FAIIuBXl8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-**【女性が歌う】ピースサイン/米津玄師『僕のヒーローアカデミア』(Covered by コバソロ & 春茶)(피처링: Kopi, Sin)**  
-Kobasolo(코바솔로)  
-Last updated at 03/01/2021 23:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Crappy Fantasy Days**  
+피노키오P  
+Last updated at 03/01/2021 23:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
