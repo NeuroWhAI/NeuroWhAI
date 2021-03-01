@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/F5bIdqZHEOo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN6CRLFQD6VmYzSE2zsIjyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/mySRjt6BPR0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvULGXb4otGJKFgBaXn3ERA)
 
-**DAOKO 『かけてあげる』Music Video［HD］**  
-DAOKO  
-Last updated at 03/01/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**[Official] ALiCE - seibin | DJMAX RESPECT new song**  
+DJMAX Music Cafe  
+Last updated at 03/01/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
