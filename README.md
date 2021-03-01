@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mySRjt6BPR0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvULGXb4otGJKFgBaXn3ERA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kMlWIFca6B4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A)
 
-**[Official] ALiCE - seibin | DJMAX RESPECT new song**  
-DJMAX Music Cafe  
-Last updated at 03/01/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**〔れをる〕　メリュー　〔歌ってみた〕**  
+Reol  
+Last updated at 03/01/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
