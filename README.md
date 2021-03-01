@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ob_zYBwiap8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzJCX3js4GtKos1uvSLZAog)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EDjYDfRunUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEAh-jw5U5L-Lx2zz0So-Eg)
 
-**[English] ERASED - ED - Sore wa Chiisana Hikari no Yona それは小さな光のような [dj-Jo REMIX feat. JubyPhonic]**  
-jfc13214  
-Last updated at 03/01/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**DECO*27 - 乙女解剖 feat. 初音ミク (TeddyLoid Alllies Remix)**  
+DECO*27  
+Last updated at 03/01/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
