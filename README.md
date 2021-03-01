@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/UXUQKejdYcQXjgOZVk2j3A12MRZUdrUwAwddJoj2C0TIEcM6lNACX2VZiLj5kki5Y-C1fx7B4-MtBtUY">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/e8gMid5aTcJiSyHegEXfH9Lb1g8G9g7pSBPjnX8NuveenWFgwAJIgEpt_m2-A1wJW5ac0GngSEbI9aj4">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-**Eat The Wind**  
-요루시카  
-Last updated at 03/01/2021 17:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**있지**  
+자우림  
+Last updated at 03/01/2021 17:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
