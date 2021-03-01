@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NqHc6MSKuHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdRpSsXLFHwF-L8qOvM9QQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YnwsMEabmSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-**(자막) 아이러니를 불러봤습니다 《 Vocal 카노 》**  
-niemoe factory  
-Last updated at 03/01/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alone**  
+Marshmello(마시멜로)  
+Last updated at 03/01/2021 22:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
