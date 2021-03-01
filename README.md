@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/JLsYZCwpHuoFHxsRuN5ec3InWJz2DcxSwFj30i4yoDU54hT-5pTmPzmdDPTK3Z_1nY-K-4W9fs77-lFPjg">](https://music.youtube.com/channel/UCJHA2F-a3tqfftyUDbIxaDQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/TGMRM0FiXzn8AMOvFmtDQJoPaIEs0d8sptO272C9UmkYNL8VUcRApF7eA0m6gbkaV58elX73hRh21--g7g">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Vanilla**  
-Geoxor  
-Last updated at 03/01/2021 15:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hole In The Heart**  
+요루시카  
+Last updated at 03/01/2021 15:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
