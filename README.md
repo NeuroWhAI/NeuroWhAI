@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/tm7NkfWe2Hc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChZovKPPI2CMGcXNHZh3_KQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IkOK8tdEsFY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxJNNbUFvXrmU2kXltqQGKQ)
 
-**UNI - I'm not a monster (VOCALOID4) [보컬로이드 유니]**  
-WyvernP Official / 와이번P  
-Last updated at 03/01/2021 22:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**Undertale OST: 090 - His Theme**  
+Misaki  
+Last updated at 03/01/2021 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
