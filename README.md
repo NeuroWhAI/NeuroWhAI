@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/h6o3OQsE_0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCV89aKkSPAGAOYkCzgNRfKw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/l6GYkLtRPNw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0ApXvCkGXuXkMVtdEunJrg)
 
-**Inochi ni Kirawarete iru (Hated by life itself) Cover By Umikun**  
-Umikun  
-Last updated at 03/01/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】ヒカレルサテライト【オリジナルMV付き】**  
+tilt six  
+Last updated at 03/01/2021 21:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
