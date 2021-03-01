@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/0iPoufrpkTOte19HYKnbENehWf0-F0kzUQnG7BOb4vNFSzamIrZYLDtqHMbHDlX9dUQN7bOMy99rlQ">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**스물다섯, 스물하나**  
-자우림  
-Last updated at 03/01/2021 16:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Irony**  
+마지코  
+Last updated at 03/01/2021 16:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
