@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f5GIhAIRTTM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7awIdGqyr40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbKvE9QuiumgC-mhm0EQe7Q)
 
-**魔性のカマトト 林檎編 「世界で一番じゃない貴方を愛したら」**  
-하뉴 마이고  
-Last updated at 03/01/2021 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**スーサイドパレヱド**  
+YURRY CANON  
+Last updated at 03/01/2021 20:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
