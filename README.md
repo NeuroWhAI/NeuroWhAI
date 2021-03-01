@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/70i9-ExfKdA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCI9pAHIWil0NtCHlAIUveKQ)
 
-**ピコン - 人間だった ft. 初音ミク**  
-Picon / ピコン OFFICIAL CHANNEL  
-Last updated at 03/01/2021 20:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**If Interstellar Theme Was A Song? - Hanu Dixit**  
+Hanu Dixit  
+Last updated at 03/01/2021 20:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
