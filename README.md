@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
 
-**Itsukatenshininatte Aruiwaaoitorininatte Adam To Eve Ninatte Arienainara**  
-삼월의 판타시아  
-Last updated at 03/01/2021 15:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ranshou Seimei**  
+Orangestar  
+Last updated at 03/01/2021 15:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
