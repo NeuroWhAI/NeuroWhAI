@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/_FJzqf2viKmLtYrwolAIBpGJY7HQCkaDqeJc1klY7PDmxG8NuVtUySbS9fYuvOAdtcCecJ5hqtPrq0I0">](https://music.youtube.com/channel/UChmAdYjOdnnrSA2kBMKdoYw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4n5PNy04oIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA)
 
-**Itsukatenshininatte Aruiwaaoitorininatte Adam To Eve Ninatte Arienainara**  
-삼월의 판타시아  
-Last updated at 03/01/2021 17:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピコン - 人間だった ft. 初音ミク**  
+Picon / ピコン OFFICIAL CHANNEL  
+Last updated at 03/01/2021 20:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
