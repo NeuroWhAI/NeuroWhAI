@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LOKM9Gl3cA4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-vJGGYCSKt0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3Xdsl7MMxbnD-sb3xipi_A)
 
-**みゆはん「ぼくのフレンド」-TVサイズ-（TVアニメ『けものフレンズ』EDテーマ）　MV**  
-Victor Entertainment  
-Last updated at 03/01/2021 22:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**魔性のカマトト あんず編「痣」**  
+하뉴 마이고  
+Last updated at 03/01/2021 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
