@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M">](https://music.youtube.com/channel/UCO-bYObFK_nwA_zSojXbVNg)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/nLJTwsMCCB1WKJvPxPJFyGr85jOei4F1ouoEyivRNiELZmnETxIRtGzY2vdX4Pgemf3-EErQr2_CQI2x">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Drop Pop Candy(피처링: Giga)**  
-Reol  
-Last updated at 03/01/2021 16:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**藍二乗**  
+요루시카  
+Last updated at 03/01/2021 16:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
