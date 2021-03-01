@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/x8hb16Qg13_PO-P60AQImfL5oa2Kpn1akIvOFGUVrWWGa9FdEmI2hmZygkKNMokpfy4WpLJMOHumuwkc">](https://music.youtube.com/channel/UCTmhFHWHhM42Lv2OTHPVwaw)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/WBMsP83yVO0XWQs3H3psAhGqLULgP_O8YyjzExf9uMA2L6LkXjtEfZQ1Q-ZDFS3r7eNAnt12IuzoVq4">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
 
-**Nakedo Wamekedo Asaga Kite(피처링: 重音テト)**  
-12uck  
-Last updated at 03/01/2021 17:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lemon**  
+Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 03/01/2021 17:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
