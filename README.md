@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/UXUQKejdYcQXjgOZVk2j3A12MRZUdrUwAwddJoj2C0TIEcM6lNACX2VZiLj5kki5Y-C1fx7B4-MtBtUY">](https://music.youtube.com/channel/UCabLXblrQG4cO8F9qdd4Xsw)
 
-**Ranshou Seimei**  
-Orangestar  
-Last updated at 03/01/2021 17:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Eat The Wind**  
+요루시카  
+Last updated at 03/01/2021 17:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
