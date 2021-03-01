@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2Yb4AmzHQbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCw_ipiX_370he1SLocfyJ-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LOKM9Gl3cA4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw)
 
-**Plastic Memories ED Asayake no Starmine （朝焼けのスターマイン） Piano ピアノ HQ**  
-Hiumann  
-Last updated at 03/01/2021 22:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**みゆはん「ぼくのフレンド」-TVサイズ-（TVアニメ『けものフレンズ』EDテーマ）　MV**  
+Victor Entertainment  
+Last updated at 03/01/2021 22:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
