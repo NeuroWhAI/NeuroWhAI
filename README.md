@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/auwmjWFje2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6Jo6I1T0azg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCukBv_7AJU7AZHcidF0HIvQ)
 
-**델리스파이스 - 챠우챠우 (1997年)**  
-pops8090  
-Last updated at 03/01/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**【女性が歌う】ピースサイン/米津玄師『僕のヒーローアカデミア』(Covered by コバソロ & 春茶)(피처링: Kopi, Sin)**  
+Kobasolo(코바솔로)  
+Last updated at 03/01/2021 23:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
