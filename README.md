@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">](https://music.youtube.com/channel/UCcLGs-85ASgKuNxNXceBGcQ)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/0iPoufrpkTOte19HYKnbENehWf0-F0kzUQnG7BOb4vNFSzamIrZYLDtqHMbHDlX9dUQN7bOMy99rlQ">](https://music.youtube.com/channel/UC6ALjq4oiVpv9vmL_Cb4Y7g)
 
-**Ranshou Seimei**  
-Orangestar  
-Last updated at 03/01/2021 15:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Irony**  
+마지코  
+Last updated at 03/01/2021 15:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
