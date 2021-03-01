@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oVGycfDGWzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsyyoo_X8fL4XSn7FVGWEKg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/X0RecDmMqIY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCBh2uA8r9Fim4NfnDeaEJCg)
 
-**Made in Abyss OST Hanezeve Caradhina - Kevin Penkin （Takeshi Saitou Cover）**  
-SNARE COVER  
-Last updated at 03/01/2021 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**【しゃけみー】きみも悪い人でよかった 【歌ってみた。】**  
+nightgrave810  
+Last updated at 03/01/2021 21:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
