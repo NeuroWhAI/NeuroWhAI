@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/siXu0rNweHw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=siXu0rNweHw)
 
-**Festival Rush**  
-Lone Alpha  
-Last updated at 03/03/2021 21:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**ayiko - Tashikametai Nukumori feat. @Shokoどん (Official Video)**  
+ayiko  
+Last updated at 03/03/2021 21:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
