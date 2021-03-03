@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/JzsstmHdv4Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JzsstmHdv4Y)
 
-**Bring Me Up**  
+**PSYQUI - Rainbow Dream (feat. Mo∀)**  
 Ryuu Music  
-Last updated at 03/03/2021 22:20 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/03/2021 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
