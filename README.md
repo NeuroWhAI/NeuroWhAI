@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qy9HcGeSKUU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qy9HcGeSKUU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kqWhrfLMB_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kqWhrfLMB_o)
 
-**[Audio] Teci, Kyojaku, R1cefarm - Gomenne (feat.１くURA。)**  
-R1cefarm  
-Last updated at 03/03/2021 22:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Trigger(피처링: Such)**  
+hyleo  
+Last updated at 03/03/2021 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
