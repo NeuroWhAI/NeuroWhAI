@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=brlDURTXxGM)
 
-**Redemption**  
-awfuless  
-Last updated at 03/03/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snail's House - Hot Milk (Lone Alpha Remix)**  
+Lone Alpha  
+Last updated at 03/03/2021 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
