@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HpdG0LIcuIg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HpdG0LIcuIg)
 
-**Dawn(피처링: Such)**  
-Andora  
-Last updated at 03/03/2021 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Acro & UgokuBall - Journey**  
+Ryuu Music  
+Last updated at 03/03/2021 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
