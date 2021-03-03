@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fvUxlXhRa2k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fvUxlXhRa2k)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6-unh_ps7Ew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6-unh_ps7Ew)
 
-**uncalc - samidare!**  
-Ryuu Music  
-Last updated at 03/03/2021 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Erased ED: それは小さな光のような feat. k*chan [ dj-Jo Remix ] Full Version**  
+dj-Jo  
+Last updated at 03/03/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
