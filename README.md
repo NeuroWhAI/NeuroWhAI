@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/JIUr4PhqDlI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JIUr4PhqDlI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
 
-**Hype (sky_delta Remix)(피처링: Such)**  
-PSYQUI  
-Last updated at 03/03/2021 21:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Festival Rush**  
+Lone Alpha  
+Last updated at 03/03/2021 21:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
