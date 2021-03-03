@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HpdG0LIcuIg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HpdG0LIcuIg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qHJU0Dy2JbY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qHJU0Dy2JbY)
 
-**Acro & UgokuBall - Journey**  
-Ryuu Music  
-Last updated at 03/03/2021 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**SoLush & Karmadylo - Your Love (feat. OweO) (SHIWV Remix) ♪**  
+StarlingEDM  
+Last updated at 03/03/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
