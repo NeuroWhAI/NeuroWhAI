@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NwamxTVhlaI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NwamxTVhlaI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KnRD8Tor-_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KnRD8Tor-_w)
 
-**Inner(피처링: MYLK)**  
-Fusq  
-Last updated at 03/03/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**eleline△ - Koto no Town**  
+Ryuu Music  
+Last updated at 03/03/2021 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
