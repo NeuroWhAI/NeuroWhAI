@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/siXu0rNweHw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=siXu0rNweHw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
 
-**ayiko - Tashikametai Nukumori feat. @Shokoどん (Official Video)**  
-ayiko  
-Last updated at 03/03/2021 21:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Redemption**  
+awfuless  
+Last updated at 03/03/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
