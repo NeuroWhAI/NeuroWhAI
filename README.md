@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6-unh_ps7Ew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6-unh_ps7Ew)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fE_spqJTU6k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fE_spqJTU6k)
 
-**Erased ED: それは小さな光のような feat. k*chan [ dj-Jo Remix ] Full Version**  
-dj-Jo  
-Last updated at 03/03/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hyper Potions, Synthion & MYLK - Maboroshi (w/ Lyrics)**  
+하이퍼 포션  
+Last updated at 03/03/2021 22:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
