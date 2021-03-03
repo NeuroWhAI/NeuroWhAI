@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/woZjnUxW05o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=woZjnUxW05o)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IsGC686R34U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IsGC686R34U)
 
-**Kodokushi**  
-Mihka! & Kyoto Black  
-Last updated at 03/03/2021 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**PSYQUI - Vital Error**  
+Ryuu Music  
+Last updated at 03/03/2021 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
