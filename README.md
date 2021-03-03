@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/p_FAIIuBXl8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vZZzYpRjhpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vZZzYpRjhpo)
 
-**Crappy Fantasy Days**  
-피노키오P  
-Last updated at 03/01/2021 23:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Don't you Want Me (Mameyudoufu Remix)(피처링: Such)**  
+PSYQUI  
+Last updated at 03/03/2021 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
