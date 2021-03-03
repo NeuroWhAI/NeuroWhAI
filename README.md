@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0xkWina6a5Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xkWina6a5Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
 
-**Sunset Tea Cup**  
-YUC'e  
-Last updated at 03/03/2021 22:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bring Me Up**  
+Ryuu Music  
+Last updated at 03/03/2021 22:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
