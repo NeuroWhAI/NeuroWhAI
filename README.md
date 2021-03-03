@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/JzsstmHdv4Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JzsstmHdv4Y)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NwamxTVhlaI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NwamxTVhlaI)
 
-**PSYQUI - Rainbow Dream (feat. Mo∀)**  
-Ryuu Music  
-Last updated at 03/03/2021 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Inner(피처링: MYLK)**  
+Fusq  
+Last updated at 03/03/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
