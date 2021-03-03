@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fE_spqJTU6k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fE_spqJTU6k)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qy9HcGeSKUU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qy9HcGeSKUU)
 
-**Hyper Potions, Synthion & MYLK - Maboroshi (w/ Lyrics)**  
-하이퍼 포션  
-Last updated at 03/03/2021 22:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**[Audio] Teci, Kyojaku, R1cefarm - Gomenne (feat.１くURA。)**  
+R1cefarm  
+Last updated at 03/03/2021 22:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
