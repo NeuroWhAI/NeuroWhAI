@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vZZzYpRjhpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vZZzYpRjhpo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
 
-**Don't you Want Me (Mameyudoufu Remix)(피처링: Such)**  
-PSYQUI  
-Last updated at 03/03/2021 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mend your ways(피처링: PSYQUI)**  
+Such  
+Last updated at 03/03/2021 21:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
