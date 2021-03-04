@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hln51dz0Kl4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hln51dz0Kl4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OAbPh8gqE_w)
 
-**Loop (feat. WaMi) / Official Video**  
+**SCALE BLASTER(피처링: 하츠네 미쿠)**  
 雄之助  
-Last updated at 03/04/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/04/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
