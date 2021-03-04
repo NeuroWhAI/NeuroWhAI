@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/JCaFr-3skQA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JCaFr-3skQA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ZPZ2xh77ck4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZPZ2xh77ck4)
 
-**Butterfly Wings**  
-Couple N  
-Last updated at 03/04/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kirara Magic - Magic Shop**  
+Firefly Music  
+Last updated at 03/04/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
