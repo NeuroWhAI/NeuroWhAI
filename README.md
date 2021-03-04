@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rEogBknt3HQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rEogBknt3HQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0A9ARIPxMZo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0A9ARIPxMZo)
 
-**【田口淳之介】ナーヴ・インパルス踊ってみた【オリジナル振付】**  
-다구치 준노스케  
-Last updated at 03/04/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Holon**  
+wotaku  
+Last updated at 03/04/2021 21:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
