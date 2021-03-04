@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OAbPh8gqE_w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U0bTlwXLUmM)
 
-**SCALE BLASTER(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/04/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**Reunion (はるまきごはんVocal ver.)**  
+하루마키고한  
+Last updated at 03/04/2021 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
