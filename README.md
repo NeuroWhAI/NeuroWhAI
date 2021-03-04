@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wv2P0PLz9fw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wv2P0PLz9fw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0c9958OoTL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0c9958OoTL8)
 
-**DECO*27 - おじゃま虫 feat.初音ミク**  
-DECO*27  
-Last updated at 03/04/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**キライ・キライ・ジガヒダイ！**  
+쿠라게P  
+Last updated at 03/04/2021 21:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
