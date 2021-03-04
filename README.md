@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/R3taKTitPvM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=R3taKTitPvM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/JCaFr-3skQA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JCaFr-3skQA)
 
-**Quarantine?(피처링: Project Skylate)**  
-Kyotokonkon  
-Last updated at 03/04/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Butterfly Wings**  
+Couple N  
+Last updated at 03/04/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
