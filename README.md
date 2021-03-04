@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/R3taKTitPvM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=R3taKTitPvM)
 
-**Dawn(피처링: Such)**  
-Andora  
-Last updated at 03/04/2021 20:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**Quarantine?(피처링: Project Skylate)**  
+Kyotokonkon  
+Last updated at 03/04/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
