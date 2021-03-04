@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wzmo6vVyHXI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wzmo6vVyHXI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-HvJD2vYeM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-HvJD2vYeM)
 
-**Lone Alpha - Make Up Your Mind (feat. TOFIE) ♪**  
-Starling  
-Last updated at 03/04/2021 19:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ruxxi X Yuura - Love is (TsukiMioku Remix)**  
+Ryuu Music  
+Last updated at 03/04/2021 20:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
