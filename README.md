@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hln51dz0Kl4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hln51dz0Kl4)
 
-**MASEraaaN - Dojicco**  
-Ryuu Music  
-Last updated at 03/04/2021 20:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loop (feat. WaMi) / Official Video**  
+雄之助  
+Last updated at 03/04/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
