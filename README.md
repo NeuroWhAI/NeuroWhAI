@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/we-blZ_myF0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=we-blZ_myF0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
 
-**RUQOA - Romantic Travel**  
-Firefly Music  
-Last updated at 03/04/2021 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bring Me Up**  
+Ryuu Music  
+Last updated at 03/04/2021 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
