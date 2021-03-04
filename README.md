@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0c9958OoTL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0c9958OoTL8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FHu6WhvH6vs)
 
-**キライ・キライ・ジガヒダイ！**  
-쿠라게P  
-Last updated at 03/04/2021 21:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**翡翠のまち**  
+sana  
+Last updated at 03/04/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
