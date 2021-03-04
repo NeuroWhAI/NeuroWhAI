@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IWbOiOg_lro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IWbOiOg_lro)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wzmo6vVyHXI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wzmo6vVyHXI)
 
-**Nasty * Nasty * Spell**  
-카메리아  
-Last updated at 03/03/2021 22:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lone Alpha - Make Up Your Mind (feat. TOFIE) ♪**  
+Starling  
+Last updated at 03/04/2021 19:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
