@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OGh_D8YdIik/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OGh_D8YdIik)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kKR3ZWU14X4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kKR3ZWU14X4)
 
-**Runaways**  
-Moon Jelly, Mihony 및 Stavensuniverse  
-Last updated at 03/04/2021 20:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Claires クレア - Evening Sky**  
+Firefly Music  
+Last updated at 03/04/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
