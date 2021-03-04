@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/crCS77wqxTI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=crCS77wqxTI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rEogBknt3HQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rEogBknt3HQ)
 
-**Forward**  
-R Sound Design  
-Last updated at 03/04/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**【田口淳之介】ナーヴ・インパルス踊ってみた【オリジナル振付】**  
+다구치 준노스케  
+Last updated at 03/04/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
