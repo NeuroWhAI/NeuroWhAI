@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0-elOKKQOyU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0-elOKKQOyU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/iaPvRRGv0n8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iaPvRRGv0n8)
 
-**Snail's House - Sunday (yuigot Remix)**  
+**Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (daehan remix)**  
 Ryuu Music  
-Last updated at 03/04/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/04/2021 20:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
