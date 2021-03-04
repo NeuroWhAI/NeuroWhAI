@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/kKR3ZWU14X4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kKR3ZWU14X4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5pRJUNZqYV0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5pRJUNZqYV0)
 
-**Claires クレア - Evening Sky**  
-Firefly Music  
-Last updated at 03/04/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Couple N & Yonetro - Heart Galaxy**  
+Couple N  
+Last updated at 03/04/2021 20:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
