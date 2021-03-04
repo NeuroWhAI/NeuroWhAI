@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Qcm35mZqyc8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qcm35mZqyc8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
 
-**Start Up feat. Such**  
-PSYQUI  
-Last updated at 03/04/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**MASEraaaN - Dojicco**  
+Ryuu Music  
+Last updated at 03/04/2021 20:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
