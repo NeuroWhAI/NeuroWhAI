@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FHu6WhvH6vs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FHu6WhvH6vs)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
 
-**翡翠のまち**  
-sana  
-Last updated at 03/04/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**ピノキオピー - リアルにぶっとばす feat. 初音ミク / KICK-ASS *LITERALLY**  
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
+Last updated at 03/05/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
