@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-HvJD2vYeM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-HvJD2vYeM)
 
-**Dawn(피처링: Such)**  
-Andora  
-Last updated at 03/05/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ruxxi X Yuura - Love is (TsukiMioku Remix)**  
+Ryuu Music  
+Last updated at 03/05/2021 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
