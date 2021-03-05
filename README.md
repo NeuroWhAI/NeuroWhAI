@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2sh0ENwPGXw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2sh0ENwPGXw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VGh5DV0D3wk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VGh5DV0D3wk)
 
-**Upgrade**  
-Savant  
-Last updated at 03/05/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Final Boss**  
+Monstercat Uncaged  
+Last updated at 03/05/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
