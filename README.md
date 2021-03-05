@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mb6G53mL4xY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mb6G53mL4xY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
 
-**YOASOBI - Racing Into The Night [夜に駆ける] (Lone Alpha Remix)**  
-Lone Alpha  
-Last updated at 03/05/2021 21:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dawn(피처링: Such)**  
+Andora  
+Last updated at 03/05/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
