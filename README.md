@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/9IZpsi9I8kU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9IZpsi9I8kU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2sh0ENwPGXw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2sh0ENwPGXw)
 
-**Paradigm**  
-레슬리 와이  
-Last updated at 03/05/2021 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Upgrade**  
+Savant  
+Last updated at 03/05/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
