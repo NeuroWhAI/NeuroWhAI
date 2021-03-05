@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vApmlsYX68o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vApmlsYX68o)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Wh4E5avp_ho/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Wh4E5avp_ho)
 
-**Uh La La**  
-XIX  
-Last updated at 03/05/2021 21:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Suedo - Blind Love (Instrumental Version)**  
+Epidemic POP  
+Last updated at 03/05/2021 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
