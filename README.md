@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oklzVH8FfVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=oklzVH8FfVQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
 
-**Virtual**  
-Geoxor  
-Last updated at 03/05/2021 21:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pixel Galaxy**  
+우지코  
+Last updated at 03/05/2021 21:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
