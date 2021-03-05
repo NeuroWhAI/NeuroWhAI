@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/toJTccOUW5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=toJTccOUW5g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bNb8P-G9fcM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bNb8P-G9fcM)
 
-**Lauv - I Like Me Better (Paul Gannon Bootleg)**  
-Bounce & Bass  
-Last updated at 03/05/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Oceans(피처링: Sarah Bodle)**  
+타이론 하피  
+Last updated at 03/05/2021 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
