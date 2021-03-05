@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TsNc66xsF1o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=TsNc66xsF1o)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/toJTccOUW5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=toJTccOUW5g)
 
-**Nana**  
-Geoxor  
-Last updated at 03/05/2021 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lauv - I Like Me Better (Paul Gannon Bootleg)**  
+Bounce & Bass  
+Last updated at 03/05/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
