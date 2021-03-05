@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LUwi7ueL7Sw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LUwi7ueL7Sw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/l6GYkLtRPNw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=l6GYkLtRPNw)
 
-**Phuture Mafia - Undisclosed Desire (TwoNotty Remix) (Car Music Bass Boosted)**  
-Infinity Club  
-Last updated at 03/05/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**【初音ミク】ヒカレルサテライト【オリジナルMV付き】(피처링: 하츠네 미쿠)**  
+tilt-six  
+Last updated at 03/05/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
