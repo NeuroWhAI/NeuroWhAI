@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bNb8P-G9fcM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bNb8P-G9fcM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/r-PC4L66pGw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=r-PC4L66pGw)
 
-**Oceans(피처링: Sarah Bodle)**  
-타이론 하피  
-Last updated at 03/05/2021 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**Take My Hand**  
+판다 아이즈 및 Azuria Sky  
+Last updated at 03/05/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
