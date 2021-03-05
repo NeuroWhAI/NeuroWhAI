@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwngL2ImN04nhs0O9KL2ODMLRV916UywzzQwCsxIvpw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCMMBGMjrrWcRZmG_lW4jC-Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vApmlsYX68o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vApmlsYX68o)
 
-**ピノキオピー - リアルにぶっとばす feat. 初音ミク / KICK-ASS *LITERALLY**  
-ピノキオピー PINOCCHIOP OFFICIAL CHANNEL  
-Last updated at 03/05/2021 19:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Uh La La**  
+XIX  
+Last updated at 03/05/2021 21:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
