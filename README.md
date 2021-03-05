@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/r-PC4L66pGw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=r-PC4L66pGw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DIIejZVRKgw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=DIIejZVRKgw)
 
-**Take My Hand**  
-판다 아이즈 및 Azuria Sky  
-Last updated at 03/05/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**New Game**  
+Nitro Fun  
+Last updated at 03/05/2021 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
