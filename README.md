@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/06d8SwcSm_Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=06d8SwcSm_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/wzmo6vVyHXI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wzmo6vVyHXI)
 
-**kz(livetune) × 八王子P feat. 初音ミク「Weekender Girl」Music Video Version**  
-하치오지P  
-Last updated at 03/05/2021 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lone Alpha - Make Up Your Mind (feat. TOFIE) ♪**  
+Starling  
+Last updated at 03/05/2021 21:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
