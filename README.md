@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hUs0-gqBulQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hUs0-gqBulQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gnZXoRb--z4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gnZXoRb--z4)
 
-**Geoxor - Moonlight (Official Performance Video)**  
-Geoxor  
-Last updated at 03/05/2021 22:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Holystone**  
+Phantom Sage  
+Last updated at 03/05/2021 22:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
