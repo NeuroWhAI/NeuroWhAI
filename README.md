@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VGh5DV0D3wk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VGh5DV0D3wk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hUs0-gqBulQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hUs0-gqBulQ)
 
-**Final Boss**  
-Monstercat Uncaged  
-Last updated at 03/05/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geoxor - Moonlight (Official Performance Video)**  
+Geoxor  
+Last updated at 03/05/2021 22:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
