@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=brlDURTXxGM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/9IZpsi9I8kU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9IZpsi9I8kU)
 
-**Snail's House - Hot Milk (Lone Alpha Remix)**  
-Lone Alpha  
-Last updated at 03/05/2021 21:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**Paradigm**  
+레슬리 와이  
+Last updated at 03/05/2021 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
