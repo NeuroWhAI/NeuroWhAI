@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Wh4E5avp_ho/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Wh4E5avp_ho)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LUwi7ueL7Sw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LUwi7ueL7Sw)
 
-**Suedo - Blind Love (Instrumental Version)**  
-Epidemic POP  
-Last updated at 03/05/2021 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**Phuture Mafia - Undisclosed Desire (TwoNotty Remix) (Car Music Bass Boosted)**  
+Infinity Club  
+Last updated at 03/05/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
