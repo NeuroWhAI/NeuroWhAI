@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-HvJD2vYeM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-HvJD2vYeM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/iaPvRRGv0n8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iaPvRRGv0n8)
 
-**Ruxxi X Yuura - Love is (TsukiMioku Remix)**  
+**Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (daehan remix)**  
 Ryuu Music  
-Last updated at 03/05/2021 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/05/2021 21:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
