@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eFEqEZf6v2A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eFEqEZf6v2A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nIrYjzHAEp0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nIrYjzHAEp0)
 
-**All Alone With You - EGOIST ( Cover ) / VESPERBELL ヨミ**  
-VESPERBELL  
-Last updated at 03/06/2021 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**My Dearest**  
+supercell  
+Last updated at 03/06/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
