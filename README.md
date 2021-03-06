@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7UWbgnDIT_Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7UWbgnDIT_Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0BajyYAiIDk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0BajyYAiIDk)
 
-**Getty - Revolt [Official Audio]**  
-Getty  
-Last updated at 03/07/2021 00:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lolipop Mode**  
+MASEraaaN  
+Last updated at 03/07/2021 00:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
