@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rLCVjxtmR0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rLCVjxtmR0g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eTO7i_GEUpI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eTO7i_GEUpI)
 
-**Happiness**  
-KUWAGO  
-Last updated at 03/06/2021 19:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**outsider**  
+yanaginagi  
+Last updated at 03/06/2021 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
