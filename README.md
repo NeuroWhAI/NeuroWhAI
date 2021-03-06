@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/dqu9_ZLoXpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dqu9_ZLoXpc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hEAzoHuF7kg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hEAzoHuF7kg)
 
-**SHIWV - Mochi ♪**  
-Starling  
-Last updated at 03/06/2021 19:19 with [20chan/github-now](https://github.com/20chan/github-now)
+**Author wind - Cute step**  
+Ryuu Music  
+Last updated at 03/06/2021 19:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
