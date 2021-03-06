@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Qp-Gse2lfWQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qp-Gse2lfWQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IXbg72Owqz4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IXbg72Owqz4)
 
-**All I want**  
-awfuless  
-Last updated at 03/07/2021 00:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**【MV VOCALOID】トマヨイ Spacelectro feat.結月ゆかり(피처링: 유즈키 유카리)**  
+Spacelectro  
+Last updated at 03/07/2021 00:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
