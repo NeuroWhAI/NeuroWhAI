@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cuo96QhZH2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cuo96QhZH2U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rLCVjxtmR0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rLCVjxtmR0g)
 
-**Showtime**  
-Kirara Magic  
-Last updated at 03/06/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Happiness**  
+KUWAGO  
+Last updated at 03/06/2021 19:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
