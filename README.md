@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Qp-Gse2lfWQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qp-Gse2lfWQ)
 
-**MASEraaaN - Dojicco**  
-Ryuu Music  
-Last updated at 03/07/2021 00:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**All I want**  
+awfuless  
+Last updated at 03/07/2021 00:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
