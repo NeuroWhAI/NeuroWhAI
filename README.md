@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/W6a1C1ojzH0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=W6a1C1ojzH0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IWbOiOg_lro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IWbOiOg_lro)
 
-**Big Daddy**  
-USAO  
-Last updated at 03/07/2021 00:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nasty * Nasty * Spell**  
+카메리아  
+Last updated at 03/07/2021 00:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
