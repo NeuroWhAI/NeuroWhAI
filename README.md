@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7lH7csKBnzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7lH7csKBnzY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jECVRY6yS1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jECVRY6yS1s)
 
-**Lia / 一番の宝物【OFFICIAL MUSIC VIDEO】**  
-1st PLACE  
-Last updated at 03/06/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dokuaku**  
+Sakamoto Maaya  
+Last updated at 03/06/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
