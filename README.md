@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gF1z2e4fbMs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gF1z2e4fbMs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ZXJlZ5UzXf0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZXJlZ5UzXf0)
 
-**【Electro House】Sefaro & Synthion - Galactic || ♫♫♫**  
-Firefly Music  
-Last updated at 03/06/2021 19:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**Campfire**  
+Declan DP  
+Last updated at 03/06/2021 19:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
