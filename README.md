@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/z6ZJhzeqFK0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=z6ZJhzeqFK0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
 
-**In The Move**  
-Getty  
-Last updated at 03/06/2021 23:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Redemption**  
+awfuless  
+Last updated at 03/07/2021 00:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
