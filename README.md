@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hEAzoHuF7kg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hEAzoHuF7kg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/9NNy39vj-Wo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9NNy39vj-Wo)
 
-**Author wind - Cute step**  
-Ryuu Music  
-Last updated at 03/06/2021 19:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Electro House】LOIS (ㆁvㆁ) - Spotlight || ♫♫♫**  
+Firefly Music  
+Last updated at 03/06/2021 19:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
