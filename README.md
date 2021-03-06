@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nIrYjzHAEp0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nIrYjzHAEp0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Sw1Flgub9s8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Sw1Flgub9s8)
 
-**My Dearest**  
-supercell  
-Last updated at 03/06/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Spring Thief**  
+Yorushika(ヨルシカ)  
+Last updated at 03/06/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
