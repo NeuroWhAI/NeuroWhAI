@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/mb6G53mL4xY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mb6G53mL4xY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cuo96QhZH2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cuo96QhZH2U)
 
-**YOASOBI - Racing Into The Night [夜に駆ける] (Lone Alpha Remix)**  
-Lone Alpha  
-Last updated at 03/06/2021 19:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**Showtime**  
+Kirara Magic  
+Last updated at 03/06/2021 19:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
