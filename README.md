@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/x-W29j6f1Gs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=x-W29j6f1Gs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/592EOBwWnFY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=592EOBwWnFY)
 
-**Forever**  
-PIKASONIC  
-Last updated at 03/06/2021 19:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**Closki - Rosy**  
+Ryuu Music  
+Last updated at 03/06/2021 19:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
