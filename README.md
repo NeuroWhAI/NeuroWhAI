@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7UWbgnDIT_Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7UWbgnDIT_Q)
 
-**Redemption**  
-awfuless  
-Last updated at 03/07/2021 00:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Getty - Revolt [Official Audio]**  
+Getty  
+Last updated at 03/07/2021 00:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
