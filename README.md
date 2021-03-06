@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/L17njonbcT0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=L17njonbcT0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gF1z2e4fbMs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gF1z2e4fbMs)
 
-**Lanterns**  
-Xomu  
-Last updated at 03/06/2021 19:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**【Electro House】Sefaro & Synthion - Galactic || ♫♫♫**  
+Firefly Music  
+Last updated at 03/06/2021 19:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
