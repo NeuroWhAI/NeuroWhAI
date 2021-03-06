@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/g7bDC7NTibs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=g7bDC7NTibs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Uig9poGUsrA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Uig9poGUsrA)
 
-**Heliotrope**  
-Yourness  
-Last updated at 03/06/2021 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**Multitalents**  
+PSYQUI  
+Last updated at 03/06/2021 23:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
