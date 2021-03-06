@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VgLgxis5qVE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VgLgxis5qVE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/AqDGSiCabVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AqDGSiCabVQ)
 
-**Sonic Bass**  
-Getty  
-Last updated at 03/06/2021 23:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Camellia - PLANET//SHAPER (from album PLANET//SHAPER)**  
+카메리아  
+Last updated at 03/06/2021 23:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
