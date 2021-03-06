@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jECVRY6yS1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jECVRY6yS1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t8vB1Xfj00E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=t8vB1Xfj00E)
 
-**Dokuaku**  
-Sakamoto Maaya  
-Last updated at 03/06/2021 20:33 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lia / 君の知らない物語【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 03/06/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
