@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eTO7i_GEUpI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eTO7i_GEUpI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7lH7csKBnzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7lH7csKBnzY)
 
-**outsider**  
-yanaginagi  
-Last updated at 03/06/2021 20:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lia / 一番の宝物【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 03/06/2021 20:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
