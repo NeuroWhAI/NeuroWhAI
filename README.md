@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/O6XYVRnixWU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=O6XYVRnixWU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/g7bDC7NTibs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=g7bDC7NTibs)
 
-**LOVE&ROLL - supercell ( Cover ) / VESPERBELL カスカ**  
-VESPERBELL  
-Last updated at 03/06/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
+**Heliotrope**  
+Yourness  
+Last updated at 03/06/2021 21:09 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
