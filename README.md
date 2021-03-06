@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Sw1Flgub9s8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Sw1Flgub9s8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ByXoo3ZnKSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ByXoo3ZnKSo)
 
-**Spring Thief**  
-Yorushika(ヨルシカ)  
-Last updated at 03/06/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**晴天前夜**  
+ウォルピスカーター  
+Last updated at 03/06/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
