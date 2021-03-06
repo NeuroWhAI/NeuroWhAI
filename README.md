@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t8vB1Xfj00E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=t8vB1Xfj00E)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eFEqEZf6v2A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eFEqEZf6v2A)
 
-**Lia / 君の知らない物語【OFFICIAL MUSIC VIDEO】**  
-1st PLACE  
-Last updated at 03/06/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**All Alone With You - EGOIST ( Cover ) / VESPERBELL ヨミ**  
+VESPERBELL  
+Last updated at 03/06/2021 20:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
