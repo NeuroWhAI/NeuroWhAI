@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ByXoo3ZnKSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ByXoo3ZnKSo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/O6XYVRnixWU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=O6XYVRnixWU)
 
-**晴天前夜**  
-ウォルピスカーター  
-Last updated at 03/06/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**LOVE&ROLL - supercell ( Cover ) / VESPERBELL カスカ**  
+VESPERBELL  
+Last updated at 03/06/2021 21:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
