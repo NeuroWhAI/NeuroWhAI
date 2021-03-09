@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uPe_YdQEayY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uPe_YdQEayY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fvUxlXhRa2k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fvUxlXhRa2k)
 
-**MASEraaaN - Akanegumo (Reku Mochizuki Remix)**  
+**uncalc - samidare!**  
 Ryuu Music  
-Last updated at 03/09/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/09/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
