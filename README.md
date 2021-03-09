@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fvUxlXhRa2k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fvUxlXhRa2k)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/zPwIosa0eOU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zPwIosa0eOU)
 
-**uncalc - samidare!**  
-Ryuu Music  
-Last updated at 03/09/2021 21:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**BB Yukus - Liftoff**  
+Firefly Music  
+Last updated at 03/09/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
