@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IXbg72Owqz4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IXbg72Owqz4)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**【MV VOCALOID】トマヨイ Spacelectro feat.結月ゆかり(피처링: 유즈키 유카리)**  
-Spacelectro  
-Last updated at 03/07/2021 00:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヴァンパイア feat. 初音ミク**  
+DECO*27  
+Last updated at 03/09/2021 19:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
