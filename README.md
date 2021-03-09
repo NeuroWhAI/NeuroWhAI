@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/zPwIosa0eOU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zPwIosa0eOU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=brlDURTXxGM)
 
-**BB Yukus - Liftoff**  
-Firefly Music  
-Last updated at 03/09/2021 21:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snail's House - Hot Milk (Lone Alpha Remix)**  
+Lone Alpha  
+Last updated at 03/09/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
