@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/u1GdQ3IqbqA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=u1GdQ3IqbqA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NuU-TFWUnIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NuU-TFWUnIs)
 
-**Getty - U And Me (Official Audio)**  
-Getty  
-Last updated at 03/09/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Syui - Virtual Rush**  
+Firefly Music  
+Last updated at 03/09/2021 22:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
