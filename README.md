@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rLCVjxtmR0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rLCVjxtmR0g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/og7Q9YftHic/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=og7Q9YftHic)
 
-**Happiness**  
-KUWAGO  
-Last updated at 03/09/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snail's House - Ramune (Lone Alpha Remix)**  
+Lone Alpha  
+Last updated at 03/09/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
