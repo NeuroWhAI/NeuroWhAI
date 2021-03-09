@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NAaOowx9lZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NAaOowx9lZs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HpdG0LIcuIg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HpdG0LIcuIg)
 
-**Dream**  
-KUWAGO  
-Last updated at 03/09/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**Acro & UgokuBall - Journey**  
+Ryuu Music  
+Last updated at 03/09/2021 22:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
