@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=brlDURTXxGM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rLCVjxtmR0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rLCVjxtmR0g)
 
-**Snail's House - Hot Milk (Lone Alpha Remix)**  
-Lone Alpha  
-Last updated at 03/09/2021 21:57 with [20chan/github-now](https://github.com/20chan/github-now)
+**Happiness**  
+KUWAGO  
+Last updated at 03/09/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
