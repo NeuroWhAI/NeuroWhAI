@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NuU-TFWUnIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NuU-TFWUnIs)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**Syui - Virtual Rush**  
-Firefly Music  
-Last updated at 03/09/2021 22:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**恋距離遠愛**  
+DECO*27  
+Last updated at 03/09/2021 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
