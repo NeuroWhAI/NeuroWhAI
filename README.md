@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/u1GdQ3IqbqA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=u1GdQ3IqbqA)
 
-**MASEraaaN - Dojicco**  
-Ryuu Music  
-Last updated at 03/09/2021 22:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Getty - U And Me (Official Audio)**  
+Getty  
+Last updated at 03/09/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
