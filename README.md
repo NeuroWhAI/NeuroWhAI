@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gF1z2e4fbMs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gF1z2e4fbMs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uPe_YdQEayY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uPe_YdQEayY)
 
-**【Electro House】Sefaro & Synthion - Galactic || ♫♫♫**  
-Firefly Music  
-Last updated at 03/09/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**MASEraaaN - Akanegumo (Reku Mochizuki Remix)**  
+Ryuu Music  
+Last updated at 03/09/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
