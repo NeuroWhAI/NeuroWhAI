@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LHrcHMmoRsc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LHrcHMmoRsc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
 
-**Concentration**  
-PSYQUI  
-Last updated at 03/10/2021 20:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**Redemption**  
+awfuless  
+Last updated at 03/10/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
