@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IsGC686R34U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IsGC686R34U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IWbOiOg_lro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IWbOiOg_lro)
 
-**PSYQUI - Vital Error**  
-Ryuu Music  
-Last updated at 03/10/2021 22:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nasty * Nasty * Spell**  
+카메리아  
+Last updated at 03/10/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
