@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DptxummxCd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=DptxummxCd0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-HvJD2vYeM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-HvJD2vYeM)
 
-**Extra Mode**  
-USAO  
-Last updated at 03/10/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ruxxi X Yuura - Love is (TsukiMioku Remix)**  
+Ryuu Music  
+Last updated at 03/10/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
