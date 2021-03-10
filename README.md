@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f9oLoeR93m8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f9oLoeR93m8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
 
-**Lone Alpha - Showtime**  
-Ryuu Music  
-Last updated at 03/10/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mend your ways(피처링: PSYQUI)**  
+Such  
+Last updated at 03/10/2021 22:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
