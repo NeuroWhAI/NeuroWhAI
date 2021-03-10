@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qWQxgdg-CLM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qWQxgdg-CLM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HpdG0LIcuIg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HpdG0LIcuIg)
 
-**Splash 2**  
-Kenneyon  
-Last updated at 03/10/2021 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Acro & UgokuBall - Journey**  
+Ryuu Music  
+Last updated at 03/10/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
