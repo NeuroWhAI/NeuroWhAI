@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/kqWhrfLMB_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kqWhrfLMB_o)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f9oLoeR93m8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f9oLoeR93m8)
 
-**Trigger(피처링: Such)**  
-hyleo  
-Last updated at 03/10/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lone Alpha - Showtime**  
+Ryuu Music  
+Last updated at 03/10/2021 22:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
