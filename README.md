@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/pVLWTOsGCAk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pVLWTOsGCAk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
 
-**Yunosuke - Unlock**  
-雄之助/Yunosuke  
-Last updated at 03/10/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bring Me Up**  
+Ryuu Music  
+Last updated at 03/10/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
