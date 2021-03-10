@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fvUxlXhRa2k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fvUxlXhRa2k)
 
-**Festival Rush**  
-Lone Alpha  
-Last updated at 03/10/2021 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
+**uncalc - samidare!**  
+Ryuu Music  
+Last updated at 03/10/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
