@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0v1nsC3KKX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0v1nsC3KKX8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DptxummxCd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=DptxummxCd0)
 
-**Multiverse**  
-PLEEG  
-Last updated at 03/10/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
+**Extra Mode**  
+USAO  
+Last updated at 03/10/2021 21:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
