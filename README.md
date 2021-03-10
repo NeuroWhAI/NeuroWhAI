@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0BajyYAiIDk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0BajyYAiIDk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IsGC686R34U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IsGC686R34U)
 
-**Lolipop Mode**  
-MASEraaaN  
-Last updated at 03/10/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**PSYQUI - Vital Error**  
+Ryuu Music  
+Last updated at 03/10/2021 22:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
