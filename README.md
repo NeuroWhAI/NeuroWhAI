@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
 
-**Redemption**  
-awfuless  
-Last updated at 03/10/2021 20:49 with [20chan/github-now](https://github.com/20chan/github-now)
+**Festival Rush**  
+Lone Alpha  
+Last updated at 03/10/2021 20:53 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
