@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uPe_YdQEayY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uPe_YdQEayY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
 
-**MASEraaaN - Akanegumo (Reku Mochizuki Remix)**  
-Ryuu Music  
-Last updated at 03/10/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pixel Galaxy**  
+우지코  
+Last updated at 03/10/2021 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
