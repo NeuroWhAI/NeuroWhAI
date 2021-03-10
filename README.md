@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kqWhrfLMB_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kqWhrfLMB_o)
 
-**Bring Me Up**  
-Ryuu Music  
-Last updated at 03/10/2021 21:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**Trigger(피처링: Such)**  
+hyleo  
+Last updated at 03/10/2021 22:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
