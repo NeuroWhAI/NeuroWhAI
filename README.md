@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/b4jrR8VbP2E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=b4jrR8VbP2E)
 
-**MASEraaaN - Dojicco**  
-Ryuu Music  
-Last updated at 03/10/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**illusion(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/10/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
