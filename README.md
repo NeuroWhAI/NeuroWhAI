@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Qp-Gse2lfWQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qp-Gse2lfWQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qWQxgdg-CLM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qWQxgdg-CLM)
 
-**All I want**  
-awfuless  
-Last updated at 03/10/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Splash 2**  
+Kenneyon  
+Last updated at 03/10/2021 21:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
