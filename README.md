@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Qcm35mZqyc8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qcm35mZqyc8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KnRD8Tor-_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KnRD8Tor-_w)
 
-**Start Up feat. Such**  
-PSYQUI  
-Last updated at 03/10/2021 22:29 with [20chan/github-now](https://github.com/20chan/github-now)
+**eleline△ - Koto no Town**  
+Ryuu Music  
+Last updated at 03/10/2021 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
