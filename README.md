@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fvUxlXhRa2k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fvUxlXhRa2k)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
 
-**uncalc - samidare!**  
+**MASEraaaN - Dojicco**  
 Ryuu Music  
-Last updated at 03/10/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/10/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
