@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vkCsqRKwXHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vkCsqRKwXHA)
 
-**Pixel Galaxy**  
-우지코  
-Last updated at 03/10/2021 21:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**Falling**  
+Tabby Neko  
+Last updated at 03/10/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
