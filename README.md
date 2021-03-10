@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vkCsqRKwXHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vkCsqRKwXHA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Qp-Gse2lfWQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qp-Gse2lfWQ)
 
-**Falling**  
-Tabby Neko  
-Last updated at 03/10/2021 21:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**All I want**  
+awfuless  
+Last updated at 03/10/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
