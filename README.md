@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IWbOiOg_lro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IWbOiOg_lro)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/og7Q9YftHic/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=og7Q9YftHic)
 
-**Nasty * Nasty * Spell**  
-카메리아  
-Last updated at 03/10/2021 22:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snail's House - Ramune (Lone Alpha Remix)**  
+Lone Alpha  
+Last updated at 03/10/2021 22:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
