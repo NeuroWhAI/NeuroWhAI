@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HpdG0LIcuIg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HpdG0LIcuIg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yOCfKEJfXU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yOCfKEJfXU4)
 
-**Acro & UgokuBall - Journey**  
+**Mameyudoufu - But I Go Back**  
 Ryuu Music  
-Last updated at 03/10/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/10/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
