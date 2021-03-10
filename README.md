@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/b4jrR8VbP2E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=b4jrR8VbP2E)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0v1nsC3KKX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0v1nsC3KKX8)
 
-**illusion(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/10/2021 21:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**Multiverse**  
+PLEEG  
+Last updated at 03/10/2021 21:13 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
