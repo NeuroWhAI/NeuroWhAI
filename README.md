@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnjTsQMT2rWV_PyEW6bpkMmzx859tgDsH3Hm5o6D_Q=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCDFD8RdIL2FxNfkKkus5RSQ)
 
-**恋距離遠愛**  
-DECO*27  
-Last updated at 03/09/2021 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**Zehn**  
+ibi  
+Last updated at 03/10/2021 11:49 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
