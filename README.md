@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-HvJD2vYeM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-HvJD2vYeM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uPe_YdQEayY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uPe_YdQEayY)
 
-**Ruxxi X Yuura - Love is (TsukiMioku Remix)**  
+**MASEraaaN - Akanegumo (Reku Mochizuki Remix)**  
 Ryuu Music  
-Last updated at 03/10/2021 21:21 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/10/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
