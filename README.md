@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4PNxFsWVk30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4PNxFsWVk30)
 
-**Pixel Galaxy**  
-우지코  
-Last updated at 03/12/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**YOASOBI - ハルジオン・Halzion (Lone Alpha Remix) ♪**  
+Starling  
+Last updated at 03/12/2021 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
