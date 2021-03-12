@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0xkWina6a5Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xkWina6a5Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5usUaUVmr04/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5usUaUVmr04)
 
-**Sunset Tea Cup**  
-YUC'e  
-Last updated at 03/12/2021 22:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**MojiX! - Asatsuyu ♪**  
+Starling  
+Last updated at 03/12/2021 22:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
