@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-liTfv5Xm10/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-liTfv5Xm10)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/qWQxgdg-CLM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qWQxgdg-CLM)
 
-**Until**  
-Toyou  
-Last updated at 03/12/2021 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**Splash 2**  
+Kenneyon  
+Last updated at 03/12/2021 22:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
