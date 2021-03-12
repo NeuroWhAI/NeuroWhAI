@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/uPe_YdQEayY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uPe_YdQEayY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/fGEBAvf0n8E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fGEBAvf0n8E)
 
-**MASEraaaN - Akanegumo (Reku Mochizuki Remix)**  
-Ryuu Music  
-Last updated at 03/12/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**PURO - GET UP**  
+Firefly Music  
+Last updated at 03/12/2021 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
