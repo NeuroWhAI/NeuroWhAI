@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/tBOIfn47uxk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tBOIfn47uxk)
 
-**Redemption**  
-awfuless  
-Last updated at 03/12/2021 20:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Zakku - Breezin'**  
+Firefly Music  
+Last updated at 03/12/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
