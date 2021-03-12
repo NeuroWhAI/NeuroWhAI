@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/qWQxgdg-CLM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qWQxgdg-CLM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EI7EH3TJt5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EI7EH3TJt5U)
 
-**Splash 2**  
-Kenneyon  
-Last updated at 03/12/2021 22:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**Chpinklez**  
+빌 및 Au5  
+Last updated at 03/12/2021 22:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
