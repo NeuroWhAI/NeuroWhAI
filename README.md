@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
 
-**Mend your ways(피처링: PSYQUI)**  
-Such  
-Last updated at 03/12/2021 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Festival Rush**  
+Lone Alpha  
+Last updated at 03/12/2021 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
