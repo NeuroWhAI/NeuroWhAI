@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/tBOIfn47uxk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tBOIfn47uxk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/og7Q9YftHic/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=og7Q9YftHic)
 
-**Zakku - Breezin'**  
-Firefly Music  
-Last updated at 03/12/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snail's House - Ramune (Lone Alpha Remix)**  
+Lone Alpha  
+Last updated at 03/12/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
