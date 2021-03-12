@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bTCphHCzVWE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bTCphHCzVWE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-Sd-FULSaFs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-Sd-FULSaFs)
 
-**Where's Party There's Fun**  
-Scraton  
-Last updated at 03/12/2021 23:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loop Memory(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/12/2021 23:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
