@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4nHf6gdiAMc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4nHf6gdiAMc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/d-TScTu0W8E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=d-TScTu0W8E)
 
-**Kirara Magic - Fly**  
-Kirara Magic  
-Last updated at 03/12/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Better Believe It Now**  
+그라마틱 및 Big Gigantic  
+Last updated at 03/12/2021 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
