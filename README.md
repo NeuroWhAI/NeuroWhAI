@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HeCnFEjJHso/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HeCnFEjJHso)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0MxWci6LyrU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0MxWci6LyrU)
 
-**DanK - Into Your Heart (ft. Rainy) ♪**  
-Starling  
-Last updated at 03/12/2021 21:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Swords Dance**  
+Rocket Start  
+Last updated at 03/12/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
