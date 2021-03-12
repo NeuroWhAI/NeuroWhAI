@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0c9958OoTL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0c9958OoTL8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U0bTlwXLUmM)
 
-**キライ・キライ・ジガヒダイ！**  
-쿠라게P  
-Last updated at 03/12/2021 23:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Reunion (はるまきごはんVocal ver.)**  
+하루마키고한  
+Last updated at 03/12/2021 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
