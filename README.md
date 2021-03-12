@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/j-FQKTh_jkU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=j-FQKTh_jkU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Kcw7-7MT2LE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Kcw7-7MT2LE)
 
-**Friendship !**  
-PIKASONIC  
-Last updated at 03/12/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**Stella Magica**  
+Couple N  
+Last updated at 03/12/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
