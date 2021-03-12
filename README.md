@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/e-DZMI9eUQQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=e-DZMI9eUQQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bTCphHCzVWE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bTCphHCzVWE)
 
-**Twinfield - Gyunyu Club**  
-Ryuu Music  
-Last updated at 03/12/2021 22:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Where's Party There's Fun**  
+Scraton  
+Last updated at 03/12/2021 23:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
