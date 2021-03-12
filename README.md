@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/fGEBAvf0n8E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fGEBAvf0n8E)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
 
-**PURO - GET UP**  
-Firefly Music  
-Last updated at 03/12/2021 21:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mend your ways(피처링: PSYQUI)**  
+Such  
+Last updated at 03/12/2021 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
