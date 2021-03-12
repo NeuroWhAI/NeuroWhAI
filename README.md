@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5usUaUVmr04/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5usUaUVmr04)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-liTfv5Xm10/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-liTfv5Xm10)
 
-**MojiX! - Asatsuyu ♪**  
-Starling  
-Last updated at 03/12/2021 22:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Until**  
+Toyou  
+Last updated at 03/12/2021 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
