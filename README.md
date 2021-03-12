@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Kcw7-7MT2LE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Kcw7-7MT2LE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/e-DZMI9eUQQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=e-DZMI9eUQQ)
 
-**Stella Magica**  
-Couple N  
-Last updated at 03/12/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Twinfield - Gyunyu Club**  
+Ryuu Music  
+Last updated at 03/12/2021 22:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
