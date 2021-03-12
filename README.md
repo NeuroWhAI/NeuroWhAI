@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0v1nsC3KKX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0v1nsC3KKX8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
 
-**Multiverse**  
-PLEEG  
-Last updated at 03/12/2021 21:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pixel Galaxy**  
+우지코  
+Last updated at 03/12/2021 21:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
