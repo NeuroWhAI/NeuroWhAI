@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EI7EH3TJt5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EI7EH3TJt5U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/4nHf6gdiAMc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4nHf6gdiAMc)
 
-**Chpinklez**  
-빌 및 Au5  
-Last updated at 03/12/2021 22:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**Kirara Magic - Fly**  
+Kirara Magic  
+Last updated at 03/12/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
