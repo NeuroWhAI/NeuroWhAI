@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/4PNxFsWVk30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4PNxFsWVk30)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
 
-**YOASOBI - ハルジオン・Halzion (Lone Alpha Remix) ♪**  
-Starling  
-Last updated at 03/12/2021 21:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bring Me Up**  
+Ryuu Music  
+Last updated at 03/12/2021 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
