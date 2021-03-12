@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t3ul19MOiuI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=t3ul19MOiuI)
 
-**Dawn(피처링: Such)**  
-Andora  
-Last updated at 03/12/2021 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Geometric**  
+MASEraaaN  
+Last updated at 03/12/2021 21:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
