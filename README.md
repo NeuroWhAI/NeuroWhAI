@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t3ul19MOiuI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=t3ul19MOiuI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kqWhrfLMB_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kqWhrfLMB_o)
 
-**Geometric**  
-MASEraaaN  
-Last updated at 03/12/2021 21:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Trigger(피처링: Such)**  
+hyleo  
+Last updated at 03/12/2021 21:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
