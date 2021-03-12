@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U0bTlwXLUmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U0bTlwXLUmM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LfephiFN76E)
 
-**Reunion (はるまきごはんVocal ver.)**  
-하루마키고한  
-Last updated at 03/12/2021 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**No title**  
+Reol  
+Last updated at 03/12/2021 23:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
