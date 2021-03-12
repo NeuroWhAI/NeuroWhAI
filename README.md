@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5X0XUlCf9hA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5X0XUlCf9hA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Qp-Gse2lfWQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qp-Gse2lfWQ)
 
-**神山羊 - Yellow (夏野Natsuno Cover & BillyBiano Remix)**  
-Ryuu Music  
-Last updated at 03/12/2021 22:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**All I want**  
+awfuless  
+Last updated at 03/12/2021 22:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
