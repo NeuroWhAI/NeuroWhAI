@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-dxWSVdJvCA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-dxWSVdJvCA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8IK6eLTNV1k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8IK6eLTNV1k)
 
-**Lazy(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/12/2021 23:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yoiyoi Kokon**  
+Reol  
+Last updated at 03/12/2021 23:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
