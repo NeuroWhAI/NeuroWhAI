@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/AgOKRc5VZ9Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AgOKRc5VZ9Y)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/suW7lS1B4NY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=suW7lS1B4NY)
 
-**Get Back!**  
-WBBL  
-Last updated at 03/12/2021 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Turn Up**  
+버추얼 라이엇  
+Last updated at 03/12/2021 22:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
