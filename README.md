@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/h1Z_3RdaqMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=h1Z_3RdaqMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/uPe_YdQEayY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uPe_YdQEayY)
 
-**Present for you**  
-KUWAGO  
-Last updated at 03/12/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**MASEraaaN - Akanegumo (Reku Mochizuki Remix)**  
+Ryuu Music  
+Last updated at 03/12/2021 21:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
