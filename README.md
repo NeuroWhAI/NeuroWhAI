@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LfephiFN76E)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1HL0NiQJlvo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1HL0NiQJlvo)
 
-**No title**  
-Reol  
-Last updated at 03/12/2021 23:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**【IA OFFICIAL】セツナドライブ | 滝 善充(9mm Parabellum Bullet) (MUSIC VIDEO)**  
+1st PLACE  
+Last updated at 03/12/2021 23:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
