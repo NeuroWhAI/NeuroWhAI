@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0MxWci6LyrU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0MxWci6LyrU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5X0XUlCf9hA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5X0XUlCf9hA)
 
-**Swords Dance**  
-Rocket Start  
-Last updated at 03/12/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**神山羊 - Yellow (夏野Natsuno Cover & BillyBiano Remix)**  
+Ryuu Music  
+Last updated at 03/12/2021 22:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
