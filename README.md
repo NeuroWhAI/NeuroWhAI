@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/KnRD8Tor-_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KnRD8Tor-_w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
 
-**eleline△ - Koto no Town**  
-Ryuu Music  
-Last updated at 03/12/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dawn(피처링: Such)**  
+Andora  
+Last updated at 03/12/2021 21:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
