@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/KnRD8Tor-_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KnRD8Tor-_w)
 
-**Festival Rush**  
-Lone Alpha  
-Last updated at 03/12/2021 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**eleline△ - Koto no Town**  
+Ryuu Music  
+Last updated at 03/12/2021 21:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
