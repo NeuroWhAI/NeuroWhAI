@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/XEDb8hrHiKw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XEDb8hrHiKw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/s6ECzhvREBI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=s6ECzhvREBI)
 
-**Tokyo**  
-Leat'eq  
-Last updated at 03/12/2021 20:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**❀Club2Tokyo❀ - Cold Eyes, Warm Smile**  
+Firefly Music  
+Last updated at 03/12/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
