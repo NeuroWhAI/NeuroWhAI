@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/RIFZ7NF4HSk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RIFZ7NF4HSk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t7MBzMP4OzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=t7MBzMP4OzY)
 
-**Smile in Bloom**  
-KK  
-Last updated at 03/13/2021 23:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヒッチコック**  
+Yorushika(ヨルシカ)  
+Last updated at 03/13/2021 23:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
