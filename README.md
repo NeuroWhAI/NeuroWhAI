@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6rHySk9Kcuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6rHySk9Kcuo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ByXoo3ZnKSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ByXoo3ZnKSo)
 
-**ひび割れた世界**  
-마지코  
-Last updated at 03/13/2021 22:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**晴天前夜**  
+ウォルピスカーター  
+Last updated at 03/13/2021 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
