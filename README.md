@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/766qmHTc2ro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=766qmHTc2ro)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IL-q90rTDig/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IL-q90rTDig)
 
-**Ame Wo Matsu**  
-미나미  
-Last updated at 03/13/2021 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**色の見えない少女**  
+Yourness  
+Last updated at 03/13/2021 23:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
