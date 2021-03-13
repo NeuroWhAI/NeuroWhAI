@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8IK6eLTNV1k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8IK6eLTNV1k)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Id2a2gbW1Zs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Id2a2gbW1Zs)
 
-**Yoiyoi Kokon**  
-Reol  
-Last updated at 03/12/2021 23:30 with [20chan/github-now](https://github.com/20chan/github-now)
+**Emily To Juugono Yakusoku**  
+마지코  
+Last updated at 03/13/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
