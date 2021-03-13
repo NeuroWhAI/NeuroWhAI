@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/B776HM2cZWM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=B776HM2cZWM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-EKxzId_Sj4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-EKxzId_Sj4)
 
-**アストロノーツ**  
-Reol  
-Last updated at 03/13/2021 22:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**米津玄師 MV「アイネクライネ」**  
+Kenshi Yonezu(켄시 요네즈/米津 玄師)  
+Last updated at 03/13/2021 22:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
