@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ByXoo3ZnKSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ByXoo3ZnKSo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rDcUnQRUmu0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=rDcUnQRUmu0)
 
-**晴天前夜**  
-ウォルピスカーター  
-Last updated at 03/13/2021 22:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**【歌ってみた】 　サマータイムレコード アレンジver　 【ゆきゆっき】**  
+yuki yucky  
+Last updated at 03/13/2021 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
