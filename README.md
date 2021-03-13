@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jb4ybTQwcdw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jb4ybTQwcdw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hC048JMa4jI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hC048JMa4jI)
 
-**「main actor 」MV**  
-미나미  
-Last updated at 03/13/2021 22:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**サヨナラミッドナイト**  
+마지코  
+Last updated at 03/13/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
