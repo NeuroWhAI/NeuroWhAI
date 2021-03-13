@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/BCt9lS_Uv_Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BCt9lS_Uv_Y)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/766qmHTc2ro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=766qmHTc2ro)
 
-**靴の花火**  
-Yorushika(ヨルシカ)  
-Last updated at 03/13/2021 23:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ame Wo Matsu**  
+미나미  
+Last updated at 03/13/2021 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
