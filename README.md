@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/pT8FH1Gv7LA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pT8FH1Gv7LA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cRIBCezbUhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cRIBCezbUhA)
 
-**存在証明**  
-湯木慧  
-Last updated at 03/13/2021 22:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**すきなうた - yui × 鎖那**  
+sana  
+Last updated at 03/13/2021 23:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
