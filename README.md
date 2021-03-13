@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Id2a2gbW1Zs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Id2a2gbW1Zs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/t8vB1Xfj00E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=t8vB1Xfj00E)
 
-**Emily To Juugono Yakusoku**  
-마지코  
-Last updated at 03/13/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lia / 君の知らない物語【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 03/13/2021 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
