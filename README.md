@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hC048JMa4jI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hC048JMa4jI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/pT8FH1Gv7LA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pT8FH1Gv7LA)
 
-**サヨナラミッドナイト**  
-마지코  
-Last updated at 03/13/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**存在証明**  
+湯木慧  
+Last updated at 03/13/2021 22:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
