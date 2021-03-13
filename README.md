@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/j83OVgv6woA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=j83OVgv6woA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HIRiduzNLzQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HIRiduzNLzQ)
 
-**Nautilus**  
-Yorushika(ヨルシカ)  
-Last updated at 03/13/2021 23:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**「ホロネス」MV**  
+미나미  
+Last updated at 03/13/2021 23:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
