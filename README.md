@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HIRiduzNLzQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HIRiduzNLzQ)
+[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
 
-**「ホロネス」MV**  
-미나미  
-Last updated at 03/13/2021 23:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**恋距離遠愛**  
+DECO*27  
+Last updated at 03/14/2021 16:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
