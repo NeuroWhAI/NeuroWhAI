@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/a0CppXeSN1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=a0CppXeSN1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/M6Swfmk-NBU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=M6Swfmk-NBU)
 
-**Lack of talent**  
-Go Aoki 및 Una Otomachi  
-Last updated at 03/14/2021 22:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Whirlpool of the Moment**  
+Keina Suda  
+Last updated at 03/14/2021 22:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
