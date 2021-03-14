@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/M6Swfmk-NBU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=M6Swfmk-NBU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ploDPZ9idyk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ploDPZ9idyk)
 
-**Whirlpool of the Moment**  
-Keina Suda  
-Last updated at 03/14/2021 22:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヒール**  
+ルワン  
+Last updated at 03/14/2021 22:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
