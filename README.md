@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2e0LWyqBL9M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2e0LWyqBL9M)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EEvQ61pvUk8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EEvQ61pvUk8)
 
-**一期一会**  
-湯木慧  
-Last updated at 03/14/2021 21:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snow Mile**  
+Aqu3ra  
+Last updated at 03/14/2021 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
