@@ -5,11 +5,11 @@
 
 ## Currently Playing on YouTube
 
-[<img align="left" height="65" src="">](https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhchGVUa-C4yYdel3RUfFrQmLupK5xE4mtbyJfe5w=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCyPwyuEZLmXJXa0M24-Sh6Q)
 
-**恋距離遠愛**  
-DECO*27  
-Last updated at 03/14/2021 16:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**스물다섯, 스물하나**  
+Jaurim  
+Last updated at 03/14/2021 16:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
