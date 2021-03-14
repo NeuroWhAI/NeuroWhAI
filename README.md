@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eu02EtwzYog/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eu02EtwzYog)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U7NUU12t2ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U7NUU12t2ms)
 
-**Ziqqurat**  
-雄之助  
-Last updated at 03/14/2021 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lust Blue (Quartia-edit)**  
+R Sound Design  
+Last updated at 03/14/2021 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
