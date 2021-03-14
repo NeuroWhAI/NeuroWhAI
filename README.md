@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SiqjnFhLq2U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gHx5hGtQkks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gHx5hGtQkks)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 03/14/2021 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**PaⅢ.REVOLUTION**  
+雄之助  
+Last updated at 03/14/2021 22:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
