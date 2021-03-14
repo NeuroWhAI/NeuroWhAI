@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eTO7i_GEUpI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eTO7i_GEUpI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SiqjnFhLq2U)
 
-**outsider**  
-yanaginagi  
-Last updated at 03/14/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**阿吽のビーツ**  
+하뉴 마이고  
+Last updated at 03/14/2021 22:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
