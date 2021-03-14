@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EEvQ61pvUk8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EEvQ61pvUk8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OAbPh8gqE_w)
 
-**Snow Mile**  
-Aqu3ra  
-Last updated at 03/14/2021 21:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**SCALE BLASTER(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/14/2021 21:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
