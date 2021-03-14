@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/D7BSEcP0oDI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=D7BSEcP0oDI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eTO7i_GEUpI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eTO7i_GEUpI)
 
-**bibouroku**  
-sana  
-Last updated at 03/14/2021 22:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**outsider**  
+yanaginagi  
+Last updated at 03/14/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
