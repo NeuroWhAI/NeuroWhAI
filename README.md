@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=brlDURTXxGM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/iaPvRRGv0n8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iaPvRRGv0n8)
 
-**Snail's House - Hot Milk (Lone Alpha Remix)**  
-Lone Alpha  
-Last updated at 03/16/2021 20:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (daehan remix)**  
+Ryuu Music  
+Last updated at 03/16/2021 20:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
