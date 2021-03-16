@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhchGVUa-C4yYdel3RUfFrQmLupK5xE4mtbyJfe5w=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCyPwyuEZLmXJXa0M24-Sh6Q)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hu4skDEtcMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hu4skDEtcMQ)
 
-**스물다섯, 스물하나**  
-Jaurim  
-Last updated at 03/14/2021 23:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**Blank / 初音ミク**  
+雄之助  
+Last updated at 03/16/2021 17:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
