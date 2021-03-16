@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IWbOiOg_lro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IWbOiOg_lro)
 
-**Dawn(피처링: Such)**  
-Andora  
-Last updated at 03/16/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nasty * Nasty * Spell**  
+카메리아  
+Last updated at 03/16/2021 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
