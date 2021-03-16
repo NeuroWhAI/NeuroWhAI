@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eRFchQG5VnI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eRFchQG5VnI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f47D8FiVVcU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f47D8FiVVcU)
 
-**Satellite Mind(피처링: 하츠네 미쿠)**  
+**Sazanka**  
 雄之助  
-Last updated at 03/16/2021 18:12 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/16/2021 19:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
