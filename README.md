@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/8WSQCo17mSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8WSQCo17mSM)
 
-**Mend your ways(피처링: PSYQUI)**  
-Such  
-Last updated at 03/16/2021 20:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Reliable Darling - Nature Rush (VIP)**  
+Ryuu Music  
+Last updated at 03/16/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
