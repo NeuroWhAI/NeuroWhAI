@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/BOlX-c9q1TM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BOlX-c9q1TM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/K6CR_t5WNvs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=K6CR_t5WNvs)
 
-**Teci, Kyojaku, R1cefarm - Gomenne (feat. １くURA。) (Ruika Remix)**  
-Ryuu Music  
-Last updated at 03/16/2021 17:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Coppelia(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/16/2021 18:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
