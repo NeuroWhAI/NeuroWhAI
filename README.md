@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/8WSQCo17mSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8WSQCo17mSM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
 
-**Reliable Darling - Nature Rush (VIP)**  
-Ryuu Music  
-Last updated at 03/16/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pixel Galaxy**  
+우지코  
+Last updated at 03/16/2021 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
