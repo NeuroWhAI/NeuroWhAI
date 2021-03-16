@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PlRs-6sRqJg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=PlRs-6sRqJg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/BOlX-c9q1TM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BOlX-c9q1TM)
 
-**Grapefruit - The Twenty Three**  
-Firefly Music  
-Last updated at 03/16/2021 17:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**Teci, Kyojaku, R1cefarm - Gomenne (feat. １くURA。) (Ruika Remix)**  
+Ryuu Music  
+Last updated at 03/16/2021 17:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
