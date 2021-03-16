@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eJqzFCvl93g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eJqzFCvl93g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Z5UmWUDBC30/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z5UmWUDBC30)
 
-**Bring Me Up**  
-Ryuu Music  
-Last updated at 03/16/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Dawn(피처링: Such)**  
+Andora  
+Last updated at 03/16/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
