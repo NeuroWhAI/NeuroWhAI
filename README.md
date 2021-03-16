@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f47D8FiVVcU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f47D8FiVVcU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Cmb71cy3x5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cmb71cy3x5w)
 
-**Sazanka**  
-雄之助  
-Last updated at 03/16/2021 19:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**Festival Rush**  
+Lone Alpha  
+Last updated at 03/16/2021 19:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
