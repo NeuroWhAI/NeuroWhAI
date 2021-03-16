@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-n6O5YH_gXE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-n6O5YH_gXE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/FIC9WtKvZdg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FIC9WtKvZdg)
 
-**Pixel Galaxy**  
-우지코  
-Last updated at 03/16/2021 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sparkle**  
+Ryuu Music  
+Last updated at 03/16/2021 20:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
