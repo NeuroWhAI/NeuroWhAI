@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hu4skDEtcMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hu4skDEtcMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cmk5MKjKyrQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cmk5MKjKyrQ)
 
-**Blank / 初音ミク**  
-雄之助  
-Last updated at 03/16/2021 17:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Milkoi - Reflected Feat. Serentium (SHIWV Remix)**  
+Ryuu Music  
+Last updated at 03/16/2021 17:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
