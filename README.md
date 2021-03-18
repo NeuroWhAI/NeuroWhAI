@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/wHCJFQQFbPM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wHCJFQQFbPM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Rkrm5foi188/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Rkrm5foi188)
 
-**ウィーニーウォーカー**  
-youまん  
-Last updated at 03/18/2021 22:36 with [20chan/github-now](https://github.com/20chan/github-now)
+**ダーリンダンス**  
+카이리키 베어  
+Last updated at 03/18/2021 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
