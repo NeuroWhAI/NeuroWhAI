@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ifXKVfp3XHM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ifXKVfp3XHM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NsvSvnAbB6w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NsvSvnAbB6w)
 
-**Sharari**  
-雄之助  
-Last updated at 03/18/2021 21:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yunomi Ft. HKK - パーフェクトトリッパー (MonvoiceT & Mons Remix) ♪**  
+StarlingEDM  
+Last updated at 03/18/2021 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
