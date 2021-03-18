@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/3e0u72O7CFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3e0u72O7CFI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/7WhDyYJecjY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7WhDyYJecjY)
 
-**Future Sign**  
-市瀬るぽ  
-Last updated at 03/18/2021 22:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**劣等上等 (Masayoshi Iimori Remix)**  
+ГИГА  
+Last updated at 03/18/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
