@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/klDOjuZPBRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=klDOjuZPBRU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ERo-sPa1a5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ERo-sPa1a5g)
 
-**µ's - Aishiteru Banzai! (Similar Outskirts Remix) [Released: 2017]**  
-Similar Outskirts  
-Last updated at 03/18/2021 22:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**Gimme×Gimme(피처링: 하츠네 미쿠, Rin Kagamine)**  
+GigaP(기가P) 및 하치오지P  
+Last updated at 03/18/2021 22:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
