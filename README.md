@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/RKtoreimcQ8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RKtoreimcQ8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ZuB-bBpxlpU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZuB-bBpxlpU)
 
-**Hand in Hand(피처링: 하츠네 미쿠)**  
-livetune  
-Last updated at 03/18/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Tokyo Burning**  
+Lyrical School  
+Last updated at 03/18/2021 23:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
