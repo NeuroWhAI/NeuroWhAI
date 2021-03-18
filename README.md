@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjUyIPUu-Jw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/klDOjuZPBRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=klDOjuZPBRU)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 03/18/2021 22:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**µ's - Aishiteru Banzai! (Similar Outskirts Remix) [Released: 2017]**  
+Similar Outskirts  
+Last updated at 03/18/2021 22:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
