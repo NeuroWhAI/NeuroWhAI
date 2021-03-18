@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/q4aVv3koXSM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q4aVv3koXSM)
 
-**Mend your ways(피처링: PSYQUI)**  
-Such  
-Last updated at 03/18/2021 23:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**MASEraaaN - Dojicco**  
+Ryuu Music  
+Last updated at 03/18/2021 23:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
