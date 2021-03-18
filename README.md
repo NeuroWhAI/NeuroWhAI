@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/U7NUU12t2ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U7NUU12t2ms)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/eRFchQG5VnI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eRFchQG5VnI)
 
-**Lust Blue (Quartia-edit)**  
-R Sound Design  
-Last updated at 03/18/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**Satellite Mind(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/18/2021 21:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
