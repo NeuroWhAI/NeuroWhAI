@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/oJlmclcLD74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=oJlmclcLD74)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_CvsUM9SsoI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_CvsUM9SsoI)
 
-**ゴーストダンス**  
-Aqu3ra  
-Last updated at 03/18/2021 23:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Bene**  
+SEVENTHLINKS  
+Last updated at 03/18/2021 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
