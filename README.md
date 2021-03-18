@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Rkrm5foi188/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Rkrm5foi188)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/MZzqY-7AmTQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MZzqY-7AmTQ)
 
-**ダーリンダンス**  
-카이리키 베어  
-Last updated at 03/18/2021 22:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**宇宙人のアイラブユー**  
+UtsuP  
+Last updated at 03/18/2021 22:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
