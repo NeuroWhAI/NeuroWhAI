@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/MDnUVc1rZQk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MDnUVc1rZQk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PuC5EKHVZNQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=PuC5EKHVZNQ)
 
-**The Vocaloid Songs 10 Years Later**  
-피노키오P  
-Last updated at 03/18/2021 20:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Zakku - What If (ft. Yuca)**  
+Firefly Music  
+Last updated at 03/18/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
