@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ERo-sPa1a5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ERo-sPa1a5g)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/hc8rQr-R-bA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hc8rQr-R-bA)
 
-**Gimme×Gimme(피처링: 하츠네 미쿠, Rin Kagamine)**  
-GigaP(기가P) 및 하치오지P  
-Last updated at 03/18/2021 22:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**ディザーチューン ／ DIVELA feat.初音ミク**  
+DIVELA  
+Last updated at 03/18/2021 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
