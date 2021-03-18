@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/BOlX-c9q1TM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BOlX-c9q1TM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/MDnUVc1rZQk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MDnUVc1rZQk)
 
-**Teci, Kyojaku, R1cefarm - Gomenne (feat. １くURA。) (Ruika Remix)**  
-Ryuu Music  
-Last updated at 03/18/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
+**The Vocaloid Songs 10 Years Later**  
+피노키오P  
+Last updated at 03/18/2021 20:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
