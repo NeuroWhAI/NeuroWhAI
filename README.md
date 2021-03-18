@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Ziz_ckzVjyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ziz_ckzVjyA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/a0CppXeSN1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=a0CppXeSN1s)
 
-**MIMI『ルルージュ』feat.初音ミク**  
-미미  
-Last updated at 03/18/2021 20:04 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lack of talent**  
+Go Aoki 및 Una Otomachi  
+Last updated at 03/18/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
