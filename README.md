@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/93ylgRBay7U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=93ylgRBay7U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/BOlX-c9q1TM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BOlX-c9q1TM)
 
-**heiakim - REWIND 2019**  
+**Teci, Kyojaku, R1cefarm - Gomenne (feat. １くURA。) (Ruika Remix)**  
 Ryuu Music  
-Last updated at 03/18/2021 20:48 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/18/2021 20:50 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
