@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ZuB-bBpxlpU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZuB-bBpxlpU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/AnQeiKI1zZ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AnQeiKI1zZ0)
 
-**Tokyo Burning**  
-Lyrical School  
-Last updated at 03/18/2021 23:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alan Crown - Answer**  
+Alan Crown  
+Last updated at 03/18/2021 23:06 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
