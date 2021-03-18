@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/iaPvRRGv0n8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iaPvRRGv0n8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Ziz_ckzVjyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ziz_ckzVjyA)
 
-**Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (daehan remix)**  
-Ryuu Music  
-Last updated at 03/16/2021 20:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**MIMI『ルルージュ』feat.初音ミク**  
+미미  
+Last updated at 03/18/2021 20:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
