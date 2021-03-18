@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/EEvQ61pvUk8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EEvQ61pvUk8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/M6Swfmk-NBU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=M6Swfmk-NBU)
 
-**Snow Mile**  
-Aqu3ra  
-Last updated at 03/18/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Whirlpool of the Moment**  
+Keina Suda  
+Last updated at 03/18/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
