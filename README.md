@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hc8rQr-R-bA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hc8rQr-R-bA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/jSnSwTeIKqY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jSnSwTeIKqY)
 
-**ディザーチューン ／ DIVELA feat.初音ミク**  
-DIVELA  
-Last updated at 03/18/2021 22:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**butterfly**  
+우지코  
+Last updated at 03/18/2021 22:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
