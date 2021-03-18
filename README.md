@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/--41OGPMurU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=--41OGPMurU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lbOP2cAdI2w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lbOP2cAdI2w)
 
-**Loveit**  
-피노키오P  
-Last updated at 03/18/2021 21:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Torches**  
+Aimer  
+Last updated at 03/18/2021 21:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
