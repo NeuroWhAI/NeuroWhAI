@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7WhDyYJecjY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7WhDyYJecjY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/RKtoreimcQ8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RKtoreimcQ8)
 
-**劣等上等 (Masayoshi Iimori Remix)**  
-ГИГА  
-Last updated at 03/18/2021 22:54 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hand in Hand(피처링: 하츠네 미쿠)**  
+livetune  
+Last updated at 03/18/2021 22:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
