@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/AnQeiKI1zZ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AnQeiKI1zZ0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/oJlmclcLD74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=oJlmclcLD74)
 
-**Alan Crown - Answer**  
-Alan Crown  
-Last updated at 03/18/2021 23:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**ゴーストダンス**  
+Aqu3ra  
+Last updated at 03/18/2021 23:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
