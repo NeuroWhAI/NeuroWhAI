@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/a0CppXeSN1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=a0CppXeSN1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ENcnYh79dUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ENcnYh79dUY)
 
-**Lack of talent**  
-Go Aoki 및 Una Otomachi  
-Last updated at 03/18/2021 20:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**Thoughtcrime**  
+Yorushika(ヨルシカ)  
+Last updated at 03/18/2021 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
