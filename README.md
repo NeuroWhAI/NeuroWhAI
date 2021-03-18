@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/eM0ATxkQiNo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eM0ATxkQiNo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/MUahuOoNZNY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MUahuOoNZNY)
 
-**Ayiko & Miraie - Kuudere Love (feat. Shoko)**  
-Ryuu Music  
-Last updated at 03/18/2021 20:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mr.DJ(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/18/2021 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
