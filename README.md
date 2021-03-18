@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_CvsUM9SsoI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_CvsUM9SsoI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/W6a1C1ojzH0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=W6a1C1ojzH0)
 
-**Bene**  
-SEVENTHLINKS  
-Last updated at 03/18/2021 23:14 with [20chan/github-now](https://github.com/20chan/github-now)
+**Big Daddy**  
+USAO  
+Last updated at 03/18/2021 23:18 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
