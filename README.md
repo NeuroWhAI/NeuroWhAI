@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/TAcdf3xi2Y0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=TAcdf3xi2Y0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=671TWa_2w6c)
 
-**× Circus-P - Harmonics (feat. Luka & GUMI)**  
-雄之助  
-Last updated at 03/18/2021 21:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aunnobeats (Ujico*Remix)**  
+하뉴 마이고 및 우지코  
+Last updated at 03/18/2021 21:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
