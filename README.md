@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PuC5EKHVZNQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=PuC5EKHVZNQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/U7NUU12t2ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U7NUU12t2ms)
 
-**Zakku - What If (ft. Yuca)**  
-Firefly Music  
-Last updated at 03/18/2021 21:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lust Blue (Quartia-edit)**  
+R Sound Design  
+Last updated at 03/18/2021 21:04 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
