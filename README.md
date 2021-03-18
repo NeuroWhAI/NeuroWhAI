@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Qdtt1kSfHxQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qdtt1kSfHxQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/--41OGPMurU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=--41OGPMurU)
 
-**Smile**  
-MYLK  
-Last updated at 03/18/2021 21:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loveit**  
+피노키오P  
+Last updated at 03/18/2021 21:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
