@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rKQKgf-8UZo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rKQKgf-8UZo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/SdDV9ZlafYM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SdDV9ZlafYM)
 
-**HoneyComeBear - Dear ( Miruku Remix Ft. Taiyou )**  
-Unmei Ongaku  
-Last updated at 03/18/2021 21:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Comparison Syndrome(피처링: Una Otomachi)**  
+Go Aoki  
+Last updated at 03/18/2021 22:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
