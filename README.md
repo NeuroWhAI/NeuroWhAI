@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cmk5MKjKyrQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cmk5MKjKyrQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PlRs-6sRqJg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=PlRs-6sRqJg)
 
-**Milkoi - Reflected Feat. Serentium (SHIWV Remix)**  
-Ryuu Music  
-Last updated at 03/18/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**Grapefruit - The Twenty Three**  
+Firefly Music  
+Last updated at 03/18/2021 20:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
