@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ENcnYh79dUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ENcnYh79dUY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/EEvQ61pvUk8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EEvQ61pvUk8)
 
-**Thoughtcrime**  
-Yorushika(ヨルシカ)  
-Last updated at 03/18/2021 20:10 with [20chan/github-now](https://github.com/20chan/github-now)
+**Snow Mile**  
+Aqu3ra  
+Last updated at 03/18/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
