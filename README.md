@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NsvSvnAbB6w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NsvSvnAbB6w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5gORqImwmj0)
 
-**Yunomi Ft. HKK - パーフェクトトリッパー (MonvoiceT & Mons Remix) ♪**  
-StarlingEDM  
-Last updated at 03/18/2021 21:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**秘密 / はるまきごはんVocal ver. アニメMV**  
+하루마키고한  
+Last updated at 03/18/2021 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
