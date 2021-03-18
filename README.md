@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Tq49NR_HzfY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Tq49NR_HzfY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/PosDd55F4PQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=PosDd55F4PQ)
 
-**Aster**  
-하루마키고한  
-Last updated at 03/18/2021 22:06 with [20chan/github-now](https://github.com/20chan/github-now)
+**ドロシー**  
+Misumi  
+Last updated at 03/18/2021 22:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
