@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5gORqImwmj0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5gORqImwmj0)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Db3jhTp-Eto/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Db3jhTp-Eto)
 
-**秘密 / はるまきごはんVocal ver. アニメMV**  
-하루마키고한  
-Last updated at 03/18/2021 21:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**Cappuccino**  
+YUC'e  
+Last updated at 03/18/2021 21:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
