@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=671TWa_2w6c)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LfephiFN76E)
 
-**Aunnobeats (Ujico*Remix)**  
-하뉴 마이고 및 우지코  
-Last updated at 03/19/2021 19:24 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] REOL - No title**  
+Reol  
+Last updated at 03/19/2021 19:28 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
