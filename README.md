@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/hu4skDEtcMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hu4skDEtcMQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YvZc0g7haiE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YvZc0g7haiE)
 
-**Blank / 初音ミク**  
-雄之助  
-Last updated at 03/19/2021 18:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**deep coma**  
+haruno  
+Last updated at 03/19/2021 18:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
