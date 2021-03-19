@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/R6Io7S2T7BA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=R6Io7S2T7BA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/nbVWZnZ3n3I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nbVWZnZ3n3I)
 
-**Crested Ibis from Kemono Friends can ACTUALLY SING!??!?!!**  
-Sylvnix Music  
-Last updated at 03/19/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**【高音質】「Palette」 - Tia produced by ryo (supercell)**  
+jellyjianyi  
+Last updated at 03/19/2021 20:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
