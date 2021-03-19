@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/nbVWZnZ3n3I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nbVWZnZ3n3I)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gsVGf1T2Hfs)
 
-**【高音質】「Palette」 - Tia produced by ryo (supercell)**  
-jellyjianyi  
-Last updated at 03/19/2021 20:34 with [20chan/github-now](https://github.com/20chan/github-now)
+**SEKAI NO OWARI - Dragon Night**  
+세카이노 오와리  
+Last updated at 03/19/2021 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
