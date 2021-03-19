@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjUyIPUu-Jw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gHx5hGtQkks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gHx5hGtQkks)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 03/19/2021 19:32 with [20chan/github-now](https://github.com/20chan/github-now)
+**PaⅢ.REVOLUTION**  
+雄之助  
+Last updated at 03/19/2021 19:36 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
