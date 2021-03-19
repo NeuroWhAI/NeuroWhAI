@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ppRrAS8KCwk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ppRrAS8KCwk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/sUbftKStLTo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=sUbftKStLTo)
 
-**Undertale OST - His Theme / Undertale Main Theme Piano Cover**  
-Navarone Boo  
-Last updated at 03/19/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
+**「変わらないもの -guitar arrange ver.-」を歌ってみた　ver.nayuta**  
+herowinb  
+Last updated at 03/19/2021 20:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
