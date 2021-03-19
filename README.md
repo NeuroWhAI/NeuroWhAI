@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gsVGf1T2Hfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gsVGf1T2Hfs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/cY13BRA9C60/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cY13BRA9C60)
 
-**SEKAI NO OWARI - Dragon Night**  
-세카이노 오와리  
-Last updated at 03/19/2021 20:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**[Cover] Kemono Friends ED "Boku no Friend" feat. IA (TV Size)**  
+OP (Cover)  
+Last updated at 03/19/2021 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
