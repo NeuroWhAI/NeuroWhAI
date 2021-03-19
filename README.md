@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/lOft4MI5WJw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lOft4MI5WJw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/izEfkJq1Dqk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=izEfkJq1Dqk)
 
-**Ko.Yo - Better love me Now**  
-Ryuu Music  
-Last updated at 03/19/2021 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lucky girl**  
+KUWAGO  
+Last updated at 03/19/2021 18:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
