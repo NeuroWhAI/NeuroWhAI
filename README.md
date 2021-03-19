@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bzRNn5I00fc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bzRNn5I00fc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/R6Io7S2T7BA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=R6Io7S2T7BA)
 
-**『偏愛オロジー』feat.初音ミク**  
-東山智有  
-Last updated at 03/19/2021 20:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**Crested Ibis from Kemono Friends can ACTUALLY SING!??!?!!**  
+Sylvnix Music  
+Last updated at 03/19/2021 20:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
