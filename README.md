@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5nP8oYtXFVE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5nP8oYtXFVE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_mvAM68MIEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_mvAM68MIEQ)
 
-**Nightcore - Narcissistic Cannibal**  
-Zero.Miz-Kun メ Nightcore Records  
-Last updated at 03/19/2021 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**ポプテピピックのPOPPY PAPPY DAY (TV Size)のドラムパートを２バージョン練習してみた。**  
+あーみんこすわーす  
+Last updated at 03/19/2021 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
