@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LgXfJ_02mkc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=LgXfJ_02mkc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ppRrAS8KCwk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ppRrAS8KCwk)
 
-**『え？あぁ、そう。』を歌ってみた@ヤマイ**  
-whiskicat  
-Last updated at 03/19/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Undertale OST - His Theme / Undertale Main Theme Piano Cover**  
+Navarone Boo  
+Last updated at 03/19/2021 20:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
