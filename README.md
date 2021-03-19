@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=UC_qla6FQwM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/QH70E1Kw6A4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=QH70E1Kw6A4)
 
-**ヒビカセ**  
-Reol  
-Last updated at 03/19/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ghost Town**  
+YUC'e  
+Last updated at 03/19/2021 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
