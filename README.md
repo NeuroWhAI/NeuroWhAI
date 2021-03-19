@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/PosDd55F4PQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=PosDd55F4PQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1Orxab1r49I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1Orxab1r49I)
 
-**ドロシー**  
-Misumi  
-Last updated at 03/19/2021 18:26 with [20chan/github-now](https://github.com/20chan/github-now)
+**YUC'e 「ライフライン」**  
+YUC'e  
+Last updated at 03/19/2021 18:30 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
