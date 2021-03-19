@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SiqjnFhLq2U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SiqjnFhLq2U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=UC_qla6FQwM)
 
-**阿吽のビーツ**  
-하뉴 마이고  
-Last updated at 03/19/2021 19:40 with [20chan/github-now](https://github.com/20chan/github-now)
+**ヒビカセ**  
+Reol  
+Last updated at 03/19/2021 19:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
