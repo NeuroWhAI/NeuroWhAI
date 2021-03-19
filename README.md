@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=brlDURTXxGM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/lOft4MI5WJw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lOft4MI5WJw)
 
-**Snail's House - Hot Milk (Lone Alpha Remix)**  
-Lone Alpha  
-Last updated at 03/19/2021 18:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ko.Yo - Better love me Now**  
+Ryuu Music  
+Last updated at 03/19/2021 18:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
