@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/LfephiFN76E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LfephiFN76E)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjUyIPUu-Jw)
 
-**[MV] REOL - No title**  
-Reol  
-Last updated at 03/19/2021 19:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**最後の晩餐**  
+Misumi  
+Last updated at 03/19/2021 19:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
