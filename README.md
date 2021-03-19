@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/izEfkJq1Dqk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=izEfkJq1Dqk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/dioEcz621Jg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dioEcz621Jg)
 
-**Lucky girl**  
-KUWAGO  
-Last updated at 03/19/2021 18:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**鹿乃/KANO 2020remix**  
+Kano  
+Last updated at 03/19/2021 19:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
