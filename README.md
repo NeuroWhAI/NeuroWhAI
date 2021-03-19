@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/cY13BRA9C60/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cY13BRA9C60)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5nP8oYtXFVE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5nP8oYtXFVE)
 
-**[Cover] Kemono Friends ED "Boku no Friend" feat. IA (TV Size)**  
-OP (Cover)  
-Last updated at 03/19/2021 20:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**Nightcore - Narcissistic Cannibal**  
+Zero.Miz-Kun メ Nightcore Records  
+Last updated at 03/19/2021 20:44 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
