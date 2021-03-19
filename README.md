@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1Orxab1r49I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1Orxab1r49I)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0xkWina6a5Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xkWina6a5Q)
 
-**YUC'e 「ライフライン」**  
+**Sunset Tea Cup**  
 YUC'e  
-Last updated at 03/19/2021 18:30 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/19/2021 18:34 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
