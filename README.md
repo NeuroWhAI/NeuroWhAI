@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6DZjCgxbx5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6DZjCgxbx5U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/gucfhUsUL_M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gucfhUsUL_M)
 
-**Rubber Human**  
-Mili  
-Last updated at 03/19/2021 20:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Vibrance**  
+Wisp X  
+Last updated at 03/19/2021 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
