@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/dioEcz621Jg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dioEcz621Jg)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/iaPvRRGv0n8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iaPvRRGv0n8)
 
-**鹿乃/KANO 2020remix**  
-Kano  
-Last updated at 03/19/2021 19:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (daehan remix)**  
+Ryuu Music  
+Last updated at 03/19/2021 19:10 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
