@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/bu1zmj_Vx7I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bu1zmj_Vx7I)
+[<img align="left" height="65" src="https://lh3.googleusercontent.com/voBYftLdPvNEauQIHdBDN1FG-oRzNJcNLiYP4zGzVJcL7PxroEDqqs7-N3u9HcS7ec8d_t_8uH2KgIxf">](https://music.youtube.com/watch?v=QXTPSRiWOOs)
 
-**Zakku x Nakanojojo - Matcha Love (feat. アリガトユイナ)**  
-Firefly Music  
-Last updated at 03/19/2021 19:56 with [20chan/github-now](https://github.com/20chan/github-now)
+**Timeless**  
+Geoxor  
+Last updated at 03/19/2021 19:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
