@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/QH70E1Kw6A4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=QH70E1Kw6A4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f2Ry9w1DQRQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f2Ry9w1DQRQ)
 
-**Ghost Town**  
-YUC'e  
-Last updated at 03/19/2021 19:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**ayiko - Teichopsia (feat. Shoko)**  
+Firefly Music  
+Last updated at 03/19/2021 19:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
