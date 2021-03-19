@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/OAbPh8gqE_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OAbPh8gqE_w)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=671TWa_2w6c)
 
-**SCALE BLASTER(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/19/2021 19:18 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aunnobeats (Ujico*Remix)**  
+하뉴 마이고 및 우지코  
+Last updated at 03/19/2021 19:24 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
