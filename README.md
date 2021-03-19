@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ArIZGfmV0Bo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ArIZGfmV0Bo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/OfSfn2Jjg0c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OfSfn2Jjg0c)
 
-**▶︎ 残灯花火　歌ってみた ／めありー**  
-mary  
-Last updated at 03/19/2021 20:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**[티비플] 목소리에 여운이 남는 노래**  
+Best 티비플  
+Last updated at 03/19/2021 20:54 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
