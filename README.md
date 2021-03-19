@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_mvAM68MIEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_mvAM68MIEQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ArIZGfmV0Bo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ArIZGfmV0Bo)
 
-**ポプテピピックのPOPPY PAPPY DAY (TV Size)のドラムパートを２バージョン練習してみた。**  
-あーみんこすわーす  
-Last updated at 03/19/2021 20:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**▶︎ 残灯花火　歌ってみた ／めありー**  
+mary  
+Last updated at 03/19/2021 20:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
