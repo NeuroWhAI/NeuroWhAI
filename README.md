@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/YvZc0g7haiE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YvZc0g7haiE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Qcm35mZqyc8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qcm35mZqyc8)
 
-**deep coma**  
-haruno  
-Last updated at 03/19/2021 18:16 with [20chan/github-now](https://github.com/20chan/github-now)
+**Start Up feat. Such**  
+PSYQUI  
+Last updated at 03/19/2021 18:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
