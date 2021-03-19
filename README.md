@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f2Ry9w1DQRQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f2Ry9w1DQRQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bu1zmj_Vx7I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bu1zmj_Vx7I)
 
-**ayiko - Teichopsia (feat. Shoko)**  
+**Zakku x Nakanojojo - Matcha Love (feat. アリガトユイナ)**  
 Firefly Music  
-Last updated at 03/19/2021 19:52 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/19/2021 19:56 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
