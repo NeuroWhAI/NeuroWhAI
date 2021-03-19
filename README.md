@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rohZ2XJAOBU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rohZ2XJAOBU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/LgXfJ_02mkc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=LgXfJ_02mkc)
 
-**【ファンタスティックユース】スターフィッシュ(PianoArrange)【COVER】**  
-【公式】ファンタスティックユース・カバーズ  
-Last updated at 03/19/2021 20:12 with [20chan/github-now](https://github.com/20chan/github-now)
+**『え？あぁ、そう。』を歌ってみた@ヤマイ**  
+whiskicat  
+Last updated at 03/19/2021 20:16 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
