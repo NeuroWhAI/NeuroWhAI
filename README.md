@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GohIx_xuads/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GohIx_xuads)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rohZ2XJAOBU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rohZ2XJAOBU)
 
-**【꽃핀】천성의약함 - Piano Arrange- (Korean.ver) (天ノ弱)**  
-설레임 에디션 ♬  
-Last updated at 03/19/2021 20:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**【ファンタスティックユース】スターフィッシュ(PianoArrange)【COVER】**  
+【公式】ファンタスティックユース・カバーズ  
+Last updated at 03/19/2021 20:12 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
