@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2kZVEUGLgy4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IrrF_bUE8yc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IrrF_bUE8yc)
 
-**METEOR(피처링: 하츠네 미쿠)**  
-DIVELA  
-Last updated at 03/20/2021 16:42 with [20chan/github-now](https://github.com/20chan/github-now)
+**インスタントヘヴン feat.Eve / ナナヲアカリ(피처링: Eve)**  
+나나오 아카리  
+Last updated at 03/20/2021 16:46 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
