@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/MGikRKh68gA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MGikRKh68gA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2kZVEUGLgy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2kZVEUGLgy4)
 
-**メルヘル小惑星 / ナナヲアカリ**  
-나나오 아카리  
-Last updated at 03/20/2021 16:38 with [20chan/github-now](https://github.com/20chan/github-now)
+**METEOR(피처링: 하츠네 미쿠)**  
+DIVELA  
+Last updated at 03/20/2021 16:42 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
