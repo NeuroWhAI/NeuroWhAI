@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-liTfv5Xm10/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-liTfv5Xm10)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/kqWhrfLMB_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kqWhrfLMB_o)
 
-**Until**  
-Toyou  
-Last updated at 03/20/2021 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
+**Trigger(피처링: Such)**  
+hyleo  
+Last updated at 03/20/2021 17:23 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
