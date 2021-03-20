@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/NsULBB0OMpQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NsULBB0OMpQ)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/j-FQKTh_jkU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=j-FQKTh_jkU)
 
-**[Cytus II] 3R2 - Blow My Mind (tpz Overheat Remix)**  
-토파조라이트  
-Last updated at 03/20/2021 18:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Friendship !**  
+PIKASONIC  
+Last updated at 03/20/2021 18:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
