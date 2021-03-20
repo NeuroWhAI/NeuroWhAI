@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/b4jrR8VbP2E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=b4jrR8VbP2E)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-Sd-FULSaFs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-Sd-FULSaFs)
 
-**Yunosuke × tekalu - illusion feat. Hatsune Miku / 雄之助 × tekalu - illusion feat. 初音ミク**  
-雄之助/Yunosuke  
-Last updated at 03/20/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
+**Loop Memory(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/20/2021 20:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
