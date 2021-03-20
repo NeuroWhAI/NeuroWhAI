@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/-gxtje6PTiE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-gxtje6PTiE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0BajyYAiIDk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0BajyYAiIDk)
 
-**Black or White(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/20/2021 17:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lolipop Mode**  
+MASEraaaN  
+Last updated at 03/20/2021 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
