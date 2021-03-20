@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IrrF_bUE8yc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IrrF_bUE8yc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HYWf8wt8TJ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HYWf8wt8TJ4)
 
-**インスタントヘヴン feat.Eve / ナナヲアカリ(피처링: Eve)**  
-나나오 아카리  
-Last updated at 03/20/2021 16:46 with [20chan/github-now](https://github.com/20chan/github-now)
+**Giga - 乙女解剖 (TeddyLoid Alllies Remix)をうたいました**  
+ГИГА  
+Last updated at 03/20/2021 16:48 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
