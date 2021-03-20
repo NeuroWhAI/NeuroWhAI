@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/xVie0I2JAXc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xVie0I2JAXc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Bpekca3rSOw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Bpekca3rSOw)
 
-**Virtual Riot ft. PRXZM - In My Head (Keega Remix) ♪**  
-StarlingEDM  
-Last updated at 03/20/2021 17:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**PSYQUI - Architect**  
+Ryuu Music  
+Last updated at 03/20/2021 17:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
