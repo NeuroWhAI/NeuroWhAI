@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ZYwDEkO9sYk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZYwDEkO9sYk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0c9958OoTL8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0c9958OoTL8)
 
-**ディスコミュ星人(Discommunication alien) / ナナヲアカリ**  
-나나오 아카리  
-Last updated at 03/20/2021 16:22 with [20chan/github-now](https://github.com/20chan/github-now)
+**キライ・キライ・ジガヒダイ！**  
+쿠라게P  
+Last updated at 03/20/2021 16:26 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
