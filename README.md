@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/0BajyYAiIDk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0BajyYAiIDk)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/yOCfKEJfXU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yOCfKEJfXU4)
 
-**Lolipop Mode**  
-MASEraaaN  
-Last updated at 03/20/2021 17:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**But I Go Back**  
+Mameyudoufu feat. sorane  
+Last updated at 03/20/2021 17:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
