@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=671TWa_2w6c)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IkGB5ncYhtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IkGB5ncYhtE)
 
-**Aunnobeats (Ujico*Remix)**  
-하뉴 마이고 및 우지코  
-Last updated at 03/20/2021 16:52 with [20chan/github-now](https://github.com/20chan/github-now)
+**BREAK IT(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/20/2021 16:58 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
