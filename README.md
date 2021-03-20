@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/K6CR_t5WNvs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=K6CR_t5WNvs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1HL0NiQJlvo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1HL0NiQJlvo)
 
-**Coppelia(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/20/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**【IA OFFICIAL】セツナドライブ | 滝 善充(9mm Parabellum Bullet) (MUSIC VIDEO)**  
+1st PLACE  
+Last updated at 03/20/2021 21:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
