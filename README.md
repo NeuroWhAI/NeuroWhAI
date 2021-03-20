@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Bpekca3rSOw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Bpekca3rSOw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/NsULBB0OMpQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NsULBB0OMpQ)
 
-**PSYQUI - Architect**  
-Ryuu Music  
-Last updated at 03/20/2021 17:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**[Cytus II] 3R2 - Blow My Mind (tpz Overheat Remix)**  
+토파조라이트  
+Last updated at 03/20/2021 18:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
