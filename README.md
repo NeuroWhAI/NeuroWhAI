@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5vebKoO__8A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5vebKoO__8A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/K6CR_t5WNvs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=K6CR_t5WNvs)
 
-**ゴクサイシキ**  
-Reol  
-Last updated at 03/20/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Coppelia(피처링: 하츠네 미쿠)**  
+雄之助  
+Last updated at 03/20/2021 20:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
