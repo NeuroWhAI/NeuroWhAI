@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gucfhUsUL_M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gucfhUsUL_M)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/IAgTv8b20Dg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IAgTv8b20Dg)
 
-**Vibrance**  
-Wisp X  
-Last updated at 03/19/2021 20:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**Education**  
+PSYQUI  
+Last updated at 03/20/2021 16:20 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
