@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/f47D8FiVVcU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f47D8FiVVcU)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
 
-**Sazanka**  
-雄之助  
-Last updated at 03/20/2021 17:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**Redemption**  
+awfuless  
+Last updated at 03/20/2021 17:17 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
