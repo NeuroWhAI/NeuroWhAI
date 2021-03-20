@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/XDpX8jve8TI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XDpX8jve8TI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/b4jrR8VbP2E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=b4jrR8VbP2E)
 
-**I, Giorno Giovanna, have a COFFIN**  
-Magentium  
-Last updated at 03/20/2021 20:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yunosuke × tekalu - illusion feat. Hatsune Miku / 雄之助 × tekalu - illusion feat. 初音ミク**  
+雄之助/Yunosuke  
+Last updated at 03/20/2021 20:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
