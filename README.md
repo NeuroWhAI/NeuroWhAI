@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/FsNUyxw2KEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FsNUyxw2KEY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5PguQyvbtbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5PguQyvbtbc)
 
-**TAKUMi - Niji No Sora ♪**  
-Starling  
-Last updated at 03/20/2021 17:00 with [20chan/github-now](https://github.com/20chan/github-now)
+**Pagoda**  
+Xomu & Amidst  
+Last updated at 03/20/2021 17:02 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
