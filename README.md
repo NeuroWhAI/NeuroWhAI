@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-G5kTf-1Us/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-G5kTf-1Us)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f47D8FiVVcU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f47D8FiVVcU)
 
-**Yoshikage Kira's Theme Lofi hip hop Remix ( Jojos bizarre adventure )**  
-Blasta  
-Last updated at 03/20/2021 17:08 with [20chan/github-now](https://github.com/20chan/github-now)
+**Sazanka**  
+雄之助  
+Last updated at 03/20/2021 17:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
