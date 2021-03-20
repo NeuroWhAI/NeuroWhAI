@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/yOCfKEJfXU4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yOCfKEJfXU4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/xVie0I2JAXc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xVie0I2JAXc)
 
-**But I Go Back**  
-Mameyudoufu feat. sorane  
-Last updated at 03/20/2021 17:47 with [20chan/github-now](https://github.com/20chan/github-now)
+**Virtual Riot ft. PRXZM - In My Head (Keega Remix) ♪**  
+StarlingEDM  
+Last updated at 03/20/2021 17:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
