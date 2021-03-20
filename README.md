@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HYWf8wt8TJ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HYWf8wt8TJ4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/671TWa_2w6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=671TWa_2w6c)
 
-**Giga - 乙女解剖 (TeddyLoid Alllies Remix)をうたいました**  
-ГИГА  
-Last updated at 03/20/2021 16:48 with [20chan/github-now](https://github.com/20chan/github-now)
+**Aunnobeats (Ujico*Remix)**  
+하뉴 마이고 및 우지코  
+Last updated at 03/20/2021 16:52 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
