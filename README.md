@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/jRWUoKBAhv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jRWUoKBAhv4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/0v1nsC3KKX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0v1nsC3KKX8)
 
-**Mend your ways(피처링: PSYQUI)**  
-Such  
-Last updated at 03/20/2021 17:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**Multiverse**  
+PLEEG  
+Last updated at 03/20/2021 17:37 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
