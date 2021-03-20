@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IxtuXybzo3A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IxtuXybzo3A)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/XDpX8jve8TI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XDpX8jve8TI)
 
-**小悦悦 - China-Opera ♪**  
-Starling  
-Last updated at 03/20/2021 20:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**I, Giorno Giovanna, have a COFFIN**  
+Magentium  
+Last updated at 03/20/2021 20:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
