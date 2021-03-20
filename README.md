@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/YDRJrEC17Y8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YDRJrEC17Y8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/bQ5MXMfG2ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bQ5MXMfG2ms)
 
-**PSYQUI feat. Marpril - Girly Cupid (Ange;art remix)**  
-Ryuu Music  
-Last updated at 03/20/2021 18:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Falling Up**  
+모드 퍼스탱  
+Last updated at 03/20/2021 18:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
