@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/vWv_c-yLG1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vWv_c-yLG1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/-liTfv5Xm10/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-liTfv5Xm10)
 
-**Redemption**  
-awfuless  
-Last updated at 03/20/2021 17:17 with [20chan/github-now](https://github.com/20chan/github-now)
+**Until**  
+Toyou  
+Last updated at 03/20/2021 17:21 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
