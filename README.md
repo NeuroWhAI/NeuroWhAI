@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/IkGB5ncYhtE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IkGB5ncYhtE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/FsNUyxw2KEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FsNUyxw2KEY)
 
-**BREAK IT(피처링: 하츠네 미쿠)**  
-雄之助  
-Last updated at 03/20/2021 16:58 with [20chan/github-now](https://github.com/20chan/github-now)
+**TAKUMi - Niji No Sora ♪**  
+Starling  
+Last updated at 03/20/2021 17:00 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
