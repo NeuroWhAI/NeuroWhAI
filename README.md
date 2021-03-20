@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/t7MBzMP4OzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=t7MBzMP4OzY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ARt2fVT33Lw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ARt2fVT33Lw)
 
-**ヒッチコック**  
-Yorushika(ヨルシカ)  
-Last updated at 03/20/2021 16:28 with [20chan/github-now](https://github.com/20chan/github-now)
+**すろぉもぉしょん(피처링: 하츠네 미쿠)**  
+피노키오P  
+Last updated at 03/20/2021 16:32 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
