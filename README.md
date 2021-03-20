@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/5PguQyvbtbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5PguQyvbtbc)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Q-G5kTf-1Us/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Q-G5kTf-1Us)
 
-**Pagoda**  
-Xomu & Amidst  
-Last updated at 03/20/2021 17:02 with [20chan/github-now](https://github.com/20chan/github-now)
+**Yoshikage Kira's Theme Lofi hip hop Remix ( Jojos bizarre adventure )**  
+Blasta  
+Last updated at 03/20/2021 17:08 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
