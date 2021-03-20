@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjUyIPUu-Jw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/5vebKoO__8A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5vebKoO__8A)
 
-**最後の晩餐**  
-Misumi  
-Last updated at 03/20/2021 20:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**ゴクサイシキ**  
+Reol  
+Last updated at 03/20/2021 20:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
