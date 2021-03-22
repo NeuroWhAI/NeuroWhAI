@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/trXQfAFCWX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=trXQfAFCWX8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/c-J6aCh3QOs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=c-J6aCh3QOs)
 
-**RYOJI TAKARABE - "Your Smile Days" - Official Music Video**  
-財部亮治  
-Last updated at 03/22/2021 22:09 with [20chan/github-now](https://github.com/20chan/github-now)
+**恋しているのさ**  
+나츠시로 타카아키  
+Last updated at 03/22/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
