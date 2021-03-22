@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Li3fIaocg1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Li3fIaocg1M)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/rg6DMGYCCW4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rg6DMGYCCW4)
 
-**サカタケント『ILY』Official Music Video**  
-10神ACTOR  
-Last updated at 03/22/2021 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
+**ガールズエンドルーズ**  
+ルワン  
+Last updated at 03/22/2021 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
