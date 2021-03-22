@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/sEPKNvxx0is/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=sEPKNvxx0is)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2xi8aetuAJk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2xi8aetuAJk)
 
-**변하지 않는 것**  
-Oku Hanako(오쿠 하나코)  
-Last updated at 03/22/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
+**✿ナツノカゼ御来光 歌ってみた feat.花たん**  
+YURiCa/Hanatan  
+Last updated at 03/22/2021 22:05 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
