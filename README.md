@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/HA2rQS6PIyw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HA2rQS6PIyw)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/_4BLiOP1aaY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_4BLiOP1aaY)
 
-**声 (HarryP) ／ダズビー COVER**  
-다즈비  
-Last updated at 03/22/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
+**BUMP OF CHICKEN「ray」**  
+BUMP OF CHICKEN  
+Last updated at 03/22/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
