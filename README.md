@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/ApkajNBHxqo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ApkajNBHxqo)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/AZWrgab8VyE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AZWrgab8VyE)
 
-**石風呂 / 君はいなせなガール【OFFICIAL MUSIC VIDEO】**  
-1st PLACE  
-Last updated at 03/22/2021 23:03 with [20chan/github-now](https://github.com/20chan/github-now)
+**flower 『プレデター』MV/ルワン**  
+ルワン  
+Last updated at 03/22/2021 23:07 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
