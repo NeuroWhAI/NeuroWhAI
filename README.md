@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/7Sf2E3U8EnA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7Sf2E3U8EnA)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/f1srPatcDBA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=f1srPatcDBA)
 
-**Tsuki Ga Kirei**  
+**ミスト**  
 KK  
-Last updated at 03/22/2021 21:25 with [20chan/github-now](https://github.com/20chan/github-now)
+Last updated at 03/22/2021 21:29 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
