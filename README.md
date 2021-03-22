@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/1dCSc-rS1_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1dCSc-rS1_o)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/sEPKNvxx0is/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=sEPKNvxx0is)
 
-**クロスストリート**  
-KK  
-Last updated at 03/22/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**변하지 않는 것**  
+Oku Hanako(오쿠 하나코)  
+Last updated at 03/22/2021 22:01 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
