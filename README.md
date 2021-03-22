@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/a0CppXeSN1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=a0CppXeSN1s)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/YvZc0g7haiE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YvZc0g7haiE)
 
-**Lack of talent**  
-Una Otomachi, Go Aoki  
-Last updated at 03/22/2021 22:39 with [20chan/github-now](https://github.com/20chan/github-now)
+**deep coma**  
+haruno  
+Last updated at 03/22/2021 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
