@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/DlIREQyaxu8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=DlIREQyaxu8)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/6DI6uQRvjUE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6DI6uQRvjUE)
 
-**Alter Ego**  
-Misumi  
-Last updated at 03/22/2021 22:55 with [20chan/github-now](https://github.com/20chan/github-now)
+**Ikirutte-Nandayo**  
+Una Otomachi, Go Aoki  
+Last updated at 03/22/2021 22:59 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
