@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/GZaJ_v41INI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GZaJ_v41INI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/Li3fIaocg1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Li3fIaocg1M)
 
-**Hands**  
-LOCAL CONNECT  
-Last updated at 03/22/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
+**サカタケント『ILY』Official Music Video**  
+10神ACTOR  
+Last updated at 03/22/2021 22:31 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
