@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/Ae9NH78vKzI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ae9NH78vKzI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/GZaJ_v41INI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GZaJ_v41INI)
 
-**アサガオの散る頃に**  
-くろくも  
-Last updated at 03/22/2021 22:23 with [20chan/github-now](https://github.com/20chan/github-now)
+**Hands**  
+LOCAL CONNECT  
+Last updated at 03/22/2021 22:27 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
