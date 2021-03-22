@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/c-J6aCh3QOs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=c-J6aCh3QOs)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/2r5B8QSudck/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2r5B8QSudck)
 
-**恋しているのさ**  
-나츠시로 타카아키  
-Last updated at 03/22/2021 22:15 with [20chan/github-now](https://github.com/20chan/github-now)
+**false color**  
+KK  
+Last updated at 03/22/2021 22:19 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
