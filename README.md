@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/6DI6uQRvjUE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6DI6uQRvjUE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/ApkajNBHxqo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ApkajNBHxqo)
 
-**Ikirutte-Nandayo**  
-Una Otomachi, Go Aoki  
-Last updated at 03/22/2021 22:59 with [20chan/github-now](https://github.com/20chan/github-now)
+**石風呂 / 君はいなせなガール【OFFICIAL MUSIC VIDEO】**  
+1st PLACE  
+Last updated at 03/22/2021 23:03 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
