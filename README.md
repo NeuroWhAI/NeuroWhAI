@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/YvZc0g7haiE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YvZc0g7haiE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/VjUyIPUu-Jw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjUyIPUu-Jw)
 
-**deep coma**  
-haruno  
-Last updated at 03/22/2021 22:43 with [20chan/github-now](https://github.com/20chan/github-now)
+**最後の晩餐**  
+Misumi  
+Last updated at 03/22/2021 22:47 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
