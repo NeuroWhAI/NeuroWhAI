@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/_4BLiOP1aaY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_4BLiOP1aaY)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/1dCSc-rS1_o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1dCSc-rS1_o)
 
-**BUMP OF CHICKEN「ray」**  
-BUMP OF CHICKEN  
-Last updated at 03/22/2021 21:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**クロスストリート**  
+KK  
+Last updated at 03/22/2021 21:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
