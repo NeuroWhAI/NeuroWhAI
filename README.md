@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/MkrAZi7GMpI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MkrAZi7GMpI)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/HA2rQS6PIyw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HA2rQS6PIyw)
 
-**DIARY**  
-KK  
-Last updated at 03/22/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
+**声 (HarryP) ／ダズビー COVER**  
+다즈비  
+Last updated at 03/22/2021 21:45 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
