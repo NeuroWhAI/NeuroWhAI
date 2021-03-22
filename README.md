@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/AZWrgab8VyE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AZWrgab8VyE)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/UkQv25rdrhM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=UkQv25rdrhM)
 
-**flower 『プレデター』MV/ルワン**  
-ルワン  
-Last updated at 03/22/2021 23:07 with [20chan/github-now](https://github.com/20chan/github-now)
+**コネクショネレジー**  
+youまん  
+Last updated at 03/22/2021 23:11 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
