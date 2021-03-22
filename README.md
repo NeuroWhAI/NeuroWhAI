@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/rg6DMGYCCW4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rg6DMGYCCW4)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/a0CppXeSN1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=a0CppXeSN1s)
 
-**ガールズエンドルーズ**  
-ルワン  
-Last updated at 03/22/2021 22:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**Lack of talent**  
+Una Otomachi, Go Aoki  
+Last updated at 03/22/2021 22:39 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
