@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/SdDV9ZlafYM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SdDV9ZlafYM)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/DlIREQyaxu8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=DlIREQyaxu8)
 
-**Comparison Syndrome(피처링: Una Otomachi)**  
-Go Aoki  
-Last updated at 03/22/2021 22:51 with [20chan/github-now](https://github.com/20chan/github-now)
+**Alter Ego**  
+Misumi  
+Last updated at 03/22/2021 22:55 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
