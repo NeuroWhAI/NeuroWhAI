@@ -5,11 +5,11 @@
 
 ## Currently Playing on YTMusic
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/gkS5ptelm5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gkS5ptelm5U)
+[<img align="left" height="65" src="https://i.ytimg.com/vi/MkrAZi7GMpI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MkrAZi7GMpI)
 
-**どうかしてるわ**  
-mary  
-Last updated at 03/22/2021 21:35 with [20chan/github-now](https://github.com/20chan/github-now)
+**DIARY**  
+KK  
+Last updated at 03/22/2021 21:41 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
