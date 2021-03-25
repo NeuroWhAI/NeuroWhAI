@@ -3,13 +3,13 @@
 ![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" height="65" src="https://i.ytimg.com/vi/UkQv25rdrhM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=UkQv25rdrhM)
+[<img align="left" height="65" src="https://yt3.ggpht.com/ytc/AAUvwnhchGVUa-C4yYdel3RUfFrQmLupK5xE4mtbyJfe5w=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCyPwyuEZLmXJXa0M24-Sh6Q)
 
-**コネクショネレジー**  
-youまん  
-Last updated at 03/22/2021 23:11 with [20chan/github-now](https://github.com/20chan/github-now)
+**[MV] 자우림(Jaurim) - 있지**  
+Jaurim  
+Last updated at 03/25/2021 23:15 with [20chan/github-now](https://github.com/20chan/github-now)
 
 ## Blog
 
