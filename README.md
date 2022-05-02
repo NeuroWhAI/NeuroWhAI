@@ -1,7 +1,7 @@
 ## Neuro + What + AI
 
-![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact&theme=gruvbox_light)
 
 ## Blog
 
