@@ -1,7 +1,10 @@
-## Neuro + What + AI
+## [Neuro + What + AI](https://neurowhai.github.io/)
 
-![NeuroWhAI's github stats](https://github-readme-stats.vercel.app/api?username=neurowhai&count_private=true&show_icons=true&theme=gruvbox_light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neurowhai&layout=compact&theme=gruvbox_light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeuroWhAI&theme=gruvbox)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeuroWhAI&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NeuroWhAI&theme=gruvbox)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeuroWhAI&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NeuroWhAI&theme=gruvbox&utcOffset=9)
 
 ## Blog
 
